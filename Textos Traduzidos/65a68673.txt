@@ -1,0 +1,2782 @@
+# Broken Sword - Shadow of the Templars (Director's Cut)
+# Versão do Script: 09.11
+[HEADER 00003A98]
+#I can't find my way to the ward.
+Não consigo achar o caminho para a enfermaria.
+
+[HEADER 00003AA2]
+#You need to talk to the receptionist on the front desk - who could you pretend to be?
+Você precisa falar com a recepcionista na recepção. Quem poderia fingir ser?
+
+[HEADER 00003AAC]
+#Show her Moerlin's card, and ask about Nurse Grendal.
+Mostre o cartão do Moerlin a ela e pergunte sobre a Enfermeira Grendel.
+
+[HEADER 00003AB6]
+#Nurse Grendel won't let me on the ward.
+A Enfermeira Grendel não me deixa entrar na enfermaria.
+
+[HEADER 00003AC0]
+#You'll need a disguise.
+Você precisará de um disfarce.
+
+[HEADER 00003ACA]
+#There's a cupboard next to the janitor but he won't let you go in. So try distracting him.
+Há um armário perto do zelador, mas ele não deixará você entrar, então tente distrai-lo.
+
+[HEADER 00003AD4]
+#Unplug Mr Shiny and then nip into the cupboard when the janitor's gone.
+Desconecte o Sr. Brilhante e, então, esconda-se no armário quando o zelador se for.
+ 
+[HEADER 00003ADE]
+#I'm not a doctor! How do I get through these wards?
+Não sou um médico! Como passo por essas enfermarias?
+
+[HEADER 00003AE8]
+#Head back to the hospital entrance.
+Volte à entrada do hospital.
+
+[HEADER 00003AF2]
+#Speak to the older doctor, and agree to look after his nephew Benoir.
+Fale com o médico mais velho, e concorde em cuidar do sobrinho dele, Benoir.
+
+[HEADER 00003AFC]
+#I can't operate this blood pressure thing, and the patient won't let me past.
+Não consigo operar esta coisa de pressão sanguínea, e o paciente não me deixa passar.
+
+[HEADER 00003B06]
+#You need a helping hand from your new friend.
+Você precisa de uma mãozinha do seu novo amigo.
+
+[HEADER 00003B10]
+#Give the blood pressure gauge to Benoir, and ask him to treat the patient.
+Dê o medidor de pressão sanguínea ao Benoir e peça-o para tratar o paciente.
+
+[HEADER 00003B1A]
+#Now you can make your way to the private ward on the right.
+Agora você pode se dirigir à enfermaria particular à direita.
+
+[HEADER 00200001]
+#The woman managed to look over worked and hassled though she didn't appear to be doing anything...
+A mulher conseguia parecer cansada e ocupada, apesar de aparentar não estar fazendo nada...
+
+[HEADER 00220089]
+#Hi! I'm Doctor Stobbart.
+Oi! Sou o Doutor Stobbart.
+
+[HEADER 00200005]
+#Yes, Sir?
+Sim, senhor?
+
+[HEADER 0020003A]
+#Oh, it doesn't matter...
+Ah, deixa pra lá...
+
+[HEADER 00200004]
+#Excuse me...
+Com licença...
+
+[HEADER 00200006]
+#Is this the Hagenmeyer Clinic?
+Esta é a Clínica Hagenmeyer?
+
+[HEADER 00200007]
+#That's correct.
+Correto.
+
+[HEADER 00200008]
+#I thought I was in a garden centre...
+Pensei que estava numa floricultura...
+
+[HEADER 00200009]
+#Oh, the plants! They were my idea.
+Ah, as plantas! Foram ideia minha.
+
+[HEADER 0020000A]
+#A little greenery to evoke the spirit of nature!
+Um pouco de verde para evocar o espírito da natureza!
+
+[HEADER 0020000B]
+#How may I help you?
+Como posso lhe ajudar?
+
+[HEADER 00200017]
+#So, do I get to see Marquet before the funeral?
+Então, poderei ver o Marquet antes do funeral?
+
+[HEADER 00200018]
+#That attitude will get you nowhere!
+Essa sua atitude não o levará a lugar algum!
+
+[HEADER 00200019]
+#My instructions were quite clear: no-one gets to see Marquet.
+Minhas instruções foram bem claras: ninguém pode ver o Marquet.
+
+[HEADER 0020001A]
+#So, unless you can prove you're a relative or a close acquaintance, you're wasting your time here.
+Então, a menos que possa provar que seja um parente ou conhecido íntimo, você está perdendo seu tempo aqui.
+
+[HEADER 0020000C]
+#I'm here to see Jacques Marquet.
+Estou aqui para ver Jacques Marquet.
+
+[HEADER 0020000D]
+#Oh, yes.
+Ah, sim.
+
+[HEADER 0020000E]
+#Are you related to our client, Sir?
+Você tem alguma relação com nosso paciente, senhor? 
+
+[HEADER 00200011]
+#Yeah - I'm his, uh... long-lost brother.
+Sim. Sou um, uh... irmão perdido dele. 
+
+[HEADER 00200012]
+#A brother half his age, with a different name and an American accent?
+Um irmão com a metade da idade dele, com um nome diferente e um sotaque americano?
+
+[HEADER 00200013]
+#Yeah. People always say that. I blame mom.
+É. As pessoas sempre dizem isso. Culpa da mamãe.
+
+[HEADER 00200014]
+#We were separated at an early age after a mix-up in the nursery at the Oakland Shopping Mall.
+Fomos separados muito cedo após uma confusão no berçário do Oakland Shopping Mall.
+
+[HEADER 00200015]
+#I've never heard anything so ridiculous in all my life!
+Eu nunca ouvi algo tão ridículo em toda minha vida!
+
+[HEADER 00200016]
+#I guess not.
+Acho que não.
+
+[HEADER 0020000F]
+#No. I'm conducting a private investigation.
+Não. Estou realizando uma investigação particular.
+
+[HEADER 00200010]
+#Then I can't help you.
+Então não posso ajudá-lo.
+
+[HEADER 0020006D]
+#Look at this ID pass...
+Olhe este crachá...
+
+[HEADER 0020006E]
+#So you're Moerlin?
+Então você é o Moerlin?
+
+[HEADER 0020006F]
+#Marquet has been asking for you!
+O Marquet esteve perguntando por você!
+
+[HEADER 00200070]
+#For me?
+Por mim?
+
+[HEADER 00200071]
+#Yes! He was shouting your name when they brought him in here!
+Sim! Ele estava gritando o seu nome quando o trouxemos para cá!
+
+[HEADER 00200072]
+#Now let me see...
+Agora deixe-me ver...
+
+[HEADER 00200073]
+#He was on ward B-Twelve, as I recall...
+Ele estava na enfermaria B-12, se bem me lembro...
+
+[HEADER 00200074]
+#Oh! He's been transferred to...
+Ah! Ele foi transferido para...
+
+[HEADER 00200075]
+#Oh dear. He's on ward J-Two.
+Oh, mon Dieu. Ele está na enfermaria J-2.
+
+[HEADER 00200076]
+#That's...
+Essa é...
+
+[HEADER 00200077]
+#Nurse Grendel's ward!
+A enfermaria da Enfermeira Grendel!
+
+[HEADER 00200078]
+#Yes, dear - you showed me already.
+Sim, querido. Você já me mostrou.
+
+[HEADER 0020001F]
+#Has Marquet been visited by a man in a clown costume?
+O Marquet foi visitado por um homem numa fantasia de palhaço?
+
+[HEADER 00200020]
+#Oh, no.
+Ah, não.
+
+[HEADER 00200021]
+#You haven't seen a man in disguise?
+Você não viu um homem num disfarce?
+
+[HEADER 00200022]
+#Well, there's Theodore the Bear. He comes every Thursday, to entertain the children.
+Bem, tem o Theodore, o Urso. Ele vem toda quinta-feira para divertir as crianças.
+
+[HEADER 00200023]
+#Personally, I think he scares them half to death in that crummy old bear suit.
+Pessoalmente, acho que ele quase as mata de medo naquela fantasia esfarrapada de urso.
+
+[HEADER 00200024]
+#If I was stuck on my back with tubes in every orifice, he's the last person I'd want to see.
+Se eu estivesse presa numa cama, com tubos em cada orifício, ele seria a última pessoa que eu iria querer ver. 
+
+[HEADER 0020001B]
+#Has Marquet had a visit from a pair of gangsters?
+O Marquet foi visitado por uma dupla de gângsteres?
+
+[HEADER 0020001C]
+#I should hope not! Can you describe them?
+Espero que não! Pode descrevê-los?
+
+[HEADER 0020001D]
+#A thin guy who looks like a weasel, and his friend, the gorilla.
+Um cara magro, que parece uma doninha, e seu amigo, o gorila.
+
+[HEADER 0020001E]
+#It sounds as if they escaped from a zoo!
+Parece até que eles fugiram de um zoológico!
+
+[HEADER 00200025]
+#What's so bad about nurse Grendel?
+O que há de tão ruim na enfermeira Grendel?
+
+[HEADER 00200026]
+#She runs that ward like a South American prison!
+Ela comanda aquela enfermaria como se fosse uma prisão da América do Sul!
+
+[HEADER 00200027]
+#Keeping a well disciplined ward isn't a crime, is it?
+Manter uma enfermaria bem disciplinada não é um crime, é?
+
+[HEADER 00200028]
+#Well disciplined?
+Bem disciplinada?
+
+[HEADER 00200029]
+#In the discipline and punishment stakes she'd whip the butt off the Marquis de Sade!
+No tronco da disciplina e punição, ela açoitaria até a bunda do Marquis de Sade!
+
+[HEADER 0020002A]
+#Everything, I mean everything, is done to a strict routine.
+Tudo, eu disse tudo, é feito com uma rotina rigorosa.
+
+[HEADER 0020002B]
+#Six o'clock: alarm call.
+Seis horas: alarme.
+
+[HEADER 0020002C]
+#Six-ten: bowel movements, and woe betide anyone who doesn't have a result!
+Seis e dez: evacuações intestinais, e ai de alguém que não tiver um resultado!
+
+[HEADER 0020002D]
+#Those patients of hers are like Pavlova's dogs!
+Aqueles pacientes dela são como cachorros de Pavlov!
+
+[HEADER 0020002E]
+#She sounds like a real nightmare...
+Ela parece um pesadelo real...
+
+[HEADER 0020002F]
+#And then some!
+E muito mais!
+
+[HEADER 00200030]
+#If nurse Grendel is that bad, how come the authorities tolerate her?
+Se a enfermeira Grendel é tão má, como é que as autoridades a toleram?
+
+[HEADER 00200031]
+#She's like part of the furniture.
+Ela já está há tanto tempo aqui, que é como se fosse parte da mobília.
+
+[HEADER 00200034]
+#I was beginning to get the picture. This woman was jealous, with a big green capital `J'.
+Estava começando a entender as coisas. Essa mulher era ciumenta, com um grande e verde 'C' maiúsculo.
+
+[HEADER 00200035]
+#How do I find nurse Grendel's ward?
+Como eu acho a enfermaria da enfermeira Grendel?
+
+[HEADER 00200036]
+#Down the corridor on the left, turn right at the Senior Consultants' washroom...
+Siga o corredor da esquerda, vire à direita no banheiro dos consultores seniores...
+
+[HEADER 00200037]
+#...and right again at the executive coffee lounge.
+... e à direita de novo na sala de estar dos executivos.
+
+[HEADER 00200038]
+#Bear left past the Administrators' sauna...
+Dirija-se à esquerda, passando pela sauna dos administradores...
+
+[HEADER 00200039]
+#...and turn left at the end. That's J-Two - and good luck!
+e vire à esquerda no final. É o J-2. Boa sorte!
+
+[HEADER 0020006B]
+#Have you seen this man here at the clinic?
+Já viu este homem aqui na clínica?
+
+[HEADER 0020006C]
+#No, Sir, and I never forget a face.
+Não, senhor, e nunca esqueço um rosto.
+
+[HEADER 0020003D]
+#Does this ball mean anything to you?
+Esta bola significa algo para você?
+
+[HEADER 0020003E]
+#No, dear.
+Não, querido.
+
+[HEADER 0020003F]
+#What does this false nose remind you of?
+O que este nariz falso te lembra?
+
+[HEADER 00200040]
+#Ah! It's a clown's nose!
+Ah! É um nariz de palhaço!
+
+[HEADER 00200043]
+#What does this gem suggest to you?
+O que esta gema lhe sugere?
+
+[HEADER 00200044]
+#I advise you not to flash that around.
+Aconselho não ficar mostrando isso por aí.
+
+[HEADER 00200046]
+#What does this tool suggest to you?
+O que esta ferramenta lhe sugere?
+
+[HEADER 00200047]
+#Is it a crack detector?
+É um detector de rachaduras?
+
+[HEADER 00200048]
+#Huh?
+Hã?
+
+[HEADER 00200049]
+#Polar explorers use them to poke about in the snow...
+Exploradores polares os usam para remexer a neve...
+
+[HEADER 0020004A]
+#Oh, no.
+Hein? Ah, não.
+
+[HEADER 00200042]
+#Why don't you give me a break and go and play with someone else?
+Por que não me dá um tempo e vai brincar com outra pessoa?
+
+[HEADER 0020004B]
+#Have you heard of the Club Alamut?
+Já ouviu falar do Club Alamut?
+
+[HEADER 0020004C]
+#No. It sounds romantic, doesn't it?
+Não. Parece romântico, não?
+
+[HEADER 0020004F]
+#Is this plaster any use to you?
+Este gesso tem alguma utilidade para você?
+
+[HEADER 00200050]
+#I'm allergic to plaster.
+Sou alérgica a gesso.
+
+[HEADER 00200054]
+#I'd like to shake you by the hand...
+Gostaria de apertar sua mão...
+
+[HEADER 00200055]
+#Don't be fresh, young man.
+Não seja fresco, rapaz.
+
+[HEADER 0020005B]
+#Can you think of any use for this greasy tissue?
+Consegue pensar em alguma utilidade para este lenço engordurado?
+
+[HEADER 0020005C]
+#I guess you could use it to baste a roast turkey...
+Acho que você poderia usá-lo para regar ao molho um peru assado...
+
+[HEADER 0020005D]
+#I've got a toilet chain from a bar in Syria...
+Tenho uma corrente de privada de um bar da Síria...
+
+[HEADER 00200061]
+#You sad man.
+Você é triste.
+
+[HEADER 00200062]
+#Do you know anything about this tripod?
+Sabe algo sobre este tripé?
+
+[HEADER 00200064]
+#It looks like the one which was stolen from the Crune!
+Parece com o que foi roubado do Crune!
+
+[HEADER 00200065]
+#What do you make of this?
+O que você entende por isto?
+
+[HEADER 00200066]
+#I know what that is.
+Eu sei o que é.
+
+[HEADER 00200067]
+#It's a contact lens for a myopic cow.
+É uma lente de contato para uma vaca míope. 
+
+[HEADER 00200068]
+#Nurse Grendel will be so pleased you've found it.
+A enfermeira Grendel ficará muito grata por você ter encontrado.
+
+[HEADER 00200069]
+#Did I show you this lens?
+Já lhe mostrei esta lente?
+
+[HEADER 0020006A]
+#Yes, you did.
+Sim, já.
+
+[HEADER 00200051]
+#I'd like to return this device...
+Gostaria de lhe devolver este aparelho...
+
+[HEADER 00200052]
+#Not to me you don't.
+Não, não para mim.
+
+[HEADER 00200053]
+#I don't touch medical equipment, especially if you've used it on sick people.
+Não toco em equipamentos médicos, especialmente se você já o usou nos pacientes.
+
+[HEADER 0020003B]
+#Thanks for your help, ma'am
+Obrigado pela ajuda, senhora.
+
+[HEADER 0020003C]
+#You're welcome!
+De nada!
+
+[HEADER 00210000]
+#As I turned the corner I saw the source of the hellish noise which echoed through the corridors.
+Assim que eu fiz a curva, vi a fonte do barulho infernal que ecoava pelos corredores.
+
+[HEADER 00210001]
+#It was an industrial polishing machine with an odd-looking guy in tow...
+Era uma enceradeira industrial com um cara de aparência estranha no controle...
+
+[HEADER 00200002]
+#The guy seemed to be practising his air of authority. Today he was working on his withering stare.
+Ele parecia estar praticando seu ar de autoridade. Hoje estava trabalhando no seu olhar fulminante.
+
+[HEADER 0020007D]
+#Excuse me, Sir...
+Com licença, senhor...
+
+[HEADER 0020007E]
+#Hi! My name's George Stobbart!
+Oi! Meu nome é George Stobbart!
+
+[HEADER 00200080]
+#Really.
+Verdade...?
+
+[HEADER 00200081]
+#If you wish to make an appointment, see the receptionist.
+Se deseja marcar uma hora, vá até a recepcionista.
+
+[HEADER 0020007F]
+#Ah-ha! Just the man...!
+Ah ha! Quem eu estava procurando...!
+
+[HEADER 00200082]
+#You must be the new boy.
+Você deve ser o novo garoto.
+
+[HEADER 00200083]
+#Uh... yeah, I must be.
+Uh... é, devo ser.
+
+[HEADER 00200084]
+#Well, stop wandering about and make yourself useful...
+Bem, pare de ficar perambulando e torne-se útil...
+
+[HEADER 00200085]
+#Bunny! Come here, boy.
+Bebê! Venha cá, garoto.
+
+[HEADER 00200086]
+#This is Benoir, my nephew.
+Este é o Benoir, meu sobrinho.
+
+[HEADER 00200087]
+#Can I trust you to look after him?
+Posso confiar em você para cuidar dele?
+
+[HEADER 0020008C]
+#Do your own baby-sitting, gramps.
+Seja você a babá, velhote.
+
+[HEADER 0020008D]
+#Who do you think you are, anyhow?
+Quem você pensa que é mesmo?
+
+[HEADER 0020008E]
+#I am Felix Hagenmeyer.
+Sou Felix Hagenmeyer.
+
+[HEADER 0020008F]
+#And may I say what an honour it is to meet you in person, Sir.
+E devo dizer que é uma honra conhecê-lo pessoalmente, senhor.
+
+[HEADER 00200090]
+#You're on my Medical Wall of Fame, right up there with Pasteur and Leary!
+Você está no meu Muro da Fama Médico, junto com Pasteur e Leary!
+
+[HEADER 00200091]
+#I look on it as a privilege, no - an honour, to look after your nephew, Sir.
+Considero um privilégio-- não, uma honra, cuidar do seu sobrinho, senhor.
+
+[HEADER 00200092]
+#He's fresh out of medical school.
+Ele acabou de sair da escola médica.
+
+[HEADER 00200093]
+#It will open his eyes to see a real doctor on the job...
+Ver um médico de verdade no trabalho abrirá seus olhos...
+
+[HEADER 00200094]
+#I'll bet!
+Pode apostar!
+
+[HEADER 00200095]
+#Show him around. Let him see some real suffering!
+Leve-o por aí. Faça com que ele veja o que é um sofrimento de verdade!
+
+[HEADER 00200096]
+#I'm looking for a guy named Jacques Marquet.
+Estou procurando por um cara chamado Jacques Marquet.
+
+[HEADER 00200097]
+#In which department does he work?
+Em qual departamento ele trabalha?
+
+[HEADER 00200098]
+#He doesn't. He's a patient.
+Nenhum. Ele é um paciente.
+
+[HEADER 00200099]
+#I see.
+Entendo.
+
+[HEADER 0020009A]
+#You do realize there are strict policies regarding visiting hours, don't you?
+Percebe que há uma política rigorosa com respeito ao horário de visitas, certo?
+
+[HEADER 0020009B]
+#Lost him, have you? Don't worry about it.
+Perdeu ele, não é? Não se preocupe com isso.
+
+[HEADER 0020009C]
+#He'll turn up. Have you tried physio?
+Ele vai aparecer. Já tentou na fisioterapia? 
+
+[HEADER 0020009D]
+#Whenever I lose a patient that's the first place I check out.
+Sempre que perco um paciente, esse é o primeiro lugar que procuro.
+
+[HEADER 0020009E]
+#This is important. I have to talk to Marquet urgently.
+Isto é importante. Tenho que conversar com o Marquet urgentemente.
+
+[HEADER 0020009F]
+#We make no exceptions to the rules.
+Não há exceções às regras.
+
+[HEADER 002000A0]
+#It's a matter of life and death!
+É uma questão de vida ou morte!
+
+[HEADER 002000A1]
+#The well-oiled running of this hospital is a matter of life and death!
+A administração embriagada deste hospital é uma questão de vida ou morte!
+
+[HEADER 002000A2]
+#That's why we have rules.
+É por isso que temos regras.
+
+[HEADER 002000A3]
+#I think I ought to warn you that Marquet is not what he seems...
+Acho que devo avisá-lo que o Marquet não é quem ele aparenta...
+
+[HEADER 002000A4]
+#Explain yourself.
+Explique-se
+
+[HEADER 002000A5]
+#He's in league with a bunch of guys who want to take over the world.
+Ele faz parte de um grupo de caras que querem dominar o mundo.
+
+[HEADER 002000A6]
+#Nonsense!
+Que absurdo!
+
+[HEADER 002000A9]
+#Besides, Marquet's employers have paid, in advance, for one of our most exclusive private rooms.
+Além disso, os patrões do Marquet pagaram - adiantado - por um dos nossos quartos particulares mais exclusivos. 
+
+[HEADER 002000AA]
+#Could you tell me who Marquet's employers are?
+Poderia me dizer quem são os patrões do Marquet?
+
+[HEADER 002000AB]
+#Certainly not!
+Claro... que não!
+
+[HEADER 002000B0]
+#Do you recognize this red nose, Sir?
+Reconhece este nariz vermelho, senhor?
+
+[HEADER 002000B1]
+#No, I do not.
+Não.
+
+[HEADER 002000B2]
+#This is a hospital, not a circus ring.
+Isto é um hospital, não um picadeiro.
+
+[HEADER 002000B3]
+#We minister to the sick in body, not the sick in mind.
+Nós atendemos as doenças do corpo, não da mente.
+
+[HEADER 002000C0]
+#Do you recognize the man in this photograph?
+Reconhece o homem nesta fotografia?
+
+[HEADER 002000C1]
+#No, Sir, I do not.
+Não, senhor.
+
+[HEADER 002000AE]
+#Would you like this ball?
+Quer esta bola?
+
+[HEADER 002000AF]
+#Certainly not! The playing of ball games on hospital properties is prohibited.
+Com certeza não! A prática de jogos de bola nas propriedades do hospital é proibida.
+
+[HEADER 002000B4]
+#Does this old cup mean anything to you?
+Esta taça significa algo para você? 
+
+[HEADER 002000B5]
+#What the devil is it?
+O que demônios é isso?
+
+[HEADER 002000B6]
+#It's the communion chalice of the de Vasconcellos.
+É um cálice de comunhão dos de Vasconcellos.
+
+[HEADER 002000B7]
+#There are rules about the use of devotional equipment on hospital property...
+Há regras sobre o uso de equipamentos religiosos nas propriedades do hospital...
+
+[HEADER 002000BE]
+#Did I show you this chalice?
+Já lhe mostrei este cálice?
+
+[HEADER 002000BF]
+#Yes, you did.
+Sim, já.
+
+[HEADER 002000C5]
+#Look at this, doc. It's a genuine Medieval type gemstone.
+Olhe para isto, doutor. É uma genuína pedra preciosa medieval.
+
+[HEADER 002000C6]
+#Yes, so I see.
+Sim, estou vendo.
+
+[HEADER 002000C7]
+#Remarkable.
+Notável.
+
+[HEADER 002000C8]
+#I have to take this gem to Marquet.
+Tenho que levar esta gema para o Marquet.
+
+[HEADER 002000C9]
+#He might be able to explain its significance.
+Ele deve ser capaz de explicar sua importância.
+
+[HEADER 002000CA]
+#My dear chap, Marquet has other things on his mind right now.
+Meu caro, o Marquet possui outras coisas em mente agora.
+
+[HEADER 002000CB]
+#Like what?
+Por exemplo?
+
+[HEADER 002000CC]
+#His catheter, for one.
+A sonda, para começar.
+
+[HEADER 002000D0]
+#Does the name Thomas Moerlin mean anything to you?
+O nome Thomas Moerlin significa algo para você?
+
+[HEADER 002000D1]
+#No, it does not.
+Não.
+
+[HEADER 002000D2]
+#Does this tool mean anything to you?
+Esta ferramenta significa algo para você?
+
+[HEADER 002000D3]
+#Sacre bleu! That's exactly what I needed in my last operation!
+Sacre bleu! Isso era exatamente do que eu precisava na minha última operação!
+
+[HEADER 002000D4]
+#It is?
+É?
+
+[HEADER 002000D5]
+#I had to improvise with a knitting needle and a couple of corks.
+Tive que improvisar com uma agulha de tricô e um par de rolhas.
+
+[HEADER 002000D6]
+#If only you'd been on hand at the time...
+Se você estivesse por perto no momento...
+
+[HEADER 002000D7]
+#My patient would have given his right arm for it!
+Meu paciente teria dado o próprio rim por isso!
+
+[HEADER 002000D8]
+#Yes. I really must get one like it myself...
+Sim. Eu realmente devo pegar um desses para mim...
+
+[HEADER 002000D9]
+#Have you ever heard of the Club Alamut?
+Já ouviu falar do Club Alamut?
+
+[HEADER 002000DA]
+#No, Sir, I have not.
+Não, senhor.
+
+[HEADER 002000DB]
+#Does this white powder mean anything to you?
+Este pó branco signifca algo para você?
+
+[HEADER 002000DC]
+#No, Sir. I do not pretend to know the pharmacist's job.
+Não, senhor. Não tenho intenção em saber o trabalho de um farmacêutico.
+
+[HEADER 002000DD]
+#Look what Nurse Grendel gave me, Sir.
+Olhe o que a Enfermeira Grendel me deu, senhor.
+
+[HEADER 002000DE]
+#Ah, yes. Very good. I'm glad to see you're carrying it with you.
+Ah, sim. Muito bom. Estou contente em ver que esteja carregando-o com você.
+
+[HEADER 002000E1]
+#May I have the honour of shaking you by the hand?
+Posso ter a honra de apertar sua mão?
+
+[HEADER 002000E2]
+#You may not. I don't encourage physical contact between my staff.
+Não pode. Não estimulo o contato físico entre minha equipe.
+
+[HEADER 002000E3]
+#What do you make of this tissue, Sir?
+O que acha deste lenço, senhor?
+
+[HEADER 002000E6]
+#If I were you I'd have this sample analyzed.
+Se eu fosse você, faria uma análise dessa amostra.
+
+[HEADER 002000E9]
+#Is this chain any use to you?
+Esta corrente é de alguma utilidade para você?
+
+[HEADER 002000EA]
+#No.
+Não.
+
+[HEADER 002000EB]
+#Does this tripod mean anything to you?
+Este tripé significa algo para você?
+
+[HEADER 002000EC]
+#No, it does not.
+Não.
+
+[HEADER 002000AD]
+#Thanks for your help.
+Obrigado pela sua ajuda.
+
+[HEADER 00200079]
+#Stop! Come here!
+Pare! Venha cá!
+
+[HEADER 0020007A]
+#What's the problem, gramps?
+Qual o problema, velhote?
+
+[HEADER 0020007B]
+#Where do you think you're sloping off to?
+Aonde pensa que está indo?
+
+[HEADER 0020007C]
+#Get back to work immediatement!
+Volte ao trabalho imediatamente!
+
+[HEADER 001F0002]
+#There was no sign of the crew of the ambulance...
+Não havia sinal da equipe da ambulância...
+
+[HEADER 001F0003]
+#I felt a little guilty as I tried the door - like I was about to rob a grave.
+Me senti um pouco culpado enquanto tentava abrir a porta, como se eu estivesse prestes a roubar um túmulo.
+
+[HEADER 001F0004]
+#I gripped the handle with an involuntary tremble in my hand and pulled...
+Segurei a maçaneta com um tremor involuntário em minha mão e puxei...
+
+[HEADER 001F0005]
+#The door was locked.
+A porta estava trancada.
+
+[HEADER 00210006]
+#The connector in the socket supplied electricity to the polishing machine.
+O conector na tomada fornecia energia à enceradeira.
+
+[HEADER 00210007]
+#As I tugged the plug out of the socket the polishing machine coughed, spluttered and died.
+Assim que tirei o aparelho da tomada, a enceradeira tossiu, fez barulho e morreu.
+
+[HEADER 002100A7]
+#Take that, you stubborn tin can!
+Tome isso, sua lata teimosa!
+
+[HEADER 002100A8]
+#Not again! This is not a good day!
+De novo não! Hoje não é um bom dia!
+
+[HEADER 002100A9]
+#Mr. Shiny! What's wrong, pal?
+Sr. Brilhante! O que foi, amigão?
+
+[HEADER 00210002]
+#The door didn't have a sign or label, or any kind of identification.
+A porta não tinha uma plaquinha ou indicação, nem mesmo algum tipo de identificação.
+
+[HEADER 00210003]
+#It was the door to the store cupboard.
+Era a porta para o armário.
+
+[HEADER 002100A4]
+#Hey, now - you can't go in there.
+Ei, você não pode entrar aí.
+
+[HEADER 002100A0]
+#Hey, I asked you not to go in there!
+Ei, eu pedi para não entrar aí!
+
+[HEADER 0021009E]
+#Hey...!
+Ei...!
+
+[HEADER 002100A5]
+#How come?
+Como assim?
+
+[HEADER 002100A6]
+#I'm responsible for the contents of that cupboard.
+Eu sou responsável pelo conteúdo nesse armário.
+
+[HEADER 002100A1]
+#I know, but I'm curious.
+Eu sei, mas sou curioso.
+
+[HEADER 002100A2]
+#Oh, no! I'm responsible for that cupboard and the contents.
+Ah, não! Sou responsável por esse armário e seu conteúdo.
+
+[HEADER 002100A3]
+#Okay...
+Certo...
+
+[HEADER 0021009F]
+#Okay...
+Certo...
+
+[HEADER 00220000]
+#The nurse was stunningly beautiful. The guys on this ward sure were lucky to be in her care.
+A enfermeira era impressionantemente bela. As pessoas nesta enfermaria são mesmo sortudas por estarem sob seus cuidados.
+
+[HEADER 00220012]
+#Oui, m'sieur?
+Oui, m'sieur?
+
+[HEADER 00220013]
+#Is this ward J-Two?
+Esta é a enfermaria J-2?
+
+[HEADER 00220014]
+#It is, but you are not supposed to be here!
+Sim, mas você não deveria estar aqui!
+
+[HEADER 00220015]
+#We have strict rules about visiting hours.
+Temos regras rigorosas sobre horário de visitas.
+
+[HEADER 00220016]
+#Can't you make an exception? I've come all the way from California!
+Não pode fazer uma exceção? Eu vim lá da Califórnia!
+
+[HEADER 00220017]
+#You must speak to the doctor...
+Você tem que falar com o doutor...
+
+[HEADER 00220018]
+#I can't wait that long. What if he snuffs it?
+Não posso esperar tanto. E se ele der bronca?
+
+[HEADER 00220019]
+#You can't talk like that here! This is a hospital!
+Você não pode falar assim aqui! Isto é um hospital!
+
+[HEADER 0022001A]
+#You will have to leave.
+Você terá que sair.
+
+[HEADER 0022001B]
+#I told you to leave!
+Já lhe disse para sair!
+
+[HEADER 00220067]
+#You may come back at visiting time, m'sieur.
+Você pode voltar no horário de visitas, m'sieur.
+
+[HEADER 00220068]
+#Thanks. When is that?
+Obrigado. Quando é?
+
+[HEADER 00220069]
+#The second Tuesday of each month.
+Na segunda terça-feira de cada mês.
+
+[HEADER 0022001C]
+#Okay, ma'am - I know when I'm not wanted.
+Certo, senhora. Sei quando não sou querido.
+
+[HEADER 0022002B]
+#Good afternoon, docteur.
+Boa tarde, docteur.
+
+[HEADER 0022002C]
+#Oh, hi. Is this ward J-Two?
+Ah, oi. Esta é a enfermaria J-2?
+
+[HEADER 0022002D]
+#Yes, Sir.
+Sim, senhor.
+
+[HEADER 0022002E]
+#The patients are ready for your inspection, docteur
+Os pacientes já estão prontos para o seu exame, docteur.
+
+[HEADER 0022002F]
+#Uh - thank you, nurse.
+Uh, obrigado, enfermeira.
+
+[HEADER 00220034]
+#You'll need this, docteur...
+Você precisará disto, docteur...
+
+[HEADER 00220035]
+#She gave me a long, narrow metal box and a stunning smile...
+Ela me deu uma caixa de metal longa e estreita, além de um sorriso formidável...
+
+[HEADER 00220036]
+#Thanks.
+Obrigado.
+
+[HEADER 00220025]
+#Could you take a look at the client in bed number three, now?
+Pode dar uma olhada no paciente da cama número três agora?
+
+[HEADER 00220026]
+#His name is Eric Sopmarsh.
+Seu nome é Eric Sopmarsh.
+
+[HEADER 00220037]
+#Pardon me, nurse...
+Perdoe-me, enfermeira...
+
+[HEADER 00220038]
+#Oui, m'sieur?
+Oui, m'sieur?
+
+[HEADER 00220039]
+#Do you have a patient named Marquet on this ward?
+Você tem um paciente chamado Marquet nesta enfermaria?
+
+[HEADER 0022003A]
+#Oui, m'sieur. He is in the private room at the end of the ward.
+Oui, m'sieur. Ele está no quarto particular no final da enfermaria.
+
+[HEADER 0022003B]
+#He has been placed in strict isolation.
+Ele foi posto em severa isolação.
+
+[HEADER 0022003C]
+#Why is Marquet in quarantine?
+Por que o Marquet está de quarentena?
+
+[HEADER 0022003D]
+#If you wish to know more, you'll have to speak to Herr Hagenmeyer.
+Se deseja saber mais, terá de falar com Herr Hagenmeyer.
+
+[HEADER 0022003E]
+#All I know is that Marquet's room is strictly out of bounds.
+Tudo o que sei é que o quarto do Marquet está severamente fora dos limites.
+
+[HEADER 00220047]
+#Do you know who paid for Marquet's room?
+Você sabe quem pagou pelo quarto do Marquet?
+
+[HEADER 00220048]
+#No, of course I don't!
+Não, claro que não sei!
+
+[HEADER 00220049]
+#Preferential treatment like that must cost an arm and a leg...
+Tratamento preferencial assim deve custar os olhos da cara...
+
+[HEADER 0022004A]
+#That's not my concern, m'sieur.
+Não é da minha conta, m'sieur.
+
+[HEADER 0022004B]
+#Is it true that Marquet is suffering from anthrax?
+É verdade que o Marquet está sofrendo de antraz? 
+
+[HEADER 0022004C]
+#Keep your voice down, m'sieur!
+Fale baixo, m'sieur!
+
+[HEADER 0022004D]
+#Who told you that?
+Quem lhe disse isso?
+
+[HEADER 0022004E]
+#The cop at the door.
+O policial na porta.
+
+[#HEADER 0022004F]
+#It's not true. It can't be. Herr Hagenmeyer would have told me!
+Não é verdade. Não pode ser. Herr Hagenmeyer teria me contado!
+
+[HEADER 00220050]
+#Evacuate. That's it. No panic. Women and children first...
+Evacuar. É isso. Sem pânico. Mulheres e crianças primeiro...
+
+[HEADER 00220051]
+#Has anyone ever told you how cute you are when you go to pieces?
+Alguém já lhe disse como você fica fofa quando entra em desespero?
+
+[HEADER 00220052]
+#So, what precautions do you intend to take to prevent the spread of anthrax?
+Então, quais precauções pretende tomar para prevenir a propagação do antraz?
+
+[HEADER 00220053]
+#My first step will be to burn the bodies.
+Meu primeiro passo será queimar os corpos.
+
+[HEADER 00220054]
+#Burn... the bodies?
+Queimar... os corpos?
+
+[HEADER 00220055]
+#It won't be easy, I know, but I can do it!
+Não será fácil, eu sei, mas eu posso fazer!
+
+[HEADER 00220056]
+#Just give me a chance, docteur! Let me burn the patients!
+Só me dê uma chance, docteur! Deixe-me queimar os pacientes!
+
+[HEADER 00220057]
+#I don't think that would be a good idea, Nurse Grendel.
+Não acho que seria uma boa ideia, Enfermeira Grendel.
+
+[HEADER 00220058]
+#I'm sorry, docteur, but the other staff put me up to this.
+Desculpe-me, docteur, mas a outra equipe me induziu a isso.
+
+[HEADER 00220059]
+#It's because you're new, you see. Traditional hospital humour.
+É que você é novo, entende. Pegadinha tradicional do hospital.
+
+[HEADER 0022005A]
+#Hilarious. Then Marquet hasn't got anthrax?
+Hilário. Então Marquet não tem antraz?
+
+[HEADER 0022005B]
+#No, Sir.
+Não, senhor.
+
+[HEADER 0022005C]
+#Do you have any clowns on the ward?
+Você tem algum palhaço na enfermaria?
+
+[HEADER 0022005D]
+#Why, yes - we do. A professional clown.
+Ora, sim, temos. Um palhaço profissional.
+
+[HEADER 0022005E]
+#I'll bet he lightens the place up!
+Aposto que ele alegra o lugar!
+
+[HEADER 0022005F]
+#Hardly. M'sieur Boissy has been in a coma for the last three months.
+Difícil. M'sieur Boissy esteve em coma nos últimos três meses.
+
+[HEADER 00220060]
+#What's wrong with Boissy?
+O que há de errado com o Boissy?
+
+[HEADER 00220061]
+#He was involved in a very nasty accident.
+Ele se envolveu num acidente bastante desagradável.
+
+[HEADER 00220062]
+#A silly stunt involving a unicycle.
+Uma acrobacia estúpida envolvendo um monociclo.
+
+[HEADER 00220063]
+#His current condition is due to post-traumatic shock.
+Sua situação atual é devido ao choque pós-traumático.
+
+[HEADER 00220064]
+#It's unlikely he'll ever perform as a clown again...
+Não é muito provável que ele vá algum dia atuar como um palhaço de novo...
+
+[HEADER 00220065]
+#It's an ill wind that blows nobody any good.
+O prazer de um é o desgosto de outro.
+
+[HEADER 00220085]
+#Do you recognise this tissue?
+Você reconhece este lenço?
+
+[HEADER 00220086]
+#No, I don't! It looks like a chronic health risk to me!
+Não! Parece um risco crônico à saúde para mim!
+
+[HEADER 00220087]
+#I've been carrying it around for days and I'm okay.
+Estive carregando por aí há dias e continuo bem.
+
+[HEADER 0022007D]
+#Do you want this, uh...
+Você quer este, uh...
+
+[HEADER 0022007E]
+#Device for measuring blood pressure?
+Aparelho para medir a pressão sanguínea?
+
+[HEADER 0022007F]
+#Yeah. Do you want it back?
+É. Quer de volta?
+
+[HEADER 00220080]
+#No, thank you.
+Não, obrigada.
+
+[HEADER 0022007B]
+#What is this device?
+O que é este aparelho?
+
+[HEADER 0022007C]
+#It's for taking the patient's blood pressure, docteur.
+É para medir a pressão sanguínea do paciente, docteur.
+
+[HEADER 0022006F]
+#Do you recognize the man in this photograph?
+Reconhece o homem nesta foto?
+
+[HEADER 00220070]
+#No, I don't.
+Não.
+
+[HEADER 00220071]
+#Does this gem mean anything to you?
+Esta gema significa algo para você?
+
+[HEADER 00220072]
+#It's beautiful, but I've never seen it before.
+É bonita, mas nunca a vi antes.
+
+[HEADER 00220073]
+#Do you know Moerlin, of Grüber Electronics?
+Conhece Moerlin, da Eletrônica Grüber?
+
+[HEADER 00220074]
+#No, I don't.
+Não.
+
+[HEADER 00220075]
+#Does this tool mean anything to you?
+Esta ferramenta significa algo para você?
+
+[HEADER 00220076]
+#I don't recognize it.
+Não a reconheço.
+
+[HEADER 00220077]
+#Does this mean anything to you?
+Isto significa algo para você?
+
+[HEADER 00220078]
+#The Club Alamut? I've never heard of it.
+O Club Alamut? Nunca ouvi falar dele.
+
+[HEADER 0022006B]
+#Do you recognize this red nose?
+Reconhece este nariz vermelho?
+
+[HEADER 0022006C]
+#Oh, dear. I don't think he'll be needing that again!
+Mon Dieu, acho que ele não vai mais precisar disso!
+
+[HEADER 0022006D]
+#Who?
+Quem?
+
+[HEADER 0022006E]
+#M'sieur Boissy, the comatose clown.
+M'sieur Boissy, o palhaço em coma.
+
+[HEADER 00220079]
+#Is this plaster any use to you?
+Este gesso tem alguma utilidade para você?
+
+[HEADER 0022007A]
+#No, it isn't.
+Não.
+
+[HEADER 00220081]
+#Would you like to shake hands with me?
+Gostaria de apertar minha mão?
+
+[HEADER 00220082]
+#Well...
+Bem...
+
+[HEADER 00220083]
+#Okay, forget it.
+Certo, esqueça.
+
+[HEADER 00220066]
+#Thank you, nurse.
+Obrigado, enfermeira.
+
+[HEADER 0022006A]
+#Au revoir, m'sieur!
+Au revoir, m'sieur!
+
+[HEADER 0022001D]
+#Docteur!
+Docteur!
+
+[HEADER 0022001E]
+#What is it now, nurse?
+O que é agora, enfermeira?
+
+[HEADER 0022001F]
+#Number two again. He won't tell me what he wants.
+Número dois de novo. Ele não me diz o que quer.
+
+[HEADER 00220020]
+#He says he'll only talk to a man.
+Disse que só falará com um homem.
+
+[HEADER 00220021]
+#Do I have to? That guy's nuts!
+Tenho que ir? Aquele cara é doido!
+
+[HEADER 00220022]
+#Docteur, I'm surprised at you!
+Docteur, estou supresa com você!
+
+[HEADER 00220023]
+#That's no way to talk about our clients!
+Isso não é jeito de falar com os nossos pacientes!
+
+[HEADER 00220024]
+#Okay, okay - I'll see him, but I'm telling you - he's a hypochondriac.
+Certo, certo. Irei vê-lo, mas estou te falando: ele é hipocondríaco.
+
+[HEADER 00220027]
+#What's his problem?
+Qual é o problema dele?
+
+[HEADER 00220028]
+#He's delirious. He just now came out of theatre.
+Ele está delirante. Acabou de sair da operação.
+
+[HEADER 00220029]
+#He's recovering from major surgery.
+Ele está se recuperando de uma grande cirurgia.
+
+[HEADER 0022002A]
+#I'll have him up and about before you can say `Lazarus, get out of your bed and walk'!
+Farei ele se levantar antes que você consiga dizer 'Lázaro, saia da cama e ande!'.
+ 
+[HEADER 00200003]
+#The young man's fresh face was full of eagerness and enthusiasm. I figured he was fresh from college.
+O rosto juvenil do jovem rapaz estava cheio de ânsia e entusiasmo. Imaginei que ele havia recém-saído da faculdade.
+
+[HEADER 00830001]
+#Hi! My name's George Stobbart.
+Oi! Meu nome é George Stobbart
+
+[HEADER 00830000]
+#Hey - Benoir!
+Ei, Benoir!
+
+[HEADER 00830011]
+#Yes, Sir?
+Sim, senhor?
+
+[HEADER 00830003]
+#So, what's your name, kid?
+Então, qual o seu nome, garoto?
+
+[HEADER 00830004]
+#Benoir. They call me Bunny.
+Benoir. Me chamam de Bebê.
+
+[HEADER 00830005]
+#Bunny? Jeez! And you don't mind?
+Bebê? Caramba! E você não liga?
+
+[HEADER 00830006]
+#I've gotten used to it.
+Acabei me acostumando.
+
+[HEADER 00830007]
+#Okay, Benoir - you're gonna help me.
+Certo, Benoir. Você vai me ajudar.
+
+[HEADER 00830008]
+#Anything you say, Sir.
+O que quiser, senhor.
+
+[HEADER 00830009]
+#Pleased to meet you, Sir.
+Prazer em conhecê-lo, senhor.
+
+[HEADER 0083000A]
+#Call me George, if you like.
+Me chame de George, se preferir.
+
+[HEADER 0083000B]
+#Are you sure?
+Tem certeza?
+
+[HEADER 0083000C]
+#Yeah. That's my name.
+Sim. É o meu nome.
+
+[HEADER 0083000D]
+#My name's Benoir - but everyone calls me Bunny.
+Meu nome é Benoir, mas todos me chamam de Bebê.
+
+[HEADER 0083000E]
+#Bunny?
+Bebê?
+
+[HEADER 0083000F]
+#That's right. I used to have this cute habit when I was a kid.
+Isso mesmo. É por eu sempre ter tido este jeitinho de bebê.
+
+[HEADER 00830010]
+#Keep it to yourself, Benoir.
+Guarde para você, Benoir.
+
+[HEADER 00830027]
+#Do you know the nurse on ward J2?
+Conhece a enfermeira da enfermaria J-2?
+
+[HEADER 00830028]
+#Non, Sir. This is my first day here.
+Non, senhor. Hoje é meu primeiro dia aqui.
+
+[HEADER 00830029]
+#I can't wait to get my hands dirty!
+Mal posso esperar para sujar minhas mãos!
+
+[HEADER 0083002A]
+#I was talking about treating my first patient, of course.
+Eu estava falando de tratar meu primeiro paciente, é claro.
+
+[HEADER 0083002B]
+#I didn't mean I'd get my hands dirty with the nurse...
+Não quis dizer que iria sujar minhas mãos com a enfermeira...
+
+[HEADER 0083002C]
+#Shut up, Benoir.
+Cala a boca, Benoir.
+
+[HEADER 0083002D]
+#Okay, Sir.
+Certo, senhor.
+
+[HEADER 0083002E]
+#Do you know anything about a patient named Marquet?
+Sabe algo sobre um paciente chamado Marquet?
+
+[HEADER 0083002F]
+#No, Sir. I don't know much about any of the patients.
+Não, senhor. Não sei muito sobre nenhum dos pacientes.
+
+[HEADER 00830030]
+#I've never met a doctor who admits that he's only human...
+Eu nunca havia conhecido um médico que admite ser só um humano...
+
+[HEADER 00830031]
+#I'm only a trainee, Sir. I'm sure I'll get the hang of things.
+Sou só um estagiário, senhor. Tenho certeza que pegarei o jeito das coisas.
+
+[HEADER 00830032]
+#Do you know anything about anthrax, Bunny?
+Sabe algo sobre antraz, Bebê?
+
+[HEADER 00830033]
+#Not much, Sir. I thought it was virtually wiped out...
+Não muito, senhor. Pensei que estava praticamente eliminada... 
+
+[HEADER 00830034]
+#Maybe you'd like to put that to a practical test?
+Talvez você queira responder isso num exame prático?
+
+[HEADER 00830035]
+#Oh, no, Sir. Definitely not, Sir. Most emphatically not, Sir.
+Ah, não, senhor. Com certeza não, senhor. Certíssimo que não, senhor. 
+
+[HEADER 00830036]
+#I thought so.
+Foi o que pensei.
+
+[HEADER 00830037]
+#Underneath that starched waiter's uniform you're nothing but a worm.
+Debaixo desse uniforme engomado de garçom você não passa de um verme. 
+
+[HEADER 00830038]
+#I really must object, Sir.
+Eu devo protestar, senhor.
+
+[HEADER 00830039]
+#Why don't you run along to Uncle Felix, huh?
+Por que não vai embora com seu Tio Felix, hein?
+
+[HEADER 0083003A]
+#Tell him you don't mind attending to his patients as long as they're only slightly ill?
+Dizer a ele que você não se importa em tratar seus pacientes contanto que estejam só levemente doentes?
+
+[HEADER 0083003B]
+#Meanwhile, poor Marquet is up to his neck in some damned cow disease.
+Entretanto, o pobre Marquet está até o pescoço com alguma doença maldita de vaca.
+
+[HEADER 0083003C]
+#Marquet? He doesn't have anthrax. I heard Uncle Felix discussing his case.
+Marquet? Ele não tem antraz. Ouvi o Tio Felix discutindo sobre o caso dele.
+
+[HEADER 0083003D]
+#It was a test, Benoir - and you failed it.
+Era um teste, Benoir, e você falhou.
+
+[HEADER 0083003E]
+#Now do try to look more like a man who holds people's lives in his hands.
+Agora tente parecer mais como um homem que tem a vida das pessoas nas mãos.
+
+[HEADER 0083003F]
+#I'll try, Sir, but I'll warn you - I'm hopeless at acting.
+Vou tentar, senhor, mas já aviso: sou péssimo na prática.
+
+[HEADER 00830025]
+#Do you still have that gauge I gave you?
+Ainda tem o medidor que lhe dei?
+
+[HEADER 00830026]
+#Oh, yes. What do you want me to do with it?
+Ah, sim. O que quer que eu faça com isto?
+
+[HEADER 00830014]
+#Use it on Nurse Grendel.
+Use na Enfermeira Grendel.
+
+[HEADER 00830015]
+#Huh?
+Hã?
+
+[HEADER 00830016]
+#Go on - she'll enjoy it.
+Vai. Ela irá gostar.
+
+[HEADER 00830017]
+#Well, okay...
+Bem, tudo bem...
+
+[HEADER 00830018]
+#Docteur Stobbart!
+Docteur Stobbart!
+
+[HEADER 00830019]
+#Yeah?
+Sim?
+
+[HEADER 0083001A]
+#I would appreciate it if you saved your jokes for the interns' rest room.
+Eu ficaria grata se você guardasse suas piadas para o toalete dos estagiários.
+
+[HEADER 0083001B]
+#This is a hospital ward, not a cabaret.
+Isto é uma enfermaria de hospital, não um cabaré.
+
+[HEADER 0083001C]
+#Aw, lighten up!
+Ah, leva na esportiva!
+
+[HEADER 0083001D]
+#I heard that! Any more nonsense and I shall report you to Doctor Hagenmeyer!
+Eu escutei isso! Mais uma besteira e darei parte de você ao Doutor Hagenmeyer!
+
+[HEADER 0083001E]
+#Use it on Eric Sopmarsh.
+Use no Eric Sopmarsh.
+
+[HEADER 0083001F]
+#Okay...
+Certo...
+
+[HEADER 0083006E]
+#Keep it safe until I think of something.
+Guarde-o até que eu pense em algo.
+
+[HEADER 0083006A]
+#Here, take this pressure gauge.
+Aqui, tome este medidor de pressão.
+
+[HEADER 0083006B]
+#Thank you, Sir.
+Obrigado, senhor.
+
+[HEADER 0083006C]
+#What do you want me to do with it?
+O que quer que eu faça com isto?
+
+[HEADER 0083006D]
+#Well...
+Bem...
+
+[HEADER 00830059]
+#Shake my hand, Benoir.
+Aperte minha mão, Benoir.
+
+[HEADER 0083005A]
+#I don't think that's a good idea, Sir.
+Acho que não é uma boa ideia, senhor.
+
+[HEADER 0083005B]
+#How come?
+Como assim?
+
+[HEADER 0083005C]
+#Dermatitis.
+Dermatite.
+
+[HEADER 0083005D]
+#I don't have dermatitis.
+Eu não tenho dermatite.
+
+[HEADER 0083005E]
+#I do.
+Eu tenho.
+
+[HEADER 00830045]
+#What do you make of this ball?
+O que acha desta bola?
+
+[HEADER 00830046]
+#Oh perfait! We can have a game in the corridor later.
+Ah, perfait! Podemos brincar no corredor depois.
+
+[HEADER 00830047]
+#Maybe not...
+Melhor não...
+
+[HEADER 00830048]
+#Does this false nose mean anything to you?
+Este nariz falso significa algo para você?
+
+[HEADER 00830049]
+#No, it doesn't.
+Não.
+
+[HEADER 0083004C]
+#Do you recognize the man in this photograph?
+Reconhece o homem nesta foto?
+
+[HEADER 0083004D]
+#No, monsieur. I've never seen him before.
+Não, monsieur. Nunca o vi antes.
+
+[HEADER 0083004E]
+#Does this gem mean anything to you?
+Esta gema significa algo para você?
+
+[HEADER 0083004F]
+#Not me, Sir.
+Não para mim, senhor.
+
+[HEADER 00830050]
+#Have you ever heard of a guy named Moerlin?
+Já ouviu falar de um cara chamado Moerlin?
+
+[HEADER 00830051]
+#No, Sir.
+Não, senhor.
+
+[HEADER 00830052]
+#What does this tool suggest to you?
+O que esta ferramenta lhe sugere?
+
+[HEADER 00830053]
+#Isn't that used to snap the patient's ribs when exploring the abdomen?
+Isso não é usado para mover as costelas do paciente quando examinam o abdome?
+
+[HEADER 00830055]
+#Have you ever heard of the Club Alamut?
+Já ouviu falar do Club Alamut?
+
+[HEADER 00830056]
+#No, Sir.
+Não, senhor.
+
+[HEADER 00830057]
+#Do you know what this white powder is?
+Sabe o que é este pó branco?
+
+[HEADER 00830058]
+#No, Sir.
+Não, senhor.
+
+[HEADER 00830060]
+#What does this tissue mean to you?
+O que este lenço significa para você?
+
+[HEADER 00830061]
+#Is that a nasal discharge, Sir?
+Isso é catarro, senhor?
+
+[HEADER 00830062]
+#No, it's greasepaint.
+Não, é maquiagem de teatro.
+
+[HEADER 00830063]
+#Do you recognize this tripod?
+Reconhece este tripé?
+
+[HEADER 00830064]
+#No, Sir.
+Não, senhor.
+
+[HEADER 00830065]
+#Have you any idea what this cup is used for?
+Tem alguma ideia de para que este cálice é usado? 
+
+[HEADER 00830066]
+#Blood letting?
+Coletar sangue?
+
+[HEADER 00830041]
+#Follow me, Benoir.
+Siga-me, Benoir.
+
+[HEADER 00830042]
+#I'm right behind you, Sir...
+Estou bem atrás de você, senhor...
+
+[HEADER 00830043]
+#See you later...
+Até mais...
+
+[HEADER 00830044]
+#Right.
+Certo.
+
+[HEADER 00220001]
+#He sat like a statue of a sack of potatoes, but the cop's eyes were as watchful as a hawk's.
+Ele sentava feito um saco de batatas, mas os olhos do policial eram tão vigilantes quanto os de um falcão.
+
+[HEADER 00220127]
+#Rather you than me, pal!
+Antes você do que eu, amigo!
+
+[HEADER 00220128]
+#I'm Doctor Stobbart.
+Sou o Doutor Stobbart.
+
+[HEADER 00220129]
+#Bonjour, docteur.
+Bonjour, docteur.
+
+[HEADER 0022012A]
+#Hello again.
+Olá de novo.
+
+[HEADER 0022012B]
+#Bonjour.
+Bonjour.
+
+[HEADER 00220149]
+#I've got some good news for you...
+Tenho boas notícias para você...
+
+[HEADER 0022014B]
+#You'll be pleased to know Marquet hasn't got anthrax.
+Você ficará contente em saber que o Marquet não tem antraz.
+
+[HEADER 0022014C]
+#I knew that. It was my idea in the first place.
+Eu já sabia. Foi minha ideia em primeiro lugar.
+
+[HEADER 0022013B]
+#Have you heard of a guy called Marquet?
+Já ouviu falar de um cara chamado Marquet?
+
+[HEADER 0022013C]
+#He's in quarantine, doc. Right behind this here door.
+Ele está em quarentena, doutor. Bem atrás desta porta aqui.
+
+[HEADER 0022013D]
+#Marquet is just the man I wanted to see.
+Marquet é o homem que eu gostaria de ver.
+
+[HEADER 0022013E]
+#I wouldn't go in there if I was you...
+Eu não entraria aí se fosse você...
+
+[HEADER 0022013F]
+#He has anthrax.
+Ele tem antraz.
+
+[HEADER 00220140]
+#I have to visit my patient.
+Tenho que visitar meu paciente.
+
+[HEADER 00220141]
+#What for?
+Pra quê?
+
+[HEADER 00220142]
+#Routine. I have to check he's still breathing.
+Rotina. Tenho que checar se ele ainda está respirando.
+
+[HEADER 00220143]
+#What if he's not?
+E se não estiver?
+
+[HEADER 00220144]
+#I'll sign the certificate and register his bed as vacant.
+Assinarei o atestado e registrarei sua cama como vaga.
+
+[HEADER 00220145]
+#That's a cold and distant attitude to death.
+Essa é um atitude bem fria com relação à morte.
+
+[HEADER 00220146]
+#I've been institutionalized to the point of godlike aloofness.
+Fui treinado para encarar isso com indiferença divina.
+
+[HEADER 00220147]
+#The white coat suits you.
+A jaqueta branca lhe cai bem.
+
+[HEADER 00220148]
+#Thanks.
+Obrigado.
+
+[HEADER 0022012C]
+#Have you seen any suspicious characters on the ward?
+Viu uns indivíduos suspeitos na enfermaria?
+
+[HEADER 0022012D]
+#Yeah - I have.
+Sim, vi.
+
+[HEADER 0022012E]
+#A gorilla and a weasel?
+Um gorila e uma doninha? 
+
+[HEADER 0022012F]
+#No! This was a tatty old bear.
+Não! Era um velho urso surrado.
+
+[HEADER 00220130]
+#How was the bear acting suspiciously?
+O urso estava agindo de maneira suspeita?
+
+[HEADER 00220131]
+#Well... he was wearing a homburg...
+Bem... ele estava usando um chapéu homburg...
+
+[HEADER 00220132]
+#Is that against the law?
+Isso é contra a lei?
+
+[HEADER 00220133]
+#No, but it's pretty weird for a bear.
+Não, mas é bem estranho para um urso.
+
+[HEADER 00220165]
+#What does this tissue suggest to you?
+O que este lenço lhe sugere?
+
+[HEADER 00220166]
+#It looks as if it has been used to wipe Satan's bottom.
+Parece que foi usado para limpar o traseiro de Satanás.
+
+[HEADER 00220167]
+#I hate to say it, but you could be right...
+Odeio dizer isto, mas você pode estar certo...
+
+[HEADER 0022015B]
+#What do you think this tool is used for?
+Para que você acha que esta ferramenta é usada?
+
+[HEADER 0022015C]
+#Branding mice without bending down.
+Matar ratos sem ter de se curvar.
+
+[HEADER 00220150]
+#Do you recognize this red nose?
+Você reconhece este nariz vermelho?
+
+[HEADER 00220151]
+#Don't get cute with me.
+Sem gracinhas comigo.
+
+[HEADER 00220152]
+#Do you recognize the man in this photograph?
+Você reconhece o homem nesta foto?
+
+[HEADER 00220153]
+#No, I've never seen him before.
+Não, nunca o vi antes.
+
+[HEADER 00220154]
+#Do you recognize this gem?
+Você reconhece esta gema?
+
+[HEADER 00220155]
+#It isn't an emerald, is it?
+Não é uma esmeralda, é?
+
+[HEADER 00220156]
+#Uh... yeah, I think so.
+Uh... é, acho que sim.
+
+[HEADER 00220158]
+#Are you Thomas Moerlin of Grüber Electronics?
+Você é Thomas Moerlin da Eletrônica Grüber?
+
+[HEADER 00220159]
+#No.
+Não.
+
+[HEADER 0022015A]
+#Then you won't be needing this...
+Então não precisará disto...
+
+[HEADER 0022015D]
+#Have you ever heard of the Club Alamut?
+Já ouviu falar do Club Alamut?
+
+[HEADER 0022015E]
+#No. It sounds Middle-Eastern.
+Não. Parece ser do Oriente Médio.
+
+[HEADER 0022015F]
+#Can you think of any sensible use for this plaster?
+Consegue pensar em alguma utilidade sensata para este gesso?
+
+[HEADER 00220160]
+#Sensible? No. Puerile? Yes - but you've probably thought of those yourself already.
+Sensata? Não. Infantil? Sim, mas você provavelmente já pensou nela por conta própria.
+
+[HEADER 00220161]
+#Would you like to shake hands?
+Gostaria de apertar minha mão?
+
+[HEADER 00220162]
+#What for?
+Pra quê?
+
+[HEADER 00220163]
+#As a gesture of goodwill...
+Como um gesto de benevolência...
+
+[HEADER 00220164]
+#On reflection, no.
+Pensando bem, não.
+
+[HEADER 0022014D]
+#Catch you later, officer.
+Falo com você depois, oficial.
+
+[HEADER 0022014E]
+#Au revoir, doc.
+Au revoir, doutor.
+
+[HEADER 002200D7]
+#Oh, Doctor!
+Ah, Doutor!
+
+[HEADER 002200DF]
+#You haven't taken my blood pressure!
+Você não tirou minha pressão sanguínea!
+
+[HEADER 002200CF]
+#You haven't finished taking my blood pressure!
+Você não acabou de tirar minha pressão sanguínea!
+
+[HEADER 002200D0]
+#Will you keep quiet? You're disturbing the other patients.
+Pode ficar quieto? Você está pertubando os outros pacientes.
+
+[HEADER 002200D1]
+#I'll keep quiet when you've taken my blood pressure properly.
+Ficarei quieto quando você tiver tirado minha pressão sanguínea direito.
+
+[HEADER 002200D2]
+#I have to see Jacques Marquet first...
+Tenho que ver o Jacques Marquet primeiro...
+
+[HEADER 002200D3]
+#How come he gets preferential treatment?
+Como é que ele tem tratamento preferencial?
+
+[HEADER 002200D4]
+#It's because he's got money, isn't it?
+É por causa do dinheiro, não?
+
+[HEADER 002200D6]
+#I'll come back when you've dealt with that chip on your shoulder...
+Voltarei quando você tiver lidado com esse seu pavio curto...
+
+[HEADER 002200D8]
+#What now?
+O que agora?
+
+[HEADER 002200D9]
+#You didn't finish taking my blood pressure!
+Você não terminou de tirar minha pressão sanguínea!
+
+[HEADER 002200DA]
+#Okay - let's try again...
+Certo, vamos tentar de novo...
+
+[HEADER 002200DB]
+#You don't have the first idea what you're doing, do you?
+Você não tem nem ideia do que está fazendo, não é?
+
+[HEADER 002200DC]
+#I'll come back when you've recovered your manners.
+Voltarei quando você estiver com mais modos.
+
+[HEADER 002200DD]
+#Doctor!
+Doutor!
+
+[HEADER 002200DE]
+#What is it?
+O que é?
+
+[HEADER 002200E0]
+#It seems fine to me..
+Parece tudo bem para mim...
+
+[HEADER 002200E1]
+#You're not doing it right.
+Você não está fazendo direto.
+
+[HEADER 002200E2]
+#Of course I am.
+Claro que estou.
+
+[HEADER 002200E3]
+#No, you're not. Doctor Monroe never did it like that.
+Não, não está. O Doutor Monroe nunca fez assim.
+
+[HEADER 002200E4]
+#I can't take a satisfactory reading while you're excited like this.
+Não posso fazer uma leitura satisfatória enquanto você estiver agitado assim. 
+
+[HEADER 002200E5]
+#I'll come back later...
+Voltarei depois...
+
+[HEADER 00220005]
+#This guy didn't look sick to me.
+Esse cara não parecia doente para mim.
+
+[HEADER 00220006]
+#He didn't have spots, or stitches, and he certainly didn't have a fever...
+Ele não tinha pintas, ou pontos, e certamente não estava com febre...
+
+[HEADER 002200E6]
+#Hello? Anybody home?
+Olá? Tem alguém em casa?
+
+[HEADER 002200E7]
+#Who are you?
+Quem é você?
+
+[HEADER 002200E8]
+#My name is Doctor Stobbart, and I'm here to steer you down the rocky road to recovery!
+Meu nome é Doutor Stobbart, e estou aqui para guiá-lo pelo caminho rochoso da recuperação!
+
+[HEADER 002200E9]
+#Doctor Monroe said there was no cure for what I've got...
+O Doutor Monroe disse que não havia cura para o que tenho...
+
+[HEADER 002200EA]
+#Your problem is you stayed in bed too long.
+Seu problema é que você ficou na cama por muito tempo.
+
+[HEADER 002200EB]
+#Are you sure you're a qualified doctor?
+Tem certeza que você é um médico qualificado?
+
+[HEADER 002200EC]
+#You better believe it.
+É melhor acreditar.
+
+[HEADER 002200ED]
+#Hi - it's me again.
+Oi, sou eu de novo.
+
+[HEADER 002200EE]
+#What's your impression of Nurse Grendel?
+Qual a sua impressão da Enfermeira Grendel?
+
+[HEADER 002200EF]
+#She's a very efficient young woman.
+Ela é uma jovem muito eficiente.
+
+[HEADER 002200F0]
+#Efficient? You make her sound like a vacuum cleaner!
+Eficiente? Você a faz parecer como um aspirador de pó!
+
+[HEADER 002200F1]
+#I've no complaints.
+Não tenho queixas.
+
+[HEADER 002200F2]
+#The woman in reception described Nurse Grendel as a monster...
+A mulher na recepção descreveu a Enfermeira Grendel como um monstro...
+
+[HEADER 002200F3]
+#Well, that's simply not true.
+Bem, simplesmente isso não é verdade.
+
+[HEADER 002200F4]
+#She's quite strict, but that's her job, isn't it?
+Ela é muito rigorosa, mas é o trabalho dela, não?
+
+[HEADER 002200F5]
+#You've got to have discipline in a place like this.
+Você tem de ter disciplina num lugar como este.
+
+[HEADER 002200F6]
+#What can you tell me about Marquet?
+O que pode me dizer sobre o Marquet?
+
+[HEADER 002200F7]
+#He's the man in the private room, isn't he?
+Ele é o homem no quarto particular, não é?
+
+[HEADER 002200F8]
+#That room was mine before I was tossed out, like a common squatter!
+Aquele quarto era meu antes de eu ser jogado para fora, como um intruso qualquer!
+
+[HEADER 002200F9]
+#Do you know what's wrong with Marquet?
+Sabe o que há com o Marquet?
+
+[HEADER 002200FA]
+#They won't even say what's wrong with me!
+Eles nem mesmo dizem o que há comigo!
+
+[HEADER 002200FB]
+#Tell me, doctor - what's your opinion?
+Diga, doutor, qual a sua opinião?
+
+[HEADER 002200FC]
+#Uh... It's too early to say.
+Uh... é muito cedo para dizer.
+
+[HEADER 002200FD]
+#But I've been here for three months!
+Mas eu já estou aqui há três meses!
+
+[HEADER 002200FF]
+#Do you recognize this red nose?
+Reconhece este nariz vermelho?
+
+[HEADER 00220100]
+#Doesn't that belong to Boissy?
+Isso não pertence ao Boissy?
+
+[HEADER 00220101]
+#No - I found it in a sewer.
+Não. Encontrei num esgoto.
+
+[HEADER 00220102]
+#He's a clown, you know.
+Ele é um palhaço, sabe.
+
+[HEADER 00220103]
+#You wouldn't think so to look at him now, would you?
+Não está pensando em ir dar uma olhada nele agora, está?
+
+[HEADER 00220104]
+#Do you recognize the man in this photograph?
+Você reconhece o homem nesta foto?
+
+[HEADER 00220105]
+#No, doctor. Who is it?
+Não, doutor. Quem é?
+
+[HEADER 00220106]
+#A cold-blooded killer.
+Um assassino de sangue frio.
+
+[HEADER 0022010F]
+#Does this gem mean anything to you?
+Esta gema significa algo para você?
+
+[HEADER 00220110]
+#No, doctor.
+Não, doutor.
+
+[HEADER 00220113]
+#Have you heard of a guy called Moerlin?
+Já ouviu falar de um cara chamado Moerlin?
+
+[HEADER 00220114]
+#No, doctor.
+Não, doutor.
+
+[HEADER 00220115]
+#Do you know what this tool is used for?
+Sabe para que serve esta ferramenta?
+
+[HEADER 00220116]
+#I'd rather not, doctor.
+Prefiro não saber, doutor.
+
+[HEADER 00220118]
+#Have you ever heard of the Club Alamut?
+Já ouviu falar do Club Alamut?
+
+[HEADER 00220119]
+#I'm not really a nightclub man, doctor.
+Não sou muito baladeiro, doutor.
+
+[HEADER 0022011B]
+#Do you know what this is?
+Sabe o que é isto?
+
+[HEADER 0022011C]
+#It looks like plaster.
+Parece gesso.
+
+[HEADER 00220124]
+#Have you any idea what this is?
+Tem alguma ideia do que seja isto?
+
+[HEADER 00220125]
+#No, doctor. I wouldn't even like to guess.
+Não, doutor. Não quero nem pensar.
+
+[HEADER 0022011F]
+#I'm going to take your blood pressure...
+Vou tirar sua pressão sanguínea...
+
+[HEADER 00220120]
+#Why?
+Por quê?
+
+[HEADER 00220121]
+#I'm a doctor - it's my job.
+Sou um médico. É o meu trabalho.
+
+[HEADER 0023000B]
+#Marquet?
+Marquet?
+
+[HEADER 0023000C]
+#Yes, I'm Marquet. I've been expecting you...
+Sim, sou Marquet. Estive esperando você...
+
+[HEADER 0023000D]
+#You have?
+Esteve?
+
+[HEADER 0023000E]
+#Well, what are you waiting for? Get it over with!
+Bem, o que está esperando? Acabe logo com isto!
+
+[HEADER 0023000F]
+#I just want to know what I should do with the gem.
+Só quero saber o que devo fazer com a gema.
+
+[HEADER 00230010]
+#The Lochmarne gem...?
+A gema de Lochmarne...?
+
+[HEADER 00230011]
+#Yeah. Right here in my pocket.
+É. Bem aqui no meu bolso.
+
+[HEADER 00230012]
+#I thought you were one of the Hashshashin!
+Pensei que você fosse um dos Hashshashin!
+
+[HEADER 00230013]
+#Not me.
+Não eu.
+
+[HEADER 00230014]
+#I never inhaled.
+Eu não respirava.
+
+[HEADER 00230015]
+#So... you were sent in my place?
+Então... você foi enviado no meu lugar?
+
+[HEADER 00230016]
+#Uh... yeah. You could hardly make the trip to Ireland in your condition.
+Uh... é. Você dificilmente conseguiria fazer a viagem à Irlanda nessas condições.
+
+[HEADER 00230017]
+#What should I do with the gem?
+O que devo fazer com a gema?
+
+[HEADER 00230018]
+#Deliver it to the Grand Master, quickly!
+Entregue-a ao Grão-Mestre, rápido!
+
+[HEADER 00230019]
+#Tell him that I've found the tripod - right here, in Paris.
+Diga a ele que achei o tripé... bem aqui, em Paris.
+
+[HEADER 0023001A]
+#You have it?
+Vocês está com ele?
+
+[HEADER 0023001B]
+#Not yet, but it's being taken care of.
+Ainda não, mas estou cuidando disso.
+
+[HEADER 0023001C]
+#I've hired a couple of stooges with a flair for petty crime.
+Contratei uma dupla de otários com um instinto para crimes mesquinhos.
+
+[HEADER 0023001D]
+#Would that be Flap and Guido, by any chance?
+Seriam Flap e Guido por acaso?
+
+[HEADER 0023001E]
+#You know them?
+Conhece eles?
+
+[HEADER 00230025]
+# Melhorar o trocadilho??!
+#As for Klausner, he's gone off to Syria on a wild-goose chase!
+Quanto ao Klausner, ele partiu pra Síria feito uma barata tonta!
+
+[HEADER 00230026]
+#They have geese in Syria?
+Há baratas na Síria?
+
+[HEADER 00230027]
+#He has a theory about the location of the...
+Ele tem uma teoria sobre a localização da...
+
+[HEADER 00230028]
+#That's enough excitement for one day, M'sieur Marquet...
+Já é agitação demais para um dia, M'sieur Marquet...
+
+[HEADER 00230029]
+#What are you doing here?
+O que está fazendo aqui?
+
+[HEADER 0023002A]
+#Talking to this patient, of course.
+Conversando com este paciente, é claro.
+
+[HEADER 0023002B]
+#M'sieur Marquet is my patient.
+M'sieur Marquet é meu paciente.
+
+[HEADER 0023002C]
+#If Herr Hagenmeyer was to hear that...
+Se Herr Hagenmeyer escutasse isso...
+
+[HEADER 0023002D]
+#Okay! I'm going.
+Tudo bem! Estou indo.
+
+[HEADER 0023002E]
+#I'd learned all I could from Marquet anyhow.
+Eu já tinha escutado tudo o que queria do Marquet.
+
+[HEADER 0023002F]
+#There you are, Sir! I was just coming to look for you.
+Aí está você, senhor! Eu estava indo procurá-lo.
+
+[HEADER 00230030]
+#I've finished with your pressure gauge.
+Terminei com seu medidor de pressão.
+
+[HEADER 00230031]
+#Thanks, Bunny.
+Obrigado, Bebê.
+
+[HEADER 00230032]
+#What's that noise? It sounds as if someone's having a cardiac arrest!
+O que é esse barulho? Parece como se alguém estivesse tendo uma parada cardíaca.
+
+[HEADER 00230033]
+#It's all right - the doctor is in there with him.
+Está tudo bem. O médico está lá dentro com ele.
+
+[HEADER 00230034]
+#Are you sure he was a doctor?
+Tem certeza de que era um médico?
+
+[HEADER 00230035]
+#Oui, m'sieur! He showed me his ID. It was Docteur Braille.
+Oui, m'sieur! Ele me mostrou seu crachá. Era o Docteur Braille.
+
+[HEADER 00230036]
+#There's no Docteur Braille working here.
+Não há nenhum Docteur Braille trabalhando aqui.
+
+[HEADER 00230037]
+#He's an impostor!
+Ele é um impostor!
+
+[HEADER 00230038]
+#The door's locked! Help me, officer!
+A porta está trancada! Me ajude, oficial!
+
+[HEADER 00230039]
+#Stand back, messieurs!
+Para trás, messieurs!
+
+[HEADER 00210008]
+#It was a classic example of functionalism, like an early Soviet spacecraft.
+Era um clássico exemplo de funcionalismo, como uma antiga espaçonave soviética.
+
+[HEADER 00210009]
+#I almost expected to see a dog or a monkey leap out...
+Eu quase esperava ver um cachorro ou um macaco pular fora ... 
+
+[HEADER 0021000B]
+#He looked blissfully happy, for no apparent reason.
+Ele parecia completamente feliz, sem nenhuma razão aparente.
+
+[HEADER 0021000C]
+#The janitor's face was a mask of sadness and pain, like his best friend had just died...
+O rosto do zelador era uma máscara de tristeza e dor, como se seu melhor amigo tivesse acabado de morrer...
+
+[HEADER 002100AA]
+#Hello!
+Olá!
+
+[HEADER 002100AB]
+#What's that?
+O quê?
+
+[HEADER 002100AC]
+#I said: Hello!
+Eu disse: "Olá!".
+
+[HEADER 002100AD]
+#Oh - hiya!
+Ah, oi!
+
+[HEADER 002100AE]
+#I'd like to talk to you for a minute...
+Eu gostaria de conversar com você por um minuto...
+
+[HEADER 002100AF]
+#That's what I thought you said.
+Foi o que pensei que diria.
+
+[HEADER 002100B0]
+#Don't look so down-in-the-mouth!
+Não fique tão cabisbaixo!
+
+[HEADER 002100B1]
+#No matter how bad things seem, I never let life get on top of me!
+Não importa o quão ruim as coisas pareçam, nunca deixo a vida ficar sobre mim! 
+
+[HEADER 002100B2]
+#Oh, yeah? What's your secret?
+Ah, é? Qual o seu segredo?
+
+[HEADER 002100B3]
+#Why - it's easy! All you have to do is smile - and whistle this little tune...
+Ora, é fácil! Tudo o que tem que fazer é sorrir e assobiar esta pequena melodia...
+
+[HEADER 002100B4]
+#You know what? If you start whistling I'll bust you in the teeth.
+Quer saber? Se começar a assobiar, vou dar um soco bem nos seus dentes.
+
+[HEADER 002100B5]
+#It's a deal!
+Fechado!
+
+[HEADER 002100B6]
+#Oh, hi!
+Ah, oi!
+
+[HEADER 002100B7]
+#No whistling, right?
+Sem assobiar, certo?
+
+[HEADER 002100B8]
+#Right.
+Certo.
+
+[HEADER 002100B9]
+#Do you know where I'd find a patient called Marquet?
+Sabe onde posso encontrar um paciente chamado Marquet?
+
+[HEADER 002100BA]
+#No. I'm not allowed on the wards with Mr. Shiny.
+Não. Não sou permitido nas enfermarias com o Sr. Brilhante.
+
+[HEADER 002100BB]
+#Have you seen any unsavoury characters lurking about in the corridors?
+Você viu uns indivíduos repugnantes espreitando-se pelos corredores?
+
+[HEADER 002100BC]
+#No, Sir, I haven't, but I've got nothing to worry about.
+Não, senhor, mas não tenho nada com o que me preocupar.
+
+[HEADER 002100BD]
+#What's that, Mr. Shiny? You'd take good care of the rascals? I'll bet you would!
+O que foi, Sr. Brilhante? Você vai cuidar dos bandidos? Aposto que sim!
+
+[HEADER 002100BE]
+#With a friend like him I've no fear of oppressors!
+Com um amigo como ele, não temo ninguém!
+
+[HEADER 002100BF]
+#It must be a great comfort.
+Deve ser um grande conforto.
+
+[HEADER 002100C0]
+#He is.
+E é.
+
+[HEADER 002100CF]
+#Are you having trouble with Mr. Shiny?
+Está tendo problemas com o Sr. Brilhante?
+
+[HEADER 002100D0]
+#Yes, I am! I don't know what's got into him today.
+Sim! Não sei o que está havendo com ele hoje.
+
+[HEADER 002100D1]
+#He keeps pullin' his plug.
+Ele fica soltando da tomada.
+
+[HEADER 002100C4]
+#How come you got so attached to a polishing machine?
+Como é que você ficou tão ligado a uma enceradeira?
+
+[HEADER 002100C5]
+#I asked you not to call him that.
+Pedi para não chamá-lo assim.
+
+[HEADER 002100C6]
+#He's got a name, you know.
+Ele tem um nome, sabe.
+
+[HEADER 002100C7]
+#Uh... yeah. Mr. Shiny.
+Uh... é. Sr. Brilhante.
+
+[HEADER 002100C8]
+#It's just that...
+É só um...
+
+[HEADER 002100C9]
+#You think it's odd, don't you?
+Acha que é estranho, não é?
+
+[HEADER 002100CB]
+#I don't mind. The rest of the staff think I'm twisted.
+Não ligo. O resto da equipe acha que estou doidão.
+
+[HEADER 002100CC]
+#I heard them, snorking behind my back when I gave Mr. Shiny his weekly pull-through...
+Já ouvi eles fazendo piadas pelas minhas costas enquanto eu dava o banho semanal do Sr. Brilhante...
+
+[HEADER 002100C1]
+#Would `Mr. Shiny' be your polishing machine, by any chance?
+Por acaso o 'Sr. Brilhante' seria a sua enceradeira?
+
+[HEADER 002100C2]
+#Please - don't call him that. He's more of a friend than a machine.
+Por favor, não o chame assim. Ele é mais um amigo do que uma máquina.
+
+[HEADER 002100C3]
+#I've had Mr. Shiny for three years, and he's never let me down once!
+Tenho o Sr. Brilhante há três anos, e ele nunca me desapontou!
+
+[HEADER 002100E2]
+#What's the problem with nurse Grendel?
+Qual o problema da enfermeira Grendel?
+
+[HEADER 002100E3]
+#She's uptight and twisted, on account of a broken heart.
+Ela é pertubada e doidona por causa de um coração ferido.
+
+[HEADER 002100E4]
+#Aw, that's too bad. I thought she was just plain bad-tempered.
+Ah, isso é bem ruim. Pensei que ela só era simplesmente mau-humorada. 
+
+[HEADER 002100E5]
+#That also. By the way, Sir - I wouldn't stand too close to Mr. Shiny's grease valve.
+Também. A propósito, senhor, eu não ficaria muito próximo da válvula de graxa do Sr. Brilhante.
+
+[HEADER 002100E6]
+#If he has an emission it'll take the shine clean off your shoes.
+Se ela vazar, já era para o brilho dos seus sapatos.
+
+[HEADER 002100E7]
+#Say  - nice sneakers!
+Aliás, belos tênis!
+
+[HEADER 002100E8]
+#Thanks.
+Obrigado.
+
+[HEADER 002100F2]
+#Take a look at this red nose...
+Dê uma olhada neste nariz vermelho...
+
+[HEADER 002100F3]
+#Are you a policeman?.
+Você é um policial?
+
+[HEADER 002100F4]
+#No. This is a clown's nose, not a policeman's
+Não. Isto é um nariz de palhaço, não de um policial.
+
+[HEADER 00210118]
+#Do you recognize this matchbook?
+Você reconhece esta caixa de fósforos?
+
+[HEADER 00210119]
+#You should never, ever play with matches.
+Você não deve nunca, jamais brincar com fósforos.
+
+[HEADER 0021011A]
+#I know that, but...
+Eu sei disso, mas...
+
+[HEADER 0021011B]
+#People get hurt when they do.
+As pessoas se machucam quando fazem isso.
+
+[HEADER 0021011D]
+#They end up in hospital like the burger-lady.
+Elas acabam no hospital como a mulher-hambúrguer.
+
+[HEADER 0021011E]
+#She was so burned-up they didn't know whether to use bandages or onions.
+Ela estava tão queimada que não sabiam se usavam ataduras ou cebolas.
+
+[HEADER 00210085]
+#Do you recognize the man in this photograph?
+Você reconhece o homem nesta foto?
+
+[HEADER 00210126]
+#Who is it?
+Quem é?
+
+[HEADER 00210127]
+#That's what I'm asking you. Have you seen him before?
+É o que estou lhe perguntando. Já o viu antes?
+
+[HEADER 00210128]
+#How should I know? You haven't told me who he is!
+Como posso saber? Você não me disse quem ele é!
+
+[HEADER 00210129]
+#Take a look at the photo.
+Dê uma olhada na foto.
+
+[HEADER 0021012A]
+#Yeah. Okay.
+Tá, tudo bem.
+
+[HEADER 0021012B]
+#Now, have you seen him before?
+Agora, já o viu antes?
+
+[HEADER 00210039]
+#No.
+Não.
+
+[HEADER 002100FE]
+#Would this tool be any use to you?
+Esta ferramenta teria alguma utilidade para você?
+
+[HEADER 002100FF]
+#No, Sir. Mr. Shiny has no user-serviceable parts.
+Não, senhor. O Sr. Brilhante não possui peças que possam ser reparadas pelo usuário.
+
+[HEADER 00210100]
+#Whatever that means...
+Seja lá o que isso signifique...
+
+[HEADER 00210101]
+#Do you recognize this pass?
+Você reconhece este crachá?
+
+[HEADER 00210102]
+#No, I don't. Should I?
+Não. Eu deveria?
+
+[HEADER 00210103]
+#No, but I wondered if you'd seen a stranger flashing it about...
+Não, mas imaginei que você tivesse visto um estranho com isto...
+
+[HEADER 00210104]
+#No, Sir. But if I had, Mr. Shiny would take care of him.
+Não, senhor. Mas se tivesse, o Sr. Brilhante tomaria conta dele.
+
+[HEADER 00210105]
+#Would you like to shake my hand?
+Gostaria de apertar minha mão?
+
+[HEADER 00210106]
+#Not until I've washed if you don't mind, Sir.
+Não até eu ter lavado, se não se importar, senhor.
+
+[HEADER 0021009C]
+#What does this tissue suggest to you?
+O que este lenço lhe sugere?
+
+[HEADER 0021010B]
+#You have a cold. What you need is vitamin C!
+Você está com gripe. Precisa de vitamina C!
+
+[HEADER 0021010D]
+#What do you think of this, Sam?
+O que acha disto, Sam?
+
+[HEADER 0021010E]
+#Oh, boy!
+Caramba!
+
+[HEADER 0021010F]
+#What is it?
+O que é?
+
+[HEADER 00210110]
+#A priceless gemstone, found in a medieval castle in Ireland.
+Uma pedra preciosa inestimável encontrada num castelo medieval na Irlanda.
+
+[HEADER 00210111]
+#Get me into Marquet's ward and it's yours.
+Me ponha dentro da enfermaria do Marquet e ela é sua.
+
+[HEADER 00210112]
+#I don't wear jewellery.
+Não uso joias.
+
+[HEADER 00210113]
+#If this gem was yours you'd be able to buy a hundred Mr. Shinys!
+Se esta gema fosse sua, você poderia comprar uns cem Srs. Brilhantes!
+
+[HEADER 00210114]
+#Don't be silly!
+Não seja imbecil!
+
+[HEADER 00210115]
+#There's only one Mr. Shiny!
+Só existe um Sr. Brilhante!
+
+[HEADER 0021011F]
+#Do you recognise this powder?
+Você reconhece este pó?
+
+[HEADER 00210120]
+#Is that dandruff...?
+É caspa...?
+
+[HEADER 00210121]
+#No way!
+Nem pensar!
+
+[HEADER 00210122]
+#It sure looks like dandruff.
+Parece muito com caspa.
+
+[HEADER 00210123]
+#It's plaster.
+É gesso.
+
+[HEADER 00210124]
+#Ugh!
+Ugh!
+
+[HEADER 00210077]
+#See you later...
+Até mais...
+
+[HEADER 002100F1]
+#Yeah! Take care, now.
+Sim! Se cuida.

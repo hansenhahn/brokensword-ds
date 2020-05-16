@@ -1,0 +1,910 @@
+# Broken Sword - Shadow of the Templars (Director's Cut)
+# Versão do Script: 10.09
+[HEADER 000036B0]
+#Where should I go next?
+Aonde devo ir agora?
+
+[HEADER 000036BA]
+#Try going back to the café - maybe the police missed something.
+Tente voltar ao café. Talvez a polícia tenha esquecido algo.
+
+[HEADER 000036C4]
+#To leave Nico's street, walk to the left until the exit arrow is displayed. Select it, and you'll see a map of Paris. Select 'Café de la Chandelle Verte'.
+Para deixar a rua em que a Nico se encontra, caminhe para a esquerda até que a seta de saída apareça. Selecione-a e você verá um mapa de Paris. Selecione 'Café de la Chandelle Verte'.
+
+[HEADER 000036CE]
+#I'm back in Nico's apartment. What now?
+Voltei ao apartamento da Nico. E agora?
+
+[HEADER 000036D8]
+#Maybe someone phoned while you were out?
+Talvez alguém tenha telefonado enquanto você esteve fora?
+
+[HEADER 000036E2]
+#Operate the answering machine which is on the shelves at the back of the room on the left.
+Mexa na secretária eletrônica que está nas prateleiras, no fundo da sala, à esquerda.
+
+[HEADER 000036EC]
+#I'm back in the apartment. So what now?
+Voltei ao apartamento. E agora?
+
+[HEADER 000036F6]
+#When you opened the chest, did you spot anything else?
+Quando você abriu o baú, percebeu alguma coisa?
+
+[HEADER 00003700]
+#Check out that elephant box. Does the elephant remind you of anything?
+Verifique aquela caixa com o elefante. Ele não é familiar?
+
+[HEADER 0000370A]
+#Use the key from Imelda's locket to open the box, and check out all the contents.
+Use a chave do medalhão da Imelda para abrir a caixa. Em seguida, verifique todo seu conteúdo.
+
+[HEADER 00002B3E]
+#I'm having problems cracking this cipher.
+Estou tendo problemas para resolver este código.
+
+[HEADER 00002B03]
+#Look for the one or two letter words and try out 'A' or 'I' or 'IN' or 'OF' or 'TO' or 'BY' etc.  If you guess right, then some of the 3 or 4 letter words will now become clear.
+Procure por uma ou duas letras e experimente 'A' ou 'E' ou 'EM' etc. Se seus palpites estiverem certos, então 3 ou 4 palavras agora estarão visíveis.
+
+[HEADER 00002B04]
+#The letter 'E' is very common.  Find the most common glyph and try inserting an 'E' in its place.
+A letra 'E' é muito comum. Procure o cifra mais comum e tente inserir o 'E' em seu lugar.
+
+[HEADER 00002B05]
+#The first word is PIERRE - that will give you four correct letters.
+A primeira palavra é PIERRE. Isso vai resultar em quatro letras corretas.
+
+[HEADER 00002B06]
+#The first words are PIERRE. FULL REPORT TO FOLLOW.
+As primeiras palavras são PIERRE. ENVIADO RELATÓRIO COMPLETO.
+
+[HEADER 00001B58]
+#I was on a high:  I'd written the best piece of my whole life.
+Eu estava eufórica. Tinha escrito a melhor matéria de toda a minha vida.
+
+[HEADER 00001B59]
+#It tied Carchon's death to the other murders.
+Ela ligava a morte de Carchon aos outros assassinatos.
+
+[HEADER 00001B5A]
+#And exposed Carchon's brutal past.
+E expunha o passado negro dele.
+
+[HEADER 00001B5B]
+#The presses would be rolling now - with my name on the front page.
+As prensas devem estar rodando agora, com meu nome na primeira página.
+
+[HEADER 00001B5C]
+#Bonsoir, Collard.
+Bonsoir, Collard.
+
+[HEADER 00001B5D]
+#Nico. It's Ronnie.
+Nico. Aqui é o Ronnie.
+
+[HEADER 00001B5E]
+#Hey, Ronnie.  You cracked open the champagne yet?
+Ei, Ronnie. Já abriu o champanhe?
+
+[HEADER 00001B5F]
+#Are you crazy?
+Está maluca?
+
+[HEADER 00001B60]
+#What's wrong?  Wait a minute - you didn't print it, did you...
+O que foi? Espere um minuto... Você não publicou, não é...?
+
+[HEADER 00001B61]
+#Course I didn't print!
+Claro que não publiquei!
+
+[HEADER 00001B62]
+#That's the best piece I've written -
+Esta é a melhor matéria que já escrevi...
+
+[HEADER 00001B63]
+#The last, as far as I'm concerned.
+A última, até onde eu sei.
+
+[HEADER 00001B64]
+#It's important -
+É importante...
+
+[HEADER 00001B65]
+#It's suicidal.  You can't destroy a national hero.
+É suicídio. Você não pode destruir um herói nacional.
+
+[HEADER 00001B66]
+#He deserved it.
+Ele merece isso.
+
+[HEADER 00001B67]
+#His corpse isn't even cold!
+O corpo dele nem esfriou ainda!
+
+[HEADER 00001B68]
+#Ronnie.  Two hours ago I told you what I'd found - and you loved it.
+Ronnie. Duas horas atrás, eu falei o que tinha encontrado e você tinha adorado.
+
+[HEADER 00001B69]
+#You begged me to write it up immediately.
+Você implorou para que eu escrevesse a matéria logo.
+
+[HEADER 00001B6A]
+#Two hours is a long time in newspapers, Nico.
+Duas horas é um tempo enorme na imprensa, Nico.
+
+[HEADER 00001B6B]
+#Someone's got to you - haven't they?
+Alguém foi atrás de você, não é?
+
+[HEADER 00001B6C]
+#Listen up, Nicole.  And listen good. Pierre Carchon had a lot of friends.
+Escute, Nicole. Escute muito bem. Pierre Carchon tinha muitos amigos.
+
+[HEADER 00001B6D]
+#Powerful friends.  For your own sake -
+Amigos poderosos. Para o seu próprio bem...
+
+[HEADER 00001B6E]
+#Forget what happened?
+Esqueça o que aconteceu?
+
+[HEADER 00001B6F]
+#You got it.  End of conversation.  Goodnight.
+Isso aí. Fim de papo. Boa noite.
+
+[HEADER 00001B70]
+#This should have been my big break.
+Isto devia ter sido meu passaporte para o sucesso.
+
+[HEADER 00001B71]
+#But I knew there was nowhere else to sell the story - if Ronnie wouldn't print it, nobody would.
+Mas eu sabia que não havia ninguém para quem vender a história. Se o Ronnie não publicasse, ninguém mais iria.
+
+[HEADER 00001B72]
+#Bonsoir, Collard.
+Bonsoir, Collard.
+
+[HEADER 00001B73]
+#Mademoiselle Collard.  My name is Plantard. I need to talk to you about your story.
+Mademoiselle Collard. Meu nome é Plantard. Preciso falar com você sobre sua matéria.
+
+[HEADER 00001B74]
+#Your... Pierre Carchon story.
+Sua... matéria sobre Pierre Carchon.
+
+[HEADER 00001B75]
+#How do you know about that - ?
+Como você sabe disso...?
+
+[HEADER 00001B76]
+#There are people out there Madame who will be very... upset... by this story.
+Há pessoas lá fora, Madame, que ficariam muito... perturbadas... com essa matéria.
+
+[HEADER 00001B77]
+#Oh really?  Well, it's their lucky day - it's been spiked.
+Ah, é mesmo? Bem, então é o dia de sorte delas. Já foi cancelada.
+
+[HEADER 00001B78]
+#Yes, I know.  We must meet.
+Sim, eu sei. Devemos nos encontrar.
+
+[HEADER 00001B79]
+#We must?
+Devemos?
+
+[HEADER 00001B7A]
+#I have information relating to your Costume Killer stories.
+Tenho informações relacionadas aos seus artigos sobre o Assassino das Fantasias.
+
+[HEADER 00001B7B]
+#Tomorrow morning. 8am. Café de la Chandelle Verte, Rue Alain Corre.
+Amanhã de manhã. Oito horas. Café de la Chandelle Verte, Rue Alain Corre.
+
+[HEADER 00001B7C]
+#I shall be wearing a grey overcoat.
+Eu estarei usando um sobretudo cinza.
+
+[HEADER 00001B7D]
+#You must talk to no-one about this.
+Você não deve falar com mais ninguém sobre isso.
+
+[HEADER 00001B7E]
+#You can't tell me what to...
+Você não pode me falar o que...
+
+[HEADER 00001B7F]
+#Tomorrow at eight. I'll be waiting.
+Amanhã às oito. Estarei esperando.
+
+[HEADER 00001B80]
+#People complain about newspaper articles all the time.
+As pessoas se queixam de artigos de jornais a todo momento.
+
+[HEADER 00001B81]
+#But not usually before they're printed. I was beginning to feel scared.
+Mas não antes de eles serem publicados. Eu começava a sentir medo.
+
+[HEADER 00001B82]
+#This guy Plantard...  Could I trust him?
+Esse cara, Plantard... Eu podia confiar nele?
+
+[HEADER 00001B83]
+#Should I meet him, or forget the whole business?
+Devo encontrá-lo, ou esquecer todo este negócio?
+
+[HEADER 00001B84]
+#I didn't have an answer.
+Eu não tinha uma resposta.
+
+[HEADER 00001B93]
+#So - where had my pretty new cousin hidden her little bug eh?
+Onde será que minha nova priminha escondeu a pequena escuta dela...?
+
+[HEADER 00001B94]
+#I was going to have to search everywhere.
+Eu teria que procurar por todo o apartamento.
+
+[HEADER 00001B91]
+#It wasn't much of a door - as long as it wasn't damp, anyone could break in.
+Não era uma porta das mais seguras... Contanto que não estivesse úmida, qualquer um poderia a abrir.
+
+[HEADER 00001B92]
+#My landlord had an open door policy.  He'd made all our doors easy to open.
+Meu senhorio tinha uma política de porta aberta. Ele tornou todas as nossas portas fáceis de abrirem.
+
+[HEADER 00001BBC]
+#It was my neighbour, the so-called psychic.
+Era a minha vizinha, a tão bem falada vidente.
+
+[HEADER 00001BBD]
+#Mam'selle Collard!
+Mam'selle Collard!
+
+[HEADER 00001BBE]
+#Oh... hello there.  Don't tell me - I'm going to meet a tall dark man.
+Ah... olá. Não me diga. Vou encontrar um homem alto e moreno.
+
+[HEADER 00001BBF]
+#No... I don't think so... Why would you say that?
+Não... acho que não. Por que eu diria isso?
+
+[HEADER 00001BC0]
+#Oh - just a wild guess.
+Ah... só um chute.
+
+[HEADER 00001BC1]
+#Hmm.  Anyway.  Your cousin's female - and very pretty.
+Hmm. De qualquer maneira, sua prima é bem bonita.
+
+[HEADER 00001BC2]
+#What?!
+Como?!
+
+[HEADER 00001BC3]
+#Your cousin - from Marseille. How could you forget her so soon?
+Sua prima, de Marseille. Como pôde esquecê-la tão rápido?
+
+[HEADER 00001BC4]
+#She was only in your apartment yesterday.
+Ela esteve no seu apartamento ainda ontem.
+
+[HEADER 00001BC5]
+#Oh really...
+Ah, é mesmo...
+
+[HEADER 00001BC6]
+#Such a charming young girl.
+Uma jovem e charmosa garota.
+
+[HEADER 00001BC7]
+#Isn't she.  And in my apartment, you say...
+Não é? Você disse no meu apartamento...
+
+[HEADER 00001BC8]
+#She let herself in of course.  She's got a key.
+Ela entrou, é claro. Tinha uma chave.
+
+[HEADER 00001BC9]
+#Bonjour.
+Bonjour.
+
+[HEADER 00001BCA]
+#Bonjour, Mam'selle!
+Bonjour, Mam'selle!
+
+[HEADER 00001BCB]
+#I suppose she'd forgotten which apartment was mine?
+Creio que ela tenha esquecido qual era o meu apartamento...
+
+[HEADER 00001BCC]
+#Ooh miss Collard you're a mind-reader.  That's just what she said!
+Ooh, senhorita Collard, Você leu meus pensamentos. Foi isso mesmo o que ela disse!
+
+[HEADER 00001BCD]
+#I bet it was.  Well, I'd better be going - see what my sweet cousin's been getting up to...
+Aposto que sim. Bem, é melhor eu ir, ver o que minha priminha querida esteve fazendo...
+
+[HEADER 00001BCE]
+#Au revoir, Mam'selle.
+Au revoir, Mam'selle.
+
+[HEADER 00001BCF]
+#Suddenly everything made sense.  My apartment had been bugged.
+De repente, tudo fazia sentido. Meu apartamento havia sido grampeado.
+
+[HEADER 00001BD0]
+#That was how Plantard knew all about my article.
+Foi assim que o Plantard soube sobre o meu artigo.
+
+[HEADER 00001BD1]
+#How did I know?
+Como eu sei?
+
+[HEADER 00001BD2]
+#Because the only cousin I have is a sweet little guy called Jean-Marc who runs a patisserie in Le Touquet...
+Porque o único PRIMO que tenho é um doce rapaz chamado Jean-Marc, dono de uma patisserie em Le Touquet...
+
+[HEADER 00001BD3]
+#These people were determined:  which meant they were also very dangerous.
+Essas pessoas estavam determinadas, o que significava que elas eram também muito perigosas.
+
+[HEADER 00001BD4]
+#The woman who claimed to be my cousin - could you describe her again?
+A mulher que você disse ser minha prima... Pode descrevê-la novamente?
+
+[HEADER 00001BD5]
+#Well... she was your height. Had hair... lighter than yours.  But otherwise, she was very like you.
+Bem, ela tinha a sua altura. Cabelos... mais claros que os seus. Mas, tirando isso, era muito parecida com você.
+
+[HEADER 00000D04]
+#But with impeccable manners of course.
+Mas tinha boas maneiras, é claro.
+
+[HEADER 00001BD6]
+#I bet.
+Aposto.
+
+[HEADER 00001BD7]
+#I don't suppose you've seen my dear cousin again, have you?
+Presumo que você não viu minha querida prima de novo, certo?
+
+[HEADER 00001BD8]
+#No.  Of course, I couldn't be certain.
+Não. Mas, é claro, eu não posso ter certeza.
+
+[HEADER 00001BD9]
+#I'm not the sort that spends the time gossiping and spying on the neighbours you know.
+Não sou do tipo que passa o dia fofocando e espiando os vizinhos, você sabe.
+
+[HEADER 00001BDA]
+#As I said, I don't think so.
+Como eu disse, acho que não.
+
+[HEADER 00001BDB]
+#Au revoir.
+Au revoir.
+
+[HEADER 00001BDC]
+#What do you think of my hairclip?
+O que acha do meu prendedor de cabelo?
+
+[HEADER 00001BDD]
+#Very nice. One day I may be able to afford one of those Mademoiselle.
+Muito bonito. Um dia talvez eu consiga comprar um desses, Mademoiselle.
+
+[HEADER 00001BDE]
+#I took this stone cylinder from a safe.
+Peguei este rolo de pedra de um cofre.
+
+[HEADER 00001BDF]
+#Hmm, interesting.  Let me give you a word of advice:
+Hmm, interessante. Deixe-me dar um conselho:
+
+[HEADER 00001BF6]
+#if you ever want to know what is written on it,
+se você quiser saber o que está escrito no rolo,
+
+[HEADER 00001BF7]
+#you should smear it with paint and then roll it on paper.
+espalhe tinta nele e então role-o em um papel.
+
+[HEADER 00001BF8]
+#What?!
+O quê?!
+
+[HEADER 00001BF9]
+#It is a gift Mam'selle.  I never question it.
+É um dom, Mam'selle. Eu nunca o questiono.
+
+[HEADER 00001BE0]
+#I don't suppose you're any good at unravelling codes?
+Creio que você não seja boa em decifrar códigos...
+
+[HEADER 00001BE1]
+#My beautiful grandmother was a cryptologist for the Resistance, but all I inherited were her good looks.
+Minha linda avó era uma criptóloga da Resistência, mas tudo que herdei dela foi a sua boa aparência.
+
+[HEADER 00001BE2]
+#What do you think of this shell case?
+O que acha desta cápsula?
+
+[HEADER 00001BE3]
+#I think whoever stopped that one must have a sore bottom.
+Eu acho que, seja quem tenha a interceptado, deve ter ficado com o traseiro dolorido.
+
+[HEADER 00001BE4]
+#Have you ever seen an artefact like this before?
+Você já viu um artefato assim antes?
+
+[HEADER 00001BE5]
+#Mademoiselle it is no wonder you do not have a boyfriend if this is how you make conversation.
+Mademoiselle, com esse tipo de conversa, não é à toa que você não tenha um namorado.
+
+[HEADER 00001BE6]
+#Do you know anything about this boat ticket?
+Você sabe algo sobre este bilhete de barco?
+
+[HEADER 00001BE7]
+#No mademoiselle.  I am not a tourist office.
+Não, mademoiselle. Eu não sou uma agente de viagens.
+
+[HEADER 00001BEA]
+#Take a look at this cloth.
+Dê uma olhada nesta toalha.
+
+[HEADER 00001BEB]
+#It looks expensive.  Did you steal it?
+Ela parece ser cara. Você a roubou?
+
+[HEADER 00001C04]
+#Uh well... No, of course not!
+Uh, bem... Não, é claro que não!
+
+[HEADER 00001BE8]
+#Take a look at this cloth.
+Dê uma olhada nesta toalha.
+
+[HEADER 00001BE9]
+#It was once very beautiful.
+Ela já foi bonita uma vez.
+
+[HEADER 00001C02]
+#Shame some idiot got paint all over it.
+Pena que algum idiota espalhou tinta por ela toda.
+
+[HEADER 00001C03]
+#I know. People have no respect these days, do they?
+Eu sei. As pessoas não tem mais respeitos hoje em dia, não é?
+
+[HEADER 00001BEC]
+#Look at this tube of paint.
+Olhe este tubo de tinta.
+
+[HEADER 00001BED]
+#You don't get out much, Mademoiselle, do you...
+Não tem muita sobrando, Mademoiselle...
+
+[HEADER 00001BEE]
+#Ever seen a safe key like this?
+Já viu uma chave de cofre assim antes?
+
+[HEADER 00001BEF]
+#In my business I don't come across many safes.
+Não vejo muitos cofres no meu serviço.
+
+[HEADER 00001BF0]
+#What do you think of this carving?
+O que acha deste entalhe?
+
+[HEADER 00001BF1]
+#It's nice.  But I wouldn't flash it round this neighbourhood.
+É bonito. Mas eu não andaria com ele à vista perto da vizinhança.
+
+[HEADER 00001BF3]
+#It wouldn't be sensible to let her know about Carchon.
+Não seria sensato falar com ela sobre o Carchon.
+
+[HEADER 00001BFD]
+#What do make of this message?
+O que você vê nesta mensagem?
+
+[HEADER 00001BFE]
+#It will take you on a journey... that begins where it ends...
+Ela vai te levar em uma jornada... que começa onde termina...
+
+[HEADER 00001BFF]
+#... in laughter and in tears... in sadness and in joy.
+... em risadas e lágrimas... em tristeza e alegria.
+
+[HEADER 00001C00]
+#You got all that from this paper?
+Você viu tudo isso neste papel?
+
+[HEADER 00001C01]
+#No.  It's from a song I heard it on the radio this morning.
+Não. Foi de uma música que ouvi no rádio de manhã.
+
+[HEADER 00001BF4]
+#What do you think of this leather pouch?
+O que você acha desta bolsa de couro?
+
+[HEADER 00001BF5]
+#Hmm.  With a little work, it could make rather a nice hat.
+Hmm. Com um pouco de trabalho, ela poderia virar um belo chapéu.
+
+[HEADER 00001B8A]
+#Look, why don't you come here, to my apartment, later this afternoon?
+Olha, por que você não vem ao meu apartamento mais tarde?
+
+[HEADER 005A00C1]
+#Fine. Where do you live?
+Tudo bem. Onde fica?
+
+[HEADER 005A00C2]
+#Three-six-one, Rue Jarry.
+Rue Jarry, três-meia-um.
+
+[HEADER 005A00C3]
+#Okay. I'll come over.
+Certo. Eu apareço lá.
+
+[HEADER 00001B8B]
+#I was used to working alone. But I had to admit - it felt good with George on the case too.
+Eu trabalhava sozinha, mas tinha que admitir: é bom ter o George no caso também.
+
+[HEADER 00001B8C]
+#But there were some things I was going to have to do alone - and fast.
+Porém, havia algumas coisas que eu tinha que fazer sozinha. E rápido.
+
+[HEADER 00001B8D]
+#I needed the answers to some questions.  Who was the Costume Killer - and why did he murder Carchon?
+Eu precisava da resposta de algumas perguntas. Quem era o Assassino das Fantasias, e por que ele matou o Carchon?
+
+[HEADER 00001B8E]
+#Why did Carchon ask for me to interview him?  How did he know my father? And why was my editor so scared?
+Por que o Carchon pediu para que eu o entrevistasse? De onde ele conhecia meu pai? E por que meu editor estava tão apavorado?
+
+[HEADER 00001B8F]
+#There was some kind of secret war going on out there - but who was on which side?
+Havia algum tipo de guerra secreta acontecendo, mas quem estava de que lado?
+
+[HEADER 00001B90]
+#One thing I did know - I wasn't going to get the answers sitting at my desk...
+Uma coisa eu sabia: não ia conseguir nenhuma resposta sentada aqui na minha mesa...
+
+[HEADER 00001B96]
+#No bug.  Just a 20 year old piece of gum.
+Nenhuma escuta. Apenas um velho pedaço de chiclete de 20 anos.
+
+[HEADER 00001B97]
+#No bug.
+Nenhuma escuta.
+
+[HEADER 00001B95]
+#My old table had seen better days.  I was beginning to know how it felt.
+Minha velha mesa já viu dias melhores. Eu começava a entender como ela se sentia.
+
+[HEADER 00001B99]
+#The phone was the obvious place to look for a bug...
+O telefone era um lugar óbvio para se procurar uma escuta...
+
+[HEADER 00001B9A]
+#...but this handset hadn't been opened for years. Besides, they would have just bugged the line.
+... mas este não havia sido aberto há anos. Além do que, eles teriam grampeado a linha.
+
+[HEADER 00001B98]
+#I was beginning to hate the phone.  All it brought me was bad news.
+Eu estava começando a odiar o telefone. Ele só me trazia más notícias.
+
+[HEADER 00001B9B]
+#There wasn't anyone that I needed to call.
+Não havia ninguém para quem eu quisesse ligar.
+
+[HEADER 00001B9C]
+#No messages for me.
+Nenhuma mensagem para mim.
+
+[HEADER 00001B9D]
+#No one had hidden a bug on the machine.
+Ninguém tinha escondido uma escuta na secretária.
+
+[HEADER 00001B9E]
+#You have - no - messages.
+Você tem... zero... mensagens.
+
+[HEADER 00001B9F]
+#It was a photograph of my father.
+Era uma fotografia do meu pai.
+
+[HEADER 00001BA0]
+#The first one I ever took - with the first camera he ever bought me.
+A primeira que eu tirei, com a primeira câmera que ele me comprou.
+
+[HEADER 00001BA1]
+#They hadn't placed the bug on the photo.
+Eles não colocaram a escuta na foto.
+
+[HEADER 00001BA2]
+#My first teddy. Never had a boyfriend as loyal as him...
+Meu primeiro ursinho. Nunca tive um namorado tão leal quanto ele...
+
+[HEADER 00001BA3]
+#Undisturbed. No bugs there.
+Intacto. Nenhuma escuta aqui.
+
+[HEADER 00001BA4]
+#A chest containing all my valuables - it was pretty empty.
+Um baú contendo todos meus objetos de valor. Ele estava bem vazio.
+
+[HEADER 00001BA5]
+#The elephant on the lid was a perfect match to Carchon's.
+O elefante da tampa era perfeitamente igual ao do Carchon.
+
+[HEADER 00001BA6]
+#No bug here.
+Nenhuma escuta aqui.
+
+[HEADER 00001C54]
+#I took out the key.
+Eu tirei a chave.
+
+[HEADER 00001C55]
+#I couldn't believe it.  Imelda's key opened my father's box.
+Não pude acreditar. A chave da Imelda abria a caixa do meu pai.
+
+[HEADER 00001C56]
+#I dreaded what I was going to find inside.
+Tive receio do que eu iria encontrar dentro dela.
+
+[HEADER 00001D0A]
+#I couldn't do anything with that...
+Não posso fazer nada com isto...
+
+[HEADER 00001BA7]
+#The box was one of the few things my father left me.
+A caixa foi uma das únicas coisas que meu pai me deixou.
+
+[HEADER 00001BA8]
+#But that small metal disk tucked underneath it in the chest was a recent addition.
+Mas aquele discozinho metálico, escondido embaixo dela no baú, era uma novidade.
+
+[HEADER 00001BA9]
+#The box was carved by my father - it never had a key.
+A caixa foi entalhada pelo meu pai. Ela nunca teve uma chave.
+
+[HEADER 00001BAA]
+#A small, sinister looking metal disk had been tucked under my father's box.
+Um discozinho sinistro de metal havia sido escondido embaixo da caixa do meu pai.
+
+[HEADER 00001BAB]
+#Oh!  Chère cousine! You left me a little present.  You shouldn't have...
+Oh! Chère cousine! Você me deixou um presentinho. Não precisava...
+
+[HEADER 00001BAC]
+#You don't scare me!  Espèce de...!
+Você não me assusta! Espèce de...!
+
+[HEADER 00001BAD]
+#I decided to head back to the café.  Maybe the cops had missed something.
+Eu decidi voltar ao café. Talvez os policiais tenham esquecido algo.
+
+[HEADER 00001BAE]
+#It wouldn't be the first time...
+Não seria a primeira vez...
+
+[HEADER 00001C20]
+#I had messages waiting to be played.
+Eu tinha mensagens na secretária.
+
+[HEADER 00001C21]
+#You have - three - messages.
+Você tem... três... mensagens.
+
+[HEADER 00001C22]
+#Hey Collard.  It's me - your favourite editor.
+Ei, Collard. Sou eu, seu editor favorito.
+
+[HEADER 00001C23]
+#And guess what? I'm gonna give you a second chance.  I need somebody to write the TV column.
+E adivinha? Vou te dar uma segunda chance. Preciso de alguém para escrever a coluna da TV.
+
+[HEADER 00001C24]
+#Pay's lousy - so what's new?  If you're interested drop by the office.  In fact...
+O pagamento não é lá grande coisa, mas qual a novidade? Se tiver interesse, apareça no escritório. Na verdade...
+
+[HEADER 00001C25]
+#...drop by the office anyway.  We have to talk, Nico.
+... apareça no escritório de qualquer maneira. Precisamos conversar, Nico.
+
+[HEADER 00001C26]
+#That story of yours I spiked - it won't go away.
+Aquela sua história que eu rejeitei... esqueça ela.
+
+[HEADER 00001C27]
+#You've made some dangerous enemies out there...
+Você fez alguns inimigos perigosos...
+
+[HEADER 00001C29]
+#Hey Nico - it's your old pal - I mean your new pal - George!
+Ei Nico, é o seu velho amigo, digo, seu novo amigo, George!
+
+[HEADER 00001C2A]
+#Whoa - Ireland!  It's a whole different country!
+Nossa... Irlanda! É um país totalmente diferente!
+
+[HEADER 00001C2B]
+#And I got some amazing news for you - a gem of a story in fact...  Oh - gotta go.
+E tenho novidades fantásticas. Uma joia de história, na verdade. Ah, tenho que ir.
+
+[HEADER 00001C2C]
+#Fella here's got a drink lined up for me.  See you tomorrow Nico - Slán!
+Os companheiros aqui arrumaram uma fila de bebidas para mim. Até amanhã, Nico. Slán!
+
+[HEADER 00001C2D]
+#Yep, only here for a day and I'm speaking the lingo like a local!
+Pois é, apenas um dia aqui e já estou falando como um nativo!
+
+[HEADER 00001C2E]
+#Mam'selle Collard - this is Imelda Carchon.  I wanted to thank you for being so... understanding when...
+Mam'selle Collard, aqui é Imelda Carchon. Eu queria agradecer por você ter sido... tão compreensiva quando...
+
+[HEADER 00001C2F]
+#Come to lunch, why don't you? Tomorrow. I might have more news.
+Por que não aparece para almoçar? Amanhã. Talvez eu tenha novidades.
+
+[HEADER 00001C30]
+#There is a Monsieur Moerlin coming to see me this evening.
+Há um Monsieur Moerlin vindo me ver esta noite.
+
+[HEADER 00001C31]
+#He says he knows why Pierre was murdered.  In fact he will be here shortly.
+Ele diz que sabe por que Pierre foi assassinado. Na verdade, ele vai estar aqui em breve.
+
+[HEADER 00001C32]
+#I shall let you know what he says. Good bye, dear girl - till tomorrow!
+Vou deixá-la a par de tudo o que ele disser. Até amanhã, minha querida!
+
+[HEADER 00001C33]
+#Moerlin?!  My God. Moerlin's the killer! I'd better get over there and warn her - now!
+Moerlin?! Meu Deus. Moerlin é o assassino! É melhor eu ir lá e avisá-la. Agora!
+
+[HEADER 00001C34]
+#When it came to being two-faced, Imelda was up there with the best.
+Quando se tratava em ser duas-caras, a Imelda estava entre as melhores.
+
+[HEADER 00001C35]
+#I owed her nothing. But I couldn't just let her die.
+Eu não devia nada a ela, mas não podia simplesmente deixá-la morrer.
+
+[HEADER 00001DDC]
+#I had no reason to go out into the night.
+Eu não tinha razões para sair à noite.
+
+[HEADER 00001C52]
+#In the dim light, I caught the reflection of something metallic.
+Na penumbra, eu vi o reflexo de algo metálico.
+
+[HEADER 00001C53]
+#It was a bug.
+Era uma escuta.
+
+[HEADER 00001C5C]
+#"Hotel St George, Algiers, Friday.
+"Hotel St. George, Algiers, Sexta-Feira.
+
+[HEADER 00001C5D]
+#"My darling Thierry,
+"Meu querido Thierry,
+
+[HEADER 00001C5E]
+#"By the time you read this you will be safely out of Africa.
+"No momento em que ler isto, estará seguro longe da África.
+
+[HEADER 00001C5F]
+#"You need not fear - Pierre and the organization do not know who you are really working for.  Or about us.
+"Você não precisa temer. Pierre e a organização não sabem para quem você realmente trabalha. Ou sobre nós.
+
+[HEADER 00001C60]
+#"Did you think I would betray you?  I could not.
+"Achou mesmo que eu iria trai-lo? Eu não conseguiria.
+
+[HEADER 00001C61]
+#"You wanted me to leave him, but I don't have your courage.
+"Você queria que eu abandonasse ele, mas não tenho a sua coragem.
+
+[HEADER 00001C62]
+#"I know too much of what has been going on here.  They would find me and they would kill us both.
+"Eu sei muito sobre o que está acontecendo aqui. Eles me encontrariam e matariam nós dois.
+
+[HEADER 00001C63]
+#"Enjoy your life in Paris, Thierry, your life of honour, of patriotic duty.
+"Aproveite sua vida em Paris, Thierry. Sua vida de honra e dever patriótico.
+
+[HEADER 00000D05]
+#"Do they give medals to spies?
+"Eles dão medalhas para espiões?
+
+[HEADER 00001C64]
+#"No - they'll just give you a phoney job in an embassy somewhere.
+"Não... só um emprego de araque em uma embaixada qualquer.
+
+[HEADER 00001C65]
+#"I could never share that with you. Imagine me - a diplomat's wife.
+"Eu nunca poderia compartilhar isso com você. Imagine eu, esposa de um diplomata.
+
+[HEADER 00001C66]
+#"So.  I must stay here with Pierre, the two of us bound together by what we have done to this country.
+"Então. Devo ficar aqui com Pierre. Nós dois estamos ligados pelo o que fizemos a este país.
+
+[HEADER 00001C67]
+#"Au revoir, my love. You will be in my heart until I die.  Imelda"
+"Au revoir, meu amor. Você estará no meu coração até eu morrer. Imelda."
+
+[HEADER 00001C6B]
+#Suddenly everything made sense.
+De repente, tudo passou a fazer sentido.
+
+[HEADER 00001C6C]
+#My father had been working undercover for the government.  He was one of the good guys after all.
+Meu pai trabalhava disfarçado para o governo. Ele era um dos mocinhos afinal.
+
+[HEADER 00001C57]
+#It was a photograph - of Imelda.
+Era uma fotografia... da Imelda.
+
+[HEADER 00001C6D]
+#But why here - in my father's box?
+Mas por que aqui, na caixa de meu pai?
+
+[HEADER 00001C58]
+#I felt as if a black hole had swallowed me up. Imelda and Carchon - grinning.
+Eu me sentia como se um buraco negro tivesse me sugado. Imelda e Carchon, sorrindo descaradamente.
+
+[HEADER 00001C59]
+#While behind them a village was being razed to the ground, its people butchered.
+Enquanto atrás deles uma vila era reduzida a nada, e seu povo massacrado.
+
+[HEADER 00001C5A]
+#And there, next to them, staring out at me across the years - my own father.
+E, próximos a eles, me observando ao passar dos anos... meu próprio pai.
+
+[HEADER 00001C5B]
+#There was a letter.  I feared there was even worse to come.
+Havia uma carta. Temi que houvessem coisas piores ainda por vir.
+
+[HEADER 00001C68]
+#I stared at my father's image. Looked deep into his eyes.
+Encarei a imagem do meu pai. Olhei no fundo dos seus olhos.
+
+[HEADER 00001C69]
+#What was he thinking when this picture was taken?  How brave he had been.
+O que ele estava pensando quando esta foto foi tirada? Que bravo ele foi.
+
+[HEADER 00001C6A]
+#I missed him so much.
+Sinto tanta falta dele.
+
+[HEADER 00001C71]
+#He and Imelda must have fallen in love. She'd found out who he really was - so he had to leave.
+Ele e a Imelda devem ter se apaixonado. Ela descobriu quem ele realmente era, e aí ele teve que ir embora.
+
+[HEADER 00001C72]
+#It had broken her heart, but she had never revealed it to anyone.
+Isso feriu o coração dela, mas ela nunca revelou nada a ninguém.
+
+[HEADER 00001C8E]
+#I knew I couldn't either:
+Eu sabia que também não poderia.
+
+[HEADER 00001C73]
+#Whatever he was doing, he'd had good reason to keep it secret.
+Seja o que estivesse fazendo, ele tinha uma boa razão para manter em segredo.
+
+[HEADER 00000D06]
+#I decided I would respect that.  And tell nobody.
+Eu decidi que iria respeitar isso. E não contar a ninguém.
+

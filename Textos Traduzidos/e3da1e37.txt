@@ -1,0 +1,990 @@
+# Broken Sword - Shadow of the Templars (Director's Cut)
+# Versão do Script: 06.04
+[HEADER 000028FA]
+#I'm on the quayside - what do I do now?
+Estou no cais. O que faço agora?
+
+[HEADER 00002904]
+#Check the gate on the far right. It's being held shut by strange locks. Take a closer look.
+Verifique o portão no extremo direito. Ele está preso por trancas estranhas. Dê uma olhada mais de perto.
+
+[HEADER 0000290E]
+#You need to examine the metal locks.
+Você precisa examinar as trancas de metal.
+
+[HEADER 00002913]
+#How do I open the locks?
+Como eu abro as trancas?
+
+[HEADER 00002918]
+#There's a big stone door with a hole in the frame. How do I get it open?
+Há uma grande porta de pedra com um buraco no marco. Como eu abro ela?
+
+[HEADER 00002922]
+#Maybe the door needs a "key".
+Talvez a porta precise de uma "chave".
+
+[HEADER 0000292C]
+#What might fit into the hole in the frame?
+Que coisa talvez encaixe no buraco do marco?
+
+[HEADER 00002936]
+#Put the stone cylinder into the hole.
+Coloque o rolo de pedra no buraco.
+
+[HEADER 00002940]
+#So, the cylinder is in the hole, but what now?
+O rolo está no buraco, mas e agora?
+
+[HEADER 0000294A]
+#Remember what Nico said when she first looked at it, about how Sinister means "left" and Dexter means "right"?
+Lembra do que a Nico disse quando ela viu isso pela primeira vez, sobre Sinister significar "esquerda" e Dexter significar "direita"?
+
+[HEADER 00002954]
+#What else do you have with you that might refer to Sinister and Dexter?
+Que coisa você possui que talvez refira-se a Sinister e Dexter?
+
+[HEADER 0000295E]
+#Remember the coded message that you made in Carchon's drawing room?
+Lembra-se da mensagem cifrada que você obteve no escritório do Carchon?
+
+[HEADER 00002968]
+#The message includes the letters SDSSDSS. That's the order in which you need to touch the buttons to turn the cylinder - S for left, D for right.
+A mensagem incluia as letras SDSSDSS. Essa é a ordem em que você precisa apertar os botões para girar o rolo: S para esquerda, D para direita.
+
+[HEADER 0000296A]
+#I got the stone door open, but now I'm stuck.
+Consegui abrir a porta de pedra, mas agora não sei mais o que fazer.
+
+[HEADER 0000296C]
+#You'll see a stone cross - perhaps it isn't part of the altar.
+Você verá uma cruz de pedra. Talvez ela não faça parte do altar.
+
+[HEADER 00002970]
+#Walk to the stone cross, and lift it. See what happens.
+Caminhe até a cruz de pedra e levante-a. Veja o que acontece.
+
+[HEADER 00002972]
+#The cross won't stay up. What do I do?
+A cruz não se mantém suspensa. O que eu faço?
+
+[HEADER 00002974]
+#You'll need to prop it up with something solid.
+Você precisa segurá-la com algo sólido.
+
+[HEADER 00002976]
+#While lifting the cross, use the shell case on the cross to keep it up.
+Depois de levantar a cruz, use a cápsula na cruz para mantê-la suspensa.
+
+[HEADER 00002978]
+#I've found another chamber, but can't progress!
+Encontrei outra sala, mas não consigo ir adiante!
+
+[HEADER 0000297A]
+#Perhaps you missed something useful in the first room?
+Talvez você se esqueceu de algo útil na primeira sala?
+
+[HEADER 0000297C]
+#It's time to push the boat out.
+É hora de empurrar o barco.
+
+[HEADER 0000297E]
+#Push the boat over and look underneath. Pick up the shell case that you'll find.
+Empurre o barco e olhe para baixo. Pegue a cápsula que você vai encontrar.
+
+[HEADER 00002980]
+#I've propped up the cross, but what now?
+A cruz já está sustentada, mas e agora?
+
+[HEADER 00002982]
+#What might fit into the hole that was revealed when the stone panel slid across?
+Que coisa talvez encaixe no buraco que foi revelado quando o painel de pedra deslizou?
+
+[HEADER 00002984]
+#Did you leave the stone cylinder behind? Go and retrieve it.
+Você deixou o rolo de pedra para trás? Vá buscá-lo.
+
+[HEADER 00002986]
+#The panel has opened revealing a slot - what should I do?
+O painel foi aberto, revelando um espaço. O que devo fazer?
+
+[HEADER 00002988]
+#The stone cylinder may fit nicely into the slot.
+Talvez o rolo de pedra encaixe nesse espaço.
+
+[HEADER 0000298A]
+#Use the shell casing to prop up the cross, then insert the stone cylinder into the slot.
+Use a cápsula para segurar a cruz, e então insira o rolo de pedra no espaço.
+
+[HEADER 0000298C]
+#A door has partially opened, what do I need to do?
+Uma porta foi parcialmente aberta. O que preciso fazer agora?
+
+[HEADER 0000298E]
+#You'll need something flat and rigid to lever open the door. You have something metal - how could it be flattened?
+Você precisará de algo chato e rígido para servir de alavanca para abrir a porta. Você tem algo de metal. Como ele pode ser achatado?
+
+[HEADER 00002990]
+#A stone door slammed down hard when you lifted the cross. If something round and metal were under it, it would soon be flat and metal.
+Uma porta de pedra é fechada quando você levanta a cruz. Se algo cilíndrico e de metal estivesse embaixo dela, este logo seria chato.
+
+[HEADER 00002992]
+#Put the shell case on the stone below the heavy stone door, and slam it down on the shell case.
+Coloque a cápsula na pedra embaixo da pesada porta de pedra e feche-a sobre a cápsula.
+
+[HEADER 00002994]
+#Ensure that the heavy stone door is open - you may need to remove the stone cylinder from the hole. Place the shell casing on the carved letters below the door, then lift the cross. The door will slam down and crush the shell casing.
+Certifique-se que a pesada porta de pedra esteja aberta. Talvez você precise remover o rolo de pedra do buraco. Coloque a cápsula sobre as letras esculpidas embaixo da porta, e então levante a cruz. A porta irá se fechar e amassar a cápsula.
+
+[HEADER 00002996]
+#How can I open the jammed door?
+Como posso abrir a porta emperrada?
+
+[HEADER 00002998]
+#Use the crushed shell case on the gap under the door to lever it open.
+Use a cápsula amassada na abertura da porta para levantá-la.
+
+[HEADER 00002A08]
+#It's a bit dark in here.
+Está um pouco escuro aqui.
+
+[HEADER 00002A12]
+#You need to generate some light.
+Você precisa gerar um pouco de luz.
+
+[HEADER 00002A1C]
+#Find a blinking red light by the entrance. Then pull the breaker switch handle.
+Procure por um ponto vermelho piscando na entrada. Aí ligue o disjutor.
+
+[HEADER 00002A26]
+#There's lots to find, but I must be missing something.
+Há muita coisa para encontrar, mas eu devo estar esquecendo de algo.
+
+[HEADER 00002A30]
+#Have you looked through the drawers in the desk on the left of the state room?
+Já deu uma olhada na gaveta da mesa no lado esquerdo do salão?
+
+[HEADER 00002A35]
+#Open the right hand drawer, search it and you will find a coded note.
+Abra a gaveta, dê uma vasculhada e você encontrará um bilhete cifrado.
+
+[HEADER 00002A3A]
+#I've got the coded note - what now?
+Eu peguei o bilhete cifrado. E agora?
+
+[HEADER 00002A44]
+#That drawer you opened. What if it could be opened... further.
+A gaveta que você abriu. Talvez ela possa ser aberta... mais um pouco.
+
+[HEADER 00002A4E]
+#Pull the drawer again.
+Puxe a gaveta de novo.
+
+[HEADER 00002A58]
+#Reach inside and get the photograph.
+Vasculhe dentro e pegue a fotografia.
+
+[HEADER 00002A62]
+#I feel like I've found everything, but there must be more.
+Sinto-me como se tivesse encontrado tudo que podia, mas deve haver mais.
+
+[HEADER 00002A6C]
+#Have you examined the desk top?
+Você já examinou o topo da mesa?
+
+[HEADER 00002A71]
+#Examine both the dossier and newspaper clippings.
+Examine o dossiê e os recortes de jornal.
+
+[HEADER 00002A72]
+#This place is packed with evidence - but I'm still missing something.
+Este lugar está cheio de evidências, mas eu continuo esquecendo algo.
+
+[HEADER 00002A73]
+#Remember that you picked up a note encoded with a cipher?
+Lembra que você pegou um bilhete cifrado?
+
+[HEADER 00002A74]
+#Examine the note (in your inventory), and you will have the opportunity to decipher it.
+Examine o bilhete (no seu inventário), e você terá a oportunidade de decifrá-lo.
+
+[HEADER 00002F4E]
+#I'm back at the quayside. But what should I do now?
+Voltei para o cais. Mas o que devo fazer agora?
+
+[HEADER 00002F58]
+#You have what you need to open the safe in the state room.
+Você tem o que é preciso para abrir o cofre no salão nobre.
+
+[HEADER 00002F62]
+#Remember the key you got from the pouch in the café? Use it on the slot by the safe.
+Lembra-se da chave que pegou da carteira no café? Use-a no cofre.
+
+[HEADER 00002B48]
+#How do I match up the pieces?
+Como eu ajeito as partes?
+
+[HEADER 00002B07]
+#Try matching the vertical and horizontal edges first.
+Tente montar os cantos primeiro.
+
+[HEADER 00002B08]
+#Look for the parts of a face and see if you can fit them together.
+Procure por pedaços com um rosto e veja se você consegue juntá-los.
+
+[HEADER 00002B2A]
+#How do I open the locks?
+Como eu abro a trava?
+
+[HEADER 00002AF9]
+#Think ahead to the position the latch needs to be in, in order to work: you might be able to work out from that position which bars need to move and where...
+Pense na posição em que a trava precisa estar para funcionar: você deve ser capaz de ver quais barras devem ser movidas e para onde...
+
+[HEADER 00002AFA]
+#The makers of the lock inserted a special cheat.  If you are really stuck, then select the next hint to discover that cheat.
+Os criadores da trava inseriram uma trapaça especial. Se você está realmente empacado, então selecione a próxima dica para descobrir a trapaça.
+
+[HEADER 00002AFB]
+#Here's the cheat the lock-makers built into the system: Drag the stylus from top-left to bottom-right of the Touch Screen and the lock will spring open.
+Aqui está a trapaça que os criadores da trava colocaram no sistema: Arraste a stylus do canto superior esquerdo para o canto inferior direito da Tela de Toque e a trava abrirá.
+
+[HEADER 00002AFC]
+#Here's the cheat the lock-makers built into the system: Position the Pointer at the top-left of the screen, hold down the A button, then move the Pointer to the bottom-right of the screen and the lock will spring open.
+Aqui está a trapaça que os criadores da trava colocaram no sistema: Posicione o Ponteiro no canto superior esquerdo da tela, segura o botão A, e então mova o Ponteiro para o canto inferior direito da tela e a trava abrirá.
+
+[HEADER 00002B3E]
+#I'm having problems cracking this cipher.
+Estou com problemas em quebrar o código.
+
+[HEADER 00002B03]
+#Look for the one or two letter words and try out 'A' or 'I' or 'IN' or 'OF' or 'TO' or 'BY' etc.  If you guess right, then some of the 3 or 4 letter words will now become clear.
+Procure por palavras de uma ou duas letras e experimente 'A', 'E', 'EM', etc. Se seus palpites estiverem certos, então 3 ou 4 palavras agora estarão visíveis.
+
+[HEADER 00002B04]
+#The letter 'E' is very common.  Find the most common glyph and try inserting an 'E' in its place.
+A letra 'E' é muito comum. Procure a cifra mais comum e tente inserir o 'E' no seu lugar.
+
+[HEADER 00002B05]
+#The first word is PIERRE - that will give you four correct letters.
+A primeira palavra é PIERRE. Isso vai resultar em quatro letras corretas.
+
+[HEADER 00002B06]
+#The first words are PIERRE. FULL REPORT TO FOLLOW.
+As primeiras palavras são PIERRE. ENVIADO RELATORIO COMPLETO.
+
+[HEADER 0000138C]
+#Using a boat ticket on a latch? It would just bend.
+Usar um bilhete de barco na trava? Só iria amassá-lo.
+
+[HEADER 0000138D]
+#I toyed with the idea of using the paint as a lubricant.
+Me diverti com a ideia de usar a tinta como lubrificante.
+
+[HEADER 0000138E]
+#But what an obscure and contrived solution that would be!
+Mas que solução estranha e sem sentido ela seria!
+
+[HEADER 0000138F]
+#I wasn't going to smash a priceless artefact into a fence.
+Eu não iria jogar um artefato de valor inestimável na grade.
+
+[HEADER 00001390]
+#The old fence-picking trick? Maybe not.
+O velho truque de levantar a grade? Talvez não.
+
+[HEADER 00001426]
+#The gate was loose but one bolt still kept it locked.
+O portão era antigo, mas uma barra ainda o mantinha trancado.
+
+[HEADER 0000138A]
+#Strange... The fence had locks holding it firmly in place.
+Estranho... A grade tinha travas que a mantinham firme no local.
+
+[HEADER 0000138B]
+#I tried pushing the fence but it wouldn't move.
+Tentei empurrar a grade, mas ela não ia mover.
+
+[HEADER 00001770]
+#A strange pair of locks stopped the latches from releasing the gate.
+Um estranho par de travas impedia a tranca de soltar o portão.
+
+[HEADER 0000145A]
+#For a room full of junk that was one very sophisticated lock system.
+Para uma sala cheia de lixo, era um sistema de travas muito sofisticado.
+
+[HEADER 00000D03]
+#This place was definitely fishy. In more ways than one.
+Este local não estava me cheirando muito bem. Em todos os sentidos.
+
+[HEADER 0000139C]
+#It was almost as if the fence was intended to double as a bridge.
+Parecia até que a grade tinha a função de servir também como ponte.
+
+[HEADER 0000139D]
+#I really didn't want to pull the fence back up and risk trapping myself in this place.
+Eu realmente não queria colocar a grade no lugar e correr o risco de ficar presa neste lugar.
+
+[HEADER 00001392]
+#This fence was a permanent fixture.
+A grade estava soldada no local.
+
+[HEADER 00001479]
+#This fence wouldn't move either.
+Essa grade não ia mover também.
+
+[HEADER 00001393]
+#The fence wouldn't move.
+A grade não ia mover.
+
+[HEADER 00001397]
+#An old boyfriend of mine owned a barge once.  Dampest relationship I ever had. In every way...
+Um antigo namorado meu foi dono de uma balsa uma vez. Foi a relação mais molhada que eu já tive. Em todos os sentidos...
+
+[HEADER 0000139F]
+#Mystery solved. Carchon's stone cylinder slotted into the hole...
+Mistério resolvido. O rolo de pedra do Carchon entrou no buraco...
+
+[HEADER 000013A0]
+#...with a satisfying click.
+... com um gratificante clique.
+
+[HEADER 000013A2]
+#The words "sinister" and "dexter" were carved on either side.
+As palavras "sinister" e "dexter" estavam esculpidas em ambos os lados.
+
+[HEADER 000013A3]
+#Now, any good convent girl like me knows the old Roman for left, right, left, right.
+Ei, qualquer garota de colégio católico como eu sabe como é em latim esquerda e direita.
+
+[HEADER 000013A4]
+#But what did it mean here?
+Mas o que isso significava aqui?
+
+[HEADER 00001E7E]
+#I'd already unlocked the door.
+Eu já tinha destravado a porta.
+
+[HEADER 0000139E]
+#A rough hole was cut into the pillar.
+Um buraco circular tinha sido feito no marco.
+
+[HEADER 000013A1]
+#Carchon's cylinder had fitted snugly into the hole.
+O rolo do Carchon tinha encaixado perfeitamente no buraco.
+
+[HEADER 00001E7F]
+#I removed the stone cylinder.
+Removi o rolo de pedra.
+
+[HEADER 00001394]
+#The cross looked familiar. I'd seen it before.
+A cruz parecia familiar. Eu já tinha a visto antes.
+
+[HEADER 00001395]
+#It was embroidered on the lace cloth I'd picked up at Carchon's apartment.
+Ela estava bordada na toalha que eu tinha pego no apartamento do Carchon.
+
+[HEADER 00001396]
+#I knew I was on the right track.
+Eu sabia que estava no caminho certo.
+
+[HEADER 000013A5]
+#The hole was too small even for my little hand...
+O buraco era pequeno demais, até mesmo para minha pequena mão...
+
+[HEADER 0000141E]
+#I couldn't get my hand in.
+Eu não conseguia colocar minha mão aí.
+
+[HEADER 0000176F]
+#Puzzle cheated! :)
+Enigma burlado! :)
+
+[HEADER 000013B7]
+#So. A stone door.
+Então. Uma porta de pedra.
+
+[HEADER 000013B8]
+#There had to be a mechanism to open it.
+Devia haver um mecanismo para abri-la.
+
+[HEADER 000013B9]
+#No handle. Nothing obvious. But there had to be a way to open it.
+Sem maçaneta. Nada óbvio. Mas deve haver uma maneira de abri-la.
+
+[HEADER 00000D12]
+#With nothing to hold it up, the cross dropped back down again.
+Sem nada para segurá-la, a cruz voltou para sua posição original.
+
+[HEADER 000013BA]
+#Ut lex vel ut nex summitto. "To the Law or unto Death, Submit".
+Ut lex vel ut nex summitto. "À Lei ou à Morte, Submeto-me".
+
+[HEADER 00000CF6]
+#I guess these people didn't believe in Liberté, Égalité, or Fraternité.
+Acho que essas pessoas não acreditavam em Liberté, Égalité ou Fraternité.
+
+[HEADER 000013BB]
+#Yes, I'll admit it. I was a swot at school. I also wore lipstick and the nuns never knew.
+Tá, vou admitir. Eu era uma CDF na escola. Também passava batom sem as freiras saberem.
+
+[HEADER 000013B2]
+#It was an old shell case.
+Era uma velha cápsula de projétil.
+
+[HEADER 000013B3]
+#Probably from the 50s.
+Provavelmente dos anos 50.
+
+[HEADER 000013B4]
+#I knew what I was talking about. I grew up watching war movies.
+Eu sabia do que estava falando. Cresci vendo filmes de guerra.
+
+[HEADER 000013B5]
+#An old shell case. I wondered what that was doing there.
+Uma velha cápsula. O que será que ela estava fazendo aí?
+
+[HEADER 000013BD]
+#The stone slab had flattened one end of the shell case.
+A porta de pedra tinha amassado um dos lados da cápsula.
+
+[HEADER 000013BC]
+#A brass shell case versus a stone slab contest.
+Uma batalha entre a cápsula de projétil e a porta de pedra.
+
+[HEADER 000013C3]
+#The Cross was firmly propped up.
+A cruz estava firmemente sustentada.
+
+[HEADER 000013C6]
+#The cylinder was doing a fine job of propping up the cross.
+O rolo estava fazendo um bom trabalho em sustentar a cruz.
+
+[HEADER 000014BE]
+#This wouldn't hold the cross up.  But I was on the right track.
+Isso não iria segurar a cruz. Mas eu estava no caminho certo.
+
+[HEADER 000014BF]
+#I needed to use something sturdier.
+Eu precisava usar algo mais resistente.
+
+[HEADER 0000141F]
+#The stone cross was propped up. Now I was getting somewhere.
+A cruz de pedra estava sustentada. Agora eu estava chegando a algum lugar.
+
+[HEADER 000013C5]
+#The Cross didn't need to be propped up.
+A cruz não precisava ser sustentada.
+
+[HEADER 00001429]
+#I removed the shell case.
+Removi a cápsula.
+
+[HEADER 0000142B]
+#The Cross didn't drop back down. Some kind of mechanism was holding it up.
+A cruz não voltou para seu lugar de origem. Algum tipo de mecanismo estava a segurando.
+
+[HEADER 0000142A]
+#I took the stone cylinder.
+Peguei o rolo de pedra.
+
+[HEADER 000013C0]
+#Oh my God!
+Ah, meu Deus!
+
+[HEADER 000013C1]
+#The slab came down with a hell of a force.
+A porta desceu com uma força tremenda.
+
+[HEADER 000013C2]
+#Lifting the cross closed the entrance door. And also opened some kind of stone panel. Ingenious!
+Ao levantar a cruz, a porta da entrada foi fechada. E também algum tipo de painel de pedra foi aberto. Genial!
+
+[HEADER 0000145F]
+#If I was going to get a closer look at the panel, I'd have to find a way of keeping the cross up.
+Se eu quisesse dar uma olhada mais de perto no painel, teria que achar uma maneira de segurar a cruz.
+
+[HEADER 000013CB]
+#I wasn't going to risk damaging the artefact.
+Eu não me arriscarria a danificar o artefato.
+
+[HEADER 000013CC]
+#No sign of any mechanism to poke. I had to think of a better way to open it.
+Nenhum sinal do mecanismo. Eu tinha que pensar em uma outra maneira de manter o painel aberto.
+
+[HEADER 000013CD]
+#I couldn't see a gap to insert it.
+Não conseguia ver um espaço para inseri-lo.
+
+[HEADER 000013D2]
+#The artefact slotted into the hole perfectly.
+O artefato encaixou perfeitamente no buraco.
+
+[HEADER 00001464]
+#Behind the old walls I could hear some kind of mechanism groaning into life.
+Por trás das velhas paredes, pude ouvir algum tipo de mecanismo voltando à vida.
+
+[HEADER 000013D3]
+#But whatever had been triggered, had now jammed.
+Mas, o que quer que seja que tenha sido ativado, agora estava emperrado.
+
+[HEADER 000013D5]
+#Even partially flattened, the shell case was still too wide.
+Mesmo parcialmente amassada, a cápsula ainda era muito larga.
+
+[HEADER 000013D6]
+#The flattened lip of the shell case was too wide.
+O lado amassado da cápsula era muito largo.
+
+[HEADER 000013D4]
+#Shame. The shell case was too wide.
+Droga. A cápsula era muito larga.
+
+[HEADER 000013C9]
+#The panel was firmly closed.
+O painel estava firmemente fechado.
+
+[HEADER 00001421]
+#While Carchon's stone cylinder was in the hole...
+Enquanto o cilindro de pedra de Carchon estava no buraco...
+
+[HEADER 00001422]
+#...the door back out remained closed.
+...a porta da saída permanecia fechada.
+
+[HEADER 000013CE]
+#A round slot precisely carved into the stonework.
+Um espaço circular precisamente esculpido na parede de pedra.
+
+[HEADER 000013CA]
+#The panel wouldn't move.
+O painel não iria se mexer.
+
+[HEADER 000013CF]
+#I touched the slot. Nothing bad happened.
+Toquei no espaço. Nada de ruim aconteceu.
+
+[HEADER 000013D0]
+#Which was good. I've always been attached to my fingers.
+O que foi bom. Estive ligada aos meus dedos desde que nasci.
+
+[HEADER 000013D1]
+#This slot was designed for something specific - but what?
+Esse espaço foi criado para algo específico... mas o quê?
+
+[HEADER 000013DF]
+#A door made out of stone.
+Uma porta feita de pedra.
+
+[HEADER 000013E0]
+#They normally are.
+Elas são assim normalmente.
+
+[HEADER 000013E1]
+#No way would I be able to force the door open.
+Não havia como eu forçar a porta a abrir.
+
+[HEADER 000014C0]
+#I was going to need something a lot stronger than a hairclip to free the door.
+Eu iria precisar de algo mais forte do que um prendedor de cabelo para abrir a porta.
+
+[HEADER 000013DD]
+#The gap was too narrow - I needed something flatter to work into it.
+O espaço era muito estreito. Eu precisava de algo mais chato para colocar ali.
+
+[HEADER 00001450]
+#I needed a gap for leverage.
+Eu precisava de espaço para criar uma alavanca.
+
+[HEADER 000013DE]
+#Another good use for a shell case.
+Mais uma utilidade para a cápsula.
+
+[HEADER 00001469]
+#Another secret room.  Somebody had something to hide. But was it what I was looking for?
+Outra sala secreta. Alguém tinha algo a esconder. Mas era disso que eu estava atrás?
+
+[HEADER 000013D7]
+#A hidden door - this was getting interesting. Shame the mechanism jammed.
+Uma porta escondida. Isto estava ficando interessante. Pena que o mecanismo travou.
+
+[HEADER 000013D8]
+#I was going to have to find a way to prise it open...
+Eu tinha que achar uma maneira de erguê-la...
+
+[HEADER 000013D9]
+#A secret door camouflaged in the stonework. Clever.
+Uma porta secreta camuflada na parede de pedra. Muito esperto.
+
+[HEADER 000013DA]
+#The gap was too thin for me to get a grip.
+O espaço era fino demais para que eu pudesse fazer força.
+
+[HEADER 000013DB]
+#I needed something thin enough to prise the door open.
+Eu precisava de algo fino o suficiente para erguer a porta.
+
+[HEADER 000013DC]
+#The slab was way too heavy for me to lift.
+A porta era pesada demais para que eu pudesse levantá-la.
+
+[HEADER 000013E4]
+#It was an old circuit breaker.  Like something from a Frankenstein movie.
+Era um velho disjuntor. Como os do filme 'Frankenstein'.
+
+[HEADER 00001427]
+#Amazing!  The thing still worked - the room lit up bright as day.
+Incrível! O negócio ainda funcionava. A sala ficou completamente iluminada.
+
+[HEADER 00001473]
+#That was more sensible.
+Isso era muito sensível.
+
+[HEADER 0000146E]
+#Turning the lights off wasn't going to help.
+Desligar as luzes não iria ajudar em nada.
+
+[HEADER 000013E5]
+#The desks were covered with a layer of dust. No one had worked here for years.
+As mesas estavam cobertas por uma camada de pó. Ninguém trabalha aqui há anos.
+
+[HEADER 00001478]
+#I wasn't going to find anything in this old desk - it hadn't been used for years.
+Eu não ia achar nada nesta velha mesa. Ela não tem sido usada há anos.
+
+[HEADER 000013E6]
+#The flags had faded, but their message was still pretty clear.
+As bandeiras tinham desbotado, mas sua mensagem ainda era muito clara.
+
+[HEADER 000013E7]
+#Fascist regalia. A message of hate.
+Emblemas fascistas. Uma mensagem de ódio.
+
+[HEADER 000013E8]
+#It was pretty clear from the lack of dust that someone had been working very recently at this desk...
+Pela falta de pó, ficava claro que alguém havia usado recentemente esta mesa...
+
+[HEADER 000013E9]
+#The dregs at the bottom of the mug hadn't dried out - or gone mouldy.
+O resto de café no fundo do copo ainda não havia secado, ou mofado.
+
+[HEADER 000013EA]
+#It wasn't more than a day old.
+Não fazia mais do que um dia.
+
+[HEADER 000013EB]
+#The congealed coffee wasn't appealing.
+O café frio não era atraente.
+
+[HEADER 000013F0]
+#Oh my God!
+Ah, meu Deus!
+
+[HEADER 000013F1]
+#The sheet was a printout with my personal information. Everything from my favourite food to my waist size.
+Sobre a mesa havia uma pasta contendo minhas informações pessoais. Tudo, desde minha comida favorita até o tamanho da minha cintura.
+
+[HEADER 00000CFA]
+#They were right about chocolate. But come on guys - I'm a size ten...
+Eles estavam certo sobre o chocolate. Mas qual é, gente. Meu tamanho é dez...
+
+[HEADER 000013F2]
+#There was even a picture of me taken with a telephoto lens.
+Também havia uma fotografia minha tirada com lente teleobjetiva.
+
+[HEADER 000013F3]
+#Carchon wouldn't have taken these pictures himself. This was big. And organised.
+Carchon não teria ele mesmo tirado essas fotos. Isto era grande. E organizado.
+
+[HEADER 00000D0E]
+#I was a part of it. And people were getting murdered...
+Eu fazia parte disso. E pessoas estavam sendo assassinadas...
+
+[HEADER 000013F4]
+#One thing was clear: someone connected to Carchon had been watching me.
+Uma coisa estava clara: alguém conectado ao Carchon vinha me observando.
+
+[HEADER 000013EC]
+#This was the article I'd written about the Costume Killer. My suspicions were right.
+Esses eram os artigos que eu tinha escrito sobre o Assassino das Fantasias. Minhas suspeitas estavam corretas.
+
+[HEADER 00000D0F]
+#Carchon had cut it out.
+Carchon havia os recortado.
+
+[HEADER 000013ED]
+#Two businessmen had been killed - one in Italy, one in Japan. In each case the killer had worn a costume -
+Dois empresários tinham sido mortos: um na Itália, outro no Japão. Em ambos os casos, o assassino vestia uma fantasia...
+
+[HEADER 00000CF8]
+#a penguin and then a snowman. But that wasn't the only link between the two murders.
+Um pinguim e um boneco de neve. Mas não era apenas isso que ligava os dois assassinatos.
+
+[HEADER 000013EE]
+#Both the victims had been big media do-gooders. And I'd proved they were just the opposite.
+Ambas as vítimas tinham sido grandes beneficiárias da mídia. E eu tinha provado que elas eram exatamente o oposto.
+
+[HEADER 00000CF9]
+#So how did they fit in with Carchon?
+Então como elas se encaixavam com Carchon?
+
+[HEADER 000013EF]
+#My articles about the Costume Killer.
+Meus artigos sobre o Assassino das Fantasias.
+
+[HEADER 00001410]
+#I had enough for a story.  An amazing story that was going to make my reputation -
+Eu já tinha o suficiente para uma matéria. Uma incrível matéria que iria fazer minha reputação...
+
+[HEADER 00000D01]
+#and blow Carchon's to pieces. I needed to get home fast - and start typing.
+e reduzir o Carchon a pedaços. Eu precisava voltar para casa rápido, e começar a escrever.
+
+[HEADER 000013F6]
+#Inside the drawer I found a note written in some kind of code.
+Dentro da gaveta, encontrei um bilhete escrito em algum tipo de código.
+
+[HEADER 000013F5]
+#It was a drawer - I wondered what was inside.
+Era uma gaveta. O que será que havia dentro?
+
+[HEADER 000013F7]
+#There was nothing else in the drawer.
+Não havia mais nada dentro da gaveta.
+
+[HEADER 000013F9]
+#A gaping, drawer-less void.
+Um espaço vazio deixado pela gaveta.
+
+[HEADER 000013FA]
+#A photo, long lost had fallen down the back of the drawer.
+Uma foto, há muito tempo perdida, tinha caido atrás da gaveta.
+
+[HEADER 000013FB]
+#It was very old, but there was no mistaking the guy in the foreground: Carchon.
+Era muito antiga, mas não havia dúvidas sobre a pessoa no primeiro plano: Carchon.
+
+[HEADER 000013FC]
+#Behind him were soldiers, a burning village - and a corpse.
+Atrás dele, havia soldados, uma vila em chamas... e um corpo.
+
+[HEADER 000013FD]
+#The photograph was cropped on the right hand side.
+A fotografia havia sido rasgada pela metade.
+
+[HEADER 00000CFB]
+#Somebody else in the picture obviously didn't want to be in it any more...
+Alguém na foto obviamente não queria estar mais lá...
+
+[HEADER 000013FE]
+#I wasn't surprised.  This was Africa in the sixties. An uprising was being brutally suppressed.
+Eu não estava surpresa. Essa era a África dos anos sessenta. Uma revolta estava sendo brutalmente reprimida.
+
+[HEADER 00000CFC]
+#And here was Mister Media himself, Carchon - doing the suppressing.
+E ali estava o próprio Senhor Mídia, Carchon, acabando com a revolta.
+
+[HEADER 000013FF]
+#The photograph was not just powerful evidence. It was also my ticket to one explosive story...
+A fotografia não era apenas uma forte evidência. Também era meu bilhete para uma matéria explosiva...
+
+[HEADER 00001400]
+#But there had to be more for me to discover.
+Mas havia mais coisas para eu descobrir.
+
+[HEADER 00000D10]
+#Damn!
+Droga!
+
+[HEADER 00000D11]
+#Don't you just hate it when that happens?
+Você não odeia quando isto acontece?
+
+[HEADER 000013F8]
+#The drawer had come out easily enough, but wouldn't fit back into place.
+A gaveta saiu com facilidade, mas não entraria de novo no local.
+
+[HEADER 00001412]
+#This is where all the dirt was being kept.
+Aqui é aonde toda a sujeira estava sendo mantida.
+
+[HEADER 00001402]
+#Lady Justice stared out from a stone door which was locked and reinforced with steel bands.
+A Senhora Justiça olhava para a porta de pedra, que tinha sido trancada e reforçada com tiras de metal.
+
+[HEADER 00001403]
+#A door like that always has something important behind it - I had to find a way to unlock it.
+Uma porta como essa sempre esconde segredos por trás dela. Eu precisava encontrar uma maneira de abri-la.
+
+[HEADER 00001406]
+#Plantard's key fitted the lock.
+A chave do Plantard entrou na fechadura.
+
+[HEADER 00001407]
+#So he must have used this place too.
+Então ele deve ter usado este local também.
+
+[HEADER 00001404]
+#A slot next to the safe door. All I had to do was find something to fit into it.
+Um espaço próximo à porta do cofre. Tudo o que eu precisava fazer era encontrar algo que entrasse nele.
+
+[HEADER 00001405]
+#It was like being back in kindergarten - all I needed now was a shape that would fit the slot...
+Era como se eu tivesse voltado ao jardim de infância. Só preciso de uma forma que encaixe no espaço...
+
+[HEADER 00000BC7]
+#That wasn't going to help...
+Isso não iria adiantar...
+
+[HEADER 00001413]
+#The folders were empty. Someone had removed anything that they thought could be incriminating.
+As pastas estavam vazias. Alguém tinha removido tudo que pudesse ser incriminador.
+
+[HEADER 00001414]
+#A photograph had been torn up.
+Uma fotografia havia sido rasgada.
+
+[HEADER 00001415]
+#If I could just arrange the pieces...
+Se eu pudesse ajeitar as partes...
+
+[HEADER 0000142C]
+#Papa!
+Papai!
+
+[HEADER 00001416]
+#Oh God.
+Ai, Deus.
+
+[HEADER 00001417]
+#After what I'd gone through, I thought I could face anything.
+Depois de tudo que passei, pensei que eu pudesse enfrentar qualquer coisa.
+
+[HEADER 00001418]
+#But not this.  My father - the one person in the whole world who I truly admired -
+Mas não isso. Meu pai, a única pessoa em todo mundo que admirei de verdade...
+
+[HEADER 00000D02]
+#standing with Carchon while those murderers carried on with their evil work...
+ao lado do Carchon, enquanto esses assassinos realizavam seu trabalho...
+
+[HEADER 00001419]
+#My father - grinning at the camera. I couldn't believe it.
+Meu pai... sorrindo para a câmera. Eu não conseguia acreditar.
+
+[HEADER 0000141A]
+#I realised that I desperately needed to get to the bottom of this story - and that I really needed George...
+Percebi que precisava desesperadamente ir até o fundo desta história, e que eu realmente iria precisar do George...
+
+[HEADER 0000140F]
+#I wasn't leaving yet - I had a hunch there was more to find.
+Eu ainda não podia ir embora. Estava com uma sensação de que havia mais coisa para encontrar.
+
+[HEADER 00001411]
+#I had come back specifically to find out more - I wasn't leaving empty handed.
+Eu tinha voltado especificamente para encontrar mais pistas, não para ir embora de mãos vazias.
+
+[HEADER 00001423]
+#Wow.
+Nossa.
+
+[HEADER 00001424]
+#Through the darkness I could see that this was a state room - but for what purpose?
+Através da escuridão, eu pude ver que era um salão nobre... mas para qual propósito?
+
+[HEADER 00001425]
+#And how did it tie in with Carchon?
+E qual sua ligação com Carchon?
+
+[HEADER 00001388]
+#Carchon wasn't the type for messing about on the river.
+Carchon não era do tipo que perdia tempo navegando pelo rio.
+
+[HEADER 00001389]
+#He was up to something down here.  Something that got him killed...
+Ele estava atrás de algo aqui. Algo que o matou...
+
+[HEADER 00001398]
+#The Conciergerie - former royal palace, prison, and law courts.
+A Conciergerie, antigo palácio real, prisão e tribunal de justiça.
+
+[HEADER 00001399]
+#And also home to the busiest guillotine in the French Revolution.
+E também casa da mais ocupada guilhotina na Revolução Francesa.
+
+[HEADER 000013B0]
+#The skiff hadn't been touched for years.
+O esquife não tinha sido tocado há anos.
+
+[HEADER 00001428]
+#I've got an exercise bike just like that.
+Eu tinha uma bicicleta ergométrica na mesma situação.
+
+[HEADER 000013B1]
+#I'd wrecked the skiff - not that it was particularly seaworthy anyway.
+Eu tinha arruinado o esquife; não que ele pudesse ser usado ainda.
+
+[HEADER 000013AE]
+#Oops!
+Ops!
+
+[HEADER 000013AF]
+#Moving the skiff would only damage it more.
+Mover o esquife só iria causar mais danos.
+
+[HEADER 00000045]
+#Uh... no.
+Hmm... não.
+
+[HEADER 000013A8]
+#Another click, another step closer.
+Outro clique, outro passo dado.
+
+[HEADER 00001E7A]
+#I made a mistake - the lock re-set.
+Cometi um erro. A trava reiniciou.
+
+[HEADER 00001E7B]
+#Oh, no!  I had to start again...
+Ah, não! Tive que começar de novo...
+
+[HEADER 00001E7D]
+#Nothing happened.
+Nada aconteceu.
+
+[HEADER 00001E7C]
+#I love the sound of locks clicking open...
+Eu adoro o som de travas sendo abertas...
+
+[HEADER 000013A9]
+#I always knew I'd make a good safe-cracker.
+Sempre soube que eu daria uma boa arrombadora de cofres.
+
+[HEADER 000013AA]
+#Yup!
+Oba!
+
+[HEADER 000013A7]
+#A satisfying click told me I'd turned it to the right position. It felt like... tumblers in a safe...
+Um agradável clique me mostrou que eu tinha girado para o lado certo. Parecia como... uma fechadura de combinação...
+
+[HEADER 00001E78]
+#I must have made a mistake - the mechanism re-set.
+Devo ter cometido um erro. O mecanismo reiniciou.
+
+[HEADER 00001E79]
+#Damn!  I'd got it wrong again...
+Droga! Errei de novo...
+
+[HEADER 00001E8C]
+#It was the old boathouse for the Conciergerie.
+Era a antiga garagem de barcos da Conciergerie.
+
+[HEADER 00001E8D]
+#If I was right about the meaning of Sub-Judice...
+Se eu estiver certa sobre o significado de Sub-Judice...
+
+[HEADER 00001E8E]
+#...then the answer had to lie somewhere here on the quayside.
+... então a resposta deve estar em algum lugar por aqui.
+

@@ -1,0 +1,2172 @@
+[HEADER 00004650]
+The gardener won't let me into the house.
+
+[HEADER 0000465A]
+You need to find a way to distract him.
+
+[HEADER 00004664]
+He seems very focused on that hose. What if the water could be shut off in some way?
+
+[HEADER 0000466E]
+What do you have with you that might stop a hose?
+
+[HEADER 00004678]
+Use the blood pressure gauge on the hose near the window to stop the flow.
+
+[HEADER 00004682]
+I can't get past the gardener again!
+
+[HEADER 0000468C]
+Have you tried going into the room on the right of the stairs? The dogs make a lot of noise. That might help.
+
+[HEADER 00004696]
+What if you could hide from the gardener when he investigates the barking of the dogs?
+
+[HEADER 000046A0]
+Once you've upset the dogs, 'use' the suit of armour to hide behind it. Then walk upstairs while he is investigating.
+
+[HEADER 000046AA]
+I'm in the mausoleum, but I don't know what to do?
+
+[HEADER 000046B4]
+The 'Good Book' might offer an answer.
+
+[HEADER 000046BE]
+Move the Bible on the left, and take a look.
+
+[HEADER 000046C8]
+Look closely where the Bible was. You'll see some sort of chessboard. Keep talking to the Countess about the chessboard until a connection is made...
+
+[HEADER 000046D2]
+I found the Bible verses. But the Countess doesn't know what they refer to.
+
+[HEADER 000046DC]
+Looks like you need a Bible.
+
+[HEADER 000046E6]
+Remember seeing one in the Countess's grounds before?
+
+[HEADER 000046F0]
+Head to the mausoleum and fetch the Bible there, and take it to the Countess.
+
+[HEADER 000046FA]
+I need to find a well. But I don't see one.
+
+[HEADER 00004704]
+Talk to Lopez, and leave him to think about it.
+
+[HEADER 0000470E]
+There's this big tempting candle in the ceiling of the mausoleum. Can I light it?
+
+[HEADER 00004718]
+You need to find a way for a flame to reach that high.
+
+[HEADER 00004722]
+The window pole is long enough.
+
+[HEADER 0000472C]
+Add something to the pole to make it flammable.
+
+[HEADER 00004736]
+Put the make-up covered tissue on the end of the pole.
+
+[HEADER 00004740]
+I can light the candle, but it keeps blowing out
+
+[HEADER 0000474A]
+Why do you think it keeps blowing out?
+
+[HEADER 00004754]
+Shut the window with the pole, and then light the candle again.
+
+[HEADER 0000475E]
+I have this strange key, but nowhere to put it.
+
+[HEADER 00004768]
+Lopez might have had an idea about the well by now.
+
+[HEADER 00004772]
+There were no suitable hazel branches. But I need one!
+
+[HEADER 0000477C]
+Perhaps that's not the only hazel tree.
+
+[HEADER 00004786]
+Check out the tree outside the utility room.
+
+[HEADER 00004790]
+I'm in a well, with nowhere to go.
+
+[HEADER 0000479A]
+Remember the Psalm. It must be to do with the lion's mouth.
+
+[HEADER 000047A4]
+Look closely at the lion.
+
+[HEADER 000047AE]
+Give the loose tooth a tug.
+
+[HEADER 000047B8]
+It's too dark to go any further in this well.
+
+[HEADER 000047C2]
+You need to shed some light on this one.
+
+[HEADER 000047CC]
+There's light shining down the well. But how could it reach the passage?
+
+[HEADER 000047D6]
+You need a mirror. The one from the utility room in the Countess's house. You should reflect on the problem.
+
+[HEADER 000047E0]
+Use the mirror with the sunlight coming down the well.
+
+[HEADER 000047EA]
+I've lit up some sort of socket. But what's it for?
+
+[HEADER 000047F4]
+A stone socket needs a matching key.
+
+[HEADER 000047FE]
+Use the stone key you found inside the candle.
+
+[HEADER 00004808]
+I don't know what to do with the dial with the Roman numerals.
+
+[HEADER 00004812]
+You need to enter a series of numbers. What could they be?
+
+[HEADER 0000481C]
+Check the notes in your diary after you examined the tomb in the church at Montfauçon. Enter them in the order that you wrote them down.
+
+[HEADER 00002B16]
+I see a ring with Roman numerals, but I'm getting nowhere.
+
+[HEADER 00002B17]
+Remember the numbers that were inscribed on Don Carlos's tomb? They may be useful here. Check the notes in your diary after you examined the tomb in the church at Montfauçon.
+
+[HEADER 00002B18]
+The first number is 14 Right.  In Roman numerals this is XIV. Turn the stone in the right-hand (clockwise) direction so that 'X' is next to 'IV'. Then slide the slider, and go on to the next number.
+
+[HEADER 00002B19]
+27 Right doesn't work? Did you really think that it would be that simple? Try adding each new number to the previous total, and then turning in the indicated direction.
+
+[HEADER 00002B52]
+How does this work?
+
+[HEADER 00002B09]
+Check the bases of the pieces.  They each have unique colour patterns.
+
+[HEADER 00002B0A]
+Check the holes on the board.  They also have colour patterns.
+
+[HEADER 00002B0B]
+The colour patterns on the pieces match the patterns on the board.  You must place the pieces in the right holes.
+
+[HEADER 00002B5C]
+How does this work?
+
+[HEADER 00002B0C]
+The reds outnumber the white - but the solution could still be a white checkmate win. But make sure you keep the white king out of check.
+
+[HEADER 00002B0D]
+Your piece placing the red king in check must not be able to be taken itself.
+
+[HEADER 00002B0E]
+From the top of the board, position the white pieces as: Bishop, blank square, Knight, King, blank square.
+
+[HEADER 00390007]
+The hose ran from some sort of utility room all the way to the lawn.
+
+[HEADER 00390030]
+My hose has stopped.
+
+[HEADER 00390031]
+Yeah?
+
+[HEADER 00390032]
+Si. My hose never stops.
+
+[HEADER 00390033]
+Well, I'm sorry to hear it. It's always sad when an old tradition comes to an end.
+
+[HEADER 00390034]
+Did you have anything to do with it?
+
+[HEADER 00390036]
+Well, I'm shocked. I'm mortified. How could you think such a thing?
+
+[HEADER 00390037]
+Very easily, señor. Very easily.
+
+[HEADER 00390038]
+I'm going to find out why my hose has stopped...
+
+[HEADER 00390039]
+...and that means going into the house.
+
+[HEADER 0039003A]
+You are not, absolutely not to go in the house.
+
+[HEADER 0039003B]
+If you do go in the house, I will set the dogs on you.
+
+[HEADER 00390008]
+I didn't like the idea of carrying thirty yards of hose around with me so I left it alone.
+
+[HEADER 00390019]
+Down the long, dusty driveway was a road along which a bus travelled maybe twice a day.
+
+[HEADER 0039001A]
+I knew because I'd arrived on one.
+
+[HEADER 0039001B]
+And no way was I leaving until I'd got something concrete to show Nico.
+
+[HEADER 0039000D]
+Mausoleum, summerhouse. Easy mistake to make.
+
+[HEADER 0039000E]
+I'm no student of architecture but the little building looked old.
+
+[HEADER 0039000F]
+I wondered if it was some sort of summerhouse.
+
+[HEADER 0039000C]
+The main part of the house was old, but nowhere near as old as the gatehouse section.
+
+[HEADER 003C0016]
+It was a small mirror hanging over the sink.
+
+[HEADER 003C0017]
+From the scum in the sink it looked like he shaved there.
+
+[HEADER 003C0007]
+I LOVE suits of armour. Who doesn't?
+
+[HEADER 003C001D]
+Hey! You!
+
+[HEADER 003C001E]
+I know you are there, American!
+
+[HEADER 003C001F]
+All right, you dogs! I'm coming!
+
+[HEADER 003C0009]
+The armour was about my size.
+
+[HEADER 003C000A]
+I had a mental vision of putting it on and clanking off to see the Countess...
+
+[HEADER 003C000B]
+...with the gardener hanging hopelessly on the outside trying to stop me.
+
+[HEADER 003C000C]
+Apart from being stupid and unworkable, it was a great plan.
+
+[HEADER 003C0018]
+It was just a little utility room with no exit...
+
+[HEADER 003C0019]
+...unless you counted the window and I didn't.
+
+[HEADER 003C0004]
+I could see the gardener trying to figure out what was wrong with the hose.
+
+[HEADER 003C0005]
+Time for cat-footed stealthiness.
+
+[HEADER 003C0006]
+There was no way that I wanted to draw attention to myself.
+
+[HEADER 003C0022]
+Hey! You on the stairs!
+
+[HEADER 003C0023]
+Oops.
+
+[HEADER 003C0024]
+I know this doesn't look good but I...
+
+[HEADER 003C0025]
+Are you loco or just stupid? Get out!
+
+[HEADER 003C0026]
+Okay, okay. I'm going!
+
+[HEADER 003C0035]
+Look, señor, all I want is a quiet life.
+
+[HEADER 003C0036]
+A life without mad housebreaking foreigners in it.
+
+[HEADER 003C0037]
+Understand?
+
+[HEADER 003C0038]
+Look, I just wanted to, uh... use the bathroom?
+
+[HEADER 003C0039]
+Leave now, please!
+
+[HEADER 003C003A]
+Okay, I'm going.
+
+[HEADER 003B001D]
+A big statuette of the Virgin Mary kept an eye on the place...
+
+[HEADER 003B001E]
+It was too delicate to move.
+
+[HEADER 003B0010]
+High up in the dome were windows.
+
+[HEADER 003B0011]
+I guessed they might open them to make it less stuffy in there.
+
+[HEADER 003B0012]
+I couldn't climb up there without breaking something.
+
+[HEADER 003B0001]
+Hanging from the ceiling was a huge, yellowed candle.
+
+[HEADER 003B0002]
+It looked really old and had never been lit.
+
+[HEADER 003B0003]
+I couldn't reach up there.
+
+[HEADER 003B000B]
+The lectern top had a pattern of glass squares on it.
+
+[HEADER 003B0004]
+In front of the shrine was a lectern with a Bible on it.
+
+[HEADER 003B000C]
+Close up, I could see that the pattern was made up of glass squares...
+
+[HEADER 003B000D]
+...over a checkerboard pattern.
+
+[HEADER 003B0005]
+On removing the Bible, I found a pattern on the lectern top.
+
+[HEADER 003B0006]
+Hey! It's a checker board!
+
+[HEADER 00390020]
+Hey! You!
+
+[HEADER 00390021]
+Where do you think you are going?
+
+[HEADER 00390022]
+Just having a look around.
+
+[HEADER 00390023]
+Not without the Countess, you're not.
+
+[HEADER 00390024]
+I don't know how you've got her confidence but you haven't got mine.
+
+[HEADER 00390025]
+Man, you are so paranoid!
+
+[HEADER 00390026]
+Better than being dog meat which is what you'll be if you go in that house unaccompanied.
+
+[HEADER 00390027]
+Uh... yes?
+
+[HEADER 00390028]
+I've already told you! You are NOT ALLOWED IN THE HOUSE!
+
+[HEADER 00390029]
+Understand?
+
+[HEADER 0039002A]
+Uh... okay.
+
+[HEADER 0039002B]
+Yeah? What is it?
+
+[HEADER 0039002C]
+You would not like it if people just wandered into your home, would you?
+
+[HEADER 0039002D]
+Well, no. I guess not.
+
+[HEADER 0039002E]
+Then show a little consideration.
+
+[HEADER 0039002F]
+Okay. Sorry.
+
+[HEADER 003A000C]
+Down below the estate, I could see the sea stretching away.
+
+[HEADER 003A000D]
+It was a beautiful sight and looked a lot like the scene from the manuscript.
+
+[HEADER 003A000E]
+I wanted to go swimming but I didn't have the time.
+
+[HEADER 003A0007]
+There was a statue of a guy on top of the building.
+
+[HEADER 003A0008]
+He looked like a knight with a spear and some sort of staff.
+
+[HEADER 003A0009]
+I wasn't about to go clambering on rooftops if I didn't have to.
+
+[HEADER 003A0000]
+The de Vasconcellos mausoleum...
+
+[HEADER 003A0001]
+...where five Templars lie.
+
+[HEADER 003A0002]
+From a distance, I'd thought it might be a summerhouse.
+
+[HEADER 003A0003]
+Close up I wasn't so sure.
+
+[HEADER 003A0004]
+I didn't want to mess with the building.
+
+[HEADER 003A000F]
+The door was a handsome piece of work...
+
+[HEADER 003A0010]
+...in keeping with the ornateness of the rest of the building.
+
+[HEADER 003A0011]
+Rats, it's locked!
+
+[HEADER 00390000]
+Lopez - one man and his hose.
+
+[HEADER 00390001]
+There was a crotchety old guy watering the lawn.
+
+[HEADER 00390002]
+If this garden was all his own work, he was more capable than he looked.
+
+[HEADER 00390048]
+He didn't hear me..
+
+[HEADER 0039003C]
+Hi! Is this the de Vasconcellos house?
+
+[HEADER 0039003E]
+Who wants to know?
+
+[HEADER 0039003F]
+I could tell the old coot was going to be trouble.
+
+[HEADER 00390040]
+My name's George Stobbart. I was wondering whether...
+
+[HEADER 00390041]
+The house is not open to the public.
+
+[HEADER 00390042]
+This is the de Vasconcellos house?
+
+[HEADER 00390043]
+And what business is that of yours, señor?
+
+[HEADER 00390044]
+Look, all I want is to speak to the head of the household.
+
+[HEADER 00390045]
+There IS no household. Only the Countess and myself.
+
+[HEADER 0039003D]
+Hello again.
+
+[HEADER 00390046]
+You again.
+
+[HEADER 00390047]
+Yeah, and it's a real bonus to see your smiling face too.
+
+[HEADER 00390058]
+What do you know about the Templars?
+
+[HEADER 00390059]
+Who wants to know?
+
+[HEADER 0039005A]
+Are you angling for a bribe or something?
+
+[HEADER 0039005B]
+You have nothing that I want, señor, except the pleasure of your absence.
+
+[HEADER 0039005C]
+The guy was obviously protecting the Countess against the whole world. But why?
+
+[HEADER 00390049]
+Tell me about the Countess de Vasconcellos.
+
+[HEADER 0039004A]
+She doesn't receive guests. That's all you need to know.
+
+[HEADER 0039004B]
+You don't even know what I have to talk to her about!
+
+[HEADER 0039004C]
+She hasn't won the lottery, has she?
+
+[HEADER 0039004D]
+Uh, yes! That's it, the Countess has won the lottery and I'm here to give her the check!
+
+[HEADER 0039004E]
+Marvelous! May I see it?
+
+[HEADER 0039004F]
+No! I mean, no, I have to deliver it in person.
+
+[HEADER 00390050]
+The Countess doesn't do the lottery.
+
+[HEADER 00390051]
+Oh, for crying out loud! Why'd you lead me on, then?
+
+[HEADER 00390052]
+To amuse myself. To make you look a fool. To make you go away.
+
+[HEADER 00390053]
+No, she hasn't won the lottery.
+
+[HEADER 00390054]
+A more cunning man might have claimed that she had.
+
+[HEADER 00390055]
+Oh, yeah. They might have, might they?
+
+[HEADER 00390056]
+And that more cunning man would have been kicked off the premises.
+
+[HEADER 00390057]
+The Countess doesn't do the lottery.
+
+[HEADER 00390061]
+What do you make of this?
+
+[HEADER 00390062]
+So that's it. You're a salesman.
+
+[HEADER 00390063]
+If I was hawking medical supplies I can think of better places to hawk them.
+
+[HEADER 00390064]
+Look at this tissue.
+
+[HEADER 00390065]
+It's a tissue with some greasy muck on it.
+
+[HEADER 00390066]
+Yes, that's right.
+
+[HEADER 0039006D]
+I don't suppose this red nose means anything to you, does it?
+
+[HEADER 0039006E]
+Ha! El Flojo!
+
+[HEADER 0039006F]
+El who?
+
+[HEADER 00390070]
+El Flojo, he is a clown on state television.
+
+[HEADER 00390071]
+Oh. Is he any good?
+
+[HEADER 00390072]
+He is as funny as scabies. Without the laughs.
+
+[HEADER 00390067]
+There's a funny story about how I got this ball.
+
+[HEADER 00390068]
+I don't want to hear it.
+
+[HEADER 00390069]
+Do you recognize this matchbook?
+
+[HEADER 0039006A]
+I don't smoke.
+
+[HEADER 0039006B]
+Have you got any use for a fistful of plaster?
+
+[HEADER 0039006C]
+No.
+
+[HEADER 00390073]
+Do you recognize this man?
+
+[HEADER 00390074]
+No.
+
+[HEADER 00390075]
+Have you ever seen a lens like this before?
+
+[HEADER 00390076]
+No, señor, never.
+
+[HEADER 00390079]
+Do you know what this is?
+
+[HEADER 0039007A]
+Si, I have a similar tool for opening culverts on the estate.
+
+[HEADER 00390077]
+This lab pass mean anything to you?
+
+[HEADER 00390078]
+Nothing.
+
+[HEADER 0039007B]
+Would you like to shake hands?
+
+[HEADER 0039007C]
+I do not think so, señor.
+
+[HEADER 0039007D]
+See this gem? Men have died for it!
+
+[HEADER 0039007E]
+Do I look as if I care?
+
+[HEADER 0039007F]
+What do you think of this tripod?
+
+[HEADER 00390080]
+I think nothing of it.
+
+[HEADER 0039005F]
+I'll be going. For now.
+
+[HEADER 00390060]
+Adiós, señor!
+
+[HEADER 00380015]
+¡Madre Dios! Who are you?
+
+[HEADER 00380016]
+My name's George Stobbart. I'm sorry to burst in like this...
+
+[HEADER 00380017]
+You must leave at once! You are not wanted here.
+
+[HEADER 00380018]
+Please! If you'd just listen a minute...
+
+[HEADER 00380019]
+Very well. State your business, señor Stobbart.
+
+[HEADER 0038001A]
+There's been a series of murders - part of some conspiracy.
+
+[HEADER 0038001B]
+Anyway, the trail led me here.
+
+[HEADER 0038001C]
+Here? There is nothing for the outside world here.
+
+[HEADER 0038001D]
+Over six hundred years ago there was.
+
+[HEADER 0038001E]
+What do you mean?
+
+[HEADER 0038001F]
+This whole thing ties in somehow with the Knights Templar.
+
+[HEADER 00380020]
+The Knights Templar are dust.
+
+[HEADER 00380021]
+They had a secret that was so important they went to a lot of trouble to hide it.
+
+[HEADER 00380022]
+I do not see what this has to do with my family.
+
+[HEADER 00380023]
+Your family had a strong connection with the Templars, right?
+
+[HEADER 00380024]
+I believe that they planted some clue here!
+
+[HEADER 00380025]
+Why should I believe a complete stranger who barges into my home?
+
+[HEADER 00380026]
+Just let me have a look around. If I find nothing...
+
+[HEADER 00380027]
+You'll be spending the night at the police station.
+
+[HEADER 00380028]
+Very well, please sit down.
+
+[HEADER 0038002A]
+I know your family is involved with the Templars but I don't know how.
+
+[HEADER 0038002B]
+You should be asking how my family WERE involved, señor Stobbart.
+
+[HEADER 0038002C]
+The Templars ceased to exist centuries ago and, as for the de Vasconcellos, the line dies with me.
+
+[HEADER 0038002D]
+I'm sorry.
+
+[HEADER 0038002E]
+Don't be.
+
+[HEADER 0038002F]
+Okay. Whatever happened, happened almost seven hundred years ago.
+
+[HEADER 00380030]
+So if the Templars left any clues, they're going to be in stuff that dates back to the early fourteenth century.
+
+[HEADER 00380031]
+Obviously.
+
+[HEADER 00380032]
+So what do you have around here that's early medieval?
+
+[HEADER 00380033]
+Early medieval. Let me think.
+
+[HEADER 00380034]
+Well, the house is relatively modern, a scant three centuries old.
+
+[HEADER 00380035]
+Oh, of course! The chess set!
+
+[HEADER 00380036]
+That chess set is over six hundred years old?
+
+[HEADER 00380037]
+It must be worth a fortune!
+
+[HEADER 00380038]
+Indeed it is. Not that I would part with it, of course.
+
+[HEADER 00380039]
+No, I wouldn't either. That's the sort of thing that gets handed down to your children.
+
+[HEADER 0038003A]
+Sorry...
+
+[HEADER 0038003B]
+Its value is less than you might think. The set is not complete.
+
+[HEADER 0038003C]
+One of the pieces is a modern replacement. As to the original...
+
+[HEADER 0038003D]
+...it was lost a long time ago.
+
+[HEADER 0038003E]
+Nobody has any idea where it is?
+
+[HEADER 0038003F]
+No. The children had it when they were taken.
+
+[HEADER 00380040]
+Children? What children?
+
+[HEADER 00380041]
+All in good time, señor Stobbart.
+
+[HEADER 00380042]
+May I examine the chess set?
+
+[HEADER 00380043]
+Certainly - but do not move any of the pieces.
+
+[HEADER 00380044]
+Okay. Thanks.
+
+[HEADER 00380045]
+Close up, the modern piece stood out like a sore thumb.
+
+[HEADER 00380046]
+There was something else odd about the set.
+
+[HEADER 00380047]
+All of the original pieces had irregular bases.
+
+[HEADER 00380048]
+My lady, I have to warn you there's a...
+
+[HEADER 00380049]
+You! Why, I'll feed you to the dogs!
+
+[HEADER 0038004A]
+Lopez! What have I told you about feeding intruders to the dogs?
+
+[HEADER 0038004B]
+But, my lady...
+
+[HEADER 0038004C]
+Never without my permission.
+
+[HEADER 0038004D]
+Señor Stobbart, If I find that you are wasting my time...
+
+[HEADER 0038004E]
+...you will be fed to the dogs.
+
+[HEADER 0038004F]
+Now, I want to show you something interesting.
+
+[HEADER 00380050]
+Follow me...
+
+[HEADER 003A0012]
+Lopez! Unlock the door, por favor.
+
+[HEADER 003A0013]
+This is the only remaining structure on the estate contemporary with the Templars.
+
+[HEADER 003A0014]
+Nice. What is it? A summerhouse?
+
+[HEADER 003A0015]
+A mausoleum, señor Stobbart.
+
+[HEADER 003A0016]
+Oh.
+
+[HEADER 003A0017]
+Come with me.
+
+[HEADER 003A0018]
+Hey, señor.
+
+[HEADER 003A0019]
+Yeah?
+
+[HEADER 003A001A]
+I do not know what you have told my lady to be shown these favours...
+
+[HEADER 003A001B]
+...but I do not trust you.
+
+[HEADER 003A001C]
+You've got nothing to worry about.
+
+[HEADER 003A001D]
+Aren't you coming in?
+
+[HEADER 003A001E]
+No, the dead do not interest me. My garden is a living thing. I will be there.
+
+[HEADER 003B0032]
+Wow! This is... old!
+
+[HEADER 003B0033]
+It was constructed in the thirteenth century as the final resting place for the de Vasconcellos Templars.
+
+[HEADER 003B0034]
+It's well maintained.
+
+[HEADER 003B0035]
+These are my ancestors and they deserve respect.
+
+[HEADER 003B0036]
+I come here at least once a week to say a prayer for them.
+
+[HEADER 003B0037]
+Mind if I have a look around?
+
+[HEADER 003B0038]
+By all means...
+
+[HEADER 003C0020]
+Who? Me?
+
+[HEADER 003C0021]
+Come here!
+
+[HEADER 003B0013]
+It was a rod with a cone and a hook on the end.
+
+[HEADER 003B0014]
+I guessed it was for snuffing out the big candle on the chandelier.
+
+[HEADER 003B0015]
+Now what? There was nothing to snuff.
+
+[HEADER 003B0016]
+Feeling like an idiot, I put it down again.
+
+[HEADER 003B001F]
+The mausoleum contained five tombs...
+
+[HEADER 003B0020]
+...for five of the Knights Templar.
+
+[HEADER 003B0021]
+Mansize in marble.
+
+[HEADER 003B0022]
+I wasn't about to start heaving at sarcophagus lids with the Countess standing there.
+
+[HEADER 003B0039]
+May I ask you something?
+
+[HEADER 003B003C]
+You may ask.
+
+[HEADER 003B003E]
+You certainly know your history.
+
+[HEADER 003B003F]
+What's your opinion of the Templars, señor Stobbart?
+
+[HEADER 003B0040]
+The Templars? They seem no worse than a lot of the knightly orders.
+
+[HEADER 003B0041]
+You are mistaken.
+
+[HEADER 003B0042]
+Compared to the simpering politicians of the Hospitallers or the brutish Teutonics...
+
+[HEADER 003B0043]
+...the Knights Templar were the embodiment of chivalry.
+
+[HEADER 003B0044]
+That filthy money-grubbing French king and his pet Pope did a great wrong.
+
+[HEADER 003B0045]
+A bane settled upon my family at the whim of that self-seeking tyrant.
+
+[HEADER 003B0046]
+It was all a long time ago...
+
+[HEADER 003B0047]
+Some things don't die. Injustice is one of them.
+
+[HEADER 003B0088]
+While we're waiting, I'd really like to know what happened here?
+
+[HEADER 003B0089]
+I mean, the curse and everything?
+
+[HEADER 003B008A]
+It all began at the time of the dissolution of the Templars.
+
+[HEADER 003B008B]
+Don Carlos had already left their ranks to become a scholar.
+
+[HEADER 003B008C]
+Don Carlos? Is he the guy who went missing?
+
+[HEADER 003B008D]
+Si. But he had reckoned without a local bishop.
+
+[HEADER 003B008E]
+The bishop envied us our lands and determined to use the Papal edict as an excuse to destroy us.
+
+[HEADER 003B008F]
+Don Carlos was on one of his scholarly journeys when the Inquisition arrived.
+
+[HEADER 003B0090]
+When Don Carlos returned it was to find his loyal manservant slain and his children gone.
+
+[HEADER 003B0091]
+They took the kids? But why?
+
+[HEADER 003B0092]
+We will never know. The bishop denied all knowledge of the children's disappearance.
+
+[HEADER 003B0093]
+But witnesses had seen his men kill the servant who had been charged to protect them!
+
+[HEADER 003B0094]
+What happened to Don Carlos?
+
+[HEADER 003B0095]
+He swore he'd find his children if he had to go to the edge of the world.
+
+[HEADER 003B0096]
+He put on his armour and took up his sword and shield and rode out alone...
+
+[HEADER 003B0097]
+He was never seen again.
+
+[HEADER 003B0098]
+Ah, Lopez! You have the pieces?
+
+[HEADER 003B0099]
+Si, my lady. As you asked.
+
+[HEADER 003B009A]
+Por favor, señor Stobbart, would you be so kind?
+
+[HEADER 003B009B]
+My lady!
+
+[HEADER 003B009C]
+Calm yourself, Lopez.
+
+[HEADER 003B009D]
+I believe señor Stobbart's motives are pure.
+
+[HEADER 003B009E]
+Very well, my lady.
+
+[HEADER 003B009F]
+My lady seems to trust you.
+
+[HEADER 003B00A0]
+But you don't.
+
+[HEADER 003B00A1]
+No, señor.
+
+[HEADER 003B00A2]
+It fits, señor Stobbart! It fits!
+
+[HEADER 003B00A3]
+Working quickly, I found which pieces went into which holes.
+
+[HEADER 003B0026]
+Señor Stobbart! Look!
+
+[HEADER 003B0027]
+What is that?
+
+[HEADER 003B0028]
+It's not... it's not the Holy Grail, is it?
+
+[HEADER 003B0029]
+No, señor Stobbart! It is the Communion chalice of the de Vasconcellos!
+
+[HEADER 003B002A]
+Missing for almost seven hundred years!
+
+[HEADER 003B002B]
+Wow!
+
+[HEADER 003B002C]
+Well, go on.
+
+[HEADER 003B002D]
+I... I cannot. I can hardly believe it is real!
+
+[HEADER 003B002E]
+Oh, go ahead. Live a little.
+
+[HEADER 003B002F]
+Are you sure? This is your moment of triumph, señor Stobbart.
+
+[HEADER 003B0030]
+Sure I'm sure.
+
+[HEADER 003B0031]
+The possibility of death-traps only occurred to me a few days later.
+
+[HEADER 003B0059]
+Who exactly are these people?
+
+[HEADER 003B005A]
+My ancestors. These five men were all members of the Templars.
+
+[HEADER 003B005B]
+Five ancestors in the Order. You must be very proud.
+
+[HEADER 003B005C]
+Not five. Six.
+
+[HEADER 003B005D]
+Where is the sixth Knight?
+
+[HEADER 003B005E]
+He was lost to us.
+
+[HEADER 003B005F]
+You lost an ancestor?
+
+[HEADER 003B0060]
+It is a family matter. It can have no relevance.
+
+[HEADER 003B0061]
+It's connected with the curse of the Vasconcellos, isn't it?
+
+[HEADER 003B0062]
+Yes, it is. I hope you will honour my desire not to talk about it!
+
+[HEADER 003B0063]
+Okay, I'll leave it for now.
+
+[HEADER 003B007B]
+Is the Virgin Mary really the right person to be sharing a mausoleum with five knights?
+
+[HEADER 003B007C]
+You are showing your ignorance, señor Stobbart.
+
+[HEADER 003B007D]
+The Templars were dedicated to the Virgin Mary.
+
+[HEADER 003B007E]
+What's the story with the glass chessboard?
+
+[HEADER 003B007F]
+Glass chessboard? Oh! The pattern on the lectern. Purely decorative, I am sure.
+
+[HEADER 003B0080]
+There are pieces of glass missing from it.
+
+[HEADER 003B0081]
+It has been like that since I was a girl.
+
+[HEADER 003B0082]
+The gaps in the glass chessboard look awfully deliberate.
+
+[HEADER 003B0083]
+No, it is ridiculous. What possible significance can it have?
+
+[HEADER 003B0084]
+It's part of a chessboard. And the gaps are for...
+
+[HEADER 003B0085]
+Señor Stobbart! You cannot mean...?
+
+[HEADER 003B0086]
+This place was built for the Templars. Your chess set is as old as the Templars.
+
+[HEADER 003B0087]
+It's kind of suggestive, isn't it?
+
+[HEADER 003B0048]
+I think this must be it. This is what the manuscript is pointing to.
+
+[HEADER 003B0049]
+This is extraordinary!
+
+[HEADER 003B004A]
+Am I to understand that the Templars left a puzzle here?
+
+[HEADER 003B004B]
+And in all this time we failed to realize that there was a puzzle?
+
+[HEADER 003B004C]
+It was wonderful to watch the Countess change before my eyes...
+
+[HEADER 003B004D]
+Right! Well, no time for wallowing in self-pity, eh, señor Stobbart?
+
+[HEADER 003B004E]
+This mystery has had a good, long run but it ends here and now.
+
+[HEADER 003B004F]
+All those years of fatalism were falling away from her.
+
+[HEADER 003B0050]
+Lopez! Lopez! Put that hose down and listen!
+
+[HEADER 003B0051]
+Go to the house and get my chess set! Yes, the old chess set!
+
+[HEADER 003B0053]
+Now hurry!
+
+[HEADER 003B0054]
+My! This is exciting, is it not?
+
+[HEADER 003B0055]
+Don't get too excited, this could be a blind alley.
+
+[HEADER 003B0056]
+Oh, I do not believe that for a moment.
+
+[HEADER 003B0057]
+It's good to see you happy.
+
+[HEADER 003B0058]
+Happy? You know, I think I am...
+
+[HEADER 003B00AB]
+Does  this red nose means anything to you?
+
+[HEADER 003B00AC]
+Oh, dear. El Flojo.
+
+[HEADER 003B00AE]
+Clown in all important aspects.
+
+[HEADER 003B00AF]
+Apart from the one about being funny.
+
+[HEADER 003B00A8]
+Does this tissue mean anything to you?
+
+[HEADER 003B00A9]
+Where is this line of questioning going?
+
+[HEADER 003B00AA]
+Nowhere helpful.
+
+[HEADER 003B00B2]
+Do you recognize this man?
+
+[HEADER 003B00B3]
+No, I have never seen him before in my life. Who is he?
+
+[HEADER 003B00B4]
+I've got a couple of names for him but they're probably false.
+
+[HEADER 003B00B5]
+He's the killer.
+
+[HEADER 003B00B6]
+No, his face is utterly unfamiliar.
+
+[HEADER 003B00B7]
+I got this ball off a juggler in Paris.
+
+[HEADER 003B00B8]
+I couldn't juggle, see? And he thought he was so superior...
+
+[HEADER 003B00B9]
+...but, and this is the funny part, I put a red nose on and made out that I was trying to be incompetent.
+
+[HEADER 003B00BA]
+It brought the house down.
+
+[HEADER 003B00BB]
+He was so angry 'cos I'd upstaged...
+
+[HEADER 003B00BC]
+Yeah. Well. You had to be there.
+
+[HEADER 003B00BD]
+I fear that you are probably right, senor Stobbart.
+
+[HEADER 003B00BE]
+Does this matchbook mean anything to you?
+
+[HEADER 003B00BF]
+`Club Alamut'. Not an establishment that I am familiar with, young man.
+
+[HEADER 003B00C0]
+Does this lab pass mean anything to you?
+
+[HEADER 003B00C1]
+Nothing at all.
+
+[HEADER 003B00C2]
+Do you know what this is?
+
+[HEADER 003B00C3]
+No. It looks very practical, though.
+
+[HEADER 003B00C4]
+Would you like to shake hands?
+
+[HEADER 003B00C5]
+A formal bow will suffice.
+
+[HEADER 003B00A4]
+Okay, thanks.
+
+[HEADER 003B00A5]
+Not at all.
+
+[HEADER 00390017]
+It was the driveway down to the main road.
+
+[HEADER 00390018]
+I didn't want to leave just yet, though.
+
+[HEADER 00390005]
+No, I wasn't going to screw around with Lopez's hose now that we were getting on so well.
+
+[HEADER 003B0023]
+`George Stobbart, grave robber'. No, I don't think so.
+
+[HEADER 00390098]
+Hi there, Lopez! How's tricks?
+
+[HEADER 00390099]
+Señor Stobbart! How pleasant to see you! You are well?
+
+[HEADER 0039009A]
+Fine, thanks. Is the Countess in?
+
+[HEADER 0039009B]
+She is waiting for you. I will show you up.
+
+[HEADER 0039009C]
+It's okay, I know the way.
+
+[HEADER 0039009D]
+Señor Stobbart. I feel I owe you...
+
+[HEADER 0039009E]
+...an apology.
+
+[HEADER 0039009F]
+No, you don't.
+
+[HEADER 003900A0]
+I was impolite on our first meeting...
+
+[HEADER 003900A1]
+Look, Lopez, just forget about it. I came on like a snake oil merchant.
+
+[HEADER 003900A2]
+I wouldn't have trusted me in your shoes.
+
+[HEADER 003900A3]
+You do not understand. Finding the chalice has given my lady a new lease of life.
+
+[HEADER 003900A4]
+It's a marvel. She smiles. She laughs.
+
+[HEADER 003900A5]
+The tradesmen are saying that she is on Prozac.
+
+[HEADER 003900A7]
+Hi, Lopez. Got a minute?
+
+[HEADER 003900A8]
+Certainly, señor. How can I help you?
+
+[HEADER 003900D0]
+So the Countess feels that the curse is lifted?
+
+[HEADER 003900D1]
+I would not put it so strongly.
+
+[HEADER 003900D2]
+Your discovery of the chalice was proof that the Templars never abandoned the de Vasconcellos.
+
+[HEADER 003900D3]
+It counts for a great deal with my lady.
+
+[HEADER 003900AA]
+You must know just about everything that there is to know about this place.
+
+[HEADER 003900AB]
+Si. I have lived my whole life here in the service of the de Vasconcellos.
+
+[HEADER 003900AC]
+Do you know of a well anywhere around here?
+
+[HEADER 003900AD]
+A well? Si, señor. This used to be a fortified villa.
+
+[HEADER 003900AE]
+How can you last a siege without water?
+
+[HEADER 003900AF]
+Great! So where is it?
+
+[HEADER 003900B0]
+How should I know?
+
+[HEADER 003900B1]
+The well was covered over in the last century. It was dangerous, you see?
+
+[HEADER 003900B2]
+And you've no idea where it was?
+
+[HEADER 003900B3]
+None. It was hidden even before my grandfather's time.
+
+[HEADER 003900B4]
+You must have a vague idea where the well is?
+
+[HEADER 003900B5]
+It must have been in the old house's courtyard so that would put it around here.
+
+[HEADER 003900B6]
+Here? Okay. How do we find it?
+
+[HEADER 003900B7]
+There might be a way. Let me think about it.
+
+[HEADER 003900B8]
+Any ideas yet?
+
+[HEADER 003900B9]
+We are looking for a source of water, si?
+
+[HEADER 003900BA]
+Yes?
+
+[HEADER 003900BB]
+For generations, the Spanish countryfolk have had a secret way of locating water...
+
+[HEADER 003900BC]
+...even if it is metres beneath the ground.
+
+[HEADER 003900BD]
+Ah. You're not talking about water dowsing, are you?
+
+[HEADER 003900BE]
+Eh?
+
+[HEADER 003900BF]
+You know. You get a stick and walk around until the stick twitches and dig there?
+
+[HEADER 003900C0]
+Oh. You've heard of it.
+
+[HEADER 003900C1]
+Yeah. I think most of the planet has. Okay, let's get a stick.
+
+[HEADER 003900C2]
+Uno momento. It must be a special stick. A `Y' of hazel!
+
+[HEADER 003900C3]
+Right, do you have any hazel trees?
+
+[HEADER 003900C4]
+¡Si! Here!
+
+[HEADER 003900C5]
+That is hazel!
+
+[HEADER 003900C6]
+Not as yet, señor Stobbart. I shall give it more thought.
+
+[HEADER 003900D4]
+What's the story behind the chalice vanishing?
+
+[HEADER 003900D5]
+When the Inquisition raided in the absence of Don Carlos, it was believed that they had taken it.
+
+[HEADER 003900D6]
+Naturally, they denied the charge as they denied taking the children.
+
+[HEADER 003900D7]
+And naturally, nobody believed them.
+
+[HEADER 003900D8]
+But they were telling the truth. The chalice was hidden from them.
+
+[HEADER 003900D9]
+You don't suppose they were telling the truth about the children as well, do you?
+
+[HEADER 003900DA]
+¡Madre Dios! I had not thought of that! But, then what happened to them?
+
+[HEADER 003900DB]
+I don't know. If the Inquisition didn't take them, then who did?
+
+[HEADER 003900DC]
+You must speak to my lady of this!
+
+[HEADER 003900DD]
+Count on it.
+
+[HEADER 00390105]
+Do you know what this is?
+
+[HEADER 00390106]
+No, señor. Is it some kind of key?
+
+[HEADER 00390107]
+Yeah, I think it probably is.
+
+[HEADER 00390108]
+Where did you get it?
+
+[HEADER 00390109]
+It was hidden inside the big candle in the mausoleum.
+
+[HEADER 0039010A]
+And you burnt it! I wondered what the light was I saw through the window!
+
+[HEADER 0039010B]
+My lady will be furious! The candle was centuries old!
+
+[HEADER 0039010C]
+Ah.
+
+[HEADER 003900F9]
+This Bible's in Spanish.
+
+[HEADER 003900FA]
+Si?
+
+[HEADER 003900FB]
+I would've expected Latin.
+
+[HEADER 003900FC]
+Be careful with it. It was a present to my lady from an old friend.
+
+[HEADER 003900FD]
+He died a long time ago. It is all she has to remember him by.
+
+[HEADER 003900FE]
+Okay, I'll handle it with kid gloves.
+
+[HEADER 00390144]
+I borrowed your mirror. Hope you don't mind.
+
+[HEADER 00390145]
+No, señor, if you think it will be of help.
+
+[HEADER 003900E0]
+Well, I got my divining rod. Now what?
+
+[HEADER 003900E1]
+Simplicity itself, sigñor. Hold the wand at the upper ends of the `Y'.
+
+[HEADER 003900E2]
+Apply a little tension with your wrists so that the slightest movement of the wand's tip is clear...
+
+[HEADER 003900E3]
+...and walk slowly and steadily over the area.
+
+[HEADER 003900E4]
+Sounds easy enough.
+
+[HEADER 003900E5]
+We'll find this well in no time!
+
+[HEADER 00390081]
+Señor Stobbart! You've... you've found something!
+
+[HEADER 00390082]
+This is it! This is where we find the secret of the Templars...
+
+[HEADER 00390083]
+Hidden here for hundreds of years...
+
+[HEADER 00390084]
+Lost from the sight of man... until now!
+
+[HEADER 00390085]
+The mystery is revealed!
+
+[HEADER 00390086]
+It's a tin can!
+
+[HEADER 00390087]
+I've been walking up and down with a twig in my hands looking for a TIN CAN?
+
+[HEADER 00390088]
+It had water in it. That's what the dowsing stick must have detected.
+
+[HEADER 00390089]
+I'd have to check with an archaeologist but I don't think the Templars left that.
+
+[HEADER 0039008A]
+In truth, señor Stobbart. The lawn was laid many, many years ago.
+
+[HEADER 0039008B]
+This can could date back to the Napoleonic Wars!
+
+[HEADER 0039008C]
+Get rid of it and I'll try it again.
+
+[HEADER 0039008D]
+Lopez threw the can away. It seemed to fall an awfully long way.
+
+[HEADER 0039008E]
+The splash at the end confirmed what we both suspected.
+
+[HEADER 0039008F]
+Well, I'll be a monkey's uncle!
+
+[HEADER 00390090]
+It has been here all the time! All those years and nobody found it!
+
+[HEADER 00390091]
+We stood in awe for a moment, marvelling at the secrets all around us.
+
+[HEADER 00390092]
+I could have fallen down that.
+
+[HEADER 003D0000]
+The well had been lost for decades at least.
+
+[HEADER 003D0001]
+The air was cool after the noon sun...
+
+[HEADER 003D0002]
+...but that's not what gave me goosebumps.
+
+[HEADER 003D0003]
+I have a really, REALLY bad feeling about this.
+
+[HEADER 003900CB]
+I can't find any usable branches on that hazel tree!
+
+[HEADER 003900CC]
+No? ¡Qué lata!
+
+[HEADER 003900CD]
+How am I supposed to find the well without a divining rod?
+
+[HEADER 003900CE]
+I have no idea, señor.
+
+[HEADER 003900CF]
+Oh, never mind.
+
+[HEADER 003900C7]
+It's really dark down there. Do you have a flashlight or something?
+
+[HEADER 003900C8]
+No, I broke my torch only last month.
+
+[HEADER 003900C9]
+Damn. It's so bright up here but the light's just not getting into the corners.
+
+[HEADER 003900CA]
+Si, the light, it goes in straight lines.
+
+[HEADER 003900EF]
+This tissue is charred.
+
+[HEADER 003900F0]
+You won't get any argument from me on that, señor Stobbart.
+
+[HEADER 003900E6]
+Look at this tissue.
+
+[HEADER 003900E7]
+Why?
+
+[HEADER 003900E8]
+I'd like your opinion on it.
+
+[HEADER 003900E9]
+Okay.
+
+[HEADER 003900EA]
+It has some sort of oily deposit on it.
+
+[HEADER 003900EB]
+That's greasepaint.
+
+[HEADER 003900EC]
+Oh? I wouldn't like that on my face.
+
+[HEADER 003900ED]
+It stinks of solvent. Stray spark and your head might blow up!
+
+[HEADER 003900EE]
+I don't think it's quite that flammable.
+
+[HEADER 003900DE]
+Catch you later, Lopez.
+
+[HEADER 003900DF]
+¡Adios, señor Stobbart!
+
+[HEADER 003B000F]
+Now that it had given up its secret, the glass squares on the lectern were just decorative again.
+
+[HEADER 003B0007]
+The chess pieces had been removed and the Bible returned to its resting place.
+
+[HEADER 003B0008]
+The candles had been lit. The Countess' way of saying, `thanks' to her ancestors, I guess.
+
+[HEADER 003B0009]
+The lectern was bare.
+
+[HEADER 003B000A]
+I didn't want to mess around with the lectern without good reason.
+
+[HEADER 003C0008]
+I wasn't going to put on the armour and I couldn't see anything else to do with it.
+
+[HEADER 003B0018]
+The candle had burnt brilliantly but only for a couple of minutes...
+
+[HEADER 003B0019]
+...some kind of special formulation, I guess, and had yielded up this.
+
+[HEADER 003B001A]
+A complex shape expertly cut in stone. I figured it was some kind of key.
+
+[HEADER 00380000]
+The Countess de Vasconcellos seemed a lot happier than the last time we met.
+
+[HEADER 00380084]
+Señor Stobbart! What a pleasure! Please, sit down!
+
+[HEADER 00380085]
+Hi, Countess. The pleasure's all mine.
+
+[HEADER 00380086]
+I've brought back your chalice...
+
+[HEADER 00380087]
+Why, you've had it cleaned!
+
+[HEADER 00380088]
+Yeah, I met an obliging priest with a soft cloth.
+
+[HEADER 00380089]
+Have you resolved the Templar mystery?
+
+[HEADER 0038008A]
+No, not yet.
+
+[HEADER 0038008B]
+I don't even know what it is I'm after.
+
+[HEADER 0038008C]
+There are many stories of the Knights secreting great wealth away...
+
+[HEADER 0038008D]
+Whatever. All I know is I don't want the bad guys to get it.
+
+[HEADER 0038008E]
+Ah, to be young and live in a world of moral absolutes.
+
+[HEADER 00380090]
+Hello again. Mind if I sit?
+
+[HEADER 00380091]
+Please, be my guest.
+
+[HEADER 00380092]
+I discovered something amazing with that chalice.
+
+[HEADER 00380093]
+In Paris, I found a church where they recognised the coat of arms.
+
+[HEADER 00380094]
+I've found the tomb of Don Carlos de Vasconcellos.
+
+[HEADER 00380095]
+You are sure? There can be no mistake?
+
+[HEADER 00380096]
+The coat of arms on the chalice matches the one on the tomb.
+
+[HEADER 00380097]
+Incredible! You have my most profound thanks. I must go there as soon as possible!
+
+[HEADER 00380098]
+Yeah! I'd be happy to show you the city.
+
+[HEADER 00380099]
+There's something else that I discovered carved on Don Carlos' tomb...
+
+[HEADER 0038009A]
+Biblical references.
+
+[HEADER 0038009B]
+What are the references, señor Stobbart?
+
+[HEADER 0038009C]
+Psalms, thirty two, seven, Corinthians...
+
+[HEADER 0038009D]
+I am not a good enough scholar to know the Bible chapter and verse.
+
+[HEADER 0038009E]
+I meant - what are the quotations?
+
+[HEADER 0038009F]
+You know, I forgot to ask the priest.
+
+[HEADER 003800A0]
+There's still the mystery of the missing chess piece...
+
+[HEADER 003800A1]
+I do not think that it will ever be discovered...
+
+[HEADER 003800A2]
+...unless the fate of the children is revealed.
+
+[HEADER 003800A3]
+The Inquisition were suspected of taking the chalice and the kids, right?
+
+[HEADER 003800A4]
+We know now they were innocent of the first crime. What if...
+
+[HEADER 003800A5]
+...they did not take the children either?
+
+[HEADER 003800A6]
+Then what happened to them?
+
+[HEADER 003800A7]
+The Inquisition admitted to killing Don Carlos' manservant.
+
+[HEADER 003800A8]
+Now this guy had been told to protect the kids at all costs, right?
+
+[HEADER 003800A9]
+That is correct.
+
+[HEADER 003800AA]
+I think he hid them and the chalice when he got wind that the Inquisition was coming.
+
+[HEADER 003800AB]
+With him dead and Don Carlos driven mad with grief, there was nobody left who knew the secret.
+
+[HEADER 003800AC]
+You know what this means, don't you?
+
+[HEADER 003800AD]
+I fear so. The children are still here, somewhere.
+
+[HEADER 003800AE]
+If this is so...
+
+[HEADER 003800AF]
+...then it is small wonder that the de Vasconcellos are cursed.
+
+[HEADER 003800B4]
+Here's the Bible from the mausoleum.
+
+[HEADER 003800B5]
+Very well. Let us begin. The first reference?
+
+[HEADER 003800B6]
+Psalms, thirty two, seven.
+
+[HEADER 003800B7]
+`Thou art my hiding place; thou shalt preserve me from trouble; thou shalt compass me about with songs of deliverance.'
+
+[HEADER 003800B8]
+`My hiding place'!
+
+[HEADER 003800B9]
+Don't get your hopes up too high. This might just be leading us to where we found the chalice.
+
+[HEADER 003800BA]
+You are right, of course. The next?
+
+[HEADER 003800BB]
+Okay. John, four, eleven.
+
+[HEADER 003800BC]
+John... four...
+
+[HEADER 003800BD]
+...eleven. Here! `The well is deep'.
+
+[HEADER 003800BE]
+The next! Quickly!
+
+[HEADER 003800BF]
+Okay, okay. Uh, Corinthians, four, five.
+
+[HEADER 003800C0]
+Here it is! `Will bring to light the hidden things.'
+
+[HEADER 003800C1]
+Any more?
+
+[HEADER 003800C2]
+Just one. Psalms again. Twenty-two, twenty-one.
+
+[HEADER 003800C3]
+`Save me from the lion's mouth: for thou hast heard me from the horns of the unicorns.'
+
+[HEADER 003800C4]
+The last is confusing. Lions? Unicorns? What does it mean?
+
+[HEADER 003800C5]
+I can't guess.
+
+[HEADER 003800C6]
+The salient points seem to be a hiding place and a deep well.
+
+[HEADER 003800C7]
+In no sense is the mausoleum a well, señor Stobbart.
+
+[HEADER 003800C8]
+Is there a well in the grounds?
+
+[HEADER 003800C9]
+I do not know. I suppose that there must have been, once upon a time.
+
+[HEADER 003800CA]
+Lopez is the man to ask about anything pertaining to the estate.
+
+[HEADER 003800DE]
+What do you make of this?
+
+[HEADER 003800DF]
+It looks like some sort of key. Where did you get it from?
+
+[HEADER 003800E0]
+It was buried inside the great candle in the mausoleum.
+
+[HEADER 003800E1]
+Inside it? What have you done to it?
+
+[HEADER 003800E2]
+I, uh, lit it.
+
+[HEADER 003800E3]
+But it is irreplaceable!
+
+[HEADER 003800E4]
+Listen, the candle was to be lit in case of Moorish attack, right?
+
+[HEADER 003800E5]
+Well, it burnt down in no time and revealed this key thing.
+
+[HEADER 003800E6]
+Maybe that was the real purpose of lighting the candle.
+
+[HEADER 003800E7]
+What are you suggesting?
+
+[HEADER 003800E8]
+That lighting the candle was the equivalent of `Break glass in case of emergency'.
+
+[HEADER 003800E9]
+Sentiment must not stand in the way of solving this mystery. You did the right thing.
+
+[HEADER 003800ED]
+Do you know what this is?
+
+[HEADER 003800EE]
+No. It looks very practical, though.
+
+[HEADER 003800CE]
+What does this charred tissue suggest to you?
+
+[HEADER 003800CF]
+You have pyromaniac tendencies?
+
+[HEADER 003800CB]
+Does this tissue mean anything to you?
+
+[HEADER 003800CC]
+Where is this line of questioning going?
+
+[HEADER 003800CD]
+Nowhere helpful.
+
+[HEADER 003800B0]
+I'll have a look around, if that's okay?
+
+[HEADER 003800B1]
+My home is your home. I shall remain here.
+
+[HEADER 00390010]
+So that was what a hazel tree looks like.
+
+[HEADER 00390013]
+There wasn't a single usable `Y' shaped branch on the whole damn thing.
+
+[HEADER 00390011]
+I went over to find a suitable stick.
+
+[HEADER 00390012]
+I don't believe it!
+
+[HEADER 00390015]
+I went over to find a suitable stick.
+
+[HEADER 00390016]
+Ah-ha!
+
+[HEADER 003D0006]
+Sometime in antiquity, there'd been a rock slide.
+
+[HEADER 003D0007]
+Big ones. I wished I had a hard-hat.
+
+[HEADER 003D0008]
+I'd need tools to move all that stuff.
+
+[HEADER 003D0009]
+Heavy equipment that just wasn't available.
+
+[HEADER 00001914]
+I realised I could use the mirror to reflect the light from above...
+
+[HEADER 003D0029]
+There! In the middle of the door I could see some kind of socket.
+
+[HEADER 003D002A]
+It looked like this wasn't quite the dead end it had seemed.
+
+[HEADER 003D0025]
+It was a long way down.
+
+[HEADER 003D0026]
+The brilliant midday sun shone almost directly down the shaft and I still couldn't see the water.
+
+[HEADER 003D0023]
+Thinking back to how long it had taken the can to fall to the bottom...
+
+[HEADER 003D0024]
+...I stayed as far from the edge as I could.
+
+[HEADER 003D0027]
+I'd already risked my neck with one death-defying leap in Syria.
+
+[HEADER 003D0028]
+I wasn't about to push my luck again.
+
+[HEADER 003D002B]
+In the deep shadows, it was hard to make anything out.
+
+[HEADER 003D0010]
+A great stone lion's head with a gaping maw full of fangs.
+
+[HEADER 003D0011]
+As far as I knew, nobody had cast eyes upon it for centuries as it stood...
+
+[HEADER 003D0012]
+...waiting, in the cool shadows.
+
+[HEADER 003D0013]
+The words of the psalm kept running through my head...
+
+[HEADER 003D0014]
+`Save me from the lion's mouth'
+
+[HEADER 000017C1]
+I slid the stone key into the lock...
+
+[HEADER 000017C3]
+There were buttons that turned the dials.
+
+[HEADER 003D0015]
+From a distance, the lion's head had been impressive.
+
+[HEADER 003D0016]
+Close up, it was frightening.
+
+[HEADER 003D0017]
+Hey, one of the fangs is a separate piece!
+
+[HEADER 003D0018]
+I could hear the sound of a lot of stone moving...
+
+[HEADER 003D0019]
+...and I knew I was in danger.
+
+[HEADER 003D001A]
+Ha, ha! Very funny, you psychos!
+
+[HEADER 003D001B]
+SENOR STOBBART! SENOR STOBBART!
+
+[HEADER 003D001C]
+ARE YOU ALL RIGHT?
+
+[HEADER 003D001D]
+IT'S OKAY, LOPEZ! I'M FINE!
+
+[HEADER 003D001E]
+¡QUE SUSTO ME HAS DADA! YOU GAVE ME A SCARE!
+
+[HEADER 003D001F]
+Nice try, Templars.
+
+[HEADER 003D0032]
+Now I knew what I was looking for, it only took a few moments to find it.
+
+[HEADER 003D0033]
+And there it was, a worked socket, as smooth and perfect as if it'd been carved only yesterday.
+
+[HEADER 003D002C]
+I wished that I had Leary's flashlight now.
+
+[HEADER 003D002D]
+It was too dark to see and I had to rely on touch.
+
+[HEADER 003D002E]
+It just felt like a pitted stone wall.
+
+[HEADER 003D002F]
+I'd almost been killed for the sake of a red herring.
+
+[HEADER 0038007F]
+Before I left, though, there was one last thing to do.
+
+[HEADER 00380080]
+You won't be needing that replacement piece any more, Countess.
+
+[HEADER 00380081]
+I found it with the children.
+
+[HEADER 00380082]
+You'll probably want to be alone for a while.
+
+[HEADER 00380083]
+I'll be out in the garden with Lopez.
+
+[HEADER 000017C9]
+I heard the sounds of the lock moving...
+
+[HEADER 000017CA]
+Either that or the wall was gonna come down on my head...
+
+[HEADER 0000191E]
+XIV
+
+[HEADER 0000191F]
+XIV - XXVII
+
+[HEADER 00001920]
+XIV - XXVII - VI
+
+[HEADER 00001921]
+XIV - XXVII - VI - LXXXI
+
+[HEADER 00001922]
+XIV - XXVII - VI - LXXXI - III
+
+[HEADER 00001923]
+XIV - XXVII - VI - LXXXI - III - I
+
+[HEADER 00001924]
+XIV - XXVII - VI - LXXXI - III - I - XVII
+
+[HEADER 00001925]
+XIV - XXVII - VI - LXXXI - III - I - XVII - XII
+
+[HEADER 00001926]
+XIV - XXVII - VI - LXXXI - III - I - XVII - XII - XXV
+
+[HEADER 000017CC]
+Oh, yes!
+
+[HEADER 000017D5]
+Bonus points for that, I hope.
+
+[HEADER 000017D6]
+I knew the old Stobbart fingerwork wouldn't let me down.
+
+[HEADER 000017CF]
+I must have made a mistake...
+
+[HEADER 000017D0]
+The lock spun back to neutral and nearly took my fingers off.  I was going to have to start from scratch again.
+
+[HEADER 000017D1]
+Damn!
+
+[HEADER 000017D2]
+Not another mistake...
+
+[HEADER 000017D3]
+Wrong again, Stobbart!
+
+[HEADER 000017D4]
+Another wrong combination.
+

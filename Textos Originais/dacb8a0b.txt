@@ -1,0 +1,1866 @@
+[HEADER 00003E80]
+I want to go down that sewer, but the juggler's in the way.
+
+[HEADER 00003E8A]
+Why not see if you can do a better job than the juggler - using humour as your weapon!
+
+[HEADER 00003E94]
+Ask the juggler if you can try juggling. Talk to the policeman, and show him the clown's nose.
+
+[HEADER 00003E9E]
+Once that's done, ask the juggler for another go - show him the nose. That should clear the way.
+
+[HEADER 00003EA8]
+This sewer seems to be a dead end.
+
+[HEADER 00003EB2]
+Have a closer look at those panels on the wall.
+
+[HEADER 00003EBC]
+The one on the far right seems... breakable.
+
+[HEADER 00003EC6]
+Hit the panel with the sewer key.
+
+[HEADER 00003ED0]
+Operate the mechanism that is revealed behind the door.
+
+[HEADER 00003EDA]
+The mechanism is jammed and I can't force it open.
+
+[HEADER 00003EE4]
+You need to take advantage of your surroundings.
+
+[HEADER 00003EEE]
+See the winch on the boat? Try using it.
+
+[HEADER 00003EF8]
+Unwind the winch, and use the hook on the broken mechanism.
+
+[HEADER 00003F02]
+What am I supposed to do in this chamber?
+
+[HEADER 00003F0C]
+Take a look at the stand in the centre of the circle.
+
+[HEADER 00003F16]
+Do the holes remind you of any three-legged object you might have?
+
+[HEADER 00003F20]
+Put the tripod on the stand.
+
+[HEADER 00003F2A]
+Now put the gem on top.
+
+[HEADER 00003F34]
+I've got to Montfauçon - but the area is deserted except for a cop. What should I do?
+
+[HEADER 00003F3E]
+Right now, you might be better off elsewhere. The planned theft of the tripod from the museum should be your top priority!
+
+[HEADER 00003F48]
+I know about Marib - what should I do now?
+
+[HEADER 00003F52]
+Nico told you that Marib was in Syria - why not get out there and investigate?
+
+[HEADER 00003F5C]
+To travel to Syria, go to the Paris map, then select the large arrow to move to a map of Europe. Then select to go to Syria.
+
+[HEADER 00003F66]
+I've got this strange lens. What should I do with it?
+
+[HEADER 00003F70]
+Take a look around the church. What could the lens be used with?
+
+[HEADER 00003F7A]
+On the statue there is a scroll. Read the inscription. Familiar?
+
+[HEADER 00003F84]
+Screw the lens onto the end of the statue's scroll.
+
+[HEADER 00003F8E]
+Look through the scroll.
+
+[HEADER 00003F98]
+The stained glass is now all messed up - what should I do?
+
+[HEADER 00003FA2]
+Grab the tabs and move the different elements so they match the background picture.
+
+[HEADER 00003FAC]
+In particular, check that the Roman numerals at the bottom are clear - they should read MCCCXIV.
+
+[HEADER 00003FB6]
+I've seen the burning man in the stained glass window - but can't get any further.
+
+[HEADER 00003FC0]
+You will find that Lobineau can offer valuable leads. Go and talk to him.
+
+[HEADER 00003FCA]
+OK - so I know that the de Vasconcellos family in Spain have a significance. But what now?
+
+[HEADER 00003FD4]
+The de Vasconcellos villa in Spain should be your next destination.
+
+[HEADER 00003FDE]
+To travel to Spain, go to the Paris map, then select the large arrow to move to a map of Europe, and select to go to Spain.
+
+[HEADER 00003FE8]
+I have the de Vasconcellos chalice from Spain. What should I do?
+
+[HEADER 00003FF2]
+Head to the church and take a look around.
+
+[HEADER 00003FFC]
+Speak to the priest about the chalice.
+
+[HEADER 00004006]
+Let him clean it for you. You may need to leave, explore and come back to give him time to finish polishing. When you think he's finished, go and talk to him again.
+
+[HEADER 00004010]
+Didn't the priest mention something about a coat of arms on the chalice?
+
+[HEADER 0000401A]
+He said that it matched one of the tombs in the church.
+
+[HEADER 00004024]
+Check the tomb at the back of the church, on the right, for the matching symbol.
+
+[HEADER 0000402E]
+I found these Biblical inscriptions on the tomb of Don Carlos, but don't know what to do with them.
+
+[HEADER 00004038]
+Highlight the inscriptions, like a wordsearch.
+
+[HEADER 00004042]
+Look for Psalms:XXXII XXI, John IV XI, Psalms XXXII VII, and Corinthians1 IV V.
+
+[HEADER 0000404C]
+I'm loaded up with information but I don't know what to do next.
+
+[HEADER 00004056]
+Well, you've found out more about the de Vasconcellos family - who should you talk to?
+
+[HEADER 00004060]
+Go talk to Lobineau in the museum - he will suggest where you should go next.
+
+[HEADER 0000406A]
+I am sure that I know all I can about the de Vasconcellos family and the curse - what now?
+
+[HEADER 00004074]
+Take a trip to the Crune museum again, and talk to Lobineau about the Baphomet head.
+
+[HEADER 0000407E]
+It's time to head to the Site du Baphomet.
+
+[HEADER 00002B70]
+How does this work?
+
+[HEADER 00002B11]
+Examine the tomb carefully.  Hidden among the writings are some Biblical verse references.
+
+[HEADER 00002B12]
+Altogether there are 4 concealed Biblical references.  You must highlight all four of them - like a wordsearch.
+
+[HEADER 00002B13]
+As well as the book name, make sure that you highlight the chapter and verse numbers. Look for and highlight Psalms:XXXII XXI.
+
+[HEADER 00002B14]
+Look for and highlight - Psalms:XXXII XXI, John IV XI, Psalms XXXII VII, and Corinthians1 IV V.
+
+[HEADER 00002B15]
+LINE '11029' MISSING FROM MASTER LANGUAGE.TXT
+
+[HEADER 00240008]
+I once read a list of low stress jobs...
+
+[HEADER 00240009]
+...it didn't include police work.
+
+[HEADER 0024000A]
+Obviously, this guy hadn't read the same list.
+
+[HEADER 00240095]
+Excuse me, officer!
+
+[HEADER 00240098]
+Hello again!
+
+[HEADER 0024009B]
+Hello again, m'sieur!
+
+[HEADER 002400C5]
+What do you know about the Knights Templar?
+
+[HEADER 002400C6]
+Les Templiers? Only that they were excommunicated in thirteen twelve...
+
+[HEADER 002400C7]
+... and hanged in their dozens - within this very square!
+
+[HEADER 002400C8]
+Boy, what they teach in police academy these days!
+
+[HEADER 002400C9]
+Non, m'sieur. I read it on that board over there.
+
+[HEADER 0024009D]
+Shouldn't you be off directing traffic or something?
+
+[HEADER 0024009E]
+You have seen the Parisian traffic, non?
+
+[HEADER 0024009F]
+Yeah? So?
+
+[HEADER 002400A0]
+I could direct the traffic, the most dangerous this side of Rome...
+
+[HEADER 002400A1]
+...or I can sit here and enjoy the sun, the architecture and this so-so Sauvignon.
+
+[HEADER 002400A2]
+Which would you choose?
+
+[HEADER 002400A3]
+Yeah, but I'm not a policeman. What happened to duty?
+
+[HEADER 002400A4]
+An excellent question, m'sieur.
+
+[HEADER 002400CA]
+What do you think of the juggler?
+
+[HEADER 002400CB]
+Ah, he is excellent! Most watchable!
+
+[HEADER 002400CC]
+But he's blocking the thoroughfare and obstructing traffic!
+
+[HEADER 002400CD]
+So? He is amusing. The traffic isn't.
+
+[HEADER 002400CE]
+If he wants to block it who am I to say, "No"?
+
+[HEADER 002400CF]
+You're a cop!
+
+[HEADER 002400D0]
+Ah, oui. So I am. Ah, well.
+
+[HEADER 002400D1]
+So you're not going to do anything about this guy?
+
+[HEADER 002400D2]
+Non.
+
+[HEADER 002400D3]
+He probably doesn't even have a license!
+
+[HEADER 002400D4]
+Ah! A license! This I had not considered!
+
+[HEADER 002400D5]
+So what are you going to do?
+
+[HEADER 002400D6]
+The instant I return to the station I shall check.
+
+[HEADER 002400D7]
+Return to the station? Why not just ask him?
+
+[HEADER 002400D8]
+And spoil his concentration? What kind of a barbarian do you take me for?
+
+[HEADER 002400F9]
+Do you know what this is?
+
+[HEADER 002400FA]
+A-ha! You Americans with your notorious `nose candy'!
+
+[HEADER 002400FB]
+I read `Hollywood Wives', I know all about it!
+
+[HEADER 002400FC]
+If you tried to sniff this stuff, you'd wall up your sinus.
+
+[HEADER 002400FD]
+It's plaster of Paris.
+
+[HEADER 002400FE]
+It is? Thank Heavens.
+
+[HEADER 002400FF]
+For one awful moment, I thought I might actually have to arrest somebody.
+
+[HEADER 00240100]
+Alors, the paperwork. You have no idea.
+
+[HEADER 00240101]
+I've shown you this plaster, haven't I?
+
+[HEADER 00240102]
+Oui, m'sieur.
+
+[HEADER 00240103]
+Does this red nose mean anything to you?
+
+[HEADER 00240104]
+A-ha! A prosthetic nose!
+
+[HEADER 00240105]
+Very significant!
+
+[HEADER 00240106]
+It is?
+
+[HEADER 00240107]
+Non. I am just having a little joke.
+
+[HEADER 00240108]
+Non.
+
+[HEADER 00240109]
+Ah! You are a clown?
+
+[HEADER 0024010A]
+Do I look like a clown?
+
+[HEADER 0024010B]
+Non, although you juggle like one.
+
+[HEADER 0024010C]
+Now, if I'd known you were a clown it would have been amusing...
+
+[HEADER 0024010D]
+...and not a humiliation for you.
+
+[HEADER 0024010E]
+What do you mean?
+
+[HEADER 0024010F]
+Who ever heard of a plain-clothes clown?
+
+[HEADER 00240110]
+He had a point.
+
+[HEADER 00240111]
+So you're saying that if I juggle badly with a red nose, I'd be the king of comedy...
+
+[HEADER 00240112]
+...but if I juggle badly without it...
+
+[HEADER 00240113]
+...you look like a pathetic loon. Oui, monsieur. You have it.
+
+[HEADER 002400DB]
+Look at this gem. What do you think?
+
+[HEADER 002400DC]
+Cut glass.
+
+[HEADER 002400DD]
+No, it's not! It's for real!
+
+[HEADER 002400DE]
+What kind of madman would go around waving a priceless gem under people's noses?
+
+[HEADER 002400DF]
+So either it's glass or I'm mad?
+
+[HEADER 002400E0]
+I didn't like to think about that for too long.
+
+[HEADER 00240120]
+What does this chalice suggest to you?
+
+[HEADER 00240121]
+Wine.
+
+[HEADER 0024011B]
+What do you know about medieval ironmongery?
+
+[HEADER 0024011C]
+Have a look at this little baby.
+
+[HEADER 0024011D]
+A tripod. What is it for?
+
+[HEADER 0024011E]
+You mean you don't know?
+
+[HEADER 0024011F]
+No, monsieur. Nor do you, I think.
+
+[HEADER 002400E1]
+Would you like to shake...
+
+[HEADER 002400E2]
+I stopped myself barely in time.
+
+[HEADER 002400E3]
+Electrocuting a cop would not have been smart.
+
+[HEADER 002400E4]
+They'd rebuild the Bastille just so they could throw me in and throw away the key.
+
+[HEADER 002400E5]
+Do you know what this is?
+
+[HEADER 002400E6]
+It's a sewer key.
+
+[HEADER 002400E9]
+Have you seen this man before?
+
+[HEADER 002400EA]
+Non. Who is it?
+
+[HEADER 002400EB]
+I believe him to be an international assassin!
+
+[HEADER 002400EC]
+Oh.
+
+[HEADER 002400ED]
+Is that all you can say? `Oh'?
+
+[HEADER 002400EE]
+I did wonder if I should say that I believe you to be a international paranoiac...
+
+[HEADER 002400EF]
+...but it didn't seem polite.
+
+[HEADER 002400F0]
+What do you think of this?
+
+[HEADER 002400F1]
+A blood pressure sleeve.
+
+[HEADER 002400F5]
+Take a look at this.
+
+[HEADER 002400F6]
+Ah, an electrician!
+
+[HEADER 00240118]
+Does this matchbook mean anything to you?
+
+[HEADER 00240119]
+The pattern looks Middle Eastern.
+
+[HEADER 00240114]
+What do you make of this greasepaint-stained tissue?
+
+[HEADER 00240115]
+Delightful. Would you like to see some of my used tissues?
+
+[HEADER 00240116]
+Hell, no!
+
+[HEADER 00240117]
+Then please put yours away.
+
+[HEADER 002400D9]
+I'll see you around.
+
+[HEADER 002400DA]
+Oui, m'sieur. I'll be here.
+
+[HEADER 0024001C]
+In the middle of the square was a manhole.
+
+[HEADER 0024001D]
+I wondered if there might be something relevant beneath street level.
+
+[HEADER 0024001E]
+It was the manhole I'd used to get to the hidden cave.
+
+[HEADER 0024001F]
+If I never went into the Parisian sewers again it would be too soon.
+
+[HEADER 0024008F]
+Hey! Hey you! What do you think you are doing?
+
+[HEADER 00240090]
+Leave that cover alone! Now!
+
+[HEADER 00240091]
+Sorry! No harm intended!
+
+[HEADER 00240092]
+You stay away from that!
+
+[HEADER 00240020]
+I couldn't open it with my bare hands.
+
+[HEADER 00240093]
+I think he suspected me of being the mysterious `Sewer Jacques'...
+
+[HEADER 00240094]
+...and the last thing I needed at the moment was to be arrested for crimes against public sanitation.
+
+[HEADER 00240096]
+You're back!
+
+[HEADER 00240097]
+Oui. I have returned.
+
+[HEADER 002400A5]
+Well, I wasn't expecting to see you back here again.
+
+[HEADER 002400A6]
+Non? Well, it is a strange thing but I am here on duty.
+
+[HEADER 002400A7]
+On duty? But you're just sitting there drinking wine.
+
+[HEADER 002400A8]
+Non, I am not just drinking wine. I am undercover.
+
+[HEADER 002400A9]
+I must be missing something. You're in uniform.
+
+[HEADER 002400AA]
+Precisely, m'sieur. My cover is that of an indolent, wine guzzling police officer.
+
+[HEADER 002400AB]
+You've got me convinced.
+
+[HEADER 002400AC]
+Merci. But, in reality, my every muscle is poised, every nerve honed.
+
+[HEADER 002400AD]
+I am drawn tight, ready to pounce! P'zang!
+
+[HEADER 002400AE]
+Who or what were you planning to "p'zang" on?
+
+[HEADER 002400AF]
+You must have heard, m'sieur, of the terror that is gripping Paris?
+
+[HEADER 002400B0]
+You mean the killings? At last somebody's taking action!
+
+[HEADER 002400B1]
+Pah! People die every day. Non, non. I am on the trail of "Sewer Jacques".
+
+[HEADER 002400B2]
+I, unh.... Who?
+
+[HEADER 002400B3]
+Sewer Jacques! The terror of the subterranean city!
+
+[HEADER 002400B5]
+He pops up here! He pops up there! The cops, they seek him everywhere!
+
+[HEADER 002400B6]
+Is he sous Hoche or beneath the Laennec? That damned, elusive, Sewer Jacques!
+
+[HEADER 002400B7]
+Bravo. That's very good.
+
+[HEADER 002400B8]
+Merci. I was up half the night writing that.
+
+[HEADER 002400B9]
+Who is this "Sewer Jacques" character, anyway?
+
+[HEADER 002400BA]
+Ah, if we but knew that, we could have him in custody in an hour.
+
+[HEADER 002400BB]
+But he is cunning.
+
+[HEADER 002400BC]
+To despoil the sewers of our fair city he has committed many deceptions!
+
+[HEADER 002400BD]
+He has pretended to be a police officer and deluded a poor war veteran!
+
+[HEADER 002400BE]
+Uh - oh...
+
+[HEADER 002400BF]
+He has pretended to be a jongleur...
+
+[HEADER 002400C0]
+Boy, is that the time?
+
+[HEADER 002400C1]
+... and an American tourist!
+
+[HEADER 002400C2]
+What nationality are you, m'sieur?
+
+[HEADER 002400C3]
+Canadian. Well, gotta go! See you!
+
+[HEADER 002400C4]
+Well, it's not everyone who can say that they started an urban myth.
+
+[HEADER 00240005]
+The juggler was good.
+
+[HEADER 00240006]
+Why he couldn't put that kind of application into getting a real job I had no idea.
+
+[HEADER 00240007]
+Maybe he just liked dressing up like a horse's ass.
+
+[HEADER 00240021]
+Hey! You with the balls!
+
+[HEADER 00240022]
+Hi, again.
+
+[HEADER 00240023]
+Oui?
+
+[HEADER 00240024]
+Oui? What is it this time?
+
+[HEADER 00240026]
+How did you learn to be a juggler?
+
+[HEADER 00240027]
+Juggler? What is this `juggler'?
+
+[HEADER 00240028]
+It's you. You juggle, that makes you a juggler.
+
+[HEADER 00240029]
+Non! I am a jongleur!
+
+[HEADER 0024002A]
+A jongler? What's that?
+
+[HEADER 0024002B]
+Mon Dieu! A jongleur is an artiste, a master of the contra-gravitic, aero-balletic mysteries!
+
+[HEADER 0024002C]
+In centuries past, the courts of the crowned heads of Europe had their jongleurs.
+
+[HEADER 0024002D]
+Witty, erudite men to whom the monarchs turned in their hours of need.
+
+[HEADER 0024002E]
+Wait a minute? Let me get this straight...
+
+[HEADER 0024002F]
+...`Our enemies are at the borders, plague ravages the land and the peasants are revolting...'
+
+[HEADER 00240030]
+`...Thank God we've got Chuckles the Jongler to throw his balls around'.
+
+[HEADER 00240031]
+I don't think so.
+
+[HEADER 00240033]
+That juggling doesn't look so difficult.
+
+[HEADER 00240034]
+Oh, it does not, does it not?
+
+[HEADER 00240035]
+Perhaps you feel you could do better, non?
+
+[HEADER 00240036]
+I'll give it a try.
+
+[HEADER 00240037]
+Be my guest...
+
+[HEADER 00240038]
+I had no idea what I was doing.
+
+[HEADER 00240039]
+But this guy was obviously an idiot so how difficult could it be?
+
+[HEADER 0024003A]
+A lot more difficult than I'd thought, that's how difficult.
+
+[HEADER 0024003B]
+Still, it was my big chance to be derided by complete strangers.
+
+[HEADER 0024003C]
+Not so easy after all, is it?
+
+[HEADER 0024003D]
+No, I guess not.
+
+[HEADER 0024004D]
+What do you know about the Knights Templar?
+
+[HEADER 0024004E]
+Les Templiers? Ah, their last Grand master, Jacques de Molay was burnt...
+
+[HEADER 0024004F]
+...on an island in the Seine in thirteen fourteen.
+
+[HEADER 00240050]
+Hey, you're well educated for a juggler!
+
+[HEADER 00240051]
+Non, monsieur. I read it on that board over there.
+
+[HEADER 00240065]
+Does this greasepaint mean anything to you?
+
+[HEADER 00240066]
+A red nose and now greasepaint?
+
+[HEADER 00240067]
+You are sure you are not a clown?
+
+[HEADER 00240068]
+Well...
+
+[HEADER 00240069]
+I was distracted by the idea again.
+
+[HEADER 0024006A]
+Caper, caper, caper. Plummet. Nope, gone again.
+
+[HEADER 0024006B]
+It looks like one of mine. Or at least another jongleur.
+
+[HEADER 0024006C]
+Or clown?
+
+[HEADER 0024006D]
+Mais naturellement. A clown.
+
+[HEADER 0024006E]
+Hardly a breakthrough.
+
+[HEADER 0024003E]
+I'd like to have another try at juggling, please.
+
+[HEADER 0024003F]
+You have gone on a crash course, perhaps?
+
+[HEADER 00240040]
+No, I just had an insight into presentation.
+
+[HEADER 00240041]
+Huh?
+
+[HEADER 00240042]
+Allow me to demonstrate. The balls, please.
+
+[HEADER 00240043]
+If you insist on completing your humiliation, m'sieur.
+
+[HEADER 00240044]
+Okay, now for my secret weapon.
+
+[HEADER 00240045]
+The juggler was speechless with rage.
+
+[HEADER 00240046]
+You could have mistaken him for a mime.
+
+[HEADER 00240047]
+And without a word he collected his balls...
+
+[HEADER 00240048]
+...and left in a fury.
+
+[HEADER 00240049]
+Hey! You forgot one of your balls! Hey!
+
+[HEADER 0024004A]
+But he didn't hear.
+
+[HEADER 0024004B]
+Better still, deprived of his entertainment...
+
+[HEADER 0024004C]
+...the gendarme decided maybe he ought to do some policing for a change.
+
+[HEADER 0024005E]
+Look! A red nose!
+
+[HEADER 0024005F]
+Ah, you are a clown?
+
+[HEADER 00240060]
+A clown?
+
+[HEADER 00240061]
+Non. If so, you would be a much better jongleur.
+
+[HEADER 00240062]
+For a moment, an idea capered around near the spotlight of my attention...
+
+[HEADER 00240063]
+...but fell down a pothole before I could focus on it.
+
+[HEADER 00240064]
+How you say, `Whoop-de-doo'.
+
+[HEADER 00240072]
+Does this lab pass mean anything to you?
+
+[HEADER 00240073]
+You work in a lab.
+
+[HEADER 00240074]
+Nope. Try again.
+
+[HEADER 00240075]
+You steal lab passes.
+
+[HEADER 00240076]
+No! Well, not as a habit. This was a special case.
+
+[HEADER 00240077]
+Feast your eyes on this!
+
+[HEADER 00240078]
+Incroyable! Is it real?
+
+[HEADER 00240079]
+I think so.
+
+[HEADER 0024007A]
+Some people believe that great gems always have curses upon them.
+
+[HEADER 0024007B]
+Oh, that's garbage.
+
+[HEADER 0024007C]
+Although, now I think about it...
+
+[HEADER 0024007D]
+Both of the people who had this before me disappeared in mysterious circumstances...
+
+[HEADER 0024007E]
+...and the guy who was supposed to get it was shot and then murdered in his hospital bed.
+
+[HEADER 0024007F]
+Do you want it?
+
+[HEADER 00240080]
+No! Thank you.
+
+[HEADER 00240054]
+It didn't seem right to fry somebody's palm when they make their living with their hands.
+
+[HEADER 00240055]
+This gadget is a sewer key.
+
+[HEADER 00240056]
+I do not want it, thank you.
+
+[HEADER 00240057]
+I'm not selling it, I just wanted your opinion.
+
+[HEADER 00240058]
+It is hardly my area of expertise.
+
+[HEADER 00240059]
+Have you seen this man before?
+
+[HEADER 0024005A]
+Non.
+
+[HEADER 0024005B]
+What do you think of this?
+
+[HEADER 0024005C]
+It is a medical device, oui?
+
+[HEADER 0024006F]
+Does this plaster interest you?
+
+[HEADER 00240070]
+Well...
+
+[HEADER 00240071]
+Forget it. Forget that I asked.
+
+[HEADER 00240083]
+Does this chalice mean anything to you?
+
+[HEADER 00240084]
+It is very badly designed. I would not wish to drink from such a vessel.
+
+[HEADER 00240085]
+You're not gonna get the chance, buster.
+
+[HEADER 00240089]
+Does this matchbook mean anything to you?
+
+[HEADER 0024008A]
+You smoke.
+
+[HEADER 0024008B]
+No, I don't.
+
+[HEADER 0024008C]
+In that case, it means nothing to me.
+
+[HEADER 0024008D]
+I've got a medieval tripod.
+
+[HEADER 0024008E]
+And my uncle Claude has haemorrhoids. So what?
+
+[HEADER 00240052]
+Catch you later.
+
+[HEADER 00240053]
+Au revoir, m'sieur.
+
+[HEADER 0030004E]
+The priest was still busy with the chalice so I decided to have another look around the church.
+
+[HEADER 0030004D]
+A priest stood by the pews, energetically polishing something...
+
+[HEADER 00300051]
+Hey, thanks!
+
+[HEADER 00300052]
+It is my pleasure, monsieur.
+
+[HEADER 00300053]
+What was the writing on the chalice?
+
+[HEADER 00300054]
+It was not writing. My mistake. It was a coat of arms.
+
+[HEADER 00300055]
+The remarkable thing is that it seems very familiar!
+
+[HEADER 00300056]
+Yeah?
+
+[HEADER 00300057]
+Oui. I think I have seen it on that wall tomb in the far corner.
+
+[HEADER 00300058]
+That winged horse is quite distinctive.
+
+[HEADER 0030004F]
+Uh, excuse me, father.
+
+[HEADER 00300059]
+Pardon?
+
+[HEADER 0030005A]
+Do you mind if I ask you a few questions?
+
+[HEADER 0030005B]
+Not at all, monsieur! It will be my pleasure to help you.
+
+[HEADER 00300050]
+Hello again, father.
+
+[HEADER 0030005C]
+Bonjour, m'sieur. How pleasant to speak to you again!
+
+[HEADER 00300080]
+Do you speak Latin?
+
+[HEADER 00300081]
+You ask this of a priest?
+
+[HEADER 00300082]
+Okay, can you tell me what "Per disciplinam meam, lux videbis" means?
+
+[HEADER 00300083]
+Let me see. That would be, "By my teachings, you will see the light", I think.
+
+[HEADER 00300084]
+Yeah, that's what I thought too.
+
+[HEADER 0030006D]
+I noticed that the stained glass window on the left looks more modern than the middle one.
+
+[HEADER 0030006E]
+You have a keen eye, monsieur. The original window was destroyed in the last war.
+
+[HEADER 0030006F]
+It was as old as the church. Early fourteenth century.
+
+[HEADER 00300070]
+Oh, man! That's awful!
+
+[HEADER 00300071]
+Oui, a terrible loss. Still, the church and the other windows survived.
+
+[HEADER 00300072]
+Is the righthand window original?
+
+[HEADER 00300073]
+Oui, monsieur.
+
+[HEADER 00300074]
+Did you know that the centre window conceals an image of a man burning at the stake?
+
+[HEADER 00300075]
+The Burning Man!
+
+[HEADER 00300076]
+What? You knew?
+
+[HEADER 00300077]
+That there was a hidden image, non.
+
+[HEADER 00300078]
+But the church has a reputation for being haunted.
+
+[HEADER 00300079]
+Many times, people have claimed to have seen a burning man in the window...
+
+[HEADER 0030007A]
+...but when others, they look, there is nothing.
+
+[HEADER 0030007B]
+Perhaps, the light has to be just so for the figure to appear.
+
+[HEADER 0030007C]
+Yeah, or maybe you need a special lens.
+
+[HEADER 0030007D]
+You must be proud to have such an incredible collection of stained glass.
+
+[HEADER 0030007E]
+Pride is a sin, monsieur. But it is hard not to marvel when the light shines through them.
+
+[HEADER 0030007F]
+It is a fine example of the artisans' genius.
+
+[HEADER 0030005E]
+How long have you worked here?
+
+[HEADER 0030005F]
+Hardly work, m'sieur! This is a calling.
+
+[HEADER 00300060]
+I have been helping Father Flambert for nearly six months now.
+
+[HEADER 00300061]
+I guess you don't know much about the history of this church then?
+
+[HEADER 00300062]
+Just a little.
+
+[HEADER 00300063]
+You've got quite a shine on that candlestick.
+
+[HEADER 00300064]
+Ah, oui! Anything less than best would be an insult to the Almighty.
+
+[HEADER 00300065]
+I guess so. I've never thought of it like that.
+
+[HEADER 00300066]
+What do you know about the Knights Templar?
+
+[HEADER 00300067]
+You have come to the right place if that is your interest.
+
+[HEADER 00300068]
+Many of them were executed in the square outside. It was a disgrace to France.
+
+[HEADER 00300069]
+The Pope was right behind it though.
+
+[HEADER 0030006A]
+Clement the Fifth was a man of Mammon, not of God!
+
+[HEADER 0030006B]
+That's kind of forthright for a priest, isn't it?
+
+[HEADER 0030006C]
+You think so? It is hard to be sure what happened. It is so long ago.
+
+[HEADER 003000A1]
+What do you make of this chalice?
+
+[HEADER 003000A2]
+It certainly looks very old!
+
+[HEADER 003000A3]
+About as old as this church, I think.
+
+[HEADER 003000A4]
+There seems to be engraving on it.
+
+[HEADER 003000A5]
+Yeah? What does it say?
+
+[HEADER 003000A6]
+I do not know. It is very tarnished.
+
+[HEADER 003000A7]
+With your permission, I could try polishing it? I promise, I will be very careful.
+
+[HEADER 003000A8]
+This chalice is kind of tarnished, isn't it?
+
+[HEADER 003000A9]
+Would you like me to polish it, monsieur?
+
+[HEADER 003000AA]
+That would be very good of you.
+
+[HEADER 003000AB]
+This shouldn't take very long. Feel free to look around.
+
+[HEADER 003000AC]
+Okay. Thanks.
+
+[HEADER 003000AD]
+Uh, no. That's okay.
+
+[HEADER 003000AE]
+As you wish.
+
+[HEADER 003000AF]
+Boy, what a shine you've got on this!
+
+[HEADER 003000B0]
+Merci. It is all in the wrist action.
+
+[HEADER 00300087]
+I thought about using the Shake n' Shock on him...
+
+[HEADER 00300088]
+But I couldn't do it to a priest.
+
+[HEADER 00300094]
+I have here a sewer key.
+
+[HEADER 00300095]
+Ah, oui?
+
+[HEADER 0030008C]
+I was in Ireland recently and I brought back this plaster.
+
+[HEADER 0030008D]
+My sister brought back a shillelagh.
+
+[HEADER 0030008E]
+How about this for a gem.
+
+[HEADER 0030008F]
+It is very beautiful, m'sieur, and yet...
+
+[HEADER 00300090]
+I feel that there is an air of suffering about it.
+
+[HEADER 00300091]
+Have you ever seen anything like this lens?
+
+[HEADER 00300092]
+Non, never. The glass seems subtly coloured in some way.
+
+[HEADER 00300093]
+Yeah. I've never noticed that before.
+
+[HEADER 00300098]
+Have you seen this man before?
+
+[HEADER 00300099]
+Non, I have never seen him before.
+
+[HEADER 0030009A]
+What do you think of this?
+
+[HEADER 0030009B]
+A pressure sleeve and valve. What should I think?
+
+[HEADER 0030009C]
+Never mind.
+
+[HEADER 003000B1]
+I've got a medieval tripod.
+
+[HEADER 003000B2]
+M'sieur, you are a walking treasure house!
+
+[HEADER 0030009D]
+I've got a red nose!
+
+[HEADER 0030009E]
+Oui, so you have.
+
+[HEADER 0030009F]
+There's greasepaint on this tissue.
+
+[HEADER 003000A0]
+Oui, you are correct.
+
+[HEADER 00300085]
+Catch you later.
+
+[HEADER 00300086]
+Au revoir, m'sieur.
+
+[HEADER 00300089]
+Have you ever heard of this guy?
+
+[HEADER 0030008A]
+Non, m'sieur, I am afraid not. Is he a friend?
+
+[HEADER 0030008B]
+Not really. More of an acquaintance.
+
+[HEADER 00250006]
+A weird little boat lay tied up. I guess they used it to get maintenance crews around.
+
+[HEADER 00250007]
+Either that or the Phantom of the Opera was somewhere near.
+
+[HEADER 00250008]
+On the boat was a winching machine.
+
+[HEADER 00250009]
+There were three arches, each with an inscription.
+
+[HEADER 0025000D]
+That sounded pretty solid.
+
+[HEADER 0025000B]
+My Medieval French isn't much but the few words I understood seemed to say this is where the gallows used to stand.
+
+[HEADER 0025000C]
+Maybe.
+
+[HEADER 00250010]
+Nothing hollow there.
+
+[HEADER 0025000F]
+The inscription was hard to read but I made out `Templiers' and something about innocence.
+
+[HEADER 0025001E]
+Inside the hole I could see one of the cogs had come loose and jammed the mechanism solid.
+
+[HEADER 00250021]
+Close-up, I could see the plaster was thinner where I'd broken through than that around it...
+
+[HEADER 00250022]
+...and behind it were some cogs and a lever.
+
+[HEADER 00250018]
+It was time for some brutal destruction.
+
+[HEADER 00250017]
+Hey! That's hollow!
+
+[HEADER 0025001C]
+I'd poked a hole in an historical site.
+
+[HEADER 0025001D]
+If any archaeologists came by, they'd lynch me for this.
+
+[HEADER 0025001A]
+There was some sort of mechanism hidden inside the wall...
+
+[HEADER 0025001B]
+...with a lever in the middle of it.
+
+[HEADER 0025001F]
+Here goes!
+
+[HEADER 00250011]
+The secret door had jammed. I couldn't get through that gap.
+
+[HEADER 00250019]
+I'd pulled the lever right over.
+
+[HEADER 00250013]
+The wall had flaked and anything once written on it had long since gone.
+
+[HEADER 00250014]
+The wall seemed in very poor condition.
+
+[HEADER 00250015]
+The inscription was undecipherable. The plaster had cracked and was falling away.
+
+[HEADER 00250016]
+I wondered why.
+
+[HEADER 00260000]
+There was a crack in the wall.
+
+[HEADER 00260001]
+Through it, I could see a glimmer of natural light.
+
+[HEADER 00270010]
+In the beginning was the end.
+
+[HEADER 00270011]
+An end wrought by our enemies began our darkness.
+
+[HEADER 00270012]
+In the end will be a beginning.
+
+[HEADER 00270013]
+An end to our enemies heralds our new day.
+
+[HEADER 00270014]
+Report.
+
+[HEADER 00270015]
+The military establishments are in flux.
+
+[HEADER 00270016]
+The end of the Cold War has left them with no clear goal and as obvious targets for budgetary cuts.
+
+[HEADER 00270017]
+We have successfully promoted a sense of betrayal in the upper echelons.
+
+[HEADER 00270018]
+They feel that the politicians have cast them adrift.
+
+[HEADER 00270019]
+The pattern is emerging. Our time is now.
+
+[HEADER 0027001A]
+Good. Mam'selle?
+
+[HEADER 0027001B]
+Governments are giving the corporations more respect than their own citizens.
+
+[HEADER 0027001C]
+A ground swell of dissatisfaction and dissidence is growing.
+
+[HEADER 0027001D]
+The corporations are becoming too large and complex for their own executives to control them.
+
+[HEADER 0027001E]
+A blind belief in market forces is accelerating this trend the world over.
+
+[HEADER 0027001F]
+The pattern is emerging. Our time is now.
+
+[HEADER 00270020]
+The global population's belief in those that govern it has never been lower.
+
+[HEADER 00270021]
+We have inculcated a sense of immediacy and action over forethought and planning in all the major governments.
+
+[HEADER 00270022]
+They are acting on hasty decisions that cannot be completed or revoked without appearing foolish.
+
+[HEADER 00270023]
+The pattern is emerging. Our time is now.
+
+[HEADER 00270024]
+Excellent. The tired, old governments are dying a slow death from their own incompetence and our machinations.
+
+[HEADER 00270027]
+Professor, where is the "Broken Sword"?
+
+[HEADER 00270028]
+Ah, as we discussed last time, with the loss of the manuscript our search is, as a corollary, hindered.
+
+[HEADER 00270029]
+And as discussed last time, you have been furnished with a dramatically increased budget.
+
+[HEADER 0027002A]
+What have you been doing with our money, Professor?
+
+[HEADER 0027002B]
+We are working on the principal that the Templars...
+
+[HEADER 0027002C]
+Ahem.
+
+[HEADER 0027002D]
+...that is to say, our predecessors...
+
+[HEADER 0027002E]
+Hold on... These are the Templars?
+
+[HEADER 0027002F]
+...must have left a trail when they were hiding the clues to the Sword of Baphomet's location.
+
+[HEADER 00270030]
+I have a small army of historians and archaeologists ferreting out that trail.
+
+[HEADER 00270031]
+I trust these "historians and archaeologists" are more trustworthy than your friend Peagram.
+
+[HEADER 00270032]
+Peagram was loyal! He tried to protect the Lochmarne gem when the Hashshashin came near!
+
+[HEADER 00270033]
+And failed. And don't call that Syrian maniac the "Hashshashin".
+
+[HEADER 00270034]
+He's an assassin, plain and simple.
+
+[HEADER 00270035]
+That's not what he believes! He actually thinks...
+
+[HEADER 00270036]
+Silence!
+
+[HEADER 00270037]
+Do I have to remind you that we have a sacred duty?
+
+[HEADER 00270038]
+A trust?
+
+[HEADER 00270039]
+When Philip attempted to destroy the order, we lost the Sword and our power with it.
+
+[HEADER 0027003A]
+Now we have the opportunity to reforge it.
+
+[HEADER 0027003B]
+But time is short! We need results.
+
+[HEADER 0027003C]
+Not petty bickering.
+
+[HEADER 0027003D]
+Not excuses.
+
+[HEADER 0027003E]
+Now, Professor. Baphomet?
+
+[HEADER 0027003F]
+Yes. Of course. My apologies.
+
+[HEADER 00270040]
+We will find Baphomet and the Sword, manuscript or no.
+
+[HEADER 00270041]
+We have already found another element actually within Paris!
+
+[HEADER 00270042]
+Excellent. What is it?
+
+[HEADER 00270043]
+Well...
+
+[HEADER 00270044]
+...we're not exactly sure at present.
+
+[HEADER 00270045]
+Ha!
+
+[HEADER 00270046]
+But I have my best people working on it! You would do well not to criticize others, Eklund!
+
+[HEADER 00270047]
+At least I have not murdered one of our own!
+
+[HEADER 00270048]
+Of course! That guy was the bogus doctor in the hospital!
+
+[HEADER 00270049]
+Marquet was a liability. Eklund dealt with him on my orders.
+
+[HEADER 0027004A]
+I beg your pardon, Grand Master! I did not mean to...
+
+[HEADER 0027004B]
+Have you any good news for us, Professor?
+
+[HEADER 0027004C]
+We already know three of the elements.
+
+[HEADER 0027004D]
+We know that Klausner had obtained the lens before he vanished...
+
+[HEADER 0027004E]
+Where was he?
+
+[HEADER 0027004F]
+Syria. We know that he arrived but, after that, nothing.
+
+[HEADER 00270050]
+The Assassin!
+
+[HEADER 00270051]
+I fear so. It's a shame. Klausner was a good operative.
+
+[HEADER 00270052]
+This will be our last meeting in person until we locate the Sword of Baphomet.
+
+[HEADER 00270053]
+I hope that I don't need to emphasize the importance of finding it.
+
+[HEADER 00270054]
+Without it, our endeavours come to nothing.
+
+[HEADER 00270055]
+With the Sword reforged, we will have the power to sweep the stage of all opposition.
+
+[HEADER 00270057]
+The next time that we meet, it will be to become the Princes of this World!
+
+[HEADER 003B002B]
+Wow!
+
+[HEADER 00250024]
+The hook lay in a bed of chain.
+
+[HEADER 00250025]
+A hook dangled from the end of a heavy duty chain.
+
+[HEADER 00260005]
+At the bottom of the steps I could see a glow.
+
+[HEADER 00260007]
+I could hear voices from the lit area.
+
+[HEADER 00260006]
+It seemed a good moment to be cautious.
+
+[HEADER 00260008]
+This was it! The conspiracy was revealed!
+
+[HEADER 00260009]
+Okay! Nobody move! I'm making a citizen's arrest!
+
+[HEADER 0026000A]
+At last I had them! I could see the fear in their eyes as their little scheme came to pieces.
+
+[HEADER 0026000B]
+You're all going away for a very long time!
+
+[HEADER 0026000C]
+And you can just drop those guns! You're impressing nobody!
+
+[HEADER 0026000D]
+But they didn't.
+
+[HEADER 00270002]
+I noticed three small notches around the edge of the stump's top.
+
+[HEADER 00270003]
+The tripod's feet fitted neatly into the notches on the top of the stump.
+
+[HEADER 00270004]
+The light falling from above struck the gem and scattered in five neat rays...
+
+[HEADER 00270005]
+...and each ray picked out a letter. Starting from the seal, I could read...
+
+[HEADER 00270006]
+M...A...R...I...B... Marib!
+
+[HEADER 00270007]
+Now all I had to do was figure out what the heck that meant.
+
+[HEADER 00270000]
+In the middle of the circle was a stump of stone...
+
+[HEADER 00270001]
+...a shaft of daylight from the world above lancing down to touch it.
+
+[HEADER 00270008]
+There was a large circle marked out on the floor with a stump in the middle.
+
+[HEADER 00270009]
+Around the circle I could see words inlaid into the stone.
+
+[HEADER 0027000A]
+On the circle's circumference were the Templar seal and two Latin phrases.
+
+[HEADER 0027000B]
+`Non omnis moriar' and `Clarior e tenebris'.
+
+[HEADER 0027000C]
+I shall not die completely. The brighter from the darkness.
+
+[HEADER 0027000D]
+The water seemed to belong to an underground river or something.
+
+[HEADER 0027000E]
+It was way too deep to belong to the catacombs.
+
+[HEADER 0027000F]
+No way was I going out there without a boat.
+
+[HEADER 00260002]
+The door mechanism was trashed.
+
+[HEADER 00260003]
+It would take a blacksmith or an engineer to do anything with that.
+
+[HEADER 00260004]
+Boy, had I ever made a mess of that door!
+
+[HEADER 0030000C]
+A statue of a knight holding a staff and a scroll.
+
+[HEADER 0030000E]
+The Templars were demonstrating a pretty good grasp of physics.
+
+[HEADER 0030000F]
+If the dissolution hadn't happened, we'd have had cold fusion power last century.
+
+[HEADER 00300009]
+So, there were almost identical statues here and at the de Vasconcellos estate.
+
+[HEADER 0030000A]
+A coincidence? Yeah, right.
+
+[HEADER 0030000B]
+It looked a LOT like the statue on top of the de Vasconcellos mausoleum. Hmmm.
+
+[HEADER 0030000D]
+If the statue had any secrets, it was concealing them pretty well.
+
+[HEADER 00300010]
+On the end of the staff was some kind of disc with a cross on it.
+
+[HEADER 00300011]
+Around the base of the disc was a hairline crack.
+
+[HEADER 00300012]
+Well, I could have just taken the end off the staff...
+
+[HEADER 00300013]
+...but I wanted to be sure of what I'd get out of vandalising a church.
+
+[HEADER 00300014]
+Other than deported.
+
+[HEADER 00300031]
+No. It couldn't be. Could it?
+
+[HEADER 00300032]
+Now that my attention had been drawn to it, there was no mistake.
+
+[HEADER 00300033]
+There was no name on it but the coat of arms was undeniably the Pegasus of the de Vasconcellos family.
+
+[HEADER 00300034]
+I'd found the last resting place of Don Carlos!
+
+[HEADER 00300035]
+My eye was drawn to the Biblical references carved into the edge of the tomb.
+
+[HEADER 00300036]
+Hey! Maybe these Biblical references mean something!
+
+[HEADER 00300037]
+Psalms, thirty two, seven. John, four, eleven.
+
+[HEADER 00300038]
+Corinthians I, four, five and, just one more, Psalms, twenty two, twenty one.
+
+[HEADER 00300039]
+I may not be perfect but I've got a memory like a steel trap.
+
+[HEADER 0030003A]
+The chalice had led me to these inscriptions but it looked like a happy coincidence to me.
+
+[HEADER 0030003B]
+After all, the de Vasconcellos arms were already on the manuscript.
+
+[HEADER 0030003C]
+Nope, I was still convinced that the chalice had some significance all of its own.
+
+[HEADER 0030003D]
+The tomb of Don Carlos de Vasconcellos. It had to be.
+
+[HEADER 0030003E]
+I couldn't wait to tell the Countess!
+
+[HEADER 0030003F]
+I'd have to find out what the chalice was for first, though.
+
+[HEADER 00300040]
+Okay, let's have another look at those references.
+
+[HEADER 00300041]
+Psalms, thirty two, seven. John, four, eleven.
+
+[HEADER 00300042]
+Corinthians I, four, five and Psalms, twenty two, twenty one.
+
+[HEADER 00300043]
+The chalice had led me to these inscriptions but it looked like a happy coincidence to me.
+
+[HEADER 00300044]
+I was still convinced that the chalice had some significance all of its own.
+
+[HEADER 0030002E]
+A knight, there in the company of his fellows.
+
+[HEADER 0030002F]
+Biblical references engraved into the tomb edge to guide his way in the next world.
+
+[HEADER 00300030]
+I guess.
+
+[HEADER 00300000]
+A row of old pews, beautifully carved and glowing with polish.
+
+[HEADER 00300001]
+I thought of all the people who must have sat here over the decades...
+
+[HEADER 00300002]
+...all those Parisian derrieres...
+
+[HEADER 00300003]
+...the firm buttocks of the young ladies...
+
+[HEADER 00300004]
+...the flabby flesh of the old men.
+
+[HEADER 00300005]
+That wasn't a pleasing image so I went back to the young ladies.
+
+[HEADER 00300006]
+Woah.
+
+[HEADER 00300008]
+I didn't have time to sit around.
+
+[HEADER 0030002D]
+Waiting in prayer for the Judgement Day.
+
+[HEADER 0030002C]
+A knight's tomb, his effigy in marble lying in perpetual state.
+
+[HEADER 00300025]
+Just think, there's a dead guy under there...
+
+[HEADER 00300024]
+A stone knight lay on the church floor.
+
+[HEADER 00300027]
+I was surprised Philip le bel had left this place alone.
+
+[HEADER 00300026]
+The second stone knight in a row of four lay on the church floor.
+
+[HEADER 00300028]
+A stone knight lay in full stone armour, blank eyes looking at the ceiling.
+
+[HEADER 00300029]
+Carrying all that armour around must have been hard work.
+
+[HEADER 0030002A]
+A stone knight lay at the end of a row of four.
+
+[HEADER 0030002B]
+I wondered if this guy had died in combat.
+
+[HEADER 00250000]
+If I wanted to get deeper into these catacombs, I was going to have to get onto that path.
+
+[HEADER 00250001]
+If the near edge hadn't crumbled away, I could have jumped it easily.
+
+[HEADER 00300046]
+Somehow, it looked more modern than its neighbour.
+
+[HEADER 0030004C]
+I didn't recognise the Biblical story in it. I was a Sunday School dropout.
+
+[HEADER 0030004A]
+To think of the long centuries that it had kept its secret.
+
+[HEADER 00300048]
+In comparison to its neighbour, it looked pretty plain.
+
+[HEADER 00240000]
+There was a small crowd of five sightseers.
+
+[HEADER 00240001]
+It's a weird thing but you could take the most intelligent people in the world...
+
+[HEADER 00240002]
+...put them in their vacation duds and, Hey Presto!
+
+[HEADER 00240003]
+...they look like morons. Why is that?
+
+[HEADER 00240004]
+I had no desire to talk to the crowd.
+
+[HEADER 003A000F]
+The door was a handsome piece of work...
+
+[HEADER 003D0029]
+There! In the middle of the door I could see some kind of socket.
+
+[HEADER 001F0005]
+The door was locked.
+
+[HEADER 00090005]
+I pushed against the door, but it seemed to be locked.
+
+[HEADER 003A0011]
+Rats, it's locked!
+
+[HEADER 00240012]
+In French, English and German it read...
+
+[HEADER 00240013]
+`In thirteen twelve, Pope Clement V dissolved the Knightly Order of the Templars...
+
+[HEADER 00240014]
+`...and excommunicated its members on charges of heresy.'
+
+[HEADER 00240015]
+` In the following two years, many of the knights were hanged on this site.'
+
+[HEADER 00240016]
+`Their Grand Master, Jacques de Molay, was burnt at the stake on an island in the Seine.'
+
+[HEADER 00240011]
+Fixed to the wall was a sign in three languages.
+
+[HEADER 000018C4]
+...and each ray picked out a letter. Starting from the left, I could read...
+
+[HEADER 0000183F]
+I couldn't do that...
+
+[HEADER 0030001F]
+The lens fitted into the end of the scroll like a hand into a glove.
+
+[HEADER 00300015]
+A scroll was a symbol of scholarship, I knew that much.
+
+[HEADER 00300016]
+A scholarly knight. That rang a bell. A very Spanish bell.
+
+[HEADER 00300018]
+...I could see that what had at first seemed to be fine engraved chasing on the scroll was actually writing.
+
+[HEADER 00300019]
+`Per disciplinam meam lux videbis'.
+
+[HEADER 0030001A]
+Sounds pretty familiar to me.
+
+[HEADER 00300020]
+Hey...
+
+[HEADER 0030001C]
+A bit of a stained glass window. Wow.
+
+[HEADER 0030001D]
+Hoping for a big insight while squinting through a hunk of statuary...
+
+[HEADER 0030001E]
+...had been pretty optimistic, I guess.
+
+[HEADER 00300021]
+A Knight Templar burning at the stake and a date!
+
+[HEADER 00300022]
+Let me see. M C C C, X I V. That's...
+
+[HEADER 00300023]
+...thirteen fourteen!
+

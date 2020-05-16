@@ -1,0 +1,2388 @@
+# Broken Sword - Shadow of the Templars (Director's Cut)
+# Versão do Script: 11.09
+[HEADER 00009C68]
+#What do I do now I'm in the church?
+O que faço agora que estou na igreja?
+
+[HEADER 00009C72]
+#You need to get that door open. Take a good look around at everything.
+Você precisa abrir aquela porta. Dê uma boa olhada em tudo ao redor.
+
+[HEADER 00009C7C]
+#Pull apart that mechanism with the large wheel to get a cog and handle, and search through that pile of rubbish until you can't find anything more.
+Rompa o mecanismo com a grande roda para pegar uma engrenagem e uma manivela, e vasculhe aquela pilha de entulho até não encontrar mais nada.
+
+[HEADER 00009C86]
+#What do I do with all this junk?
+O que faço com toda esta sucata?
+
+[HEADER 00009C90]
+#Take a close look at the gargoyle.
+Olhe mais de perto a gárgula.
+
+[HEADER 00009C9A]
+#See the holes. What could you put in there?
+Veja os buracos. O que você pode colocar aí?
+
+[HEADER 00009CA4]
+#Put the cogs in each eye and the handle in his mouth. Now turn the handle.
+Ponha as engrenagens em cada olho e a manivela na boca. Agora gire-a.
+
+[HEADER 008103AA]
+#I'd feel happier if we had a gun or something.
+Eu ficaria mais feliz se tivéssemos uma arma ou algo assim.
+
+[HEADER 008103AB]
+#Khan gave me something.
+O Khan me deu uma coisa.
+
+[HEADER 008103AC]
+#What?
+O quê?
+
+[HEADER 008103AD]
+#His handbag.
+Sua bolsa.
+
+[HEADER 008103AE]
+#Great. If we run into any killers, we can give them a good buffeting.
+Ótimo. Se nos depararmos com algum assassino, poderemos dar uma boa bolsada nele.
+
+[HEADER 008103AF]
+#Didn't he have any weapons?
+Ele não tinha nenhuma arma?
+
+[HEADER 008103B0]
+#You don't know the half of it. This bag's full of C-4!
+Você não sabe da missa a metade. Esta bolsa está cheia de C-4!
+
+[HEADER 008103B1]
+#Wow! Why didn't you say so?
+Minha nossa! Por que não disse antes?
+
+[HEADER 008103B2]
+#Boy, we'll show them now!
+Cara, eles vão ver quem manda aqui agora!
+
+[HEADER 008103B3]
+#What's C-4?
+O que é C-4?
+
+[HEADER 008103B4]
+#Plastique, George.
+Plastique, George.
+
+[HEADER 008103B5]
+#We're going to shop our way to victory?
+Vamos brincar de modelar para vencermos?
+
+[HEADER 008103B6]
+#Two kilos of plastic explosive. The detonator's broken though.
+Dois quilos de explosivos plásticos. Só que o detonador está quebrado.
+
+[HEADER 008103B7]
+#No problem. We'll buy a box of matches somewhere.
+Sem problemas. Compraremos uma caixa de fósforos em algum lugar.
+
+[HEADER 008103B8]
+#It doesn't work that way. It takes a small explosion to start the big explosion.
+Não funciona assim. É preciso uma pequena explosão para começar a grande.
+
+[HEADER 008103B9]
+#Well that's not much use then.
+Bem, isso não é de muita utilidade então.
+
+[HEADER 008103BA]
+#What does that sign say?
+O que essa placa diz?
+
+[HEADER 008103BB]
+#Apparently, during the English Civil War in the mid-seventeenth century...
+Aparentemente, durante a Guerra Civil Inglesa, em meados do século XVII...
+
+[HEADER 008103BC]
+#...this place was used as an arms dump.
+... este lugar era usado como um paiol.
+
+[HEADER 008103BD]
+#Yeah? What happened?
+É? O que aconteceu?
+
+[HEADER 008103BE]
+#Look at the state of this place, George. You work it out.
+Olha para o estado deste lugar, George. Você entenderá.
+
+[HEADER 008103BF]
+#Stray spark?
+Foi pelos ares?
+
+[HEADER 008103C0]
+#You've got it. The tower was the only thing to survive the blast.
+Você entendeu. A torre foi a única coisa que sobreviveu ao estrondo.
+
+[HEADER 008103C1]
+#I hope the explosion didn't destroy the Sword of Baphomet!
+Espero que a explosão não tenha destruído a Espada de Baphomet!
+
+[HEADER 008103C2]
+#Do you? I rather hope it did.
+Espera? Eu preferiria que tivesse.
+
+[HEADER 0048002A]
+#I scrabbled around in the rubble and found an old clay pipe with a broken stem.
+Vasculhei o entulho e encontrei um antigo cachimbo de barro com uma haste quebrada.
+
+[HEADER 0048002B]
+#Under one of the stones I found a metal coin which was green with age.
+Debaixo de uma das pedras, encontrei uma moeda metálica cheia de limo.
+
+[HEADER 0048002C]
+#It was caked with soil, but what I'd found was a small cog and spindle.
+Estava coberta de terra, mas o que tinha encontrado era uma pequena engrenagem e um eixo.
+
+[HEADER 0048002D]
+#With mounting excitement I felt something between my fingers.
+Com muito entusiasmo, senti algo entre meus dedos.
+
+[HEADER 0048002E]
+#It was short, hard and black, something I hadn't expected to find here...
+Era pequeno, duro e preto; algo que eu não tinha esperado encontrar aqui...
+
+[HEADER 0048002F]
+#It was a plastic pen top.
+Era uma tampa de plástico de caneta.
+
+[HEADER 00480030]
+#I didn't find anything.
+Não encontrei nada.
+
+[HEADER 00480003]
+#The handle turned easily and the larger wheel began to revolve...
+A manivela girou facilmente e a grande roda começou a girar...
+
+[HEADER 00480004]
+#Damn!
+Droga!
+
+[HEADER 00480005]
+#Then the handle came off in my hand.
+Então a manivela desprendeu-se da minha mão.
+
+[HEADER 00480006]
+#Now that the handle was gone it was easy to remove the cog and spindle.
+Agora que ela se foi, ficou fácil remover a engrenagem e o eixo.
+
+[HEADER 00480022]
+#With a rasp of metal on stone I eased the second eye into place.
+Com um barulho de metal na pedra, coloquei o segundo olho no lugar
+
+[HEADER 00480021]
+#The cog slipped neatly into the eye socket.
+A engrenagem encaixou perfeitamente na órbita ocular.
+
+[HEADER 00480020]
+#I pushed the handle into the demon's mouth - the cogs all meshed. I began to turn...
+Empurrei a manivela na boca do demônio. Engrenagens encaixadas. Comecei a girar...
+
+[HEADER 00480023]
+#With the clay pipe in his mouth he looked happy, homely, like somebody's grand-daddy.
+Com o cachimbo de barro em sua boca, ele parecia feliz e singelo, como o vovozão de alguém.
+
+[HEADER 008103C3]
+#What do you think you're doing, George?
+O que pensa que está fazendo, George?
+
+[HEADER 008103C4]
+#I wondered if there was a secret mechanism in the demon's mouth.
+Eu queria saber se não havia um mecanismo secreto dentro da boca do demônio.
+
+[HEADER 008103C5]
+#Maybe you should show a little more respect...
+Talvez você devesse mostrar um pouco mais de respeito...
+
+[HEADER 008103C6]
+#For a mythical medieval demon? Give me a break!
+Para um demônio mítico medieval? Dá um tempo! 
+
+[HEADER 008103C7]
+#Okay. Go right ahead. Meddle with forces you don't understand.
+Certo. Vá em frente. Meta-se com forças que não entende. 
+
+[HEADER 008103C8]
+#Incur the demon's wrath and burn in hell...
+Atraia a cólera do demônio e queime no inferno...
+
+[HEADER 008103C9]
+#Just see if I care...
+Veja se eu ligo...
+
+[HEADER 00480024]
+#Sometimes the most childish gestures can have a cathartic effect...
+Às vezes, o ato mais infantil pode ter um efeito catártico...
+
+[HEADER 00480025]
+#The transformation of the demon to a clown did just that for me.
+A transformação do demônio em um palhaço fez isso para mim.
+
+[HEADER 0048001F]
+#I tried turning the cogs but couldn't move them. I needed a mechanical advantage.
+Tentei girar as engrenagens, mas elas não se moviam. Eu precisava de uma ajuda mecânica.
+
+[HEADER 0048001E]
+#The cog turned freely, but nothing happened.
+A engrenagem girou livremente, mas nada aconteceu.
+
+[HEADER 00480019]
+#Examining the demon more closely, I realized something about its face.
+Examinando o demônio mais de perto, percebi algo sobre seu rosto.
+
+[HEADER 0048001A]
+#It was a clever illusion - no matter where I stood, the eyes weren't looking at me.
+Era uma engenhosa ilusão. Onde quer que eu estivesse, os olhos não olhavam para mim.
+
+[HEADER 0048001B]
+#There was a simple reason: the demon didn't have any eyes.
+Por uma simples razão: o demônio não tinha olhos.
+
+[HEADER 0048001C]
+#I ran my fingers across the cold stone and probed the holes in the demon's eyes.
+Passei meus dedos pela pedra fria e investiguei os buracos nos olhos do demônios.
+
+[HEADER 0048001D]
+#Beneath them the mouth formed another hole - but I wasn't about to put my finger in there.
+Sob eles, a boca formava outro buraco, mas eu não estava disposto a colocar meu dedo aí.
+
+[HEADER 00480031]
+#Above the carved cross was an indecipherable inscription.
+Acima da cruz esculpida, havia uma inscrição indecifrável.
+
+[HEADER 00480032]
+#For all I knew it could have been scribed in Gaelic.
+Pelo o que eu pudia saber, foi escrito em gaélico.
+
+[HEADER 00480033]
+#I tried pushing the panel but wasn't surprised when it failed to move.
+Tentei empurrar o painel, mas não fiquei surpreso quando não se moveu.
+
+[HEADER 00490000]
+#As soon as I saw the flickering torches I realized the bogus Templars had beaten us to the Sword.
+Assim que vi as tochas tremeluzentes, percebi que os falsos Templários tinham levado a melhor.
+
+[HEADER 00490001]
+#But where were they now, and why was it so quiet?
+Mas onde eles estavam agora, e por que estava tão silencioso?
+
+[HEADER 0081039A]
+#No, George!
+Não, George!
+
+[HEADER 0081039B]
+#What?
+O quê?
+
+[HEADER 0081039C]
+#Leave that torch right where it is.
+Deixe a tocha bem onde está.
+
+[HEADER 0081039D]
+#In case you haven't noticed, the crypt is full of gunpowder.
+Caso não tenha percebido, a cripta está cheia de pólvora.
+
+[HEADER 0081039E]
+#So what? Don't you trust me?
+E daí? Não confia em mim?
+
+[HEADER 0081039F]
+#It's not a question of trust...
+Não é uma questão de confiança...
+
+[HEADER 008103A0]
+#No? You think I'm a jerk, don't you?
+Não? Acha que sou um idiota, não acha?
+
+[HEADER 008103A1]
+#Don't be silly, George. And keep your voice down.
+Não seja imbecil, George. E fale mais baixo.
+
+[HEADER 008103A2]
+#I thought I heard something... like chanting.
+Acho que escutei algo... como um canto. 
+
+[HEADER 00490003]
+#I really wasn't worried about the danger of igniting the gunpowder...
+Eu não estava muito preocupado sobre o perigo da pólvora pegar fogo...
+
+[HEADER 00490004]
+#But Nico's temper was likely to flare up again. Now that scared me!
+Mas o temperamento da Nico estava quase explodindo de novo, e isso que me assusta!
+
+[HEADER 008103A3]
+#Listen!
+Escute!
+
+[HEADER 008103A4]
+#I can definitely hear chanting.
+Tenho certeza de que estou escutando um canto.
+
+[HEADER 008103A5]
+#You're right. I hear it too.
+Você está certa. Estou escutando também.
+
+[HEADER 008103A6]
+#What do you suppose they're doing?
+O que acha que eles estão fazendo?
+
+[HEADER 008103A7]
+#It wouldn't surprise me if they were holding some kind of satanic sex ritual...
+Não me surpreenderia se eles estivessem fazendo algum tipo de ritual satânico de sexo...
+
+[HEADER 008103A8]
+#So what are we waiting for?
+Então o que estamos esperando?
+
+[HEADER 008103CA]
+Nico?
+
+[HEADER 008103CB]
+#Uh-huh?
+Oi?
+
+[HEADER 008103D1]
+#What are you doing?
+O que está fazendo?
+
+[HEADER 008103D2]
+#Committing this inscription to memory...
+Decorando esta inscrição...
+
+[HEADER 008103D3]
+#Can you read it?
+Pode lê-la?
+
+[HEADER 008103D4]
+#No.
+Não.
+
+[HEADER 008103D5]
+#What's the point of studying the inscription if you can't read it?
+Qual o sentido de estudar a inscrição se não pode lê-la?
+
+[HEADER 008103D6]
+#Because it could be important - a clue to whatever we're looking for, who knows?
+Porque pode ser importante; uma pista para o que estamos procurando, quem sabe? 
+
+[HEADER 008103D7]
+#I might find someone in Stirling to translate it.
+Eu posso achar alguém em Stirling para traduzi-la.
+
+[HEADER 008103D8]
+#We don't have time to go looking for a linguist!
+Não temos tempo para procurar por um linguista!
+
+[HEADER 008103D9]
+#No? At least I'm doing something positive.
+Não? Pelo menos estou fazendo algo positivo.
+
+[HEADER 008103DA]
+#What language is that inscription written in?
+Em que língua a inscrição está?
+
+[HEADER 008103DB]
+#You're the languages student. You tell me.
+Você que é o estudante de línguas. Me diga.
+
+[HEADER 008103DC]
+#It's looks like Ancient Norse. Maybe.
+Parece nórdico antigo. Talvez.
+
+[HEADER 008103DD]
+#Perhaps it's in code?
+Talvez esteja em código?
+
+[HEADER 008103DE]
+#I don't think so...
+Acho que não...
+
+[HEADER 008103DF]
+#Norse code?
+Código nórdico?
+
+[HEADER 008103CC]
+#It looks like the Templars got here first.
+Parece que os Templários chegaram aqui primeiro.
+
+[HEADER 008103CD]
+#We might not be too late. There's still a chance.
+Talvez não estejamos tão atrasados. Ainda podemos ter uma chance.
+
+[HEADER 008103CE]
+#I wish I had your optimism...
+Gostaria de ter seu otimismo...
+
+[HEADER 008103CF]
+#So do I, George.
+Igualmente, George.
+
+[HEADER 008103D0]
+#Sometimes you're so negative.
+Às vezes você é tão negativo.
+
+[HEADER 00490014]
+#Come on, Nico! We're leaving!
+Vamos, Nico! Temos que sair!
+
+[HEADER 00490015]
+#You fools! You cannot escape us!
+Seus tolos! Vocês não podem fugir de nós!
+
+[HEADER 00490016]
+#Guido! Stop them!
+Guido, impeça-os!
+
+[HEADER 00490017]
+#But, master, the powder!
+Mas mestre, a pólvora!
+
+[HEADER 00490018]
+#That powder is from the English Civil War, you fool!
+Aquela pólvora é da Guerra Civil Inglesa, seu tolo!
+
+[HEADER 00490019]
+#It's over three hundred years old! How explosive do you think it can be?
+Tem mais de trezentos anos! Acha mesmo que farão algum grande estrago?
+
+[HEADER 0049001A]
+#I thought it was all over but Nico had one last trick up her sleeve...
+Pensei que estava tudo acabado, mas a Nico tinha um último truque na manga...
+
+[HEADER 0049001B]
+#...or in her handbag to be exact.
+... ou na bolsa, para ser exato.
+
+[HEADER 0049001C]
+#A handbag full of plastic explosives!
+Uma bolsa cheia de explosivos plásticos!
+
+[HEADER 0049001D]
+#Maybe, but this stuff's brand new!
+Talvez, mas este negócio aqui está novinho em folha!
+
+[HEADER 00000A94]
+#We didn't stay long in Scotland.  George had a vacation to finish.
+Não ficamos muito tempo na Escócia. George tinha umas férias para terminar.
+
+[HEADER 00000A95]
+#And I had another story to write.  Not the real story of course -
+E eu tinha um outro artigo para escrever. Não o verdadeiro, é claro,
+
+[HEADER 00000A96]
+#but enough half-truths to fill a page and pay my rent for the month.
+mas as meias-verdades suficientes para preencher uma página e pagar o aluguel do mês.
+
+[HEADER 00000A97]
+#George and I hung out together in Paris.
+George e eu saímos juntos por Paris.
+
+[HEADER 00000A98]
+#I showed him my favourite restaurants and he told me his best jokes.
+Eu lhe mostrei meus restaurantes favoritos e ele me contou suas melhores piadas.
+
+[HEADER 00000A99]
+#You know, Nico... This city holds so many memories for me now.  The cafes, the music...
+Sabe, Nico... Esta cidade guarda várias memórias para mim agora. Os cafés, a música...
+
+[HEADER 00000A9A]
+#The sewers -
+Os esgotos...
+
+[HEADER 00000A9B]
+#Tell me about it. The clowns -
+Eu que o diga. Os palhaços...
+
+[HEADER 00000A9C]
+#The jugglers -
+Os malabaristas...
+
+[HEADER 00000A9D]
+#Oh, and your pal Lobineau...
+Ah, e o seu amigo, Lobineau...
+
+[HEADER 00000A9E]
+#Yes, dear André.
+Sim, querido André.
+
+[HEADER 00000A9F]
+#When we first met, and I was doing my detective stuff - you kinda disappeared a lot, Nico.
+Quando nos encontramos pela primeira vez, e eu estava fazendo minhas coisas de detetive, você meio que desapareceu bastante, Nico.
+
+[HEADER 00000AA0]
+#Were you and Lobineau...? er...?
+Lobineau e você estavam... Er...
+
+[HEADER 00000AA1]
+#There was something... happening.  But nothing to do with André.
+Havia algo... acontecendo. Mas nada a ver com o André.
+
+[HEADER 00000AA2]
+#Uh huh...
+Aham...
+
+[HEADER 00000AA3]
+#It was something from the past that I had to deal with.  On my own.
+Era algo do passado que eu precisava lidar. Por conta própria.
+
+[HEADER 00000AA4]
+#So I dealt with it.  And now it's over.
+Então eu lidei com isso. E agora está acabado.
+
+[HEADER 00000AA5]
+#Oh.  Well... hey! That's good. In fact - that's great!
+Ah. Bem... ei! Isso é bom. Pra falar a verdade, é ótimo!
+
+[HEADER 00000AA6]
+#Because it had nothing to do with André?
+Por que não tem nada a ver com André?
+
+[HEADER 00000AA7]
+#What?  Oh. No!   I mean - it's great that it's over.  Great that you're happy. Er.
+O quê? Ah, não! Digo, é ótimo que esteja acabado. Ótimo que você esteja feliz. Er...
+
+[HEADER 00000AA8]
+#More wine?
+Mais vinho?
+
+[HEADER 00000AA9]
+#Thanks George.
+Obrigada, George.
+
+[HEADER 00000AAA]
+#Hey, did I ever tell you about the old Irish couple and the lottery?
+Ei, eu já lhe contei aquela sobre o velho casal irlandês e a loteria? 
+
+[HEADER 00000AAB]
+#No.  But I think you're going to...
+Não, mas acho que irá...
+
+[HEADER 00000AAC]
+#There's this old Irish couple.
+Há um velho casal irlândes.
+
+[HEADER 00000AAD]
+#They've been married forever - like fifty years, and they win the lottery.
+Eles estão casados há muito tempo, uns cinquenta anos, e ganharam na loteria. 
+
+[HEADER 00000AAE]
+#And they think, what are we going to do?
+Então pensaram: 'O que faremos?'
+
+[HEADER 00000AAF]
+#They give some money away, but they decide to have themselves a holiday in Paris.
+Eles doaram um pouco, mas acabaram decidindo tirar férias em Paris.
+
+[HEADER 00000AB0]
+#So they fly off to Paris, first class.
+Então voaram até o destino. Primeira classe.
+
+[HEADER 00000AB1]
+#They stay in a beautiful hotel, and one day they go up the Eiffel Tower.
+Eles ficaram num lindo hotel, e um dia subiram a Torre Eiffel.
+
+[HEADER 00000AB2]
+#They get all the way up to the top and find themselves up there alone with two hippies.
+Então seguiram até o topo e se encontraram sozinhos com dois hippies.
+
+[HEADER 00000AB3]
+#The two hippies have long hair, beards, long robes.
+Eles tinham cabelos longos, barbas e longos mantos.
+
+[HEADER 00000AB4]
+#As they're looking at them, suddenly one of the hippies gets up on top of the guard rail and jumps.
+Enquanto os observavam, de repente um dos hippies subiu na grade de segurança e pulou.
+
+[HEADER 00000AB5]
+#Just before he hits the ground he waves his arms and flies all the way back up again.
+Pouco antes de atingir o chão, ele balançou os braços e voou de volta ao topo de novo.
+
+[HEADER 00000AB6]
+#The couple have never seen anything like this before in their lives. They can't believe what they have just seen.
+O casal nunca havia visto algo assim antes em sua vida. Eles não conseguiam acreditar no que tinham visto.
+
+[HEADER 00000AB7]
+#The hippy had just jumped off, just before he hit the ground he flapped his arms and up he came.
+O hippie tinha acabado de pular, e, pouco antes de atingir o chão, bateu os braços e voltou ao topo.
+
+[HEADER 00000AB8]
+#They walk over to him and say 'excuse me Sir, Good God, how did you do that?'
+Eles andaram até ele e disseram: 'Com licença, senhor. Minha nossa, como fez aquilo?'
+
+[HEADER 00000AB9]
+#'It's really easy, man, it's really easy. You jump, empty your mind...
+'É bem fácil, bixo, bem fácil. Você pula, esvazia sua mente...'
+
+[HEADER 00000ABA]
+#'... and just before you hit the pavement, you waive your arms and up you come.
+'... e pouco antes de atingir a calçada, balança seus braços até chegar lá em cima.'
+
+[HEADER 00000ABB]
+#'Here, I'll show you how to do it again.'
+'Aqui, vou te mostrar como fazer isso de novo.'
+
+[HEADER 00000ABC]
+#Just before he hits the pavement, he raises his arms and up he comes again. The couple can't believe it.
+Pouco antes de atingir a calçada, ele levantou os braços até chegar ao topo de novo. O casal mal conseguia acreditar.
+
+[HEADER 00000ABD]
+#'Come on you can try it, man. You come on up. You'll be fine. You can do it.'
+'Vamos lá, você consegue, bixo. Suba. Vai ficar tudo bem. Você consegue.'
+
+[HEADER 00000ABE]
+#So the old fellow and the old lady get up there.
+Então o velho companheiro e a senhora subiram lá.
+
+[HEADER 00000ABF]
+#And they say 'So when we jump, we'll go all the way down, and just before - we flap our arms...'.
+E eles disseram 'Então quando pularmos, vamos até lá embaixo e, pouco antes, batemos os braços...'
+
+[HEADER 00000AC0]
+#'You come straight back up again - it's really easy. Go ahead give it a try.'
+'E volta pra cima de novo. É bem fácil. Vá em frente e tente.'
+
+[HEADER 00000AC1]
+#The old Irish couple jump. Just before they hit the pavement they start flapping their arms.
+O velho casal irlândes pulou. Pouco antes de atingir a calçada, eles começaram a bater os braços.
+
+[HEADER 00000AC2]
+#Nothing. Bang. Irish stew on the pavement. It's all over.
+Nada. Plaft. Guisado irlândes na calçada. Tudo acabado.
+
+[HEADER 00000AC3]
+#One hippie, who hasn't said a word, turns to the other and say:
+O hippie que não tinha dito uma palavra virou para o outro e disse:
+
+[HEADER 00000AC4]
+#'You know Gabriel, for an Archangel, you can be a real son of a bitch.'
+'Sabe, Gabriel, para um arcanjo, você consegue ser um tremendo filho da puta.' 
+
+[HEADER 004A002F]
+#I swear... I just wanted things to be right...
+Eu juro... Só queria um mundo melhor...
+
+[HEADER 004A0030]
+#Take them. Kill them.
+Peguem-nos. Matem-nos.
+
+[HEADER 004A0031]
+#They will not escape.
+Eles não irão escapar.
+
+[HEADER 00490010]
+#Okay, okay! Let me think!
+Certo, certo! Deixe-me pensar!
+
+[HEADER 00490011]
+George!
+
+[HEADER 00490012]
+#Stay away from me!
+Afaste-se de mim!
+
+[HEADER 00490013]
+#So perish all enemies of the New Templar Order!
+Que sucumba todos os inimigos da Ordem dos Neo-Templários!
+
+[HEADER 00490008]
+#Well, well!
+Ora, ora!
+
+[HEADER 00490009]
+#If it isn't the great detective and his beautiful assistant.
+Se não é o grande detetive e sua linda assistente.
+
+[HEADER 0049000A]
+#It's going to be a pleasure killing the pair of you.
+Será um prazer matar o casal.
+
+[HEADER 0049000B]
+#George! What are we going to do?
+George, o que vamos fazer?!
+
+[HEADER 004A0000]
+#Will you look at that!
+Olhe para isso!
+
+[HEADER 004A0001]
+#Baphomet! Lobineau was right, this place was ancient even to the Templars!
+Baphomet! Lobineau estava certo, este lugar era antigo até para os Templários!
+
+[HEADER 004A0002]
+#This whole place... this is Baphomet!
+Todo este lugar... este é Baphomet!
+
+[HEADER 004A0003]
+#Finally, the truth.
+Finalmente, a verdade.
+
+[HEADER 004A0004]
+#The Templars had never worshipped this graven image, no more than they'd worship a rainbow.
+Os Templários nunca tinham idolatrado essa estátua, não mais do que um arco-íris.
+
+[HEADER 004A0005]
+#But, like a rainbow they regarded it as a symbol of a covenant with God, who'd revealed this place to them.
+Eles consideraram um arco-íris como um símbolo de um pacto com Deus, que tinha revelado este lugar a eles.
+
+[HEADER 004A0006]
+#Rosso! Why the double-dealing, treacherous...!
+Rosso! Seu traiçoeiro, duas caras...!
+
+[HEADER 004A0007]
+#On the contrary!
+Pelo contrário!
+
+[HEADER 004A0008]
+#Inspector Rosso has been the model of obedience, an important quality in a true Templar.
+O inspetor Rosso tem sido o modelo de obediência, uma importante qualidade de um verdadeiro Templário.
+
+[HEADER 004A0009]
+#Now be quiet and watch if you wish to live much longer.
+Agora fique quieta e assista, se deseja viver por mais tempo.
+
+[HEADER 004A0011]
+#Brothers and sisters, we are gathered here to witness the reforging of the sword that was broken!
+Irmãos e irmãs, estamos aqui reunidos para testemunhar o reforjamento da espada que estava quebrada!
+
+[HEADER 004A0012]
+#Here, before God's sentinel! Baphomet!
+Aqui, diante do sentinela de Deus, Baphomet!
+
+[HEADER 004A0013]
+#Grand Master and Knight of Baphomet...
+Grão-Mestre e Cavaleiro de Baphomet...
+
+[HEADER 004A0014]
+#We salute and pledge our obedience to you.
+Saudamos e empenhamos nossa obediência a ti.
+
+[HEADER 004A0015]
+#I salute you, Gatekeeper of the Temple.
+Eu o saúdo, Guardião do Templo.
+
+[HEADER 004A0016]
+#Seven centuries ago our greatest weapon, the Sword of Baphomet, was lost to us.
+Há sete séculos nossa maior arma, a Espada de Baphomet, foi perdida.
+
+[HEADER 004A0017]
+#Now, we prepare to reforge it to wield against new enemies.
+Agora pretendemos reforjá-la para empunhar contra novos inimigos.
+
+[HEADER 004A0018]
+#As the tired millennium dies and this world looks for new leaders, we shall not fail.
+Enquanto o esgotado milênio morre e este mundo precisa de novos líderes, não havemos de falhar.
+
+[HEADER 004A0019]
+#We shall lead the people to a new order wherein all borders will dissolve.
+Levaremos as pessoas a uma nova ordem em que todas as fronteiras dissolverão.
+
+[HEADER 004A001A]
+#All will be united under the red cross of the Templars!
+Todos serão unidos sob a cruz vermelha dos Templários!
+
+[HEADER 004A001B]
+#George. We have watched your efforts to stop us with respect.
+George, observamos seus esforços para nos impedir com respeito.
+
+[HEADER 004A001C]
+#But surely you realize that you have been misled by our enemies?
+Mas você percebeu que havia sido desencaminhado pelos nossos inimigos, não é?
+
+[HEADER 004A001D]
+#Both of us want a better world.
+Ambos queremos um mundo melhor.
+
+[HEADER 004A001F]
+#Fortunately, no harm has been done.
+Felizmente, nenhum mal foi feito.
+
+[HEADER 004A0020]
+#We need determined, resourceful men like you.
+Precisamos de homens determinados e engenhosos como você.
+
+[HEADER 004A0021]
+#Join us, George. Join us in true brotherhood...
+Junte-se a nós, George. Junte-se à verdadeira irmandade!
+
+[HEADER 004A0022]
+#Yeah... true - wait?
+É... verdade; espera...
+
+[HEADER 004A0023]
+#Brothers? What about Marquet?
+Irmãos? E Marquet?
+
+[HEADER 004A0024]
+#What about Peagram and Klausner?
+Peagram e Klausner?
+
+[HEADER 004A0025]
+#You didn't look on them as brothers, only as failures!
+Você não os considerou irmãos, só fracassos!
+
+[HEADER 004A0026]
+#Three men dead and you don't give a damn!
+Três homens mortos e você não deu a mínima!
+
+[HEADER 004A0027]
+#George, you know that sacrifices are necessary.
+George, você sabe que sacrifícios são necessários.
+
+[HEADER 004A0028]
+#Every great undertaking...
+Toda grande tarefa--
+
+[HEADER 004A0029]
+#Save it for these... these mindless sheep!
+Guarde isso para essas... essas mulas imbecis!
+
+[HEADER 004A002A]
+#And what about those whose faces don't fit?
+E quanto àqueles, cujos rostos não se encaixam? 
+
+[HEADER 004A002B]
+#Join you? I'll see you in Hell first!
+Me juntar a você? Te verei no Inferno primeiro!
+
+[HEADER 004A002C]
+#Ah, George. I had great hopes for you.
+Ah, George. Eu tinha grandes esperanças em você.
+
+[HEADER 004A002D]
+#C'est la guerre. Eklund, kill him.
+C'est la guerre. Eklund, mate-o.
+
+[HEADER 004A002E]
+#I never thought this was what they'd want.
+Nunca pensei que isso era o que eles queriam.
+
+[HEADER 00001E46]
+#The cog wouldn't fit that hole...
+A engrenagem não encaixaria nesse buraco...
+
+[HEADER 00001E53]
+#The cogs all meshed. It began to turn...
+Todas as engrenagens encaixadas. Começou a girar...
+
+[HEADER 00001E48]
+#That wasn't the hole the handle was meant to fit into...
+Esse não era o buraco feito para a manivela ser encaixada...
+
+[HEADER 00001E4A]
+#I was sure the clay pipe wasn't meant to fit there.
+Eu tinha certeza de que o cachimbo de barro não foi feito para se encaixar aí.
+
+[HEADER 00001E4C]
+#The red nose had nothing to grip onto.
+O nariz vermelho tinha nada para prendê-lo no lugar.
+
+[HEADER 00000040]
+#Uh... no.
+Uh... não.
+
+[HEADER 00001E47]
+#It wasn't the right hole for that cog...
+Não era o buraco certo para esta engrenagem...
+
+[HEADER 00001E49]
+#The handle didn't fit in there...
+A manivela não encaixou aí...
+
+[HEADER 00001E4B]
+#The clay pipe wasn't meant to fit in that hole.
+O cachimbo de barro não foi feito para se encaixar nesse buraco.
+
+[HEADER 00001E4D]
+#There was nothing the nose could attach to.
+Não havia nada com o que o nariz poderia se prender.
+
+[HEADER 00000042]
+#Hmm... No way.
+Hmm... Não mesmo.
+
+[HEADER 00001E4E]
+#The cog wouldn't fit the demon's nose.
+A engrenagem não encaixaria no nariz do demônio.
+
+[HEADER 00001E4F]
+#Trying to fit the handle up the demon's nose would have taken all day...
+Tentar encaixar a manivela no nariz do demônio levaria o dia todo...
+
+[HEADER 00001E50]
+#It was no good - the demon wasn't inhaling.
+Não adiantava. O demônio não estava respirando.
+
+[HEADER 00001E51]
+#I couldn't insert the handle - the clay pipe was in the way.
+Eu não podia inserir a manivela. O cachimbo de barro estava no caminho.
+
+[HEADER 00001E52]
+#I pushed the handle into the demon's mouth...
+Empurrei a manivela na boca do demônio...
+
+[HEADER 00000041]
+#Hmm... Maybe not.
+Hmm... Melhor não.
+
+[HEADER 00001934]
+#Come on, George! Think of something.
+Vamos, George! Pense em algo.
+
+[HEADER 00001935]
+#What do you suggest?
+O que sugere?
+
+[HEADER 00001936]
+#Well, this place is full of explosives...
+Bem, este lugar está cheio de explosivos...
+
+[HEADER 00001937]
+#What about that torch?
+Que tal essa tocha?
+
+[HEADER 00001938]
+#What about it?
+Isto?
+
+[HEADER 00001939]
+#Just grab it and throw it at the explosives!
+Segure e jogue-a nos explosivos!
+
+[HEADER 000001F4]
+#*Publishing
+*Publicação
+
+[HEADER 000001F5]
+<00>
+
+[HEADER 000001F6]
+#*Chairman and CEO:
+*Presidente e CEO:
+
+[HEADER 000001F7]
+Yves Guillemot
+
+[HEADER 000001F8]
+#*Executive Director, EMEA:
+*Diretor Executivo, EMEA:
+
+[HEADER 000001F9]
+Alain Corre
+
+[HEADER 000001FA]
+#*Executive Director, North America:
+*Diretor Executivo, North America:
+
+[HEADER 000001FB]
+Laurent Detoc
+
+[HEADER 000001FC]
+#*Executive Director, Worldwide Studios:
+*Diretor Executivo, Worldwide Studios:
+
+[HEADER 000001FD]
+Christine Burgess-Quémard
+
+[HEADER 000001FE]
+*Diretor de Criação:
+
+[HEADER 000001FF]
+Serge Hascoët
+
+[HEADER 00000200]
+<00>
+
+[HEADER 00000201]
+<00>
+
+[HEADER 00000202]
+#*Production
+*Produção
+
+[HEADER 00000203]
+<00>
+
+[HEADER 00000204]
+#*Senior Producer:
+*Produtor Sênior:
+
+[HEADER 00000205]
+Nouredine Abboud
+
+[HEADER 00000206]
+#*Associate Producers:
+*Produtores Associados:
+
+[HEADER 00000207]
+François Berranger
+
+[HEADER 00000208]
+Alexandre Hartpence
+
+[HEADER 00000209]
+#*Third Party Production Director:
+*Diretor de Produção de Terceiros:
+
+[HEADER 0000020A]
+Stéphane Decroix
+
+[HEADER 0000020B]
+#*Business Development Director:
+*Diretor de Desenvolvimento Comercial:
+
+[HEADER 0000020C]
+Virginie Gringarten
+
+[HEADER 0000020D]
+#*Business Development Manager:
+Gerente de Desenvolvimento Comercial:
+
+[HEADER 0000020E]
+Fabrice Pierre-Elien
+
+[HEADER 0000020F]
+#*Special Thanks to:
+*Agradecimentos Especiais:
+
+[HEADER 00000210]
+Bertrand Chaverot
+
+[HEADER 00000211]
+#Paul-Adrien Tournier, Pierre de Margerie (interns)
+Paul-Adrien Tournier, Pierre de Margerie (estagiários)
+
+[HEADER 00000212]
+<00>
+
+[HEADER 00000213]
+<00>
+
+[HEADER 00000214]
+#*Developed by Revolution
+*Desenvolvido pela Revolution
+
+[HEADER 00000215]
+<00>
+
+[HEADER 00000216]
+#*Writer and Director:
+*Escritor e Diretor:
+
+[HEADER 00000217]
+Charles Cecil
+
+[HEADER 00000218]
+#*Writer - New Story:
+*Roteiro - Nova História:
+
+[HEADER 00000219]
+Neil Richards
+
+[HEADER 0000021A]
+#*Writer - Original Story:
+*Roteiro - História Original:
+
+[HEADER 0000021B]
+Dave Cummins
+
+[HEADER 0000021C]
+Jonathan Howard
+
+[HEADER 0000021D]
+#*Programming:
+*Programação:
+
+[HEADER 0000021E]
+Tony Warriner
+
+[HEADER 0000021F]
+Joost Peters
+
+[HEADER 00000220]
+#*Background Layouts:
+*Planos de Fundo:
+
+[HEADER 00000221]
+Neil Breen
+
+[HEADER 00000222]
+#*Background Layouts - Original Story:
+*Planos de Fundo - História Original:
+
+[HEADER 00000223]
+Eoghan Cahill
+
+[HEADER 00000224]
+#*Layout Colouring:
+*Coloração dos Fundos:
+
+[HEADER 00000225]
+Angus McKie
+
+[HEADER 00000226]
+David Swift
+
+[HEADER 00000227]
+Neil Breen
+
+[HEADER 00000228]
+#*Facial Expressions:
+*Expressões Faciais:
+
+[HEADER 00000229]
+Dave Gibbons
+
+[HEADER 0000022A]
+Angus McKie
+
+[HEADER 0000022B]
+#*2D Art:
+*Arte 2D:
+
+[HEADER 0000022C]
+Linda Smith
+
+[HEADER 0000022D]
+Dan Malone
+
+[HEADER 0000022E]
+Kungfuyoga
+
+[HEADER 0000022F]
+#*Animation - New Story:
+*Animação - Nova História
+
+[HEADER 00000230]
+Aron Durkin
+
+[HEADER 00000231]
+Ravi Govind
+
+[HEADER 00000232]
+Adrian Lausch
+
+[HEADER 00000233]
+#*Animation - Original Story:
+*Animação - História Original:
+
+[HEADER 00000234]
+Steve Oades
+
+[HEADER 00000235]
+#*Implementation:
+*Implementação:
+
+[HEADER 00000236]
+Steve Ince
+
+[HEADER 00000237]
+#*Music Composed and conducted by:
+*Música Composta e Conduzida por:
+
+[HEADER 00000238]
+Barrington Pheloung
+
+[HEADER 00000239]
+#*Music Technology:
+*Tecnologia Sonora:
+
+[HEADER 0000023A]
+Matthew Slater
+
+[HEADER 0000023B]
+#*Voice Actors - New Story:
+*Dubladores - História Nova:
+
+[HEADER 0000023C]
+Rolf Saxon - George
+
+[HEADER 0000023D]
+Hazel Ellerby - Nico
+
+[HEADER 0000023E]
+Toby Longworth
+
+[HEADER 0000023F]
+#*Audio Post Production:
+*Pós-produção Sonora:
+
+[HEADER 00000240]
+Earcom
+
+[HEADER 00000241]
+#*Music Support:
+*Músico Assistente:
+
+[HEADER 00000242]
+Heather Pheloung
+
+[HEADER 00000243]
+#with help from Adel Pheloung
+com o apoio de Adel Pheloung
+
+[HEADER 00000244]
+#*Audio Production:
+*Produção de Áudio:
+
+[HEADER 00000245]
+Jerry Ibbotson
+
+[HEADER 00000246]
+Adam Rowley
+
+[HEADER 00000247]
+#*Music Implementation:
+*Implementação da Música:
+
+[HEADER 00000248]
+Patrick Skelton
+
+[HEADER 00000249]
+#*Special thanks to:
+*Agradecimentos Especiais:
+
+[HEADER 0000024A]
+Isak Rudberg
+
+[HEADER 0000024B]
+Chris Fong
+
+[HEADER 0000024C]
+Leo Croft
+
+[HEADER 0000024D]
+Sophie Weller
+
+[HEADER 0000024E]
+Chantal Beaumont
+
+[HEADER 0000024F]
+Ciara Cecil
+
+[HEADER 00000250]
+David Cecil
+
+[HEADER 00000251]
+James Wolfe
+
+[HEADER 00000252]
+B Vigilant
+
+[HEADER 00000253]
+Ella Warriner
+
+[HEADER 00000254]
+<00>
+
+[HEADER 00000255]
+#'Stars' and 'Someday' written by Jade Herbert and
+'Start' e 'Someday' escritos por Jade Herbert e
+
+[HEADER 00000256]
+#Miles Gilderdale P  © 2008 Sugarstar Limited.
+Miles Gilderdale P  © 2008 Sugarstar Limited.
+
+[HEADER 00000257]
+#'Stars' and 'Someday' Performed by Jade Herbert
+'Start' e 'Someday' executados por Jade Herbert
+
+[HEADER 00000258]
+#and Produced by Miles Gilderdale.
+e produzidos por Miles Gilderdale
+
+[HEADER 00000259]
+#'Stars' and 'Someday' Licensed from Sugarstar Ltd.
+'Start' e 'Someday' licenciados por Sugarstar Ltd.
+
+[HEADER 0000025A]
+#*Thanks to other original team members, including:
+*Agradecimentos aos outros membros da equipe original:
+
+[HEADER 0000025B]
+Red Rover
+
+[HEADER 0000025C]
+Mat Taylor
+
+[HEADER 0000025D]
+Jane Stroud
+
+[HEADER 0000025E]
+Andi Forster
+
+[HEADER 0000025F]
+Premier Films
+
+[HEADER 00000260]
+Celine Ciernan
+
+[HEADER 00000261]
+Noel Ciernan
+
+[HEADER 00000262]
+Paul Humphreys
+
+[HEADER 00000263]
+Michael Ryan
+
+[HEADER 00000264]
+Keith Greg
+
+[HEADER 00000265]
+Dan Whitworth
+
+[HEADER 00000266]
+David Swift
+
+[HEADER 00000267]
+Ross Allen
+
+[HEADER 00000268]
+#*Executive Producer:
+*Produtor Executivo:
+
+[HEADER 00000269]
+Noirin Carmody
+
+[HEADER 0000026A]
+#*Dedicated to:
+*Dedicado a:
+
+[HEADER 0000026B]
+#Eoghan Cahill, layout artist, and friend.
+Eoghan Cahill, artista e amigo.
+
+[HEADER 0000026C]
+#*Developed with the support of
+*Desenvolvido com o apoio do
+
+[HEADER 0000026D]
+#Screen Yorkshire Production Fund
+Fundo de Produção da Screen Yorkshire
+
+[HEADER 0000026E]
+<00>
+
+[HEADER 0000026F]
+<00>
+
+[HEADER 00000270]
+#*Additional Resources - For Atomic Planet
+*Recursos Adicionais - para Atomic Planet
+
+[HEADER 00000271]
+#(Game Development in Conjunction with)
+(Jogo Desenvolvido em Parceria com)
+
+[HEADER 00000272]
+<00>
+
+[HEADER 00000273]
+#*Producer:
+*Produtor:
+
+[HEADER 00000274]
+Phil Gilbert
+
+[HEADER 00000275]
+#*Programming:
+*Programadores:
+
+[HEADER 00000276]
+Chris Head
+
+[HEADER 00000277]
+Matt Knowles
+
+[HEADER 00000278]
+Andrew Porritt
+
+[HEADER 00000279]
+#*Art Manager:
+*Gerente de Arte:
+
+[HEADER 0000027A]
+Dave West
+
+[HEADER 0000027B]
+#*Artists:
+*Artistas:
+
+[HEADER 0000027C]
+Paul Crabb
+
+[HEADER 0000027D]
+Dave Drury
+
+[HEADER 0000027E]
+Andy Hodgetts
+
+[HEADER 0000027F]
+Graham Stewart
+
+[HEADER 00000280]
+Dave West
+
+[HEADER 00000281]
+#*Design:
+*Desenho:
+
+[HEADER 00000282]
+Ben Pool
+
+[HEADER 00000283]
+#*SFX:
+*Efeitos Sonoros:
+
+[HEADER 00000284]
+Mark Pennock
+
+[HEADER 00000285]
+#*Managing Director:
+*Diretor-gerente:
+
+[HEADER 00000286]
+Darren Falcus
+
+[HEADER 00000287]
+#*Operations Director:
+*Diretor de Operações:
+
+[HEADER 00000288]
+Jason Falcus
+
+[HEADER 00000289]
+<00>
+
+[HEADER 0000028A]
+<00>
+
+[HEADER 0000028B]
+#*Ubisoft - Quality Assurance: Ubisoft Romania
+*Ubisoft - Controle de Qualidade: Ubisoft Romania
+
+[HEADER 0000028C]
+<00>
+
+[HEADER 0000028D]
+#*QA Manager:
+*Gerente de CQ:
+
+[HEADER 0000028E]
+Marius Tudorel Potirniche
+
+[HEADER 0000028F]
+#*Studio Manager:
+*Gerente de Estúdio:
+
+[HEADER 00000290]
+George Enescu
+
+[HEADER 00000291]
+#*Lead Tester:
+*Testador-Chefe:
+
+[HEADER 00000292]
+Robert Neculau
+
+[HEADER 00000293]
+#*TRC Compliance Manager:
+*Gerente de Adaptação ao TRC:
+
+[HEADER 00000294]
+Mircea Nutu
+
+[HEADER 00000295]
+#*TRC Compliance Specialists:
+*Especialistas de Adaptação ao TRC:
+
+[HEADER 00000296]
+Alexandru Bica
+
+[HEADER 00000297]
+Dan Cocosila
+
+[HEADER 00000298]
+Irina Gabriela a Popa
+
+[HEADER 00000299]
+<00>
+
+[HEADER 0000029A]
+<00>
+
+[HEADER 0000029B]
+#*Quality Assurance: Gameshastra
+*Controle de Qualidade: Gameshatra
+
+[HEADER 0000029C]
+<00>
+
+[HEADER 0000029D]
+*VP Quality Assurance:
+*VP de Controle de Qualidade:
+
+[HEADER 0000029E]
+Monica vallejo
+
+[HEADER 0000029F]
+#*QA Manager:
+*Gerente de CQ:
+
+[HEADER 000002A0]
+Mohua Bhowmik Gupta
+
+[HEADER 000002A1]
+#*QA Project Lead:
+*Chefe do Projeto de CQ:
+
+[HEADER 000002A2]
+Deepak B Lakshminarayana
+
+[HEADER 000002A3]
+#*Lead Assistant:
+*Assistente-Chefe:
+
+[HEADER 000002A4]
+Ranbeer Singh Hora
+
+[HEADER 000002A5]
+#*Testers:
+*Testadores:
+
+[HEADER 000002A6]
+Y Ithihas Reddy
+
+[HEADER 000002A7]
+Pavan Kumar Ramanjula
+
+[HEADER 000002A8]
+Ayan Karmokar
+
+[HEADER 000002A9]
+Sarath Chandra Prasad Gajula
+
+[HEADER 000002AA]
+Sairaji Srinivas Varma
+
+[HEADER 000002AB]
+Nalam Phaneendra
+
+[HEADER 000002AC]
+<00>
+
+[HEADER 000002AD]
+<00>
+
+[HEADER 000002AE]
+#*Ubisoft - Quality Assurance: Ubisoft Romania
+*Ubisoft - Controle de Qualidade: Ubisoft Romania
+
+[HEADER 000002AF]
+<00>
+
+[HEADER 000002B0]
+#*QA Manager:
+*Gerente de CQ:
+
+[HEADER 000002B1]
+Marius Tudorel Potirniche
+
+[HEADER 000002B2]
+#*Studio Manager:
+*Gerente de Estúdio:
+
+[HEADER 000002B3]
+George Enescu
+
+[HEADER 000002B4]
+#*Quality Control Coordinator:
+*Coordenador de Controle de Qualidade:
+
+[HEADER 000002B5]
+Robert Neculau
+
+[HEADER 000002B6]
+#*Senior Tester:
+*Testador Sênior:
+
+[HEADER 000002B7]
+Lucian Gujan
+
+[HEADER 000002B8]
+#*Tester:
+*Testador:
+
+[HEADER 000002B9]
+Andrei Codita
+
+[HEADER 000002BA]
+#*TRC Compliance Manager:
+*Gerente de Adaptação ao TRC:
+
+[HEADER 000002BB]
+Mircea Nutu
+
+[HEADER 000002BC]
+#*TRC Compliance Specialists:
+*Especialistas de Adaptação ao TRC:
+
+[HEADER 000002BD]
+Christi Damian
+
+[HEADER 000002BE]
+Gabriel Olteanu
+
+[HEADER 000002BF]
+Eugen Popescu
+
+[HEADER 000002C0]
+<00>
+
+[HEADER 000002C1]
+<00>
+
+[HEADER 000002C2]
+#*Ubisoft - Quality Assurance: Gameshastra
+*Ubisoft - Controle de Qualidade: Gameshatra
+
+[HEADER 000002C3]
+<00>
+
+[HEADER 000002C4]
+#*VP quality assurance:
+*VP de Controle de Qualidade:
+
+[HEADER 000002C5]
+Monica Vallejo
+
+[HEADER 000002C6]
+#*QA manager:
+*Gerente de CQ:
+
+[HEADER 000002C7]
+Mohua Bhowmik Gupta
+
+[HEADER 000002C8]
+#*QA project lead:
+*Chefe de Projeto de CQ:
+
+[HEADER 000002C9]
+Deepak B Lakshminarayana
+
+[HEADER 000002CA]
+#*Lead assistant:
+*Assistente-Chefe:
+
+[HEADER 000002CB]
+Jeetesh Bhoria
+
+[HEADER 000002CC]
+#*Testers:
+*Testadores:
+
+[HEADER 000002CD]
+Murali Krishna Polamuri
+
+[HEADER 000002CE]
+Revanth Reddy G
+
+[HEADER 000002CF]
+V Naga Ratna Kumari
+
+[HEADER 000002D0]
+Shaik Meera Sameer
+
+[HEADER 000002D1]
+<00>
+
+[HEADER 000002D2]
+<00>
+
+[HEADER 000002D3]
+#*Ubisoft - International Localization
+*Ubisoft - Localização Internacional
+
+[HEADER 000002D4]
+<00>
+
+[HEADER 000002D5]
+#*Localization Studio Manager:
+*Gerente do Estúdio de Localização:
+
+[HEADER 000002D6]
+Coralie Martin
+
+[HEADER 000002D7]
+#*Localization Group Manager:
+*Gerente do Grupo de Localização:
+
+[HEADER 000002D8]
+Vanessa Hautefeuille
+
+[HEADER 000002D9]
+#*Localization Project Manager:
+*Gerente do Projeto de Localização:
+
+[HEADER 000002DA]
+Loïc Jacolin
+
+[HEADER 000002DB]
+Salomé Jugan
+
+[HEADER 000002DC]
+<00>
+
+[HEADER 000002DD]
+<00>
+
+[HEADER 000002DE]
+#*French Version - Around The Word
+*Versão Francesa - Around The Word
+
+[HEADER 000002DF]
+<00>
+
+[HEADER 000002E0]
+#*Project Management:
+*Gerenciamento do Projeto:
+
+[HEADER 000002E1]
+Anne-Sophie Mailliez
+
+[HEADER 000002E2]
+#*Translators:
+*Tradutores:
+
+[HEADER 000002E3]
+Stéphane Radoux, Anne-Sophie Mailliez
+
+[HEADER 000002E4]
+#*Artistic Direction:
+*Direção Artística:
+
+[HEADER 000002E5]
+#Serge Thiriet (for Dune Sound)
+Serge Thiriet (para Dune Sound)
+
+[HEADER 000002E6]
+#*French Voice Talents:
+*Vozes Francesas:
+
+[HEADER 000002E7]
+Emmanuel Curtil
+
+[HEADER 000002E8]
+Gérard Dessalles
+
+[HEADER 000002E9]
+Nathanièle Esther
+
+[HEADER 000002EA]
+Danièle Hazan
+
+[HEADER 000002EB]
+Martial Le Minoux
+
+[HEADER 000002EC]
+<00>
+
+[HEADER 000002ED]
+<00>
+
+[HEADER 000002EE]
+#*German Version - Toneworx GmbH
+*Versão Alemã - Toneworx GmbH
+
+[HEADER 000002EF]
+<00>
+
+[HEADER 000002F0]
+#*Project Management:
+*Gerenciamento do Projeto:
+
+[HEADER 000002F1]
+Jörg Mackensen, Heiko Rieck
+
+[HEADER 000002F2]
+#*Translators:
+*Tradutores:
+
+[HEADER 000002F3]
+Rolf D. Busch, Textfarm
+
+[HEADER 000002F4]
+#*Artistic Direction:
+*Direção Artística:
+
+[HEADER 000002F5]
+Antje Roosch
+
+[HEADER 000002F6]
+#*German Voice Talents:
+*Vozes Alemãs:
+
+[HEADER 000002F7]
+Franziska Pigulla, Alexander Schottky,
+
+[HEADER 000002F8]
+Reent Reins, Bernd Stephan, Frank Thomé,
+
+[HEADER 000002F9]
+Heidi Berndt, Kai Henrik Möller,
+
+[HEADER 000002FA]
+Kristina von Weltzien, Micaela Kreißler
+
+[HEADER 000002FB]
+<00>
+
+[HEADER 000002FC]
+<00>
+
+[HEADER 000002FD]
+#*Italian Version - Synthesis International s.r.l
+*Versão Italiana - Synthesis International s.r.l
+
+[HEADER 000002FE]
+<00>
+
+[HEADER 000002FF]
+#*Project Management:
+*Gerenciamento do Projeto:
+
+[HEADER 00000300]
+Leonardo Gajo
+
+[HEADER 00000301]
+#*Translators:
+*Tradutores:
+
+[HEADER 00000302]
+Andrea Della Calce, Pietro Dattola
+
+[HEADER 00000303]
+#*Italian Voice Talents:
+*Vozes Italianas:
+
+[HEADER 00000304]
+Claudio Beccari, Elda Olivieri, Marco Balzarotti,
+
+[HEADER 00000305]
+Carlo Bonomi, Dania Cericola, Maria Grazia Errigo,
+
+[HEADER 00000306]
+Davide Garbolino, Gianni Gaude, Antonio Guidi,
+
+[HEADER 00000307]
+Jasmine Laurenti, Giorgio Melazzi, Antonio Paiola,
+
+[HEADER 00000308]
+Luigi Rosa, Luca Sandri
+
+[HEADER 00000309]
+<00>
+
+[HEADER 0000030A]
+<00>
+
+[HEADER 0000030B]
+#*Spanish Version - Synthesis Iberia SL
+*Versão Espanhola - Synthesis Iberia SL
+
+[HEADER 0000030C]
+<00>
+
+[HEADER 0000030D]
+#*Project Management:
+*Gerenciamento do Projeto:
+
+[HEADER 0000030E]
+Gus Díaz
+
+[HEADER 0000030F]
+#*Translators:
+*Tradutores:
+
+[HEADER 00000310]
+Pablo Trenado
+
+[HEADER 00000311]
+#*Spanish Voice Talents:
+*Vozes Espanholas:
+
+[HEADER 00000312]
+Javier Gámir, Fernando Hernández,
+
+[HEADER 00000313]
+Ignacio Alonso Blas, Leopoldo Ballesteros,
+
+[HEADER 00000314]
+Héctor Garai, Enrique Suárez, Alfredo Martínez,
+
+[HEADER 00000315]
+Roberto Cuadrado, Inma Gallego,
+
+[HEADER 00000316]
+Juan Carlos Lozano Muñoz, Jesús Barreda,
+
+[HEADER 00000317]
+Elsa Pinillos, Emilio García, Arturo López,
+
+[HEADER 00000318]
+Jorge Teixeir
+
+[HEADER 00000319]
+<00>
+
+[HEADER 0000031A]
+<00>
+
+[HEADER 0000031B]
+#*Localization Testing -
+*Testes de Localização -
+
+[HEADER 0000031C]
+Laboratoires Bug-Tracker Inc.
+
+[HEADER 0000031D]
+<00>
+
+[HEADER 0000031E]
+#*President:
+*Presidente:
+
+[HEADER 0000031F]
+Antoine Carre
+
+[HEADER 00000320]
+#*Vice-President Operations:
+*Vice-Presidente de Operações:
+
+[HEADER 00000321]
+Paquito Hernandez
+
+[HEADER 00000322]
+#*QA Supervisor:
+*Supervisor de CQ:
+
+[HEADER 00000323]
+Kaveh Masrour
+
+[HEADER 00000324]
+#*Organizational Efficiency Executive:
+*Executivo de Eficiência Organizacional:
+
+[HEADER 00000325]
+Cybel Fournier
+
+[HEADER 00000326]
+#*Localization Department Manager:
+*Gerente do Departamento de Localização:
+
+[HEADER 00000327]
+Audrey Demanget
+
+[HEADER 00000328]
+#*Localization Project Manager:
+*Gerente do Projeto de Localização:
+
+[HEADER 00000329]
+Patrick Reuter
+
+[HEADER 0000032A]
+#*Localization Lead:
+*Chefe de Localização:
+
+[HEADER 0000032B]
+Matthieu Païssé
+
+[HEADER 0000032C]
+#*Localization Testers:
+*Testadores da Localização:
+
+[HEADER 0000032D]
+Gianmichele Sica
+
+[HEADER 0000032E]
+Tommy Talbot
+
+[HEADER 0000032F]
+Christophe Lacasse
+
+[HEADER 00000330]
+Eduardo Soto-Falcon
+
+[HEADER 00000331]
+Frank Arndt
+
+[HEADER 00000332]
+<00>
+
+[HEADER 00000333]
+<00>
+
+[HEADER 00000334]
+#*Ubisoft - Editorial
+*Ubisoft - Editorial
+
+[HEADER 00000335]
+<00>
+
+[HEADER 00000336]
+#*Worldwide Content Director:
+*Diretor Mundial de Conteúdo:
+
+[HEADER 00000337]
+Lionel Raynaud
+
+[HEADER 00000338]
+#*Production Content Director:
+*Diretor de Produção de Conteúdo:
+
+[HEADER 00000339]
+Jean-Marc Geffroy
+
+[HEADER 0000033A]
+#*Worldwide Production Coordination Director:
+*Diretor de Coordenação de Produção Mundial:
+
+[HEADER 0000033B]
+Anne Blondel-Jouin
+
+[HEADER 0000033C]
+#*EMEA Certification Manager:
+*Gerente de Certificação EMEA:
+
+[HEADER 0000033D]
+Etienne Tardieu
+
+[HEADER 0000033E]
+#*EMEA 1st Party Coordinator:
+*Coordenador da EMEA de Desenvolvedores Primários:
+
+[HEADER 0000033F]
+Anis Boujaouane
+
+[HEADER 00000340]
+<00>
+
+[HEADER 00000341]
+<00>
+
+[HEADER 00000342]
+#*Ubisoft - Testers: Gameslab - Quebec City
+*Ubisoft - Testadores: Gameslab - Cidade de Quebec
+
+[HEADER 00000343]
+<00>
+
+[HEADER 00000344]
+#*Ergonomist:
+*Ergonomista:
+
+[HEADER 00000345]
+Mickael Schreck
+
+[HEADER 00000346]
+#*Observers:
+*Observadores:
+
+[HEADER 00000347]
+Julien Leforestier
+
+[HEADER 00000348]
+Luc Plante
+
+[HEADER 00000349]
+Yanick Lemelin
+
+[HEADER 0000034A]
+Patrick Charland
+
+[HEADER 0000034B]
+<00>
+
+[HEADER 0000034C]
+<00>
+
+[HEADER 0000034D]
+#*Ubisoft - Testers: Gameslab - Montreal
+*Ubisoft - Testadores: Gameslab - Montreal
+
+[HEADER 0000034E]
+<00>
+
+[HEADER 0000034F]
+#*PlaytestLab Director:
+*Diretor do Laboratório de Teste:
+
+[HEADER 00000350]
+Marie-Pierre Dyotte
+
+[HEADER 00000351]
+#*Team Lead:
+*Chefe de Equipe:
+
+[HEADER 00000352]
+Alexandre Forest Boucher
+
+[HEADER 00000353]
+#*Coordinators:
+*Coordenadores:
+
+[HEADER 00000354]
+Pierre Boyer
+
+[HEADER 00000355]
+Benoit Brière
+
+[HEADER 00000356]
+Antoine Fortier-Auclair
+
+[HEADER 00000357]
+#*Observers:
+*Observadores:
+
+[HEADER 00000358]
+Marc-Andre Burcikas
+
+[HEADER 00000359]
+Nicholas Mainville
+
+[HEADER 0000035A]
+<00>
+
+[HEADER 0000035B]
+<00>
+
+[HEADER 0000035C]
+#*Ubisoft - Marketing
+Ubisoft - Marketing
+
+[HEADER 0000035D]
+<00>
+
+[HEADER 0000035E]
+#*EMEA Chief Operating Officer:
+*Executivo-Chefe de Operações da EMEA:
+
+[HEADER 0000035F]
+Stéphanie Perotti
+
+[HEADER 00000360]
+#*EMEA Marketing Director:
+*Diretor de Marketing da EMEA:
+
+[HEADER 00000361]
+John Parkes
+
+[HEADER 00000362]
+#*EMEA Marketing Group Manager:
+*Gerente do Grupo de Marketing da EMEA:
+
+[HEADER 00000363]
+Guillaume Carmona
+
+[HEADER 00000364]
+#*EMEA Senior Brand Manager:
+*Gerente de Marca Sênior da EMEA:
+
+[HEADER 00000365]
+Bonnka Lim
+
+[HEADER 00000366]
+#*EMEA Assistant Brand Manager:
+*Gerente de Marca Assistente da EMEA:
+
+[HEADER 00000367]
+Arthur Dosne
+
+[HEADER 00000368]
+#*EMEA PR Director:
+*Diretor de RP da EMEA:
+
+[HEADER 00000369]
+Stephane Vallet
+
+[HEADER 0000036A]
+#*EMEA Senior PR Specialist:
+*Especialista Sênior de RP da EMEA:
+
+[HEADER 0000036B]
+Peter Hammer
+
+[HEADER 0000036C]
+#*EMEA Digital Marketing Group Manager:
+*Gerente do Grupo de Marketing Digital da EMEA:
+
+[HEADER 0000036D]
+Stéphane Catherine
+
+[HEADER 0000036E]
+#*EMEA Digital Marketing Manager:
+*Gerente de Marketing Digital da EMEA:
+
+[HEADER 0000036F]
+Jean Guérin
+
+[HEADER 00000370]
+#*EMEA Trade Marketing Manager:
+*Gerente de Marketing Comercial da EMEA:
+
+[HEADER 00000371]
+Virginie Sergent
+
+[HEADER 00000372]
+#*EMEA Trade Marketing Coordinator:
+*Coordenador de Marketing Comercial da EMEA:
+
+[HEADER 00000373]
+Damien Neymarc
+
+[HEADER 00000374]
+#*EMEA Paperparts Traffic Manager:
+*Gerente de Tráfego de Informações da EMEA:
+
+[HEADER 00000375]
+Vincent Hamet
+
+[HEADER 00000376]
+#*US Senior Vice President of Marketing:
+*Vice-Presidente Sênior Americano de Marketing:
+
+[HEADER 00000377]
+Tony Key
+
+[HEADER 00000378]
+#*US Marketing Director:
+*Diretor Americado de Marketing:
+
+[HEADER 00000379]
+Adam Novickas
+
+[HEADER 0000037A]
+#*US Associate Director:
+*Diretor Associado Americano:
+
+[HEADER 0000037B]
+Danny Ruiz
+
+[HEADER 0000037C]
+#*US Marketing Associate:
+*Associação Americana de Marketing:
+
+[HEADER 0000037D]
+Daniel Riaz
+
+[HEADER 0000037E]
+#*EMEA Rating Coordinator:
+*Coordenador de Classificação da EMEA:
+
+[HEADER 0000037F]
+Céline Paiva
+
+[HEADER 00000380]
+#*US Rating Coordinator:
+*Coordenador de Classificação Americano:
+
+[HEADER 00000381]
+Shannon Kokska
+
+[HEADER 00000382]
+Edwin Zee
+
+[HEADER 00000383]
+#*US Senior VP, Publishing:
+*VP Sênior Americano, Publicação:
+
+[HEADER 00000384]
+Jay Cohen
+
+[HEADER 00000385]
+#*EMEA Sales Director:
+*Diretor de Vendas da EMEA:
+
+[HEADER 00000386]
+Dominique Tardieu
+
+[HEADER 00000387]
+<00>
+
+[HEADER 00000388]
+<00>
+
+[HEADER 00000389]
+#*Ubisoft - Manufacturing
+*Ubisoft - Produção
+
+[HEADER 0000038A]
+<00>
+
+[HEADER 0000038B]
+#*EMEA Planning  Submission Coordinator:
+*Coordenador de Submissão de Planejamento da EMEA:
+
+[HEADER 0000038C]
+Laurent Gaudy
+
+[HEADER 0000038D]
+#*EMEA Manufacturing Planning Coordinator:
+*Coordenador de Planejamento de Produção da EMEA:
+
+[HEADER 0000038E]
+Corentin François
+
+[HEADER 0000038F]
+#*EMEA Manufacturing Coordinator:
+*Coordenador de Produção da EMEA:
+
+[HEADER 00000390]
+Aymeric Imberti
+
+[HEADER 00000391]
+#*US Manufacturing:
+*Produção Americana:
+
+[HEADER 00000392]
+Josh Ostrander
+
+[HEADER 00000393]
+Josh Taillon
+
+[HEADER 00000394]
+Adam Zachary
+
+[HEADER 00000395]
+<00>
+
+[HEADER 00000396]
+<00>
+
+[HEADER 00000397]
+#*Ubisoft - Legal
+*Ubisoft - Jurídico
+
+[HEADER 00000398]
+<00>
+
+[HEADER 00000399]
+#*Legal Department Manager:
+*Gerente do Departamento Jurídico:
+
+[HEADER 0000039A]
+Cécile Russeil
+
+[HEADER 0000039B]
+#*Legal Counsellor:
+*Advogado:
+
+[HEADER 0000039C]
+Marc Muraccini
+

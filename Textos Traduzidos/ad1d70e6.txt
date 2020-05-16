@@ -1,0 +1,264 @@
+# Broken Sword - Shadow of the Templars (Director's Cut)
+# Versão do Script: 09.10
+[HEADER 000030D4]
+#The window is far too high to reach.
+Não consigo alcançar a janela.
+
+[HEADER 000030DE]
+#The statue has rungs - vaguely like a ladder.
+A estátua possui degraus que vagamente lembram uma escada.
+
+[HEADER 000030E8]
+#You'll need to release the statue.
+Você precisará soltar a estátua.
+
+[HEADER 000030F2]
+#Unhook both wires, and then push the statue against the wall.
+Desprenda os dois cabos e empurre a estátua contra a parede.
+
+[HEADER 000030FC]
+#Imelda's dead - what should I do?
+Imelda está morta. O que devo fazer?
+
+[HEADER 00003106]
+#Around her neck is a locket - what secret could it hold?
+Em torno do seu pescoço há um medalhão. Que segredo ele pode guardar?
+
+[HEADER 00003110]
+#Open the locket and take the key.
+Abra o medalhão e pegue a chave.
+
+[HEADER 00002337]
+#Now I'd got this far, I wasn't giving up. I had to find a way in.
+Agora que cheguei tão longe, eu não podia desistir. Eu precisava encontrar uma maneira de entrar.
+
+[HEADER 00002331]
+#It was held in place by wires. Hmm, maybe it wasn't art after all. Maybe it was a cellphone transmitter?
+Era mantida no lugar por cabos. Hmm, talvez não fosse arte afinal. Quem sabe não era uma antena de celular?
+
+[HEADER 00002332]
+#People say "what's the point of modern art". I say - isn't it obvious?
+As pessoas costumam perguntar: "Qual é o sentido da arte moderna?". Bem, não é óbvio?
+
+[HEADER 00002333]
+#If I could deconstruct this I could deconstruct anything.
+Se eu conseguir desmontar isso, conseguirei desmontar qualquer coisa.
+
+[HEADER 00002330]
+#Fixed tight. Presumably to stop critics stealing it. Who else would want to?
+Muito bem preso. Pelo jeito, para impedir os críticos de roubarem-na. Quem mais iria querê-la?
+
+[HEADER 00002338]
+#It was a long way down.
+Era um longo caminho até embaixo.
+
+[HEADER 00002336]
+#Definitely an improvement. Now the piece really spoke to me. I think it said: I have fallen over.
+De fato, um avanço. Agora a peça realmente falou comigo. Acho que ela disse: "Cai.".
+
+[HEADER 00000045]
+#Uh... no.
+Uh... não.
+
+[HEADER 0000232C]
+#A hairclip to pick a high security lock? It might work in a movie, but not for me...
+Um prendedor de cabelo para destrancar uma fechadura de alta segurança? Talvez funcione nos filmes, mas não comigo...
+
+[HEADER 0000232A]
+#Carchon's front door. There was a fresh scratch on the paint.
+A porta da frente dos Carchon. Havia um arranhão, não muito antigo, na pintura dela.
+
+[HEADER 0000251E]
+#The kind that's left when someone's picked the lock...
+Provavelmente foi feito por alguém tentando arrombar a fechadura...
+
+[HEADER 0000232B]
+#If I was right - Imelda was getting a lesson from a mime artist.
+Se eu estivesse certa, a Imelda estaria tendo lições com um mímico.
+
+[HEADER 0000251F]
+#And it wasn't the old moving staircase routine...
+E não seria sobre o velho truque da parede invisível...
+
+[HEADER 00002329]
+#Hmm. Locked. No way was I going to break through a door like this.
+Hmm. Trancado. Nem morta que vou derrubar uma porta como essa.
+
+[HEADER 00002328]
+#I arrived to find the Palais Royale courtyard deserted. I only hoped that I had beaten the assassin here.
+Cheguei para encontrar o pátio do Palais Royale deserto. E pensar que eu podia ter pego o assassino aqui.
+
+[HEADER 0000251D]
+#I had to warn Imelda before it was too late.
+Eu precisava avisar Imelda antes que fosse tarde demais.
+
+[HEADER 0000235F]
+#A door bell.
+Uma campainha.
+
+[HEADER 0000232F]
+#A button - which didn't work...
+Um botão... que não funcionava...
+
+[HEADER 0000232D]
+#The intercom system wasn't working.
+O interfone não estava funcionando.
+
+[HEADER 0000232E]
+#Bad sign. Somebody had cut the wire...
+Péssimo sinal. Alguém tinha cortado o fio...
+
+[HEADER 00002335]
+LINE '9013' MISSING FROM MASTER LANGUAGE.TXT
+
+[HEADER 00002334]
+#Just your average modern art retaining wire.
+Uma peça de arte moderna, como qualquer outra, presa por cabos.
+
+[HEADER 0000238E]
+#I released the second wire...
+Soltei o segundo cabo...
+
+[HEADER 0000238C]
+#Even with both wires removed the statue remained upright...
+Mesmo com os dois cabos removidos, a estátua permanecia de pé...
+
+[HEADER 0000238D]
+#I unhooked the first wire...
+Desprendi o primeiro cabo...
+
+[HEADER 0000233C]
+#The window had been repaired with industrial plastic sheeting.
+A janela havia sido reparada com um forro de plástico industrial.
+
+[HEADER 0000233B]
+#The plastic sheet was thick and strong - I'd need more than my hands to tear it.
+O forro de plástico era grosso e forte. Eu precisaria de mais do que minhas mãos para rasgá-lo.
+
+[HEADER 00002339]
+#If only I could get up to the window...
+Se eu conseguisse alcançar aquela janela...
+
+[HEADER 0000233A]
+#That broken window looked like the best way in.
+Aquela janela quebrada parecia ser o melhor caminho para entrar na casa.
+
+[HEADER 0000233D]
+#Now that's what I call modern art.
+Agora sim. Isso é o que eu chamo de arte moderna.
+
+[HEADER 0000233E]
+#My God. I'm too late.
+Meu Deus. Cheguei tarde demais.
+
+[HEADER 0000233F]
+#Imelda. Oh no...
+Imelda. Oh, não...
+
+[HEADER 00002340]
+#Nico...?
+Nico...?
+
+[HEADER 00002341]
+#Don't worry, you're going to be all right.
+Não se preocupe, você vai ficar bem.
+
+[HEADER 00002342]
+#You know that isn't true.
+Você sabe que não é verdade.
+
+[HEADER 00002343]
+#It was Moerlin, wasn't it?
+Foi o Moerlin, não foi?
+
+[HEADER 00002344]
+#Dressed as a cavalier. How absurd!
+Vestido como um cavaleiro. Que absurdo!
+
+[HEADER 00002345]
+#You came to warn me, didn't you?
+Você veio me alertar, não foi?
+
+[HEADER 00002346]
+#I must be crazy.
+Eu devo estar louca.
+
+[HEADER 00002347]
+#Let me see you, Nicole...
+Deixe-me vê-la, Nicole...
+
+[HEADER 00002348]
+#All this time you were just using me. Which one is the real Imelda?
+Todo este tempo você estava apenas me usando. Qual delas é a verdadeira Imelda?
+
+[HEADER 00002349]
+#You are an extraordinary girl. Thierry would have been so proud of you.
+Você é uma garota extraordinária. Thierry teria muito orgulho de você.
+
+[HEADER 0000234A]
+#You didn't know my father -
+Você não conhecia meu pai...
+
+[HEADER 0000234B]
+#So like him... something about the eyes... I wish we'd had time to get to know each other -
+Tão parecidos... Talvez sejam os olhos... Eu queria que tivéssemos tempo para nos conhecermos melhor...
+
+[HEADER 0000234C]
+#She was gone. She'd cheated me, lied to me, used me. But why?
+Ela se foi. Tinha me enganado, mentido, me usado. Mas por quê?
+
+[HEADER 0000234D]
+#The killer had escaped into the night.
+O assassino tinha escapado na noite.
+
+[HEADER 0000234E]
+LINE '9038' MISSING FROM MASTER LANGUAGE.TXT
+
+[HEADER 0000235D]
+#Even in death Imelda looked the same. Beautiful. Inscrutable. The Ice Queen alone in her Ice Palace.
+Mesmo morta, Imelda parecia a mesma. Bela. Impenetrável. A Rainha de Gelo sozinha no seu Palácio de Gelo.
+
+[HEADER 0000235B]
+#Around her neck was a locket.
+Em torno do seu pescoço havia um medalhão.
+
+[HEADER 0000235C]
+#I opened it - inside was a tiny gold key.
+Eu o abri. Dentro dele havia uma pequena chave dourada.
+
+[HEADER 0000235E]
+#I had to leave. I knew I could never return.
+Eu tinha que ir embora. Nunca mais poderia voltar.
+
+[HEADER 0000234F]
+#The Carchons in happier days. Well, before they were both assassinated, at least.
+Os Carchon nos seus dias felizes. Bem, antes de serem assassinados, pelo menos.
+
+[HEADER 00002356]
+#A beautiful fireplace - though I doubt the Carchons used to cuddle up in front of it with a TV dinner.
+Uma bela lareira, apesar de eu duvidar que os Carchon usassem-na para 'esquentar comida congelada'.
+
+[HEADER 00002357]
+#Climbing up the fireplace would be futile.
+Escalar a lareira seria idiotice.
+
+[HEADER 00002358]
+#I really had better things to do.
+Eu realmente tenho coisas melhores para fazer.
+
+[HEADER 0000235A]
+#I was pretty sure the killer had gone.
+Eu estava certa de que o assassino já tinha ido embora.
+
+[HEADER 00002521]
+#And unless he'd brought the next costume with him I was safe for the time being.
+E, a não ser que tenha trazido a próxima fantasia com ele, eu estava segura por um tempo.
+
+[HEADER 00002359]
+#No point in leaving without checking for clues. I was learning fast - every stiff has a silver lining.
+Não iria embora sem procurar por pistas. Eu estava aprendendo rápido: "A esperança é a última que morre".
+
+[HEADER 00002360]
+#I took the key.
+Peguei a chave.
+

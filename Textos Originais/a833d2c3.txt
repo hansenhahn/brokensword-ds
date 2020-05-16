@@ -1,0 +1,1215 @@
+[HEADER 0000A028]
+I need to get that tripod - but how?
+
+[HEADER 0000A032]
+If you could hide in the museum, then you might be left alone.
+
+[HEADER 0000A03C]
+The sarcophagus would provide an excellent hiding place.
+
+[HEADER 0000A046]
+Open the window, and while the attendant is closing it, open the sarcophagus and hide in it. Then wait...
+
+[HEADER 0000A050]
+I'm back from Syria, in one piece, and need direction.
+
+[HEADER 0000A05A]
+Lobineau should have had a chance to check out the manuscript by now.
+
+[HEADER 0000A064]
+Head to the museum and see what he thought.
+
+[HEADER 0000A06E]
+Lobineau said something about a Spanish family, the Vasconcellos. What should I do now?
+
+[HEADER 0000A078]
+Follow that lead!
+
+[HEADER 0000A082]
+Head to the European map. You can now fly to Spain.
+
+[HEADER 001C0027]
+The case was empty.
+
+[HEADER 001C0028]
+The glass case was intact, but the tripod had been replaced by a sign reading: `EXHIBIT TEMPORARILY REMOVED'.
+
+[HEADER 001C0020]
+In the case was a spindly tripod, blackened with age and pitted with rust...
+
+[HEADER 001C0021]
+It was identical to the tripod pictured on the manuscript!
+
+[HEADER 001C0022]
+A notice identified it as fifteenth century, from Western Ireland.
+
+[HEADER 001C0023]
+It had been found in Lochmarne, at the site of a Knights Templar preceptory!
+
+[HEADER 001C003F]
+Ireland!
+
+[HEADER 001C0040]
+What's that?
+
+[HEADER 001C0041]
+This tripod was found in Ireland!
+
+[HEADER 001C0042]
+I will have to ask you to keep your voice down.
+
+[HEADER 001C0043]
+I'm sorry. I was excited.
+
+[HEADER 001C0024]
+The case contained the tripod shown on the manuscript.
+
+[HEADER 001C0025]
+As I reached toward the display case a shrill piping filled the air.
+
+[HEADER 001C0026]
+I froze, then tried to get myself together and act nonchalantly.
+
+[HEADER 001C005E]
+Non! m'sieur, non et non!
+
+[HEADER 001C005F]
+Okay, okay.
+
+[HEADER 001C0064]
+Hey, now! Non, m'sieur, non!
+
+[HEADER 001C0065]
+What's wrong?
+
+[HEADER 001C0066]
+You must not handle the exhibits.
+
+[HEADER 001C0067]
+I'm sorry.
+
+[HEADER 001C0060]
+Now what did I tell you about touching the exhibits?
+
+[HEADER 001C0061]
+Uh... was it: `You can touch all you want so long as your hands are clean'?
+
+[HEADER 001C0062]
+Not quite, m'sieur. It was Do Not Touch. Not ever!
+
+[HEADER 001C0063]
+Oh, yeah - that was it.
+
+[HEADER 001C0001]
+The attendant had an air of self importance and the kind of steely eyes that never seem to blink.
+
+[HEADER 001C0068]
+Pardon me...
+
+[HEADER 001C0069]
+Oui, m'sieur?
+
+[HEADER 001C006C]
+Are you Lobineau?
+
+[HEADER 001C006D]
+Oh, no. Fancy you mistaking me for him!
+
+[HEADER 001C006E]
+No, I am the deputy custodian.
+
+[HEADER 001C006F]
+But Lobineau does work here?
+
+[HEADER 001C0070]
+Work? I wouldn't go so far as to call it that...
+
+[HEADER 001C0071]
+He studies here most days but, as you can see for yourself, not today.
+
+[HEADER 001C00C8]
+Do you recognise this tripod?
+
+[HEADER 001C00C9]
+Hmm.
+
+[HEADER 001C00CA]
+It's vaguely familiar...
+
+[HEADER 001C00CB]
+I should think it is.
+
+[HEADER 001C00CC]
+Very similar to the one which we used to have here at the museum, in fact...
+
+[HEADER 001C00CD]
+That's what I thought.
+
+[HEADER 001C00CE]
+But this is obviously a poor copy.
+
+[HEADER 001C00CF]
+Right.
+
+[HEADER 001C00A4]
+Can you give me any further information about the tripod?
+
+[HEADER 001C00A5]
+Certainly, m'sieur! It's infamous.
+
+[HEADER 001C00A6]
+That tripod... that belonged to John Dee!
+
+[HEADER 001C00A7]
+What's the importance of John Dee's tripod?
+
+[HEADER 001C00A8]
+Dee was the most famous escapologist of the sixteenth century - the Houdini of his time.
+
+[HEADER 001C00A9]
+Don't you mean alchemist? Escapologists use ropes, chains and handcuffs, not tripods.
+
+[HEADER 001C00AA]
+Well, whatever he was, that is the tripod he used in his experiments.
+
+[HEADER 001C00AB]
+What kind of experiments did John Dee perform with his tripod?
+
+[HEADER 001C00AC]
+Oh, the usual. Didn't you study chemistry at school?
+
+[HEADER 001C00AD]
+Yeah, but we skipped over thaumatology.
+
+[HEADER 001C00B3]
+Can I take a closer look at the tripod?
+
+[HEADER 001C00B4]
+What? Get it out of the case? Ah, non!
+
+[HEADER 001C00B5]
+That tripod is protected by a sophisticated surveillance system.
+
+[HEADER 001C00B6]
+How sophisticated?
+
+[HEADER 001C00B7]
+A painfully loud alarm bell.
+
+[HEADER 001C00BC]
+How is the alarm bell triggered?
+
+[HEADER 001C00BD]
+By the slightest pressure on, or movement of, any part of the case wherein that tripod is situated.
+
+[HEADER 001C00BE]
+It strikes me that to call your alarm system sophisticated is... well, stretching the truth a little!
+
+[HEADER 001C00BF]
+It has never failed yet! The sophistication is in its simplicity.
+
+[HEADER 001C0094]
+Do you know anything about the Knights of the Temple?
+
+[HEADER 001C0095]
+No, Sir. Not a sausage.
+
+[HEADER 001C0096]
+The sign on the tripod says it was found at a Templar preceptory...
+
+[HEADER 001C0097]
+It does?
+
+[HEADER 001C0098]
+Yeah - it doesn't mention John Dee at all.
+
+[HEADER 001C0099]
+Most remiss.
+
+[HEADER 001C009A]
+You don't know anything about the tripod, do you?
+
+[HEADER 001C009B]
+No, I don't. I never had much of a start in life, you see.
+
+[HEADER 001C009C]
+I owe what little education I gained to my uncle.
+
+[HEADER 001C009D]
+He was an optician, but he also doubled as the village school teacher.
+
+[HEADER 001C009E]
+He taught me the alphabet - well, nineteen letters of it...
+
+[HEADER 001C009F]
+The bottom row of the chart was too small even for him to read, so he left them out.
+
+[HEADER 001C00A0]
+Why don't you start over and enrol for adult education?
+
+[HEADER 001C00A1]
+You know, I never thought of that!
+
+[HEADER 001C00A2]
+Do you think if I studied hard and did all my homework I could be a Professor of History?
+
+[HEADER 001C00A3]
+At your age? Dream on...
+
+[HEADER 001C008B]
+Do you know anything about medieval manuscripts?
+
+[HEADER 001C008C]
+Not me, m'sieur. I'm no scholar - though people often mistake me for one.
+
+[HEADER 001C008D]
+It's the uniform, I guess. They see the clothes, they're impressed...
+
+[HEADER 001C008E]
+And they ask you to park their cars?
+
+[HEADER 001C008F]
+They ask me to park their... no, no, no!
+
+[HEADER 001C0090]
+They assume I am an authority on the exhibits in my care.
+
+[HEADER 001C0091]
+Whereas, you know next to nothing about history?
+
+[HEADER 001C0092]
+Of course not! All I'm saying is, I'm no scholar...
+
+[HEADER 001C0093]
+Not like M'sieur Lobineau.
+
+[HEADER 001C00C2]
+Does this lens mean anything to you?
+
+[HEADER 001C00C3]
+Not a thing, m'sieur.
+
+[HEADER 001C00C4]
+Does this white powder mean anything to you?
+
+[HEADER 001C00C5]
+No, it doesn't.
+
+[HEADER 001C00D2]
+Do you recognize this red nose?
+
+[HEADER 001C00D3]
+I don't think so.
+
+[HEADER 001C00D7]
+Do you recognize this ID pass?
+
+[HEADER 001C00D8]
+No.
+
+[HEADER 001C00D9]
+Have you ever heard of the Club Alamut?
+
+[HEADER 001C00DA]
+Oh, no! I don't frequent places like that.
+
+[HEADER 001C00D4]
+Do you recognize the man in this photograph?
+
+[HEADER 001C00D5]
+No, m'sieur. Is there any reason why I should?
+
+[HEADER 001C00D6]
+I guess not.
+
+[HEADER 001C00DB]
+What does this tool mean to you?
+
+[HEADER 001C00DC]
+That belongs in a museum!
+
+[HEADER 001C00DD]
+Pardon?
+
+[HEADER 001C00DE]
+It's a priceless historical artefact, if I'm not mistaken!
+
+[HEADER 001C00DF]
+No - it's a plain old tool for lifting drain covers.
+
+[HEADER 001C00E3]
+What do you make of this tissue?
+
+[HEADER 001C00E4]
+It's absolutely disgusting, m'sieur.
+
+[HEADER 001C00F2]
+I found this gem at a medieval site in Ireland...
+
+[HEADER 001C00F3]
+That means nothing to me, m'sieur.
+
+[HEADER 001C00F4]
+How did you manage to get this job?
+
+[HEADER 001C00F5]
+I had the right qualifications...
+
+[HEADER 001C00F6]
+A military manner, squeaky shoes - and an irrational hatred of children.
+
+[HEADER 001C00F9]
+What does this ball mean to you?
+
+[HEADER 001C00FA]
+Nothing, m'sieur.
+
+[HEADER 001C00FB]
+Would you like to shake my hand?
+
+[HEADER 001C00FC]
+Not while I'm on duty, m'sieur.
+
+[HEADER 001C00C0]
+Thanks for your help...
+
+[HEADER 001C002D]
+It was an ancient Egyptian sarcophagus, with a beautifully painted effigy of its owner on the lid.
+
+[HEADER 001C0051]
+Leave it alone! That closet is over three thousand years old!
+
+[HEADER 001C0052]
+Closet? It's a sarcophagus!
+
+[HEADER 001C004E]
+Don't even think of climbing in there, m'sieur!
+
+[HEADER 001C004F]
+You'll be suffocated!
+
+[HEADER 001C0050]
+I always wondered how it felt to be a mummy.
+
+[HEADER 001C004C]
+Do you have a fetish about closets, m'sieur?
+
+[HEADER 001C004D]
+I just love the smell of mothballs, I guess.
+
+[HEADER 001C004A]
+No, m'sieur!
+
+[HEADER 001C004B]
+Okay!
+
+[HEADER 001C002E]
+This is ridiculous! I could be here for hours!
+
+[HEADER 001C0045]
+It's closing time, m'sieur Lobineau.
+
+[HEADER 001C0046]
+Already? There just aren't enough hours in the day!
+
+[HEADER 001C0047]
+More than enough for me. I can't wait to get home and put my feet up.
+
+[HEADER 001C0048]
+Eh bien... See you tomorrow.
+
+[HEADER 001C0049]
+Good night, m'sieur.
+
+[HEADER 001C0029]
+The totem pole looked distinctly out of place in the setting of the museum.
+
+[HEADER 001C0044]
+Watch out! You'll have that down on top of us!
+
+[HEADER 001C000D]
+A metal rod attached to the wall was connected to the window.
+
+[HEADER 001C0053]
+Attention! Please do not open the window, m'sieur!
+
+[HEADER 001C0054]
+Don't you think it's kinda stuffy in here...?
+
+[HEADER 001C0055]
+Better stuffy than dead.
+
+[HEADER 001C0056]
+What's the problem - fumes from car exhausts?
+
+[HEADER 001C0057]
+Not just that, m'sieur - there's a new burger bar opened up across the street: the Laughing Buffalo.
+
+[HEADER 001C0058]
+So what's the problem?
+
+[HEADER 001C0059]
+They cook their burgers on a charcoal grill, and the fat falls on the open flames.
+
+[HEADER 001C005A]
+The amount of organic compound and smoke particles released is astounding!
+
+[HEADER 001C005B]
+Since they opened local air pollution has doubled - and it stinks like a funeral pyre!
+
+[HEADER 001C005C]
+That's why I keep the windows closed.
+
+[HEADER 001C005D]
+Don't open that! Remember the burning cattle!
+
+[HEADER 001D0007]
+What the...! Who's there?
+
+[HEADER 001D0008]
+Let's get outa here!
+
+[HEADER 001D0003]
+Oh, Guido...!
+
+[HEADER 001D0004]
+What's the big idea, you dummy? Shine the light down here!
+
+[HEADER 001D0005]
+The mummy! It's... it's come ALIVE!
+
+[HEADER 001D0006]
+If that's a mummy, I'm glad I'm an orphan!
+
+[HEADER 001D0001]
+Quit fooling around, you moron!
+
+[HEADER 001D0002]
+Get your ass over here, and bring that flashlight!
+
+[HEADER 001C0000]
+He was a thin-faced pallid guy with questionable taste in outlandish clothes. My mother used to dress like that.
+
+[HEADER 001C00FE]
+I beg your pardon - are you André Lobineau?
+
+[HEADER 001C00FF]
+That's me. You want my autograph?
+
+[HEADER 001C0100]
+No. I was told you may be able to help me.
+
+[HEADER 001C0101]
+Help?
+
+[HEADER 001C0102]
+My name is George Stobbart. I'd like your professional opinion...
+
+[HEADER 001C0103]
+Well... okay. Shoot.
+
+[HEADER 001C0104]
+Hi, André.
+
+[HEADER 001C0105]
+Hello, Georgie.
+
+[HEADER 001C010D]
+Hey - I visited Nicole's apartment.
+
+[HEADER 001C010E]
+Yeah - she told me you came by.
+
+[HEADER 001C010F]
+Whew! Quite a find, Georgie-boy!
+
+[HEADER 001C0110]
+I didn't expect anything quite so... sexy!
+
+[HEADER 001C0111]
+I hope you're referring to the manuscript?
+
+[HEADER 001C0112]
+Mais oui... of course!
+
+[HEADER 001C0113]
+Where have you been? Nicole said you were away...
+
+[HEADER 001C0114]
+I just returned from Syria.
+
+[HEADER 001C0115]
+Syria? On the trail of the Templars?
+
+[HEADER 001C0116]
+It's a long story - but I found the Bull's Head.
+
+[HEADER 001C0117]
+It was referred to on the manuscript, remember?
+
+[HEADER 001C0118]
+Yes. What is it?
+
+[HEADER 001C0119]
+A secret cave built into a high cliff face.
+
+[HEADER 001C011A]
+In the cave I discovered a map bearing a phrase in Latin...
+
+[HEADER 001C011B]
+In occidenta sita est in ora mundi.
+
+[HEADER 001C011C]
+The Island of Britain...
+
+[HEADER 001C011D]
+...lies at the edge of the world, to the west.
+
+[HEADER 001C011E]
+Strange. That map seems to contain a series of pointers...
+
+[HEADER 001C011F]
+Like I said, it's a treasure map.
+
+[HEADER 001C01E9]
+Have you ever heard of the Hashshashin?
+
+[HEADER 001C01EA]
+Why, yes. It was a radical Muslim sect whose name became synonymous with murder.
+
+[HEADER 001C01EB]
+It was formed in eleventh century Persia, shortly before the Crusades.
+
+[HEADER 001C01EC]
+At roughly the same time as the Templars...
+
+[HEADER 001C01ED]
+Yes. They gave a new word to our language: Assassani - the Assassins.
+
+[HEADER 001C01EE]
+How did the Assassins get their name?
+
+[HEADER 001C01EF]
+From the legend surrounding the secrets of their initiation rites...
+
+[HEADER 001C01F0]
+A young man who sought to join the sect was given hashish until he drifted into dreams.
+
+[HEADER 001C01F1]
+He awoke to find himself in a fabulous garden, with everything he could wish for...
+
+[HEADER 001C01F2]
+The freshest water, the most delicious food, the choicest hash and the most delectable women imaginable.
+
+[HEADER 001C01F3]
+Cool. Do you have the address?
+
+[HEADER 001C01F4]
+I haven't finished the story. There was a price to pay for this taste of paradise.
+
+[HEADER 001C01F5]
+Wouldn't you just know it?
+
+[HEADER 001C01F6]
+The young man would wake the next day to find himself back in the real world.
+
+[HEADER 001C01F7]
+He was told that he'd been given a glimpse of the heaven reserved for holy martyrs.
+
+[HEADER 001C01F8]
+A heaven he would enjoy for eternity - if he was willing to join the Hashshashin.
+
+[HEADER 001C01F9]
+How did the Assassins operate?
+
+[HEADER 001C01FA]
+Well, as I explained, the new recruits would be only too willing to die for the cause.
+
+[HEADER 001C01FB]
+They'd be instructed in the use of the dagger, poisons and disguise.
+
+[HEADER 001C01FC]
+Then, the Grand Master of the sect would name an enemy of Allah.
+
+[HEADER 001C01FD]
+And they'd stop at nothing to eliminate that enemy...
+
+[HEADER 001C01FE]
+You've got it. They were fearless - and deadly.
+
+[HEADER 001C01FF]
+Does the cult of the Assassins still exist?
+
+[HEADER 001C0200]
+Take a look around at the world today. You tell me...
+
+[HEADER 001C01CE]
+Does the name Montfauçon mean anything to you?
+
+[HEADER 001C01CF]
+Sure. It was the most grisly spectacle in Paris until the Revolution.
+
+[HEADER 001C01D0]
+A public toilet?
+
+[HEADER 001C01D1]
+Montfauçon was the place of execution for many thousands.
+
+[HEADER 001C01D2]
+A dark temple of death, with row upon row of arches, each one framing a grim exhibit...
+
+[HEADER 001C01D3]
+Scores of rotting corpses swung on creaking rope while the crows devoured their flesh...
+
+[HEADER 001C01D4]
+That explains the image of the hanged man.
+
+[HEADER 001C01D5]
+I found a reference to Montfauçon in Ireland, in a village called Lochmarne.
+
+[HEADER 001C01D6]
+Lochmarne? That's where Peagram was digging!
+
+[HEADER 001C01D7]
+That's right. He'd left the excavation before I arrived.
+
+[HEADER 001C01DC]
+Where was the site of Montfauçon?
+
+[HEADER 001C01DD]
+To the north-east, near the Canal St. Martin, but there's nothing there now.
+
+[HEADER 001C01DE]
+The old gibbet was torn down during the Revolution.
+
+[HEADER 001C01DF]
+Do you know Peagram well?
+
+[HEADER 001C01E0]
+Not really. I met him at a conference.
+
+[HEADER 001C01E1]
+I would have liked to talk to him in depth, but I didn't have time.
+
+[HEADER 001C01E2]
+When was this?
+
+[HEADER 001C01E3]
+Oh, back in the summer... July, I think.
+
+[HEADER 001C012E]
+I'd like your opinion on a medieval manuscript.
+
+[HEADER 001C012F]
+Vraiment? Do you have it with you?
+
+[HEADER 001C0130]
+No. It's too fragile - and besides...
+
+[HEADER 001C0131]
+There are certain people who'd stop at nothing to get their hands on it...!
+
+[HEADER 001C0132]
+Intriguing. Do you have a copy of the text?
+
+[HEADER 001C0133]
+There isn't much - only from a few Latin phrases.
+
+[HEADER 001C0134]
+I was kind of hoping you'd help decipher the pictures.
+
+[HEADER 001C0135]
+Without seeing the manuscript? That's a tall order...
+
+[HEADER 001C0136]
+Just tell me one thing - what does the image of two men riding on the same horse suggest to you?
+
+[HEADER 001C0137]
+The Knights Templar.
+
+[HEADER 001C0138]
+Does the Templar seal appear on this manuscript?
+
+[HEADER 001C0139]
+I'd love to see that for myself!
+
+[HEADER 001C013A]
+What did you make of the manuscript?
+
+[HEADER 001C013B]
+It dates from the time of the Crusades.
+
+[HEADER 001C013C]
+We guessed that, from the Templar seal.
+
+[HEADER 001C013D]
+It's a story in pictures, like a modern-day comic book.
+
+[HEADER 001C013E]
+What story does the manuscript tell?
+
+[HEADER 001C013F]
+I don't know.
+
+[HEADER 001C0140]
+It was probably produced for the tourist market.
+
+[HEADER 001C0141]
+Tourists!?
+
+[HEADER 001C0142]
+Oh, oui! Pilgrims, in their thousands, on their way to Jerusalem.
+
+[HEADER 001C0143]
+The tourist trade is nothing new, you know. It's been around for centuries.
+
+[HEADER 001C0144]
+Ever since Joshua made a packet selling souvenir bricks from the walls of Jericho.
+
+[HEADER 001C0145]
+Have you deciphered any of the images on the manuscript?
+
+[HEADER 001C0146]
+There's very little I can be sure about.
+
+[HEADER 001C0147]
+The slaying of the bull could be a reference to Mithras.
+
+[HEADER 001C0148]
+Who's he?
+
+[HEADER 001C0149]
+A Persian God. Almost as popular as Christ at one time...
+
+[HEADER 001C014A]
+The only thing I can be sure of is the knight. He's Spanish.
+
+[HEADER 001C014B]
+How can you tell that?
+
+[HEADER 001C014C]
+The writing on the shield, the reference to `Ave Maria'...
+
+[HEADER 001C014D]
+No self respecting knight from northern Europe would have borne a coat of arms like that...
+
+[HEADER 001C014E]
+Can you identify the Knight's coat of arms?
+
+[HEADER 001C014F]
+I already did, Georgie.
+
+[HEADER 001C0150]
+He's a member of the des Vasconcellos family - from the Costa Calida.
+
+[HEADER 001C0151]
+Were they famous?
+
+[HEADER 001C0152]
+No. They're not mentioned after the fifteenth century.
+
+[HEADER 001C0153]
+Oh.
+
+[HEADER 001C0154]
+The spotlight of history moved on. They're probably long dead.
+
+[HEADER 001C0184]
+Can you tell me anything about the Knights Templar?
+
+[HEADER 001C0185]
+I sure can, Georgie!
+
+[HEADER 001C0186]
+Soldiers, diplomats, mercenaries, monks, bankers - you name it, the Templars fit the bill.
+
+[HEADER 001C0187]
+The greatest fighting force in Christendom - the militia of Christ!
+
+[HEADER 001C0188]
+Jeez!
+
+[HEADER 001C0189]
+How did the Templars get their name?
+
+[HEADER 001C018A]
+From the building in which they set up their headquarters.
+
+[HEADER 001C018B]
+The King of Jerusalem gave them part of a mosque on the Temple Mount.
+
+[HEADER 001C018C]
+It was said to have been the site of the original Temple of Solomon.
+
+[HEADER 001C018D]
+The order became known first as the Knights of the Temple, and later the Knights Templar.
+
+[HEADER 001C018E]
+You're a mine of information, André.
+
+[HEADER 001C018F]
+Glad to be of help, Georgie.
+
+[HEADER 001C0190]
+How come the Templars became so wealthy?
+
+[HEADER 001C0191]
+There was a constant stream of new recruits to their ranks, many from noble families.
+
+[HEADER 001C0192]
+They were required to swear a sacred oath of poverty, chastity and obedience.
+
+[HEADER 001C0193]
+So, their money, goods and land were donated to the order.
+
+[HEADER 001C0194]
+The Templars soon held land in France, Scotland, England, Spain - most of Europe, in fact.
+
+[HEADER 001C0195]
+The Poor Knights of Christ became the wealthiest power in Christendom.
+
+[HEADER 001C0199]
+Is it true the treasure of the Knights Templar was never found?
+
+[HEADER 001C019A]
+Ah, who knows? So little knowledge of what really happened remains.
+
+[HEADER 001C019B]
+Or if it does, the truth has never been made public.
+
+[HEADER 001C019C]
+What do you mean by that?
+
+[HEADER 001C019D]
+The Templars have attained mythological status, like the King Arthur of the Britons.
+
+[HEADER 001C019E]
+There are people even now who say the Templars still exist.
+
+[HEADER 001C019F]
+Do you think that's likely?
+
+[HEADER 001C01A0]
+No, not for a minute.
+
+[HEADER 001C015A]
+The manuscript is being looked after by a friend.
+
+[HEADER 001C015B]
+In Paris?
+
+[HEADER 001C015C]
+Yeah. Not far from here, in fact.
+
+[HEADER 001C015D]
+Well, just give me the address and I'll come round and take a look!
+
+[HEADER 001C015E]
+I'm not so sure about that.
+
+[HEADER 001C015F]
+Maybe I should check with her first...
+
+[HEADER 001C0160]
+A female friend?
+
+[HEADER 001C0161]
+Yeah. She's a woman.
+
+[HEADER 001C0164]
+This friend who has the manuscript...
+
+[HEADER 001C0165]
+Ah, oui. The anonymous girl friend.
+
+[HEADER 001C0166]
+She lives at three sixty-one, Rue Jarry.
+
+[HEADER 001C0167]
+Ah! I know it well.
+
+[HEADER 001C0168]
+I'll drop by just as soon as I can.
+
+[HEADER 001C0120]
+I think you ought to know that the tripod is going to be stolen.
+
+[HEADER 001C0121]
+The Lochmarne tripod? No!
+
+[HEADER 001C0122]
+It's true. I can give you a description of the thieves...
+
+[HEADER 001C0123]
+Before the supposed event has taken place?
+
+[HEADER 001C0124]
+I heard them planning the raid.
+
+[HEADER 001C0125]
+They're wasting their time.
+
+[HEADER 001C0126]
+The tripod is protected by a state of the art alarm system...
+
+[HEADER 001C0127]
+Well, don't say I didn't warn you.
+
+[HEADER 001C0128]
+Why don't you loan the tripod to me, for safe-keeping?
+
+[HEADER 001C0129]
+Because I'd never see it again.
+
+[HEADER 001C012A]
+Don't you trust me?
+
+[HEADER 001C012B]
+It's not a question of trust, George.
+
+[HEADER 001C012C]
+That tripod is hundreds of years old, and extremely fragile.
+
+[HEADER 001C012D]
+I get your point.
+
+[HEADER 001C016F]
+While I was in Syria, I discovered a strange, pagan statue.
+
+[HEADER 001C0170]
+It was like a head with three bearded faces. Horrible!
+
+[HEADER 001C0171]
+That sounds as if it could be Baphomet - the idol described by the Templars!
+
+[HEADER 001C0172]
+The Poor Knights of Christ had an idol that looked like that?
+
+[HEADER 001C0173]
+Allegedly. The description of the idol came from the evidence extracted by the Inquisition.
+
+[HEADER 001C0174]
+Mind you, not one statue or idol was ever found on Templar property.
+
+[HEADER 001C0175]
+Until now, that is...
+
+[HEADER 001C0176]
+Just last month, a statue of Baphomet was unearthed - right here in Paris!
+
+[HEADER 001C0177]
+Where?
+
+[HEADER 001C0178]
+At the Institut Hermétique de Nerval.
+
+[HEADER 001C017B]
+The statue is beneath the foundations.
+
+[HEADER 001C017C]
+It was discovered by some workmen while renovating the building.
+
+[HEADER 001C017D]
+Can you tell me any more about the statue of Baphomet?
+
+[HEADER 001C017E]
+It's a fearful image, even now... a bearded head.
+
+[HEADER 001C017F]
+The base of the statue is carved with Templar symbols.
+
+[HEADER 001C0180]
+One of the workmen noticed a curious stain at the base.
+
+[HEADER 001C0181]
+He claimed it looked like blood.
+
+[HEADER 001C0182]
+Blood?
+
+[HEADER 001C0183]
+That's right.
+
+[HEADER 001C0205]
+What do you make of this tool?
+
+[HEADER 001C0206]
+Interesting. Where did you get it?
+
+[HEADER 001C0207]
+From a dig in Paris.
+
+[HEADER 001C0208]
+Vraiment? I didn't realize there were any excavations in progress in the City...
+
+[HEADER 001C0209]
+Did I show you this tool?
+
+[HEADER 001C020A]
+Yes, you did - though I can't imagine why...
+
+[HEADER 001C020B]
+Take a look at this nose, Lobineau.
+
+[HEADER 001C020C]
+It really doesn't interest me, George.
+
+[HEADER 001C020D]
+Does the guy in this photograph look familiar to you?
+
+[HEADER 001C020E]
+No.
+
+[HEADER 001C020F]
+What do you make of this?
+
+[HEADER 001C0210]
+It's the biggest gemstone I've ever seen!
+
+[HEADER 001C0211]
+Where did you get it?
+
+[HEADER 001C0212]
+From Professor Peagram's messenger boy.
+
+[HEADER 001C0213]
+Peagram! Professor Nigel Peagram?
+
+[HEADER 001C0214]
+He's in Ireland, investigating a Templar site, isn't he?
+
+[HEADER 001C0215]
+He was - until he disappeared.
+
+[HEADER 001C0216]
+Did Peagram find this on his dig?
+
+[HEADER 001C0217]
+Yeah. The site where this was found was a Templar castle.
+
+[HEADER 001C0218]
+Do you think it could be part of the Templar treasure?
+
+[HEADER 001C0219]
+Oh, I shouldn't think so.
+
+[HEADER 001C021A]
+You're not one of those crazies who think the Templars still exist, are you?
+
+[HEADER 001C021B]
+Uh... well - I try to keep an open mind on the matter.
+
+[HEADER 001C021C]
+Did I show you this gem?
+
+[HEADER 001C021D]
+Yes, you did.
+
+[HEADER 001C021E]
+What do you make of this ID card?
+
+[HEADER 001C021F]
+Nothing.
+
+[HEADER 001C0220]
+What do you make of this cup, André?
+
+[HEADER 001C0221]
+It's a fourteenth century communion vessel - Spanish probably.
+
+[HEADER 001C0223]
+Does this matchbook mean anything to you?
+
+[HEADER 001C0224]
+Alamut is the name of the place where the Hashshashin were based!
+
+[HEADER 001C0225]
+Where is it?
+
+[HEADER 001C0226]
+Somewhere in what used to be called Persia.
+
+[HEADER 001C0227]
+I'm not too hot on modern geography, I'm afraid.
+
+[HEADER 001C0228]
+The most recent map I have shows America as an English colony.
+
+[HEADER 001C0229]
+Are you sure you don't know where Alamut is?
+
+[HEADER 001C022A]
+Positive.
+
+[HEADER 001C022B]
+Do you recognize this white powder, André?
+
+[HEADER 001C022C]
+No.
+
+[HEADER 001C022D]
+I'd like to shake you by the hand, André...
+
+[HEADER 001C022E]
+Not now, Georgie.
+
+[HEADER 001C022F]
+What does this tissue mean to you?
+
+[HEADER 001C0230]
+Nothing!
+
+[HEADER 001C0231]
+What does this ball mean to you?
+
+[HEADER 001C0232]
+It's a juggling ball! I love juggling!
+
+[HEADER 001C0201]
+Thanks for your help, André...
+
+[HEADER 001C0202]
+You're welcome...
+
+[HEADER 001C0031]
+You've left it very late, m'sieur!
+
+[HEADER 001C0032]
+Late? For what?
+
+[HEADER 001C0033]
+Anything. I'm closing the museum soon.
+
+[HEADER 001C0034]
+You wouldn't like to get locked in, I can tell you. Not in this gallery.
+
+[HEADER 001C0035]
+Why not?
+
+[HEADER 001C0036]
+It is haunted, m'sieur.
+
+[HEADER 001C0037]
+You don't believe in ghosts, surely?
+
+[HEADER 001C0038]
+Oh, yes I do! Seven years ago a lad managed to hide in here.
+
+[HEADER 001C0039]
+He'd made a bet with his friends, I suppose.
+
+[HEADER 001C003A]
+When I found him in the morning he was cold as ice and stiff as a board.
+
+[HEADER 001C003B]
+What was the cause of death?
+
+[HEADER 001C003C]
+They said it was a brain tumour.
+
+[HEADER 001C003D]
+But on his face was a look of stark, desperate terror such as I've never seen before!
+
+[HEADER 001C003E]
+Scary!
+

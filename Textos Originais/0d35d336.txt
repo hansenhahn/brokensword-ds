@@ -1,0 +1,669 @@
+[HEADER 00009C40]
+The thug from the hotel, a strange ticket inspector. Help me get outta here!
+
+[HEADER 00009C4A]
+Head to your compartment and you'll find Nico has gone.
+
+[HEADER 00009C54]
+Go into the compartment next to yours and talk to the football fan.
+
+[HEADER 00009C5E]
+Open the window and climb out.
+
+[HEADER 00410010]
+Where are you going, George?
+
+[HEADER 00410011]
+Do I need to spell it out?
+
+[HEADER 00410012]
+Don't snap at me! If you're going to take a leak why don't you say so?
+
+[HEADER 00410013]
+Okay. I'm going to take a leak.
+
+[HEADER 00410014]
+L - E - A - K.
+
+[HEADER 00410015]
+Tickets, please!
+
+[HEADER 00410016]
+Oh, hi...
+
+[HEADER 00410017]
+That's a standard full-price peak return.
+
+[HEADER 00410018]
+Don't you have a Senior Citizen's Rail Card?
+
+[HEADER 00410019]
+I rarely travel by train.
+
+[HEADER 0041001A]
+My ticket is perfectly valid, is it not?
+
+[HEADER 0041001B]
+Well... yeah. But you could've saved up to a third of the cost!
+
+[HEADER 0041001C]
+I do not need to indulge in piffling thriftiness.
+
+[HEADER 0041001D]
+Blimey - you're a funny ol' bird, an' no mistake!
+
+[HEADER 0041001E]
+Tickets, please, Sir.
+
+[HEADER 0041001F]
+Here...
+
+[HEADER 00410020]
+Off to Stirling, eh?
+
+[HEADER 00410021]
+Yes, we are.
+
+[HEADER 00410022]
+Well, I hope you won't be disappointed.
+
+[HEADER 00410023]
+It's a miserable place this time o' year.
+
+[HEADER 00410024]
+Still, there's plenty o' pubs, and a luverly view from the castle!
+
+[HEADER 00410025]
+Thank you.
+
+[HEADER 00410026]
+I don't want to worry you, but there was something familiar about that guy.
+
+[HEADER 00410027]
+Are you sure? You're tired. Perhaps you're mistaken?
+
+[HEADER 00410028]
+Maybe. But I didn't like the look in his eyes when he spoke to you...
+
+[HEADER 0041000B]
+Can't you sit still, George?
+
+[HEADER 0041000C]
+I need to go to the john.
+
+[HEADER 0041000D]
+While you're there check out the buffet car, George.
+
+[HEADER 0041000E]
+Unthinkable though it is, I'm hungry enough to eat English food.
+
+[HEADER 0041000F]
+Okay...
+
+[HEADER 003F0002]
+Oh no!
+
+[HEADER 003F0003]
+That gangster creep from the hotel, Guido.
+
+[HEADER 003F0004]
+Well, he didn't scare me.
+
+[HEADER 003F0005]
+Hey, buster! This is a `No Smoking' car!
+
+[HEADER 003F0006]
+Okay, maybe he did scare me.
+
+[HEADER 003F0007]
+It got worse. I suddenly realized who the conductor had reminded me of.
+
+[HEADER 003F0008]
+Eklund, Marquet's murderer!
+
+[HEADER 00420002]
+The man's face was blotched and unshaven. I guess he'd been travelling all night.
+
+[HEADER 00420013]
+Hi. Having a party?
+
+[HEADER 00420014]
+Nooo! This is brekkus!
+
+[HEADER 00420015]
+Com'n join us, mon.
+
+[HEADER 00420016]
+Howay, Basher - weak oop, mon! We's coompany!
+
+[HEADER 00420017]
+His breath was like the outlet from a chemical factory...
+
+[HEADER 00420018]
+'Scuse ma mate. He's tekkin' a nap.
+
+[HEADER 00420019]
+Sleepin' like a babby.
+
+[HEADER 0042001A]
+I'll weak him oop when we get t' Noocassell.
+
+[HEADER 0042001B]
+We passed through Newcastle half an hour ago!
+
+[HEADER 0042001C]
+And ah nivver noticed!
+
+[HEADER 0042001D]
+Hey, buddy!
+
+[HEADER 0042001E]
+What IS that stuff you're drinking?
+
+[HEADER 00420020]
+It smells like gasoline.
+
+[HEADER 00420021]
+Aye - it'll put hairs on your chest, like!
+
+[HEADER 00420022]
+On your eyeballs too, by the looks of you...
+
+[HEADER 00420023]
+Listen - I need your help.
+
+[HEADER 00420024]
+Wassa matter?
+
+[HEADER 00420025]
+There's a guy on this train who's trying to kill me.
+
+[HEADER 00420026]
+Relax man. He wouldna try nothin' with us and Basher here.
+
+[HEADER 00420027]
+We're vet'rans, like. Saw action at Brightlingsea!
+
+[HEADER 00420028]
+I don't recall the British Army being involved in a conflict at anywhere called Brightlingsea...?
+
+[HEADER 00420029]
+Well, you just take it from me, pal - you're in safe hands.
+
+[HEADER 0042002A]
+Did you see what happened to the young woman in the next compartment?
+
+[HEADER 0042002B]
+No, pal - I divn't. Hev you lost her, like?
+
+[HEADER 0042002C]
+She's disappeared - the old lady too. I think they're in trouble.
+
+[HEADER 0042002D]
+Howay, man! An old lady too?
+
+[HEADER 0042002E]
+Yeah. You gotta help me!
+
+[HEADER 0042002F]
+Mebbe they went to the toilet, like?
+
+[HEADER 00420030]
+I don't think so...
+
+[HEADER 00420031]
+They nivver go on their own - allus in pairs, y'know.
+
+[HEADER 00420032]
+No - she's been abducted, I'm sure.
+
+[HEADER 00420033]
+I've got to go look for her...
+
+[HEADER 00420034]
+What's stoppin' youse, pal?
+
+[HEADER 00420035]
+The conductor. He's not what he seems.
+
+[HEADER 00420036]
+You want to avoid him, like?
+
+[HEADER 00420037]
+That's about it, yeah.
+
+[HEADER 00420038]
+Noo problem.
+
+[HEADER 0042003A]
+Would you like a red nose?
+
+[HEADER 0042003B]
+Naa thanks, pal.  I got one o' me own.
+
+[HEADER 0042003C]
+Have you ever seen this man before?
+
+[HEADER 0042003D]
+Aye, man! He's Chalkie White an' I claim mah ten quid, like.
+
+[HEADER 0042003E]
+No, he's an international assassin and he goes by the name, `Khan'.
+
+[HEADER 0042003F]
+Waal aye, man, burra wus close, y'knaa?
+
+[HEADER 00420040]
+Does the name `Moerlin' mean anything to you?
+
+[HEADER 00420041]
+Merlin? King Arthur's queen?
+
+[HEADER 00420042]
+Forget it.
+
+[HEADER 00420043]
+Have you ever seen anything like these before?
+
+[HEADER 00420044]
+Hey, thars look right wicked!
+
+[HEADER 00420045]
+It's not a weapon.
+
+[HEADER 00420046]
+Well, naa, but you have to be flexible, like.
+
+[HEADER 00420047]
+Do you know what this is?
+
+[HEADER 00420048]
+Nah, mon, what is it?
+
+[HEADER 00420049]
+It's a hand buzzer.
+
+[HEADER 0042004A]
+You won't catch me out with that, pal!
+
+[HEADER 0042004B]
+If I'd wanted to catch you out, I wouldn't have shown it to you, would I?
+
+[HEADER 0042004C]
+Well, maybe youse might, pal, like a clever double bluff, y'knaa?
+
+[HEADER 00420039]
+See you later...
+
+[HEADER 00410000]
+I should have known better than to leave Nico and the old lady alone.
+
+[HEADER 00410001]
+Suddenly the Sword of Baphomet took second place to finding the girl I loved.
+
+[HEADER 00420000]
+The window seemed to have been sprayed with tiny flecks of froth.
+
+[HEADER 00420001]
+The window was wide open to the freezing night air.
+
+[HEADER 0042000E]
+Divvn't do it, pal! Don't jump!
+
+[HEADER 0042000F]
+I don't intend to jump.
+
+[HEADER 00420010]
+I'm going to climb on top of the train.
+
+[HEADER 00420011]
+Ya kiddin', aren't you?
+
+[HEADER 00420012]
+Just watch me...
+
+[HEADER 0042000D]
+Had on there, pal - I'll g'ya a hond, like...
+
+[HEADER 00420009]
+Divvn't open that window, pal!
+
+[HEADER 0042000A]
+Why not?
+
+[HEADER 0042000B]
+It's freezin' out there.
+
+[HEADER 0042000C]
+Leave it alone, man!
+
+[HEADER 00450004]
+I'd always wanted to stop a train, and now was my chance!
+
+[HEADER 0045001C]
+You saved our lives! But why?
+
+[HEADER 0045001D]
+We were always on the same side, Stobbart.
+
+[HEADER 0045001E]
+Different causes, but a common enemy.
+
+[HEADER 0045001F]
+The Knights Templar?
+
+[HEADER 00450020]
+Don't call them that! The real Templars were a noble foe.
+
+[HEADER 00450021]
+These... barbarians have no right to that name.
+
+[HEADER 00450022]
+These men are no better than dogs!
+
+[HEADER 00450023]
+What are the Neo-Templars after?
+
+[HEADER 00450024]
+What is the Sword of Baphomet?
+
+[HEADER 00450025]
+Not what you think, my friend.
+
+[HEADER 00450026]
+It is a weapon, yes, but one which our enemies will find difficult to wield.
+
+[HEADER 00450027]
+A double-edged sword - a power older than de Molay, older than Solomon!
+
+[HEADER 00450028]
+We'll stop them! You and me together...!
+
+[HEADER 00450029]
+...and Nico.
+
+[HEADER 0045002A]
+No, George. My journey ends soon, at the garden of Paradise.
+
+[HEADER 0045002B]
+You're talking in riddles! Can't you tell me straight what they're after?
+
+[HEADER 0045002C]
+The Sword symbolises a colossal energy....
+
+[HEADER 0045002D]
+...caused by the alignment of the earth's natural power fields.
+
+[HEADER 0045002E]
+Which are focused at St Ninians!
+
+[HEADER 0045002F]
+The energy endowed the Templars with the power which made them great.
+
+[HEADER 00450030]
+A power which made them charismatic to such an extent...
+
+[HEADER 00450031]
+...they could control the will of all around them.
+
+[HEADER 00450032]
+How did you escape from the Bull's Head?
+
+[HEADER 00450033]
+It is a long walk from the cliff of the Bull to the village, Stobbart.
+
+[HEADER 00450034]
+Fortunately, I know the ways of the wilderness.
+
+[HEADER 00450037]
+May Allah guide you...
+
+[HEADER 00450038]
+...to our enemies.
+
+[HEADER 00450039]
+Thanks.
+
+[HEADER 0045003A]
+One last thing...!
+
+[HEADER 0045003B]
+What? What is it?
+
+[HEADER 0045003C]
+He's dead.
+
+[HEADER 00450068]
+What do you think about...
+
+[HEADER 00450069]
+George! We don't have time for that!
+
+[HEADER 00450049]
+Don't worry. I hadn't forgotten about you.
+
+[HEADER 0045004A]
+Untie me this instant, George Stobbart.
+
+[HEADER 0045004B]
+I will... when I'm ready.
+
+[HEADER 0045004C]
+That's not fair, George.
+
+[HEADER 0045004D]
+No.
+
+[HEADER 0045004E]
+You took advantage while my hands were tied.
+
+[HEADER 0045004F]
+When Eklund pointed that gun at me, I thought I was going to die.
+
+[HEADER 00450050]
+I thought of all the things I'd never get to do...
+
+[HEADER 00450051]
+And kissing you was top of my list.
+
+[HEADER 00450052]
+George...
+
+[HEADER 00450053]
+Uh-huh?
+
+[HEADER 00450054]
+George - we've got to get off the train.
+
+[HEADER 00450055]
+Eklund could recover at any time.
+
+[HEADER 00450056]
+So what are we waiting for?
+
+[HEADER 00450048]
+Where do you think you're going?
+
+[HEADER 00450006]
+I figured I'd stand a slim chance of escape if I moved fast enough...
+
+[HEADER 00450007]
+But I couldn't leave Nico to Eklund's mercy.
+
+[HEADER 00450057]
+What are you doing?!
+
+[HEADER 00450058]
+I'm out of here...
+
+[HEADER 00450059]
+Not that door! Do you want to end up like Flap?
+
+[HEADER 0045005A]
+Not especially. What remains of him is well on its way back to London...
+
+[HEADER 0045005B]
+I hope he was travelling on a return ticket.
+
+[HEADER 003F000C]
+Guido looked like a weasel in a cheap suit.
+
+[HEADER 003F000D]
+He also looked like the kind of man who wouldn't lose much sleep over murder.
+
+[HEADER 003F000E]
+I really didn't want to shoot the breeze with this guy.
+
+[HEADER 00420004]
+All I could see of the man's face was a massive purple bruise around his eye.
+
+[HEADER 00420006]
+I didn't want to wake him.
+
+[HEADER 00420007]
+To be frank, without a cold water hose I didn't think I COULD wake him.
+
+[HEADER 003F0017]
+The door was locked.
+
+[HEADER 0041004A]
+Pardon me...
+
+[HEADER 0041004B]
+She must be deaf...
+
+[HEADER 0041004C]
+Yes, my dear?
+
+[HEADER 0041004D]
+Do you know what time we're due in Stirling?
+
+[HEADER 0041004E]
+A quarter to six, but we're running eight minutes late.
+
+[HEADER 0041004F]
+Yes, dear?
+
+[HEADER 0041005F]
+What's the book you're reading?
+
+[HEADER 00410060]
+Oh, it's something I picked up at the station.
+
+[HEADER 00410061]
+A medieval detective story. Quite well written for that kind of thing.
+
+[HEADER 00410062]
+It's been out of print for years.
+
+[HEADER 00410063]
+What's the title of the book?
+
+[HEADER 00410064]
+`The Crooked Crusader Caper' by Molly Peagram.
+
+[HEADER 00410065]
+I assumed the author was a woman, but apparently not.
+
+[HEADER 00410066]
+His real name is...
+
+[HEADER 00410067]
+Professor Nigel Peagram.
+
+[HEADER 00410068]
+That's right! Do you know him?
+
+[HEADER 00410069]
+No. I never met him.
+
+[HEADER 0041006A]
+George is a great fan of his, though.
+
+[HEADER 00410050]
+Do you know Stirling well?
+
+[HEADER 00410051]
+Yes, I do.
+
+[HEADER 00410052]
+Is that where you two lovebirds are bound?
+
+[HEADER 00410053]
+Yeah, we...
+
+[HEADER 00410054]
+It's one of the places we thought we'd see on our holiday.
+
+[HEADER 00410055]
+Be sure to visit the castle, won't you?
+
+[HEADER 00410056]
+I'm sure it's a neat place, but we're not really interested in history - are we, George?
+
+[HEADER 00410057]
+Uh... no.
+
+[HEADER 0041005A]
+Is there a church called St. Ninians at Stirling?
+
+[HEADER 0041005B]
+Yes, there is, and I know why you're going there!
+
+[HEADER 0041005C]
+You do?
+
+[HEADER 0041005D]
+Of course I do. It's obvious you're in love...
+
+[HEADER 0041005E]
+You're eloping! And they say Romance is dead...!
+
+[HEADER 0041006B]
+Would you believe that this clown's nose led to us being on this train tonight?
+
+[HEADER 0041006C]
+I would indeed.
+
+[HEADER 0041006D]
+No, honestly, it... you would?
+
+[HEADER 0041006E]
+Certainly. You have an honest face.
+
+[HEADER 0041006F]
+Yep, that's a nose with a history, all right.
+
+[HEADER 00410070]
+So you said.
+
+[HEADER 00410077]
+Does the name `Moerlin' mean anything to you?
+
+[HEADER 00410078]
+Merlin, a master of illusions.
+
+[HEADER 00410079]
+Oh, you said `Moerlin'? Then no, nothing.
+
+[HEADER 00410082]
+Do you know what this is?
+
+[HEADER 00410083]
+Yes, I do.
+
+[HEADER 00410084]
+A young friend of mine shook my hand with one just the other day.
+
+[HEADER 00410085]
+Yeah? That's outrageous! He should be shot!
+
+[HEADER 00410086]
+Perhaps. Still, his intentions were good.
+
+[HEADER 00410087]
+I'm sorry that you've been zapped by one of these things.
+
+[HEADER 00410088]
+You shouldn't be.
+

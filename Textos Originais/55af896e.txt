@@ -1,0 +1,1992 @@
+[HEADER 00009C68]
+What do I do now I'm in the church?
+
+[HEADER 00009C72]
+You need to get that door open. Take a good look around at everything.
+
+[HEADER 00009C7C]
+Pull apart that mechanism with the large wheel to get a cog and handle, and search through that pile of rubbish until you can't find anything more.
+
+[HEADER 00009C86]
+What do I do with all this junk?
+
+[HEADER 00009C90]
+Take a close look at the gargoyle.
+
+[HEADER 00009C9A]
+See the holes. What could you put in there?
+
+[HEADER 00009CA4]
+Put the cogs in each eye and the handle in his mouth. Now turn the handle.
+
+[HEADER 008103AA]
+I'd feel happier if we had a gun or something.
+
+[HEADER 008103AB]
+Khan gave me something.
+
+[HEADER 008103AC]
+What?
+
+[HEADER 008103AD]
+His handbag.
+
+[HEADER 008103AE]
+Great. If we run into any killers, we can give them a good buffeting.
+
+[HEADER 008103AF]
+Didn't he have any weapons?
+
+[HEADER 008103B0]
+You don't know the half of it. This bag's full of C-4!
+
+[HEADER 008103B1]
+Wow! Why didn't you say so?
+
+[HEADER 008103B2]
+Boy, we'll show them now!
+
+[HEADER 008103B3]
+What's C-4?
+
+[HEADER 008103B4]
+Plastique, George.
+
+[HEADER 008103B5]
+We're going to shop our way to victory?
+
+[HEADER 008103B6]
+Two kilos of plastic explosive. The detonator's broken though.
+
+[HEADER 008103B7]
+No problem. We'll buy a box of matches somewhere.
+
+[HEADER 008103B8]
+It doesn't work that way. It takes a small explosion to start the big explosion.
+
+[HEADER 008103B9]
+Well that's not much use then.
+
+[HEADER 008103BA]
+What does that sign say?
+
+[HEADER 008103BB]
+Apparently, during the English Civil War in the mid-seventeenth century...
+
+[HEADER 008103BC]
+...this place was used as an arms dump.
+
+[HEADER 008103BD]
+Yeah? What happened?
+
+[HEADER 008103BE]
+Look at the state of this place, George. You work it out.
+
+[HEADER 008103BF]
+Stray spark?
+
+[HEADER 008103C0]
+You've got it. The tower was the only thing to survive the blast.
+
+[HEADER 008103C1]
+I hope the explosion didn't destroy the Sword of Baphomet!
+
+[HEADER 008103C2]
+Do you? I rather hope it did.
+
+[HEADER 0048002A]
+I scrabbled around in the rubble and found an old clay pipe with a broken stem.
+
+[HEADER 0048002B]
+Under one of the stones I found a metal coin which was green with age.
+
+[HEADER 0048002C]
+It was caked with soil, but what I'd found was a small cog and spindle.
+
+[HEADER 0048002D]
+With mounting excitement I felt something between my fingers.
+
+[HEADER 0048002E]
+It was short, hard and black, something I hadn't expected to find here...
+
+[HEADER 0048002F]
+It was a plastic pen top.
+
+[HEADER 00480030]
+I didn't find anything.
+
+[HEADER 00480003]
+The handle turned easily and the larger wheel began to revolve...
+
+[HEADER 00480004]
+Damn!
+
+[HEADER 00480005]
+Then the handle came off in my hand.
+
+[HEADER 00480006]
+Now that the handle was gone it was easy to remove the cog and spindle.
+
+[HEADER 00480022]
+With a rasp of metal on stone I eased the second eye into place.
+
+[HEADER 00480021]
+The cog slipped neatly into the eye socket.
+
+[HEADER 00480020]
+I pushed the handle into the demon's mouth - the cogs all meshed. I began to turn...
+
+[HEADER 00480023]
+With the clay pipe in his mouth he looked happy, homely, like somebody's grand-daddy.
+
+[HEADER 008103C3]
+What do you think you're doing, George?
+
+[HEADER 008103C4]
+I wondered if there was a secret mechanism in the demon's mouth.
+
+[HEADER 008103C5]
+Maybe you should show a little more respect...
+
+[HEADER 008103C6]
+For a mythical medieval demon? Give me a break!
+
+[HEADER 008103C7]
+Okay. Go right ahead. Meddle with forces you don't understand.
+
+[HEADER 008103C8]
+Incur the demon's wrath and burn in hell...
+
+[HEADER 008103C9]
+Just see if I care...
+
+[HEADER 00480024]
+Sometimes the most childish gestures can have a cathartic effect...
+
+[HEADER 00480025]
+The transformation of the demon to a clown did just that for me.
+
+[HEADER 0048001F]
+I tried turning the cogs but couldn't move them. I needed a mechanical advantage.
+
+[HEADER 0048001E]
+The cog turned freely, but nothing happened.
+
+[HEADER 00480019]
+Examining the demon more closely, I realized something about its face.
+
+[HEADER 0048001A]
+It was a clever illusion - no matter where I stood, the eyes weren't looking at me.
+
+[HEADER 0048001B]
+There was a simple reason: the demon didn't have any eyes.
+
+[HEADER 0048001C]
+I ran my fingers across the cold stone and probed the holes in the demon's eyes.
+
+[HEADER 0048001D]
+Beneath them the mouth formed another hole - but I wasn't about to put my finger in there.
+
+[HEADER 00480031]
+Above the carved cross was an indecipherable inscription.
+
+[HEADER 00480032]
+For all I knew it could have been scribed in Gaelic.
+
+[HEADER 00480033]
+I tried pushing the panel but wasn't surprised when it failed to move.
+
+[HEADER 00490000]
+As soon as I saw the flickering torches I realized the bogus Templars had beaten us to the Sword.
+
+[HEADER 00490001]
+But where were they now, and why was it so quiet?
+
+[HEADER 0081039A]
+No, George!
+
+[HEADER 0081039B]
+What?
+
+[HEADER 0081039C]
+Leave that torch right where it is.
+
+[HEADER 0081039D]
+In case you haven't noticed, the crypt is full of gunpowder.
+
+[HEADER 0081039E]
+So what? Don't you trust me?
+
+[HEADER 0081039F]
+It's not a question of trust...
+
+[HEADER 008103A0]
+No? You think I'm a jerk, don't you?
+
+[HEADER 008103A1]
+Don't be silly, George. And keep your voice down.
+
+[HEADER 008103A2]
+I thought I heard something... like chanting.
+
+[HEADER 00490003]
+I really wasn't worried about the danger of igniting the gunpowder...
+
+[HEADER 00490004]
+But Nico's temper was likely to flare up again. Now that scared me!
+
+[HEADER 008103A3]
+Listen!
+
+[HEADER 008103A4]
+I can definitely hear chanting.
+
+[HEADER 008103A5]
+You're right. I hear it too.
+
+[HEADER 008103A6]
+What do you suppose they're doing?
+
+[HEADER 008103A7]
+It wouldn't surprise me if they were holding some kind of satanic sex ritual...
+
+[HEADER 008103A8]
+So what are we waiting for?
+
+[HEADER 008103CA]
+Nico?
+
+[HEADER 008103CB]
+Uh-huh?
+
+[HEADER 008103D1]
+What are you doing?
+
+[HEADER 008103D2]
+Committing this inscription to memory...
+
+[HEADER 008103D3]
+Can you read it?
+
+[HEADER 008103D4]
+No.
+
+[HEADER 008103D5]
+What's the point of studying the inscription if you can't read it?
+
+[HEADER 008103D6]
+Because it could be important - a clue to whatever we're looking for, who knows?
+
+[HEADER 008103D7]
+I might find someone in Stirling to translate it.
+
+[HEADER 008103D8]
+We don't have time to go looking for a linguist!
+
+[HEADER 008103D9]
+No? At least I'm doing something positive.
+
+[HEADER 008103DA]
+What language is that inscription written in?
+
+[HEADER 008103DB]
+You're the languages student. You tell me.
+
+[HEADER 008103DC]
+It's looks like Ancient Norse. Maybe.
+
+[HEADER 008103DD]
+Perhaps it's in code?
+
+[HEADER 008103DE]
+I don't think so...
+
+[HEADER 008103DF]
+Norse code?
+
+[HEADER 008103CC]
+It looks like the Templars got here first.
+
+[HEADER 008103CD]
+We might not be too late. There's still a chance.
+
+[HEADER 008103CE]
+I wish I had your optimism...
+
+[HEADER 008103CF]
+So do I, George.
+
+[HEADER 008103D0]
+Sometimes you're so negative.
+
+[HEADER 00490014]
+Come on, Nico! We're leaving!
+
+[HEADER 00490015]
+You fools! You cannot escape us!
+
+[HEADER 00490016]
+Guido! Stop them!
+
+[HEADER 00490017]
+But, master, the powder!
+
+[HEADER 00490018]
+That powder is from the English Civil War, you fool!
+
+[HEADER 00490019]
+It's over three hundred years old! How explosive do you think it can be?
+
+[HEADER 0049001A]
+I thought it was all over but Nico had one last trick up her sleeve...
+
+[HEADER 0049001B]
+...or in her handbag to be exact.
+
+[HEADER 0049001C]
+A handbag full of plastic explosives!
+
+[HEADER 0049001D]
+Maybe, but this stuff's brand new!
+
+[HEADER 00000A94]
+We didn't stay long in Scotland.  George had a vacation to finish.
+
+[HEADER 00000A95]
+And I had another story to write.  Not the real story of course -
+
+[HEADER 00000A96]
+but enough half-truths to fill a page and pay my rent for the month.
+
+[HEADER 00000A97]
+George and I hung out together in Paris.
+
+[HEADER 00000A98]
+I showed him my favourite restaurants and he told me his best jokes.
+
+[HEADER 00000A99]
+You know, Nico... This city holds so many memories for me now.  The cafes, the music...
+
+[HEADER 00000A9A]
+The sewers -
+
+[HEADER 00000A9B]
+Tell me about it. The clowns -
+
+[HEADER 00000A9C]
+The jugglers -
+
+[HEADER 00000A9D]
+Oh, and your pal Lobineau...
+
+[HEADER 00000A9E]
+Yes, dear André.
+
+[HEADER 00000A9F]
+When we first met, and I was doing my detective stuff - you kinda disappeared a lot, Nico.
+
+[HEADER 00000AA0]
+Were you and Lobineau...? er...?
+
+[HEADER 00000AA1]
+There was something... happening.  But nothing to do with André.
+
+[HEADER 00000AA2]
+Uh huh...
+
+[HEADER 00000AA3]
+It was something from the past that I had to deal with.  On my own.
+
+[HEADER 00000AA4]
+So I dealt with it.  And now it's over.
+
+[HEADER 00000AA5]
+Oh.  Well... hey! That's good. In fact - that's great!
+
+[HEADER 00000AA6]
+Because it had nothing to do with André?
+
+[HEADER 00000AA7]
+What?  Oh. No!   I mean - it's great that it's over.  Great that you're happy. Er.
+
+[HEADER 00000AA8]
+More wine?
+
+[HEADER 00000AA9]
+Thanks George.
+
+[HEADER 00000AAA]
+Hey, did I ever tell you about the old Irish couple and the lottery?
+
+[HEADER 00000AAB]
+No.  But I think you're going to...
+
+[HEADER 00000AAC]
+There's this old Irish couple.
+
+[HEADER 00000AAD]
+They've been married forever - like fifty years, and they win the lottery.
+
+[HEADER 00000AAE]
+And they think, what are we going to do?
+
+[HEADER 00000AAF]
+They give some money away, but they decide to have themselves a holiday in Paris.
+
+[HEADER 00000AB0]
+So they fly off to Paris, first class.
+
+[HEADER 00000AB1]
+They stay in a beautiful hotel, and one day they go up the Eiffel Tower.
+
+[HEADER 00000AB2]
+They get all the way up to the top and find themselves up there alone with two hippies.
+
+[HEADER 00000AB3]
+The two hippies have long hair, beards, long robes.
+
+[HEADER 00000AB4]
+As they're looking at them, suddenly one of the hippies gets up on top of the guard rail and jumps.
+
+[HEADER 00000AB5]
+Just before he hits the ground he waves his arms and flies all the way back up again.
+
+[HEADER 00000AB6]
+The couple have never seen anything like this before in their lives. They can't believe what they have just seen.
+
+[HEADER 00000AB7]
+The hippy had just jumped off, just before he hit the ground he flapped his arms and up he came.
+
+[HEADER 00000AB8]
+They walk over to him and say 'excuse me Sir, Good God, how did you do that?'
+
+[HEADER 00000AB9]
+'It's really easy, man, it's really easy. You jump, empty your mind...
+
+[HEADER 00000ABA]
+'... and just before you hit the pavement, you waive your arms and up you come.
+
+[HEADER 00000ABB]
+'Here, I'll show you how to do it again.'
+
+[HEADER 00000ABC]
+Just before he hits the pavement, he raises his arms and up he comes again. The couple can't believe it.
+
+[HEADER 00000ABD]
+'Come on you can try it, man. You come on up. You'll be fine. You can do it.'
+
+[HEADER 00000ABE]
+So the old fellow and the old lady get up there.
+
+[HEADER 00000ABF]
+And they say 'So when we jump, we'll go all the way down, and just before - we flap our arms...'.
+
+[HEADER 00000AC0]
+'You come straight back up again - it's really easy. Go ahead give it a try.'
+
+[HEADER 00000AC1]
+The old Irish couple jump. Just before they hit the pavement they start flapping their arms.
+
+[HEADER 00000AC2]
+Nothing. Bang. Irish stew on the pavement. It's all over.
+
+[HEADER 00000AC3]
+One hippie, who hasn't said a word, turns to the other and say:
+
+[HEADER 00000AC4]
+'You know Gabriel, for an Archangel, you can be a real son of a bitch.'
+
+[HEADER 004A002F]
+I swear... I just wanted things to be right...
+
+[HEADER 004A0030]
+Take them. Kill them.
+
+[HEADER 004A0031]
+They will not escape.
+
+[HEADER 00490010]
+Okay, okay! Let me think!
+
+[HEADER 00490011]
+George!
+
+[HEADER 00490012]
+Stay away from me!
+
+[HEADER 00490013]
+So perish all enemies of the New Templar Order!
+
+[HEADER 00490008]
+Well, well!
+
+[HEADER 00490009]
+If it isn't the great detective and his beautiful assistant.
+
+[HEADER 0049000A]
+It's going to be a pleasure killing the pair of you.
+
+[HEADER 0049000B]
+George! What are we going to do?
+
+[HEADER 004A0000]
+Will you look at that!
+
+[HEADER 004A0001]
+Baphomet! Lobineau was right, this place was ancient even to the Templars!
+
+[HEADER 004A0002]
+This whole place... this is Baphomet!
+
+[HEADER 004A0003]
+Finally, the truth.
+
+[HEADER 004A0004]
+The Templars had never worshipped this graven image, no more than they'd worship a rainbow.
+
+[HEADER 004A0005]
+But, like a rainbow they regarded it as a symbol of a covenant with God, who'd revealed this place to them.
+
+[HEADER 004A0006]
+Rosso! Why the double-dealing, treacherous...!
+
+[HEADER 004A0007]
+On the contrary!
+
+[HEADER 004A0008]
+Inspector Rosso has been the model of obedience, an important quality in a true Templar.
+
+[HEADER 004A0009]
+Now be quiet and watch if you wish to live much longer.
+
+[HEADER 004A0011]
+Brothers and sisters, we are gathered here to witness the reforging of the sword that was broken!
+
+[HEADER 004A0012]
+Here, before God's sentinel! Baphomet!
+
+[HEADER 004A0013]
+Grand Master and Knight of Baphomet...
+
+[HEADER 004A0014]
+We salute and pledge our obedience to you.
+
+[HEADER 004A0015]
+I salute you, Gatekeeper of the Temple.
+
+[HEADER 004A0016]
+Seven centuries ago our greatest weapon, the Sword of Baphomet, was lost to us.
+
+[HEADER 004A0017]
+Now, we prepare to reforge it to wield against new enemies.
+
+[HEADER 004A0018]
+As the tired millennium dies and this world looks for new leaders, we shall not fail.
+
+[HEADER 004A0019]
+We shall lead the people to a new order wherein all borders will dissolve.
+
+[HEADER 004A001A]
+All will be united under the red cross of the Templars!
+
+[HEADER 004A001B]
+George. We have watched your efforts to stop us with respect.
+
+[HEADER 004A001C]
+But surely you realize that you have been misled by our enemies?
+
+[HEADER 004A001D]
+Both of us want a better world.
+
+[HEADER 004A001F]
+Fortunately, no harm has been done.
+
+[HEADER 004A0020]
+We need determined, resourceful men like you.
+
+[HEADER 004A0021]
+Join us, George. Join us in true brotherhood...
+
+[HEADER 004A0022]
+Yeah... true - wait?
+
+[HEADER 004A0023]
+Brothers? What about Marquet?
+
+[HEADER 004A0024]
+What about Peagram and Klausner?
+
+[HEADER 004A0025]
+You didn't look on them as brothers, only as failures!
+
+[HEADER 004A0026]
+Three men dead and you don't give a damn!
+
+[HEADER 004A0027]
+George, you know that sacrifices are necessary.
+
+[HEADER 004A0028]
+Every great undertaking...
+
+[HEADER 004A0029]
+Save it for these... these mindless sheep!
+
+[HEADER 004A002A]
+And what about those whose faces don't fit?
+
+[HEADER 004A002B]
+Join you? I'll see you in Hell first!
+
+[HEADER 004A002C]
+Ah, George. I had great hopes for you.
+
+[HEADER 004A002D]
+C'est la guerre. Eklund, kill him.
+
+[HEADER 004A002E]
+I never thought this was what they'd want.
+
+[HEADER 00001E46]
+The cog wouldn't fit that hole...
+
+[HEADER 00001E53]
+The cogs all meshed. It began to turn...
+
+[HEADER 00001E48]
+That wasn't the hole the handle was meant to fit into...
+
+[HEADER 00001E4A]
+I was sure the clay pipe wasn't meant to fit there.
+
+[HEADER 00001E4C]
+The red nose had nothing to grip onto.
+
+[HEADER 00000040]
+Uh... no.
+
+[HEADER 00001E47]
+It wasn't the right hole for that cog...
+
+[HEADER 00001E49]
+The handle didn't fit in there...
+
+[HEADER 00001E4B]
+The clay pipe wasn't meant to fit in that hole.
+
+[HEADER 00001E4D]
+There was nothing the nose could attach to.
+
+[HEADER 00000042]
+Hmm... No way.
+
+[HEADER 00001E4E]
+The cog wouldn't fit the demon's nose.
+
+[HEADER 00001E4F]
+Trying to fit the handle up the demon's nose would have taken all day...
+
+[HEADER 00001E50]
+It was no good - the demon wasn't inhaling.
+
+[HEADER 00001E51]
+I couldn't insert the handle - the clay pipe was in the way.
+
+[HEADER 00001E52]
+I pushed the handle into the demon's mouth...
+
+[HEADER 00000041]
+Hmm... Maybe not.
+
+[HEADER 00001934]
+Come on, George! Think of something.
+
+[HEADER 00001935]
+What do you suggest?
+
+[HEADER 00001936]
+Well, this place is full of explosives...
+
+[HEADER 00001937]
+What about that torch?
+
+[HEADER 00001938]
+What about it?
+
+[HEADER 00001939]
+Just grab it and throw it at the explosives!
+
+[HEADER 000001F4]
+*Publishing
+
+[HEADER 000001F5]
+
+
+[HEADER 000001F6]
+*Chairman and CEO:
+
+[HEADER 000001F7]
+Yves Guillemot
+
+[HEADER 000001F8]
+*Executive Director, EMEA:
+
+[HEADER 000001F9]
+Alain Corre
+
+[HEADER 000001FA]
+*Executive Director, North America:
+
+[HEADER 000001FB]
+Laurent Detoc
+
+[HEADER 000001FC]
+*Executive Director, Worldwide Studios:
+
+[HEADER 000001FD]
+Christine Burgess-Quémard
+
+[HEADER 000001FE]
+*Chief Creative Officer:
+
+[HEADER 000001FF]
+Serge Hascoët
+
+[HEADER 00000200]
+
+
+[HEADER 00000201]
+
+
+[HEADER 00000202]
+*Production
+
+[HEADER 00000203]
+
+
+[HEADER 00000204]
+*Senior Producer:
+
+[HEADER 00000205]
+Nouredine Abboud
+
+[HEADER 00000206]
+*Associate Producers:
+
+[HEADER 00000207]
+François Berranger
+
+[HEADER 00000208]
+Alexandre Hartpence
+
+[HEADER 00000209]
+*Third Party Production Director:
+
+[HEADER 0000020A]
+Stéphane Decroix
+
+[HEADER 0000020B]
+*Business Development Director:
+
+[HEADER 0000020C]
+Virginie Gringarten
+
+[HEADER 0000020D]
+*Business Development Manager:
+
+[HEADER 0000020E]
+Fabrice Pierre-Elien
+
+[HEADER 0000020F]
+*Special Thanks to:
+
+[HEADER 00000210]
+Bertrand Chaverot
+
+[HEADER 00000211]
+Paul-Adrien Tournier, Pierre de Margerie (interns)
+
+[HEADER 00000212]
+
+
+[HEADER 00000213]
+
+
+[HEADER 00000214]
+*Developed by Revolution
+
+[HEADER 00000215]
+
+
+[HEADER 00000216]
+*Writer and Director:
+
+[HEADER 00000217]
+Charles Cecil
+
+[HEADER 00000218]
+*Writer - New Story:
+
+[HEADER 00000219]
+Neil Richards
+
+[HEADER 0000021A]
+*Writer - Original Story:
+
+[HEADER 0000021B]
+Dave Cummins
+
+[HEADER 0000021C]
+Jonathan Howard
+
+[HEADER 0000021D]
+*Programming:
+
+[HEADER 0000021E]
+Tony Warriner
+
+[HEADER 0000021F]
+Joost Peters
+
+[HEADER 00000220]
+*Background Layouts:
+
+[HEADER 00000221]
+Neil Breen
+
+[HEADER 00000222]
+*Background Layouts - Original Story:
+
+[HEADER 00000223]
+Eoghan Cahill
+
+[HEADER 00000224]
+*Layout Colouring:
+
+[HEADER 00000225]
+Angus McKie
+
+[HEADER 00000226]
+David Swift
+
+[HEADER 00000227]
+Neil Breen
+
+[HEADER 00000228]
+*Facial Expressions:
+
+[HEADER 00000229]
+Dave Gibbons
+
+[HEADER 0000022A]
+Angus McKie
+
+[HEADER 0000022B]
+*2D Art:
+
+[HEADER 0000022C]
+Linda Smith
+
+[HEADER 0000022D]
+Dan Malone
+
+[HEADER 0000022E]
+Kungfuyoga
+
+[HEADER 0000022F]
+*Animation - New Story:
+
+[HEADER 00000230]
+Aron Durkin
+
+[HEADER 00000231]
+Ravi Govind
+
+[HEADER 00000232]
+Adrian Lausch
+
+[HEADER 00000233]
+*Animation - Original Story:
+
+[HEADER 00000234]
+Steve Oades
+
+[HEADER 00000235]
+*Implementation:
+
+[HEADER 00000236]
+Steve Ince
+
+[HEADER 00000237]
+*Music Composed and conducted by:
+
+[HEADER 00000238]
+Barrington Pheloung
+
+[HEADER 00000239]
+*Music Technology:
+
+[HEADER 0000023A]
+Matthew Slater
+
+[HEADER 0000023B]
+*Voice Actors - New Story:
+
+[HEADER 0000023C]
+Rolf Saxon - George
+
+[HEADER 0000023D]
+Hazel Ellerby - Nico
+
+[HEADER 0000023E]
+Toby Longworth
+
+[HEADER 0000023F]
+*Audio Post Production:
+
+[HEADER 00000240]
+Earcom
+
+[HEADER 00000241]
+*Music Support:
+
+[HEADER 00000242]
+Heather Pheloung
+
+[HEADER 00000243]
+with help from Adel Pheloung
+
+[HEADER 00000244]
+*Audio Production:
+
+[HEADER 00000245]
+Jerry Ibbotson
+
+[HEADER 00000246]
+Adam Rowley
+
+[HEADER 00000247]
+*Music Implementation:
+
+[HEADER 00000248]
+Patrick Skelton
+
+[HEADER 00000249]
+*Special thanks to:
+
+[HEADER 0000024A]
+Isak Rudberg
+
+[HEADER 0000024B]
+Chris Fong
+
+[HEADER 0000024C]
+Leo Croft
+
+[HEADER 0000024D]
+Sophie Weller
+
+[HEADER 0000024E]
+Chantal Beaumont
+
+[HEADER 0000024F]
+Ciara Cecil
+
+[HEADER 00000250]
+David Cecil
+
+[HEADER 00000251]
+James Wolfe
+
+[HEADER 00000252]
+B Vigilant
+
+[HEADER 00000253]
+Ella Warriner
+
+[HEADER 00000254]
+
+
+[HEADER 00000255]
+'Stars' and 'Someday' written by Jade Herbert and
+
+[HEADER 00000256]
+Miles Gilderdale P  © 2008 Sugarstar Limited.
+
+[HEADER 00000257]
+'Stars' and 'Someday' Performed by Jade Herbert
+
+[HEADER 00000258]
+and Produced by Miles Gilderdale.
+
+[HEADER 00000259]
+'Stars' and 'Someday' Licensed from Sugarstar Ltd.
+
+[HEADER 0000025A]
+*Thanks to other original team members, including:
+
+[HEADER 0000025B]
+Red Rover
+
+[HEADER 0000025C]
+Mat Taylor
+
+[HEADER 0000025D]
+Jane Stroud
+
+[HEADER 0000025E]
+Andi Forster
+
+[HEADER 0000025F]
+Premier Films
+
+[HEADER 00000260]
+Celine Ciernan
+
+[HEADER 00000261]
+Noel Ciernan
+
+[HEADER 00000262]
+Paul Humphreys
+
+[HEADER 00000263]
+Michael Ryan
+
+[HEADER 00000264]
+Keith Greg
+
+[HEADER 00000265]
+Dan Whitworth
+
+[HEADER 00000266]
+David Swift
+
+[HEADER 00000267]
+Ross Allen
+
+[HEADER 00000268]
+*Executive Producer:
+
+[HEADER 00000269]
+Noirin Carmody
+
+[HEADER 0000026A]
+*Dedicated to:
+
+[HEADER 0000026B]
+Eoghan Cahill, layout artist, and friend.
+
+[HEADER 0000026C]
+*Developed with the support of
+
+[HEADER 0000026D]
+Screen Yorkshire Production Fund
+
+[HEADER 0000026E]
+
+
+[HEADER 0000026F]
+
+
+[HEADER 00000270]
+*Additional Resources - For Atomic Planet
+
+[HEADER 00000271]
+(Game Development in Conjunction with)
+
+[HEADER 00000272]
+
+
+[HEADER 00000273]
+*Producer:
+
+[HEADER 00000274]
+Phil Gilbert
+
+[HEADER 00000275]
+*Programming:
+
+[HEADER 00000276]
+Chris Head
+
+[HEADER 00000277]
+Matt Knowles
+
+[HEADER 00000278]
+Andrew Porritt
+
+[HEADER 00000279]
+*Art Manager:
+
+[HEADER 0000027A]
+Dave West
+
+[HEADER 0000027B]
+*Artists:
+
+[HEADER 0000027C]
+Paul Crabb
+
+[HEADER 0000027D]
+Dave Drury
+
+[HEADER 0000027E]
+Andy Hodgetts
+
+[HEADER 0000027F]
+Graham Stewart
+
+[HEADER 00000280]
+Dave West
+
+[HEADER 00000281]
+*Design:
+
+[HEADER 00000282]
+Ben Pool
+
+[HEADER 00000283]
+*SFX:
+
+[HEADER 00000284]
+Mark Pennock
+
+[HEADER 00000285]
+*Managing Director:
+
+[HEADER 00000286]
+Darren Falcus
+
+[HEADER 00000287]
+*Operations Director:
+
+[HEADER 00000288]
+Jason Falcus
+
+[HEADER 00000289]
+
+
+[HEADER 0000028A]
+
+
+[HEADER 0000028B]
+*Ubisoft - Quality Assurance: Ubisoft Romania
+
+[HEADER 0000028C]
+
+
+[HEADER 0000028D]
+*QA Manager:
+
+[HEADER 0000028E]
+Marius Tudorel Potirniche
+
+[HEADER 0000028F]
+*Studio Manager:
+
+[HEADER 00000290]
+George Enescu
+
+[HEADER 00000291]
+*Lead Tester:
+
+[HEADER 00000292]
+Robert Neculau
+
+[HEADER 00000293]
+*TRC Compliance Manager:
+
+[HEADER 00000294]
+Mircea Nutu
+
+[HEADER 00000295]
+*TRC Compliance Specialists:
+
+[HEADER 00000296]
+Alexandru Bica
+
+[HEADER 00000297]
+Dan Cocosila
+
+[HEADER 00000298]
+Irina Gabriela a Popa
+
+[HEADER 00000299]
+
+
+[HEADER 0000029A]
+
+
+[HEADER 0000029B]
+*Quality Assurance: Gameshastra
+
+[HEADER 0000029C]
+
+
+[HEADER 0000029D]
+*VP Quality Assurance:
+
+[HEADER 0000029E]
+Monica vallejo
+
+[HEADER 0000029F]
+*QA Manager:
+
+[HEADER 000002A0]
+Mohua Bhowmik Gupta
+
+[HEADER 000002A1]
+*QA Project Lead:
+
+[HEADER 000002A2]
+Deepak B Lakshminarayana
+
+[HEADER 000002A3]
+*Lead Assistant:
+
+[HEADER 000002A4]
+Ranbeer Singh Hora
+
+[HEADER 000002A5]
+*Testers:
+
+[HEADER 000002A6]
+Y Ithihas Reddy
+
+[HEADER 000002A7]
+Pavan Kumar Ramanjula
+
+[HEADER 000002A8]
+Ayan Karmokar
+
+[HEADER 000002A9]
+Sarath Chandra Prasad Gajula
+
+[HEADER 000002AA]
+Sairaji Srinivas Varma
+
+[HEADER 000002AB]
+Nalam Phaneendra
+
+[HEADER 000002AC]
+
+
+[HEADER 000002AD]
+
+
+[HEADER 000002AE]
+*Ubisoft - Quality Assurance: Ubisoft Romania
+
+[HEADER 000002AF]
+
+
+[HEADER 000002B0]
+*QA Manager:
+
+[HEADER 000002B1]
+Marius Tudorel Potirniche
+
+[HEADER 000002B2]
+*Studio Manager:
+
+[HEADER 000002B3]
+George Enescu
+
+[HEADER 000002B4]
+*Quality Control Coordinator:
+
+[HEADER 000002B5]
+Robert Neculau
+
+[HEADER 000002B6]
+*Senior Tester:
+
+[HEADER 000002B7]
+Lucian Gujan
+
+[HEADER 000002B8]
+*Tester:
+
+[HEADER 000002B9]
+Andrei Codita
+
+[HEADER 000002BA]
+*TRC Compliance Manager:
+
+[HEADER 000002BB]
+Mircea Nutu
+
+[HEADER 000002BC]
+*TRC Compliance Specialists:
+
+[HEADER 000002BD]
+Christi Damian
+
+[HEADER 000002BE]
+Gabriel Olteanu
+
+[HEADER 000002BF]
+Eugen Popescu
+
+[HEADER 000002C0]
+
+
+[HEADER 000002C1]
+
+
+[HEADER 000002C2]
+*Ubisoft - Quality Assurance: Gameshastra
+
+[HEADER 000002C3]
+
+
+[HEADER 000002C4]
+*VP quality assurance:
+
+[HEADER 000002C5]
+Monica Vallejo
+
+[HEADER 000002C6]
+*QA manager:
+
+[HEADER 000002C7]
+Mohua Bhowmik Gupta
+
+[HEADER 000002C8]
+*QA project lead:
+
+[HEADER 000002C9]
+Deepak B Lakshminarayana
+
+[HEADER 000002CA]
+*Lead assistant:
+
+[HEADER 000002CB]
+Jeetesh Bhoria
+
+[HEADER 000002CC]
+*Testers:
+
+[HEADER 000002CD]
+Murali Krishna Polamuri
+
+[HEADER 000002CE]
+Revanth Reddy G
+
+[HEADER 000002CF]
+V Naga Ratna Kumari
+
+[HEADER 000002D0]
+Shaik Meera Sameer
+
+[HEADER 000002D1]
+
+
+[HEADER 000002D2]
+
+
+[HEADER 000002D3]
+*Ubisoft - International Localization
+
+[HEADER 000002D4]
+
+
+[HEADER 000002D5]
+*Localization Studio Manager:
+
+[HEADER 000002D6]
+Coralie Martin
+
+[HEADER 000002D7]
+*Localization Group Manager:
+
+[HEADER 000002D8]
+Vanessa Hautefeuille
+
+[HEADER 000002D9]
+*Localization Project Manager:
+
+[HEADER 000002DA]
+Loïc Jacolin
+
+[HEADER 000002DB]
+Salomé Jugan
+
+[HEADER 000002DC]
+
+
+[HEADER 000002DD]
+
+
+[HEADER 000002DE]
+*French Version - Around The Word
+
+[HEADER 000002DF]
+
+
+[HEADER 000002E0]
+*Project Management:
+
+[HEADER 000002E1]
+Anne-Sophie Mailliez
+
+[HEADER 000002E2]
+*Translators:
+
+[HEADER 000002E3]
+Stéphane Radoux, Anne-Sophie Mailliez
+
+[HEADER 000002E4]
+*Artistic Direction:
+
+[HEADER 000002E5]
+Serge Thiriet (for Dune Sound)
+
+[HEADER 000002E6]
+*French Voice Talents:
+
+[HEADER 000002E7]
+Emmanuel Curtil
+
+[HEADER 000002E8]
+Gérard Dessalles
+
+[HEADER 000002E9]
+Nathanièle Esther
+
+[HEADER 000002EA]
+Danièle Hazan
+
+[HEADER 000002EB]
+Martial Le Minoux
+
+[HEADER 000002EC]
+
+
+[HEADER 000002ED]
+
+
+[HEADER 000002EE]
+*German Version - Toneworx GmbH
+
+[HEADER 000002EF]
+
+
+[HEADER 000002F0]
+*Project Management:
+
+[HEADER 000002F1]
+Jörg Mackensen, Heiko Rieck
+
+[HEADER 000002F2]
+*Translators:
+
+[HEADER 000002F3]
+Rolf D. Busch, Textfarm
+
+[HEADER 000002F4]
+*Artistic Direction:
+
+[HEADER 000002F5]
+Antje Roosch
+
+[HEADER 000002F6]
+*German Voice Talents:
+
+[HEADER 000002F7]
+Franziska Pigulla, Alexander Schottky,
+
+[HEADER 000002F8]
+Reent Reins, Bernd Stephan, Frank Thomé,
+
+[HEADER 000002F9]
+Heidi Berndt, Kai Henrik Möller,
+
+[HEADER 000002FA]
+Kristina von Weltzien, Micaela Kreißler
+
+[HEADER 000002FB]
+
+
+[HEADER 000002FC]
+
+
+[HEADER 000002FD]
+*Italian Version - Synthesis International s.r.l
+
+[HEADER 000002FE]
+
+
+[HEADER 000002FF]
+*Project Management:
+
+[HEADER 00000300]
+Leonardo Gajo
+
+[HEADER 00000301]
+*Translators:
+
+[HEADER 00000302]
+Andrea Della Calce, Pietro Dattola
+
+[HEADER 00000303]
+*Italian Voice Talents:
+
+[HEADER 00000304]
+Claudio Beccari, Elda Olivieri, Marco Balzarotti,
+
+[HEADER 00000305]
+Carlo Bonomi, Dania Cericola, Maria Grazia Errigo,
+
+[HEADER 00000306]
+Davide Garbolino, Gianni Gaude, Antonio Guidi,
+
+[HEADER 00000307]
+Jasmine Laurenti, Giorgio Melazzi, Antonio Paiola,
+
+[HEADER 00000308]
+Luigi Rosa, Luca Sandri
+
+[HEADER 00000309]
+
+
+[HEADER 0000030A]
+
+
+[HEADER 0000030B]
+*Spanish Version - Synthesis Iberia SL
+
+[HEADER 0000030C]
+
+
+[HEADER 0000030D]
+*Project Management:
+
+[HEADER 0000030E]
+Gus Díaz
+
+[HEADER 0000030F]
+*Translators:
+
+[HEADER 00000310]
+Pablo Trenado
+
+[HEADER 00000311]
+*Spanish Voice Talents:
+
+[HEADER 00000312]
+Javier Gámir, Fernando Hernández,
+
+[HEADER 00000313]
+Ignacio Alonso Blas, Leopoldo Ballesteros,
+
+[HEADER 00000314]
+Héctor Garai, Enrique Suárez, Alfredo Martínez,
+
+[HEADER 00000315]
+Roberto Cuadrado, Inma Gallego,
+
+[HEADER 00000316]
+Juan Carlos Lozano Muñoz, Jesús Barreda,
+
+[HEADER 00000317]
+Elsa Pinillos, Emilio García, Arturo López,
+
+[HEADER 00000318]
+Jorge Teixeir
+
+[HEADER 00000319]
+
+
+[HEADER 0000031A]
+
+
+[HEADER 0000031B]
+*Localization Testing -
+
+[HEADER 0000031C]
+Laboratoires Bug-Tracker Inc.
+
+[HEADER 0000031D]
+
+
+[HEADER 0000031E]
+*President:
+
+[HEADER 0000031F]
+Antoine Carre
+
+[HEADER 00000320]
+*Vice-President Operations:
+
+[HEADER 00000321]
+Paquito Hernandez
+
+[HEADER 00000322]
+*QA Supervisor:
+
+[HEADER 00000323]
+Kaveh Masrour
+
+[HEADER 00000324]
+*Organizational Efficiency Executive:
+
+[HEADER 00000325]
+Cybel Fournier
+
+[HEADER 00000326]
+*Localization Department Manager:
+
+[HEADER 00000327]
+Audrey Demanget
+
+[HEADER 00000328]
+*Localization Project Manager:
+
+[HEADER 00000329]
+Patrick Reuter
+
+[HEADER 0000032A]
+*Localization Lead:
+
+[HEADER 0000032B]
+Matthieu Païssé
+
+[HEADER 0000032C]
+*Localization Testers:
+
+[HEADER 0000032D]
+Gianmichele Sica
+
+[HEADER 0000032E]
+Tommy Talbot
+
+[HEADER 0000032F]
+Christophe Lacasse
+
+[HEADER 00000330]
+Eduardo Soto-Falcon
+
+[HEADER 00000331]
+Frank Arndt
+
+[HEADER 00000332]
+
+
+[HEADER 00000333]
+
+
+[HEADER 00000334]
+*Ubisoft - Editorial
+
+[HEADER 00000335]
+
+
+[HEADER 00000336]
+*Worldwide Content Director:
+
+[HEADER 00000337]
+Lionel Raynaud
+
+[HEADER 00000338]
+*Production Content Director:
+
+[HEADER 00000339]
+Jean-Marc Geffroy
+
+[HEADER 0000033A]
+*Worldwide Production Coordination Director:
+
+[HEADER 0000033B]
+Anne Blondel-Jouin
+
+[HEADER 0000033C]
+*EMEA Certification Manager:
+
+[HEADER 0000033D]
+Etienne Tardieu
+
+[HEADER 0000033E]
+*EMEA 1st Party Coordinator:
+
+[HEADER 0000033F]
+Anis Boujaouane
+
+[HEADER 00000340]
+
+
+[HEADER 00000341]
+
+
+[HEADER 00000342]
+*Ubisoft - Testers: Gameslab - Quebec City
+
+[HEADER 00000343]
+
+
+[HEADER 00000344]
+*Ergonomist:
+
+[HEADER 00000345]
+Mickael Schreck
+
+[HEADER 00000346]
+*Observers:
+
+[HEADER 00000347]
+Julien Leforestier
+
+[HEADER 00000348]
+Luc Plante
+
+[HEADER 00000349]
+Yanick Lemelin
+
+[HEADER 0000034A]
+Patrick Charland
+
+[HEADER 0000034B]
+
+
+[HEADER 0000034C]
+
+
+[HEADER 0000034D]
+*Ubisoft - Testers: Gameslab - Montreal
+
+[HEADER 0000034E]
+
+
+[HEADER 0000034F]
+*PlaytestLab Director:
+
+[HEADER 00000350]
+Marie-Pierre Dyotte
+
+[HEADER 00000351]
+*Team Lead:
+
+[HEADER 00000352]
+Alexandre Forest Boucher
+
+[HEADER 00000353]
+*Coordinators:
+
+[HEADER 00000354]
+Pierre Boyer
+
+[HEADER 00000355]
+Benoit Brière
+
+[HEADER 00000356]
+Antoine Fortier-Auclair
+
+[HEADER 00000357]
+*Observers:
+
+[HEADER 00000358]
+Marc-Andre Burcikas
+
+[HEADER 00000359]
+Nicholas Mainville
+
+[HEADER 0000035A]
+
+
+[HEADER 0000035B]
+
+
+[HEADER 0000035C]
+*Ubisoft - Marketing
+
+[HEADER 0000035D]
+
+
+[HEADER 0000035E]
+*EMEA Chief Operating Officer:
+
+[HEADER 0000035F]
+Stéphanie Perotti
+
+[HEADER 00000360]
+*EMEA Marketing Director:
+
+[HEADER 00000361]
+John Parkes
+
+[HEADER 00000362]
+*EMEA Marketing Group Manager:
+
+[HEADER 00000363]
+Guillaume Carmona
+
+[HEADER 00000364]
+*EMEA Senior Brand Manager:
+
+[HEADER 00000365]
+Bonnka Lim
+
+[HEADER 00000366]
+*EMEA Assistant Brand Manager:
+
+[HEADER 00000367]
+Arthur Dosne
+
+[HEADER 00000368]
+*EMEA PR Director:
+
+[HEADER 00000369]
+Stephane Vallet
+
+[HEADER 0000036A]
+*EMEA Senior PR Specialist:
+
+[HEADER 0000036B]
+Peter Hammer
+
+[HEADER 0000036C]
+*EMEA Digital Marketing Group Manager:
+
+[HEADER 0000036D]
+Stéphane Catherine
+
+[HEADER 0000036E]
+*EMEA Digital Marketing Manager:
+
+[HEADER 0000036F]
+Jean Guérin
+
+[HEADER 00000370]
+*EMEA Trade Marketing Manager:
+
+[HEADER 00000371]
+Virginie Sergent
+
+[HEADER 00000372]
+*EMEA Trade Marketing Coordinator:
+
+[HEADER 00000373]
+Damien Neymarc
+
+[HEADER 00000374]
+*EMEA Paperparts Traffic Manager:
+
+[HEADER 00000375]
+Vincent Hamet
+
+[HEADER 00000376]
+*US Senior Vice President of Marketing:
+
+[HEADER 00000377]
+Tony Key
+
+[HEADER 00000378]
+*US Marketing Director:
+
+[HEADER 00000379]
+Adam Novickas
+
+[HEADER 0000037A]
+*US Associate Director:
+
+[HEADER 0000037B]
+Danny Ruiz
+
+[HEADER 0000037C]
+*US Marketing Associate:
+
+[HEADER 0000037D]
+Daniel Riaz
+
+[HEADER 0000037E]
+*EMEA Rating Coordinator:
+
+[HEADER 0000037F]
+Céline Paiva
+
+[HEADER 00000380]
+*US Rating Coordinator:
+
+[HEADER 00000381]
+Shannon Kokska
+
+[HEADER 00000382]
+Edwin Zee
+
+[HEADER 00000383]
+*US Senior VP, Publishing:
+
+[HEADER 00000384]
+Jay Cohen
+
+[HEADER 00000385]
+*EMEA Sales Director:
+
+[HEADER 00000386]
+Dominique Tardieu
+
+[HEADER 00000387]
+
+
+[HEADER 00000388]
+
+
+[HEADER 00000389]
+*Ubisoft - Manufacturing
+
+[HEADER 0000038A]
+
+
+[HEADER 0000038B]
+*EMEA Planning  Submission Coordinator:
+
+[HEADER 0000038C]
+Laurent Gaudy
+
+[HEADER 0000038D]
+*EMEA Manufacturing Planning Coordinator:
+
+[HEADER 0000038E]
+Corentin François
+
+[HEADER 0000038F]
+*EMEA Manufacturing Coordinator:
+
+[HEADER 00000390]
+Aymeric Imberti
+
+[HEADER 00000391]
+*US Manufacturing:
+
+[HEADER 00000392]
+Josh Ostrander
+
+[HEADER 00000393]
+Josh Taillon
+
+[HEADER 00000394]
+Adam Zachary
+
+[HEADER 00000395]
+
+
+[HEADER 00000396]
+
+
+[HEADER 00000397]
+*Ubisoft - Legal
+
+[HEADER 00000398]
+
+
+[HEADER 00000399]
+*Legal Department Manager:
+
+[HEADER 0000039A]
+Cécile Russeil
+
+[HEADER 0000039B]
+*Legal Counsellor:
+
+[HEADER 0000039C]
+Marc Muraccini
+

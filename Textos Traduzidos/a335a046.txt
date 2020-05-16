@@ -1,0 +1,1758 @@
+# Broken Sword - Shadow of the Templars (Director's Cut)
+# Versão do Script: 25.07
+[HEADER 00002710]
+#Carchon's dead - what should I do?
+Carchon está morto... O que devo fazer?
+
+[HEADER 00002711]
+#Search the whole apartment for clues. Stay out of sight of Imelda, and you'll be able to search without being interrupted.
+Busque pistas por todo apartamento. Fique fora da visão da Imelda e você poderá fazer a busca sem ser interrompida.
+
+[HEADER 00002712]
+#As well as clues, you may need to talk to Imelda. Try and get her attention.
+Além de procurar pistas, talvez você precise falar com Imelda. Tente obter sua atenção.
+
+[HEADER 0000271A]
+#You'll find Imelda on the phone by the front door.
+Você encontrará Imelda ao telefone, próximo à porta da frente.
+
+[HEADER 00002724]
+#I want to talk to Imelda. What should I do?
+Quero falar com Imelda. O que devo fazer?
+
+[HEADER 0000272E]
+#Imelda is busy on the phone to the police.  But she's keeping an eye on you when you're in her sight...
+Imelda está ocupada falando com a polícia. Mas ela fica de olho em você quando entra na visão dela...
+
+[HEADER 00002738]
+#Imelda enjoys painting. If you touch her precious paints she'll soon pay attention to you.
+Imelda adora pintar. Se tocar em suas preciosas tintas, ela certamente prestará atenção em você.
+
+[HEADER 00002742]
+#I talked to Imelda, but it didn't help - what should I do?
+Conversei com Imelda, mas não adiantou. O que devo fazer?
+
+[HEADER 0000274C]
+#Are you sure you talked to her about everything?
+Tem certeza que você conversou com ela sobre tudo?
+
+[HEADER 00002756]
+#Talk to her about every subject and gain her trust enough to give you the key to the drawing room.
+Converse com ela sobre todos os assuntos e ganhe sua confiança para que ela lhe dê a chave da sala de estar.
+
+[HEADER 00002760]
+#Imelda gave me the key - what do I do now?
+Imelda me deu a chave. O que faço agora?
+
+[HEADER 0000276A]
+#The key is now an object in your inventory. Select the key, and use it to open the drawing room door by the library. You'll find plenty of clues in there.
+Agora a chave é um objeto do seu inventário. Selecione e use-a para abrir a porta da sala de estar, próxima à biblioteca. Você achará várias pistas lá.
+
+[HEADER 00002774]
+#I've opened the drawing room, and looked around - what am I missing?
+Entrei na sala de estar e dei uma vasculhada. O que estou deixando passar?
+
+[HEADER 0000277E]
+#Carchon was a very cautious and secretive man. Look for places where he may have hidden things.
+Carchon era um homem cauteloso e misterioso. Procure por lugares onde ele possa ter escondido algo.
+
+[HEADER 00002788]
+#Look at the painting of Carchon and Imelda.  In close-up you will even see the detail of the frame itself - look carefully at the pattern...
+Olhe a pintura de Carchon e Imelda. Amplie-a e verá todos os detalhes do quadro. Olhe atentamente para a moldura...
+
+[HEADER 00002792]
+#In the close-up of the painting, you'll find a hidden button on the left side of the ornate frame. Touch it. Now step back and interact with the painting to open it.
+Com a pintura ampliada, você encontrará um botão escondido no lado esquerdo da moldura. Toque-o. Agora dê um passo para trás e interaja com a pintura para abri-la.
+
+[HEADER 0000279C]
+#I've found the safe - how do I open it?
+Encontrei o cofre. Como o abro?
+
+[HEADER 000027A6]
+#To open the safe, you need the key. So you'll need to discover where Carchon hid it. Without alerting Imelda of course!
+Para abrir o cofre, você precisa da chave. Então você tem que descobrir onde Carchon a escondeu. Sem alertar Imelda, é claro!
+
+[HEADER 000027B0]
+#Carchon loved beautiful furniture. Have you examined all his tables and desks?
+Carchon amava belas mobílias. Você já examinou todas as suas mesas e escrivaninhas?
+
+[HEADER 000027BA]
+#The key is hidden in the table in the hall.
+A chave está escondida na mesa do corredor.
+
+[HEADER 000027C4]
+#How do I open up the table?
+Como eu abro a mesa?
+
+[HEADER 000027CE]
+#Pick up the cloth from the table and examine the table top underneath.
+Tire a toalha de cima da mesa e examine o topo dela.
+
+[HEADER 000027D8]
+#Just below the centre of the inlay pattern you'll see an area which has been worn.  Look carefully - there's a small hole. Now all you need is something to poke into the hole.
+Bem no centro da decoração da mesa, você verá uma área gasta. Olhe atentamente. Há um pequeno buraco. Agora tudo que precisa é de algo que entre nesse buraco.
+
+[HEADER 000027E2]
+#Where do I find something to poke into the hole in the table?
+Onde encontro algo que entre no buraco da mesa?
+
+[HEADER 000027EC]
+#The hole is too small for Nico's finger. You need to use something thinner.
+O buraco é muito pequeno para o dedo da Nico. Você precisa de algo mais fino.
+
+[HEADER 000027F6]
+#Search the crime scene for anything thin enough to poke into the hole.
+Procure na cena do crime por algo fino o suficiente para entrar no buraco.
+
+[HEADER 00002800]
+#Go to the close up view of Carchon's body. To the right, you'll find one of Nico's hairclips. Pick it up.
+Acesse a visão ampliada do corpo de Carchon. Na direita, você encontrará um dos prendedores de cabelo da Nico. Pegue-o.
+
+[HEADER 0000280A]
+#What do I do with the small hole in the table?
+O que eu faço com o pequeno buraco na mesa?
+
+[HEADER 00002814]
+#Check your inventory. You have something you can poke into the hole.
+Cheque seu inventário. Você tem algo que pode entrar naquele buraco.
+
+[HEADER 0000281E]
+#Select Nico's hairpin from the inventory, and use it to poke into the hole.
+Selecione o prendedor de cabelo da Nico no inventário e use-o no buraco.
+
+[HEADER 00002828]
+#Poke the hairpin into the hole and a secret flap will open. Pick up the key.
+Coloque o prendedor de cabelo no buraco e um compartimento secreto irá abrir. Pegue a chave.
+
+[HEADER 00002832]
+#I've got a key - what do I do with it?
+Peguei a chave. O que faço com ela?
+
+[HEADER 0000283C]
+#The key looks modern - like a safe key...
+A chave parece moderna, como a de um cofre...
+
+[HEADER 00002846]
+#Go to the drawing room, and use the safe key on the safe door. Recover what you find inside.
+Vá para a sala de estar e use a chave na porta do cofre. Pegue o que encontrar lá dentro.
+
+[HEADER 00002850]
+#Pick up the stone cylinder.
+Pegue o rolo de pedra.
+
+[HEADER 0000285A]
+#The stone cylinder looks interesting - but what do I do with it?
+O rolo de pedra parece interessante, mas o que faço com ele?
+
+[HEADER 00002864]
+#The stone cylinder has symbols that can't be read - you need to find a way to print the symbols.
+Há símbolos no rolo de pedra que não podem ser lidos. Você precisa encontrar uma maneira de imprimi-los.
+
+[HEADER 0000286E]
+#There isn't any ink.  But maybe Imelda's paint would do...
+Não há nenhuma tinta. Mas talvez a pintura da Imelda possa...
+
+[HEADER 00002878]
+#Go to the drawing room, and squirt the paint into the in-tray.
+Vá para a sala de estar e passe a tinta sobre o porta-papel.
+
+[HEADER 00002882]
+#Roll the stone cylinder in the paint, while it's in the in-tray. The paint-covered stone cylinder can now be rolled onto Carchon's blotting paper. Pick up the paper once you have printed the pattern.
+Role o rolo de pedra na tinta, enquanto estiver no porta-papel. O rolo de pedra com a tinta pode agora ser rolado sobre o papel mata-borrão do Carchon. Pegue-o assim que tiver impresso a imagem.
+
+[HEADER 00002896]
+#I've got a piece of paper which has 'Sub-Judice' printed on it - what now?
+Peguei um pedaço de papel que possui 'Sub-Judice' impresso nele. E agora?
+
+[HEADER 000028A0]
+#Are you sure you've examined Carchon's body properly?
+Tem certeza que examinou direito o corpo do Carchon?
+
+[HEADER 000028AA]
+#Examine Carchon to get a close-up. Then interact with his jacket to open it. In his inside pocket you'll see a piece of paper.
+Examine o Carchon para conseguir uma ampliação, e então interaja com o paletó para abri-lo. No bolso de dentro, você verá um pedaço de papel.
+
+[HEADER 000028B4]
+#Pick up the paper - it's a boat ticket. Now you'll know the significance of Sub-Judice.
+Pegue o papel. É um bilhete de barco. Agora você saberá o significado de Sub-Judice.
+
+[HEADER 000028BE]
+#I think I've got all the evidence, but I can't leave the apartment!
+Acho que peguei todas as evidências, mas não consigo deixar o apartamento!
+
+[HEADER 000028C8]
+#Try talking to Imelda again.
+Tente falar com Imelda novamente.
+
+[HEADER 000028D2]
+#After making peace with Imelda, you'll be able to leave through the front door.
+Após fazer as pazes com Imelda, você poderá ir embora pela porta da frente.
+
+[HEADER 000028DC]
+#I know that the Conciergerie is important, but I still need something!
+Eu sei que a Conciergerie é importante, mas sinto estar esquecendo algo!
+
+[HEADER 000028E6]
+#You have missed one key clue.
+Você esqueceu uma pista fundamental.
+
+[HEADER 000028F0]
+#In the drawing room, on Carchon's desk, you will find a carved elephant. Pick it up.
+Na sala de estar, na mesa do Carchon, você encontrará um elefante entalhado. Pegue-o.
+
+[HEADER 00000FA8]
+#The police could turn up at any minute.
+A polícia pode chegar a qualquer momento.
+
+[HEADER 00000FB4]
+#Somewhere there were clues to the murder - and I needed to find them.
+Em algum lugar havia pistas do assassinato, e eu precisava encontrá-las.
+
+[HEADER 00000BCC]
+#It was one of my hair clips. My favourite, in fact!
+Era um dos meus prendedores de cabelo. Na verdade, meu favorito!
+
+[HEADER 00000BCD]
+#It must have fallen when I was knocked down.
+Deve ter caido quando fui nocauteada.
+
+[HEADER 00001004]
+#Fights are so much more complicated for girls.
+Lutas são muito mais complicadas para garotas.
+
+[HEADER 00000BCE]
+#I picked up my hair clip...
+Peguei meu prendedor de cabelo...
+
+[HEADER 000009C4]
+#Paris.  City of love, romance, and dreams - so they say.
+Paris. Cidade do amor, romance e sonhos; pelo menos é o que dizem.
+
+[HEADER 000009C8]
+#I used to say it too.
+Eu costumava pensar o mesmo.
+
+[HEADER 000009C9]
+#But ever since that day, the day of the murder...
+Mas desde aquele dia, do assassinato...
+
+[HEADER 000009CA]
+#... I have always associated my beloved Paris with death.
+passei a associar minha amada Paris com a morte.
+
+[HEADER 000009CC]
+#I was at home having a bath when my editor called:
+Eu estava em casa, no banho, quando meu editor telefonou:
+
+[HEADER 000009D0]
+#Collard! Get your ass over to the Palais Royale - now! You got an interview.
+Collard! Traga seu traseiro para o Palais Royale, agora! Você tem uma entrevista.
+
+[HEADER 000009D4]
+#With Pierre Carchon.
+Com Pierre Carchon.
+
+[HEADER 000009D7]
+#Yes - THE Pierre Carchon.
+Sim, ESSE Pierre Carchon.
+
+[HEADER 000009D5]
+#No photos - so leave your gear at home.
+Sem fotos, portanto deixe sua máquina em casa.
+
+[HEADER 000009D6]
+#He asked for you - personally. Don't ask me why.
+Ele solicitou você, pessoalmente. Não me pergunte o porquê.
+
+[HEADER 000009D8]
+#Anyhow - this could be big - so if he makes a pass don't forget...
+Isso pode ser uma grande matéria, então se ele der em cima de você, não se esqueça:
+
+[HEADER 000009D9]
+#... just smile, say yes, and keep taking notes.
+apenas sorria, diga sim e continue a tomar nota.
+
+[HEADER 000009DC]
+#So charming. And so very apt.
+Tão encantador, e tão sagaz.
+
+[HEADER 000009DD]
+#Pierre Carchon was a media king, a national hero...
+Pierre Carchon era um rei da mídia, um herói nacional...
+
+[HEADER 000009DE]
+#... and one of the most infamous adulterers in Europe.
+e um mulherengo mal falado por toda a Europa.
+
+[HEADER 000009E0]
+#He and his wife Imelda were just one step down from royalty.
+Ele e sua esposa, Imelda, estavam apenas um degrau abaixo da realeza.
+
+[HEADER 000009E4]
+#Whoa!
+Opa!
+
+[HEADER 000009E5]
+#I hate mimes.
+Eu odeio mímicos.
+
+[HEADER 000009E8]
+#But unless you humour them, they don't go away.
+E, a não ser que brinque com eles, nunca vão embora.
+
+[HEADER 000009E9]
+#This one was creepier than most.  So I gave him my creepiest smile.
+Mas esse era mais medonho que todos, então lhe dei meu sorriso mais medonho...
+
+[HEADER 000009EC]
+#And tried not to look back.
+e tentei não olhar para trás.
+
+[HEADER 000009F0]
+#Here I was. The palace of the Media King and the Ice Queen.
+Aqui eu estava. O palácio do Rei da Mídia e da Rainha de Gelo.
+
+[HEADER 000009F4]
+#I pressed the doorbell, and set in motion a chain of events...
+Eu apertei a campainha, o que iniciou uma série de eventos...
+
+[HEADER 000009F6]
+#... which would change my life for ever.
+que mudariam minha vida para sempre.
+
+[HEADER 000009F8]
+#Yes?  What is it?
+Sim? O que é?
+
+[HEADER 000009FC]
+#Madame - my name is Nico Collard.  I am here to see Monsieur Carchon.
+Madame, meu nome é Nico Collard. Estou aqui para ver o Monsieur Carchon.
+
+[HEADER 00000A00]
+#Come up.  We're on the first floor.
+Suba, estamos no primeiro andar.
+
+[HEADER 00000A04]
+#Madame Carchon?  It's a pleasure to meet you...
+Madame Carchon? É um prazer conhecê-la--
+
+[HEADER 00000A08]
+#Yes, I'm sure.
+Sim, tenho certeza.
+
+[HEADER 00000A0C]
+#The Ice Queen was certainly living up to her reputation.
+Sem dúvida, a Rainha de Gelo estava tentando manter sua reputação.
+
+[HEADER 00000A14]
+#Will you be... staying for the interview?
+Você irá... ficar para a entrevista?
+
+[HEADER 00000A18]
+#Mademoiselle: I know little of my husband's business affairs...
+Mademoiselle, pouco sei sobre os negócios do meu marido...
+
+[HEADER 00000A1A]
+#... and I care even less.
+e me importo menos ainda.
+
+[HEADER 00000A19]
+#I certainly have no intention of watching him...
+Certamente não tenho intenção de vê-lo...
+
+[HEADER 00000A1B]
+#paw over yet another pretty little journalist.
+dar em cima de outra jornalista bonitinha.
+
+[HEADER 00000A1C]
+#Pretty?  You're too kind, Madame...
+Bonitinha? Bondade sua, Madame...
+
+[HEADER 00000A20]
+#Aha! The talented - and very beautiful - Mam'selle Collard.
+Aha! A talentosa - e incrivelmente bela - Mam'selle Collard.
+
+[HEADER 00000A21]
+#Such a pleasure to meet you at last.
+É um prazer finalmente conhecê-la.
+
+[HEADER 00000A24]
+#Monsieur Carchon, I'm honoured...
+Monsieur Carchon, estou honrada...
+
+[HEADER 00000A28]
+#Oh, I'm sure you are...
+Ah, tenho certeza que está...
+
+[HEADER 00000A2C]
+#Call me Pierre, please... But I do not flatter you idly.
+Por favor, me chame de Pierre. Não vamos perder tempo com formalidades.
+
+[HEADER 00000A2D]
+#I was a friend of your father - he was a great man.
+Eu era um amigo do seu pai. Ele era um grande homem.
+
+[HEADER 00000A30]
+#My father? He never mentioned...
+Meu pai? Ele nunca comentou...
+
+[HEADER 00000A34]
+#He and I were very close.
+Ele e eu éramos muito próximos.
+
+[HEADER 00000A35]
+#And then his death - so tragic.  I must -
+E então sua morte tão trágica. Eu deveria--
+
+[HEADER 00000A38]
+#No caso, study fica melhor como sendo biblioteca.
+#Imelda - your damned cat's in my study again!
+Imelda, seu gato maldito está na minha biblioteca de novo!
+
+[HEADER 00000A3C]
+#Another Ming vase I suppose...
+Outro vaso Ming, suponho...
+
+[HEADER 00000A3D]
+#Excuse me for one moment, my dear girl.
+Me dê licença por um instante, minha querida.
+
+[HEADER 00000A40]
+#You journalists are getting younger each year.
+Vocês jornalistas estão cada vez mais jovens.
+
+[HEADER 00000A44]
+#Perhaps it is the rest of the world getting older, Madame?
+Talvez seja o resto do mundo que esteja envelhecendo, Madame?
+
+[HEADER 00000A4C]
+#Aaghhh!
+Aaghhh!
+
+[HEADER 00000A50]
+#That was no cat...
+Aquilo não era um gato...
+
+[HEADER 00000A54]
+#My God!  What - ! Monsieur Carchon -
+Meu Deus! O quê--?! Monsieur Carchon!
+
+[HEADER 00000A58]
+#Ugghh!
+Ugghh!
+
+[HEADER 00000A5C]
+#He's dead.  I must call the police. You had better stay here.
+Ele está morto. Tenho que chamar a polícia. É melhor você ficar aqui.
+
+[HEADER 00000A60]
+#There was a man - it was the Mime...
+Havia um homem... Foi o mímico...
+
+[HEADER 00000A61]
+#Do you think he - ?
+Você acha que ele--?
+
+[HEADER 00000A64]
+#Well I believe we can rule out suicide - don't you?
+Bem, acho que podemos descartar suicídio, não é?
+
+[HEADER 00000A68]
+#No wonder they called her the Ice Queen.
+Não há dúvidas do porquê que a chamam de Rainha de Gelo.
+
+[HEADER 00000A69]
+#She'd have been top of my list of suspects...
+Ela estaria no topo da minha lista de suspeitos...
+
+[HEADER 00000A6A]
+#...if I hadn't seen the attacker myself.
+se eu não tivesse visto o atacante...
+
+[HEADER 00000A6C]
+#And if I hadn't come across a couple of murders just like this already.
+e me deparado com dois assassinatos como este.
+
+[HEADER 00000A70]
+#One of the most important men in Europe murdered.
+Um dos homens mais importantes da Europa... assassinado.
+
+[HEADER 00000A71]
+#And here was I, Nico Collard, alone at the scene of the crime.
+E aqui estava eu, Nico Collard, sozinha na cena do crime.
+
+[HEADER 00000A74]
+#Should I wait for the cops? Or start my own investigation?
+Devo esperar pelos policiais? Ou iniciar minha própria investigação?
+
+[HEADER 00000A75]
+#It was a no-brainer...
+A resposta era óbvia.
+
+[HEADER 00000BC0]
+#I decided to keep the ticket.
+Eu decidi pegar o bilhete.
+
+[HEADER 00000BC1]
+#You never know when things will come in handy.
+Nunca se sabe quando este tipo de coisa poderá ser útil.
+
+[HEADER 00000CE2]
+#And if the cops were after me at least I now had a getaway option.
+E se os policiais viessem atrás de mim, pelo menos agora eu teria para aonde fugir.
+
+[HEADER 00000BBF]
+#Playing the old hair clip game with a dead guy - how sad was that?
+Ficar espetando um morto com um prendedor de cabelos... que triste.
+
+[HEADER 00000BC2]
+#I decided against laying the cloth on the body - made him look like a picnic table.  And this was no picnic.
+Eu decidi não colocar a toalha sobre o corpo. Fazia ele parecer uma mesa de piquenique. E isto não era um piquenique.
+
+[HEADER 00000BC3]
+#This wasn't the time for playing paint the corpse.  I hate that game anyway. I always lose.
+Não era hora de brincar de pintar o morto. Odeio esse jogo mesmo. Sempre perco.
+
+[HEADER 00000BC4]
+#Nothing wrong with girl power - but I draw the line at beating dead men with stones.
+Não há nada errado em ser feminista, mas eu não estou disposta a apedrejar um homem morto.
+
+[HEADER 00000BC5]
+#Unlock the victim, unlock the crime, Carchon was the key - I wasn't a headline writer for nothing you know.
+Conheça a vítima, resolva o crime. Carchon era a chave... Eu não era a escritora de capa por nada.
+
+[HEADER 00000BC6]
+#There are ways of drawing attention to the elephant in the room. This wasn't one of them...
+Há maneiras de voltar a atenção ao elefante nesta sala. Esta não era uma delas... 
+
+[HEADER 00000BC7]
+#That wasn't going to help...
+Isto não vai adiantar...
+
+[HEADER 00000BB9]
+#Mimes and guns don't usually go together. But I had an idea that this was no ordinary mime...
+Mímicos e armas geralmente não andam juntos. Mas creio que esse não era um mímico qualquer...
+
+[HEADER 00000BB7]
+#I'd come across this murderer before.  And written about him.  The Costume Killer -
+Eu já presenciei este assassinato antes, e escrevi sobre ele. O Assassino das Fantasias;
+
+[HEADER 00000CDE]
+#at least that's what I'd called him.
+pelo menos é assim que eu tinha o chamado.
+
+[HEADER 00000BBA]
+#Pierre Carchon was stiff for the last time.
+Pierre Carchon estava arrumado pela última vez.
+
+[HEADER 00000BB8]
+#Carchon had been shot.
+Carchon havia levado um tiro.
+
+[HEADER 00000FAD]
+#I'd come across a murder like this before. Twice. In fact, I'd written an article all about it.
+Já presenciei um assassinato assim antes. Duas vezes. Na verdade, eu tinha escrito um artigo sobre eles.
+
+[HEADER 00000FAE]
+#The Costume Killer - at least that's what I'd called him.
+O Assassino das Fantasias; pelo menos é assim que eu tinha o chamado.
+
+[HEADER 00000BBB]
+#Some people hate searching corpses for clues. Me - I'm okay with it.  Reminds me of an old boyfriend.
+Algumas pessoas odeiam procurar pistas em corpos. Eu? Estou bem com isso. Me lembra um antigo namorado.
+
+[HEADER 00000BBC]
+#In his pocket I found a ticket stamped "Bateaux de la Conciergerie".
+No seu bolso, encontrei um bilhete com os dizeres "Bateaux de la Conciergerie".
+
+[HEADER 00000CE0]
+#Shame. No more day-trips for you, Pierre.
+Que pena. Sem mais férias para você, Pierre.
+
+[HEADER 00000BBD]
+#Taking the ticket meant that I'd tampered with the evidence. There was no going back now.
+Ao pegar o bilhete, eu tinha alterado a evidência. Não havia mais volta agora.
+
+[HEADER 00000CB7]
+#I suddenly realised there was a connection between the boat ticket and the coded message.
+De repente, percebi que havia uma conexão entre o bilhete de barco e a mensagem codificada.
+
+[HEADER 00000CB8]
+#The boat ticket was stamped "Bateaux de la Conciergerie".
+No bilhete estava escrito: "Bateaux de la Conciergerie".
+
+[HEADER 00000CB9]
+#The Conciergerie on the Ile de la Cité - by the river - housed the ancient law courts.
+A Conciergerie na Ile de la Cité, perto do rio, foi a casa das antigas cortes penais.
+
+[HEADER 00000CBA]
+#So "Sub-Judice" could in this case mean literally - "under the law courts".
+Então "Sub-Judice", neste caso, pode literalmente significar: "sob o tribunal".
+
+[HEADER 00000CC4]
+#Below the Conciergerie!
+Embaixo da Conciergerie!
+
+[HEADER 00000CBC]
+#I was pretty sure I'd found all I could, here...
+Eu estava certa de que já tinha encontrado tudo que podia aqui...
+
+[HEADER 00000CBD]
+#... and besides - all this opulence was making me pine for my regular life of poverty.
+... além do que, toda esta riqueza estava me fazendo suspirar pela minha vidinha de pobreza.
+
+[HEADER 00000CBF]
+#This was a huge story. It was also one heck of a puzzle, with a lot of pieces missing.
+Isto era um grande artigo, mas também um quebra-cabeças dos diabos, com muitas peças faltando.
+
+[HEADER 00000CC0]
+#But I was going to crack it.
+Mas eu iria resolvê-lo.
+
+[HEADER 00000CC1]
+#And if I could just remember the name of that fancy prize you get for being an ace journalist -
+E se conseguisse me lembrar do nome daquele grande prêmio que é dado para os melhores jornalistas...
+
+[HEADER 00000CC2]
+#I was definitely going to win it this time...
+eu com certeza o ganharia desta vez...
+
+[HEADER 00000BBE]
+#I searched Carchon's body again, but there was nothing else to find. A girl's got to know when to stop.
+Eu vasculhei o corpo do Carchon outra vez, mas não havia mais nada a ser encontrado. Uma garota tem que saber quando parar.
+
+[HEADER 00000BCF]
+#You had to hand it to the Ice Queen - she sure knew her fabrics.
+#Melhor perguntar à Rainha de Gelo. Ela deve conhecer suas cortinas.
+Deve-se dar o crédito à Rainha de Gelo. Ela tem um ótimo gosto para cortinas.
+
+[HEADER 00000FB5]
+#A small round piece of glass had been cut out of the pane...
+Um pequeno pedaço circular foi cortado do vidro da janela...
+
+[HEADER 00000FB6]
+#This was a professional job.
+Isso foi trabalho de um profissional.
+
+[HEADER 00000BD0]
+#Your original 18th century high security window handle.
+Uma tranca de janela de alta segurança original do século XVIII.
+
+[HEADER 00000BD1]
+#The killer must have used a ladder to reach the window.
+O assassino deve ter usado uma escada para alcançar a janela.
+
+[HEADER 00000BD2]
+#He was long gone. Guess he folded that ladder up, popped it in his pocket and took it with him.
+Ele já se foi. Deve ter dobrado a escada, guardado no bolso e levado consigo.
+
+[HEADER 00000BD7]
+#Smashing the window even more was not a great idea.
+Quebrar a janela ainda mais não era uma grande ideia.
+
+[HEADER 00000BD5]
+#This was the work of the Mime.  Unless the cat was in on it too...
+Isso foi trabalho do mímico. A não ser que o gato estivesse metido nisso também...
+
+[HEADER 00000BD6]
+#The Mime had broken the window to gain entry.
+O mímico tinha quebrado a janela para entrar.
+
+[HEADER 00000BD3]
+#I didn't want to cut myself and leave blood on the glass.
+Eu não queria me cortar e deixar meu sangue no vidro.
+
+[HEADER 00000CE6]
+#Call me old-fashioned - but I like to keep my DNA to myself.
+Pode me chamar de antiquada, mas não gosto de deixar meu DNA por aí.
+
+[HEADER 00000BD4]
+#Not a good idea to touch the broken glass.
+Não é uma boa ideia tocar no vidro quebrado.
+
+[HEADER 00000BDD]
+#I would only have ruined it.
+Eu teria apenas o arruinado.
+
+[HEADER 00000BDA]
+#There was a tube of paint on the lip of the easel.
+Havia um tubo de tinta no apoio do cavalete.
+
+[HEADER 00000BDB]
+#Imelda wasn't going to miss an old tube of paint. I doubt she was going to miss her husband much either.
+Imelda não daria falta de um velho tubo de tinta. Também duvido que vá dar tanta falta assim do marido.
+
+[HEADER 00000BDC]
+#This was no time to take up new hobbies.
+Não era hora de começar novos hobbies.
+
+[HEADER 00000BDE]
+#It was a tube of acrylic paint.  French ultramarine.
+Era um tubo de tinta acrílica. Ultramarino francês.
+
+[HEADER 00000BDF]
+#Just the colour I was after for my bathroom.
+Exatamente a cor que eu queria para o meu banheiro.
+
+[HEADER 00000FB7]
+#I'm sorry - I have to go. Someone is...
+Desculpe-me, preciso desligar. Alguém está...
+
+[HEADER 00000FB8]
+#Young lady, what are you doing?!
+Minha jovem, o que está fazendo?!
+
+[HEADER 00000FB9]
+#Uh - this paint - it's my favourite colour...
+Hmm... esta tinta... é minha cor favorita...
+
+[HEADER 00000FBA]
+#For God's sake - keep the damned stuff.
+Pelo amor de Deus, fique com essa coisa maldita.
+
+[HEADER 00000BF9]
+#I decided to keep the cloth for the time being.
+Eu decidi pegar a toalha por enquanto.
+
+[HEADER 00000BED]
+#A magnificent antique table.
+Uma magnífica mesa antiga.
+
+[HEADER 00000BEA]
+#A Louis XIV table with an antique cloth - Imelda had taste.
+Uma mesa, estilo Louis XIV, com uma antiga toalha sobre ela. Imelda tinha bom gosto.
+
+[HEADER 00000CE8]
+#But hey, with a husband that rich, taste is easy.
+Mas ei, com um marido rico é fácil ter bom gosto.
+
+[HEADER 00000045]
+#Uh... no.
+Hmm... não.
+
+[HEADER 00000BE6]
+#A beautiful cloth had been draped over the table.
+Uma bela toalha foi colocada sobre a mesa.
+
+[HEADER 00000BE7]
+#It was embroidered with an unusual cross.
+Ela havia sido bordada com uma cruz incomum.
+
+[HEADER 00000BE8]
+#A beautiful lace cloth.
+Uma bela toalha de renda.
+
+[HEADER 00000BE9]
+#I reckoned that cloth might just turn out to be useful.
+Achei que essa toalha poderia vir a ser útil.
+
+[HEADER 00000BEF]
+#Ah ha!
+Ah ha!
+
+[HEADER 00000BF3]
+#Nico - you are just so damned good at this stuff...
+Nico, você é tão boa com essas coisas...
+
+[HEADER 00000D20]
+#It wouldn't fit.
+Não vai entrar.
+
+[HEADER 00000BEE]
+#There was a tiny hole in the table top: part of the inlay had been chipped away.
+Havia um pequeno buraco no topo da mesa; parte da decoração tinha sido retirada.
+
+[HEADER 00000BF2]
+#Even my finger nail wouldn't fit into such a small hole.
+Até mesmo a ponta do meu dedo não entraria nesse pequeno buraco.
+
+[HEADER 00000BF4]
+#A key had been hidden in a secret compartment.  A modern key...
+Uma chave havia sido escondida em um compartimento secreto. Uma chave moderna...
+
+[HEADER 00000BF5]
+#Instead of comforting Imelda I was ransacking her flat. Why?
+Em vez de confortar Imelda, eu estava vasculhando seu apartamento. Por quê?
+
+[HEADER 00001005]
+#Because there was something going on here and I had to get answers before the cops arrived.
+Porque algo estava acontecendo aqui e eu precisava obter as respostas antes que os policiais chegassem.
+
+[HEADER 00001006]
+#And hey - she'd been rude to me so she had it coming.
+E, ei... ela tem sido rude comigo, então bem que merece.
+
+[HEADER 00000BFF]
+#Imelda was upset enough - I wasn't going to make it worse.
+A Imelda estava abalada. Eu não iria fazer com que a situação piorasse.
+
+[HEADER 00000C03]
+#Imelda had talent.
+Imelda era talentosa.
+
+[HEADER 00000C04]
+#But I certainly wasn't going to tell her that.
+Mas eu certamente não ia falar isso para ela.
+
+[HEADER 00000C00]
+#Even the telephone was antique.
+Até mesmo o telefone era antigo.
+
+[HEADER 00000C01]
+#Never trust anyone who owns a phone like that.
+Nunca confie em alguém que tenha um telefone desses.
+
+[HEADER 00000C02]
+#There was no one I needed to phone. Not until I had solved this case.
+Não havia ninguém que eu precisasse telefonar. Não até resolver este caso.
+
+[HEADER 00000D0D]
+#Besides, Imelda was using it.
+Além do que, Imelda o estava usando.
+
+[HEADER 00000C5C]
+#Mme Carchon. This is the police!
+Madame Carchon. Aqui é a polícia!
+
+[HEADER 00000C5D]
+#One moment. I am just coming.
+Um momento. Já estou indo.
+
+[HEADER 00000C5E]
+#You must leave.  Now.  I'll see you out through the back door.
+Você deve ir. Agora. Use a porta dos fundos.
+
+[HEADER 00000C5F]
+#She was right - there were going to be a lot of difficult questions.  And I didn't want to answer them.
+Ela estava certa... haveriam várias perguntas difíceis. E eu não queria respondê-las.
+
+[HEADER 00000CBB]
+#'Sub-Judice' was the key - I was going to have to find a way under the Conciergerie.
+"Sub-Judice" era a chave. Eu tinha que achar um caminho por debaixo da Conciergerie.
+
+[HEADER 00000FBB]
+#I decided to head straight for the quayside on the Ile de la Cité.
+Decidi seguir direto para o cais na Ile de la Cité.
+
+[HEADER 00000CC5]
+#If there was a way of getting under the Conciergerie it would have to be from there.
+Se houvesse alguma maneira de chegar no subsolo da Conciergerie, seria por lá.
+
+[HEADER 00000C40]
+#This carving... Do you know anything about it?
+Este entalhe... Sabe algo sobre ele?
+
+[HEADER 00000C41]
+#It was Pierre's.  What does a statue have to do with -
+Era de Pierre. O que isso tem a ver com...
+
+[HEADER 00000C42]
+#Please - I need to know.
+Por favor... preciso saber.
+
+[HEADER 00000C43]
+#He was given it - by a friend. Something to do with Africa.
+Ele foi dado... por uma amigo. Algo a ver com a África.
+
+[HEADER 00000C44]
+#He never explained any more?
+Ele não disse mais nada?
+
+[HEADER 00000C45]
+#No.  But I think it was important to him.  Always on display.  Why?
+Não, mas acho que era importante para ele. Estava sempre à vista. Por quê? 
+
+[HEADER 00000C46]
+#It was carved by my father.
+Ele foi entalhado pelo meu pai.
+
+[HEADER 00000C47]
+#Oh.  I see.  I didn't know...
+Ah, entendo. Eu não sabia...
+
+[HEADER 00000C09]
+#Imelda was on the phone to the police.  Poor guys...
+Imelda está telefonando para a polícia. Pobres coitados...
+
+[HEADER 00000C0A]
+#I needed to hurry with my investigation before they arrived.
+Eu precisava terminar minha investigação antes que eles chegassem.
+
+[HEADER 00000C0B]
+#Imelda was the coldest woman I'd ever met.  How was I going to break through that ice?
+Imelda era a mulher mais fria que eu já tinha conhecido. Como posso quebrar aquele gelo?
+
+[HEADER 00000C0C]
+#She was deep in conversation.  She totally ignored me.
+Ela estava com a atenção voltada ao telefone. Me ignorou completamente.
+
+[HEADER 00000C0D]
+#Imelda looked shocked. But still every bit as hostile.
+Imelda parecia triste. Mas ainda assim continuava hostil.
+
+[HEADER 00000C0E]
+#Excuse me, Madame.
+Com licença, Madame.
+
+[HEADER 00000C0F]
+#Yes.
+Sim?
+
+[HEADER 00000FAA]
+#Would you like to see my favourite hairclip?
+Gostaria de ver meu prendedor de cabelo favorito?
+
+[HEADER 00000FAB]
+#What a ridiculous question. Of course not.
+Mas que pergunta mais ridícula. Claro que não.
+
+[HEADER 00000FAC]
+#Ah - another time, I guess.
+Ah... outra hora, quem sabe.
+
+[HEADER 00000C6E]
+#So her husband took secret boat trips.  Did she really need to see the ticket?
+Então seu marido fazia viagens secretas de barco. Ela precisava mesmo ver este bilhete?
+
+[HEADER 00000C6F]
+#She'd know I'd broken into her husband's safe if I showed her the artefact. That would have been insane.
+Ela ficaria sabendo que eu tinha aberto o cofre do seu marido se mostrasse à ela o artefato. Isso teria sido insano.
+
+[HEADER 00000C70]
+#Not a good idea - she was already upset and I knew she loved her fabrics.
+Não é uma boa ideia. Ela já estava abalada e eu sabia que amava seus tecidos.
+
+[HEADER 00000C71]
+#The last thing she needed to talk about was paint.
+A última coisa da qual ela precisava falar era sobre pinturas.
+
+[HEADER 00000C72]
+#I was confident that Imelda wouldn't recognise the patterns...
+Eu tinha certeza que Imelda não iria reconhecer a imagem...
+
+[HEADER 00000CF0]
+#... but whatever her husband was into, I felt I should keep to myself for now.
+... mas, independente do que o seu marido estava metido, senti que deveria manter só para mim por enquanto.
+
+[HEADER 00000C73]
+#I needed to open the drawing room door before giving Imelda back the key.
+Eu precisava abrir a porta da sala de estar antes de devolver a chave para Imelda.
+
+[HEADER 00000C74]
+#Thank you - let me give you the key back.
+Obrigada. Deixe-me lhe devolver a chave.
+
+[HEADER 00000C75]
+#I didn't need it any more.
+Eu não precisava mais dela.
+
+[HEADER 00000C76]
+#Imelda might not have been so cool with me poking around if I'd shown her the key I'd found.
+#Imelda não teria gostado que eu tivesse metido o nariz onde não era chamada, se soubesse que tinha encontrado esta chave.
+Imelda talvez não gostasse que eu havia metido o nariz onde não era chamada, se soubesse que tinha encontrado esta chave.
+
+[HEADER 00000C60]
+#You're upset, Madame.  Please take this...
+Você está muito abalada, Madame. Por favor, pegue isto...
+
+[HEADER 00000C61]
+#That is the lace cloth from the table.  What can you be thinking?!
+Essa é a toalha de renda da mesa. O que você está pensando?!
+
+[HEADER 00000C10]
+#I am so sorry for your loss, Madame.
+Sinto muito pela sua perda, Madame.
+
+[HEADER 00000C11]
+#No you're not. You're a journalist. Journalists don't feel sorry.
+Não, não sente. Você é uma jornalista. Jornalistas não sentem pena.
+
+[HEADER 00000C12]
+#Not true.
+Não é verdade.
+
+[HEADER 00000C13]
+#We shall see.
+Veremos então.
+
+[HEADER 00000C14]
+#Why did your husband send for me? What did he want to discuss?
+Por que seu marido me chamou? Sobre o que ele queria conversar?
+
+[HEADER 00000C15]
+#I have no idea. His business was his business.
+Não tenho ideia. Ele não me falava dos seus negócios.
+
+[HEADER 00000C16]
+#He never told you anything?
+Ele nunca lhe falou nada?
+
+[HEADER 00000C17]
+#Ela preferia, não prefere mais. O cara morreu!
+#No. And frankly I preferred it that way.
+Não. E francamente, eu preferia assim.
+
+[HEADER 00000C1A]
+#How did your husband know my father?
+Como seu marido conheceu meu pai?
+
+[HEADER 00000C1B]
+#I have no idea.
+Não tenho ideia.
+
+[HEADER 00000C1C]
+#You didn't know him? Thierry Collard?
+Você não o conheceu? Thierry Collard?
+
+[HEADER 00000C1D]
+#Pierre knew a lot of people I didn't know. Most of them women...
+Pierre conhecia muito mais pessoas do que eu. A maioria delas mulheres...
+
+[HEADER 00000C18]
+#Why would a mime want to kill your husband?
+Por que um mímico mataria seu marido?
+
+[HEADER 00000C19]
+#Pierre had plenty of enemies. Half the husbands in Paris, for a start.
+Pierre tinha muitos inimigos. Metade dos maridos de Paris, para começar.
+
+[HEADER 00000C1E]
+#This is quite a scoop for you. I suppose you're already inventing the headlines.
+Isto deve ser uma grande notícia para você. Suponho até que já esteja pensando no que escrever.
+
+[HEADER 00000C1F]
+#Just because I'm a journalist -
+Só porque sou uma jornalista...
+
+[HEADER 00000C20]
+#Don't patronise me. You're all cut from the same cloth.
+Não me venha com essa. Vocês são todos farinha do mesmo saco.
+
+[HEADER 00000C21]
+#Do you have any moral sense at all?
+Você pelo menos tem algum caráter?
+
+[HEADER 00000C22]
+#Yes. That's why I do this job.
+Sim. É por isso que faço este trabalho.
+
+[HEADER 00000C23]
+#Pah! You do it to see your name in print.
+Pff! Você o faz para ter seu nome no jornal.
+
+[HEADER 00000C24]
+#As if. My editor gets the byline. I just do the work.
+Quem dera. Meu editor é quem assina as matérias. Eu só escrevo.
+
+[HEADER 00000C25]
+#Well don't expect my sympathy.
+Bem, não espere que eu demonstre pena.
+
+[HEADER 00000C26]
+#I certainly don't let it get in the way of a good story.
+Certamente não vou deixar que tudo isto afete um bom artigo.
+
+[HEADER 00000C27]
+#I admire your loyalty to your profession.
+Admiro sua lealdade pela profissão.
+
+[HEADER 00000C28]
+#The police will be here soon, Madame.
+A polícia estará aqui logo, Madame.
+
+[HEADER 00000D0C]
+#Is there anybody you would like me to contact?  Family?  Friends?
+Há alguém que gostaria que eu contactasse? Família? Amigos?
+
+[HEADER 00000C29]
+#No.  I have no family.  Pierre and I were...
+Não. Não tenho família. Pierre e eu éramos...
+
+[HEADER 00000C2A]
+#He was all I had really. Not much was it?
+Ele era tudo o que eu tinha. Não era muito, era?
+
+[HEADER 00001007]
+#The dutiful wife - that was my role. He never talked, never let me in...
+A esposa leal - essa era minha tarefa. Ele nunca falava, nunca me deixava a par...
+
+[HEADER 00000C2B]
+#I know one thing, Madame.
+Só sei de uma coisa, Madame.
+
+[HEADER 00000C2C]
+#What?
+O quê?
+
+[HEADER 00000C2D]
+#If you want to find out who killed your husband...
+Se você quer saber quem matou seu marido...
+
+[HEADER 00001008]
+#then you let me do the job - not the police.
+então me deixe cuidar disso, não a polícia.
+
+[HEADER 00000C2E]
+#Why?  How do I know I can trust you?
+Por quê? Como sei que posso confiar em você?
+
+[HEADER 00000C2F]
+#Your husband invited me here today because he needed me.
+Seu marido me chamou até aqui hoje porque precisava de mim.
+
+[HEADER 00001009]
+#I think he knew somebody wanted to kill him - and he knew I could help.
+Acho que ele sabia que alguém queria o matar, e que eu podia ajudar.
+
+[HEADER 00000C30]
+#I doubt it was your database he was after.
+Creio que ele estava era atrás dos seus atributos.
+
+[HEADER 00000C31]
+#You're wrong.  I was onto his killers already.  I'm sure of it.  Please... You owe it to him.
+Errado. Eu já estava atrás desse assassino. Tenho certeza disso. Por favor... Você deve isso a ele.
+
+[HEADER 00000C32]
+#Because you have no choice.  The police will take weeks.  In which time your own life may be in danger.
+Porque você não tem escolha. A polícia vai levar semanas. Nesse tempo, sua vida pode estar em perigo.
+
+[HEADER 00000C33]
+#What?!
+O quê?!
+
+[HEADER 00000C34]
+#Believe me. This killer has struck before.  And he will strike again.
+Acredite em mim. Esse assassino já atacou antes. E vai atacar de novo.
+
+[HEADER 00000CEA]
+#Who is to know that you are not next on his list?
+Quem sabe você não é a próxima da lista?
+
+[HEADER 00000C35]
+#I don't know...
+Não sei...
+
+[HEADER 00000C36]
+#All I need is a few more minutes to look around before the police come.
+Tudo o que preciso são mais alguns minutos para dar uma vasculhada antes que a polícia chegue.
+
+[HEADER 00000C37]
+#I think perhaps you do have a moral sense - of sorts. You're not a very good liar Nico Collard...
+Acho que talvez você tenha cárater. Você não é uma boa mentirosa, Nico Collard...
+
+[HEADER 00000C38]
+#You really do have a moral sense, don't you?  I trust so few people...
+Você tem mesmo caráter, não é? Eu confio em tão poucas pessoas...
+
+[HEADER 00000C39]
+#...and perhaps Pierre really did think that you could help.
+... e talvez Pierre realmente achasse que você podia ajudar.
+
+[HEADER 0000100A]
+#Of course it wouldn't have stopped him seducing you too.
+É claro que isso não iria proibi-lo de seduzi-la também.
+
+[HEADER 00000C3A]
+#...and I share your low opinion of the police.
+...e eu compartilho a sua opinião sobre a polícia.
+
+[HEADER 00000C3B]
+#Here - take this.  It's the key to the Drawing Room - next to the library at the end of the hall.
+Aqui, tome isto. É a chave para a sala de estar, próxima à biblioteca no fim do corredor.
+
+[HEADER 00000C3C]
+#It was Pierre's room. I rarely went in there.  I couldn't.  I was too scared of what I might find.
+Era a sala do Pierre. Eu raramente entrava lá. Não podia. Tinha medo do que eu podia encontrar.
+
+[HEADER 00000C3D]
+#Thank you.  I promise - you won't regret this.
+Obrigada. Prometo que você não vai se arrepender.
+
+[HEADER 00000C3E]
+#Imelda now looked shocked and scared. Almost human, in fact...
+Imelda agora parecia triste e apavorada. Quase humana, de fato...
+
+[HEADER 00000C3F]
+#Did you find anything useful?
+Encontrou algo de útil?
+
+[HEADER 00000C79]
+#Would you like to take the elephant back?
+Gostaria de ter o elefante de volta?
+
+[HEADER 00000C7A]
+#No, my dear. You should keep it.
+Não, minha querida. Pode ficar.
+
+[HEADER 00000C48]
+#No, nothing.  I'm sorry.
+Não, nada. Desculpe-me.
+
+[HEADER 00000CEB]
+#And right now she had enough to deal with. I decided a white lie wouldn't do any harm.
+E agora ela já tinha muito com o que lidar. Pensei que uma mentirinha não machucaria.
+
+[HEADER 00000FA0]
+#The real Imelda was clearly emerging.
+A Imelda de verdade estava claramente surgindo.
+
+[HEADER 00000C49]
+#Just one thing...  I know, this is going to sound strange, but did your husband ever mention...
+Mais uma coisa... sei que isto vai parecer estranho, mas por acaso seu marido mencionou alguma vez...
+
+[HEADER 00000CEC]
+#Did he ever talk to you about - a penguin?  Or a snowman?
+Ele já falou com você sobre... um pinguim? Ou um boneco de neve?
+
+[HEADER 00000C4A]
+#What?  I don't understand...
+O quê? Não estou entendendo...
+
+[HEADER 00000C4B]
+#He never mentioned... people dressed up as penguins?
+Ele nunca mencionou sobre... pessoas fantasiadas de pinguim?
+
+[HEADER 00000C4C]
+#Nico - I don't know what you're talking -
+Nico, não sei do que você está falando...
+
+[HEADER 00000C4D]
+#My dear, you should go before the police arrive - there will be many awkward questions.
+Minha querida, você deve ir antes que a polícia chegue. Serão feitas várias perguntas complicadas.
+
+[HEADER 00000C4E]
+#I am grateful that you stayed. You have been so kind.
+Estou muito grata por ter ficado. Você foi muito gentil.
+
+[HEADER 00000C4F]
+#Please call if there is anything that I can do.
+Por favor, telefone se houver algo que eu possa fazer.
+
+[HEADER 00000C50]
+#I'd misjudged her.  She had every reason to be bitter, living with a guy like Carchon.
+Eu tinha a julgado mal. Ela tinha todos os motivos para ser amarga, vivendo com um cara como Carchon.
+
+[HEADER 00000CED]
+#From the sound of it, no-one and nothing was safe around him.
+Pelo que parece, ninguém, nem nada estavam a salvos com ele por perto.
+
+[HEADER 00000CEE]
+#Hmm, maybe I should have interrogated the cat after all...
+Hmm, talvez eu devesse ter interrogado o gato também...
+
+[HEADER 00000C51]
+#Mme Carchon, I...
+Mme. Carchon, eu...
+
+[HEADER 00000C52]
+#Please call me Imelda.  We hardly need the formalities now, do we?
+Por favor, me chame de Imelda. Acho que não precisamos mais de formalidades, não?
+
+[HEADER 00000C53]
+#Excuse me, Imelda.
+Com licença, Imelda.
+
+[HEADER 00000C54]
+#Yes?
+Sim?
+
+[HEADER 00000FBC]
+#I was sure that there was more to find - I just had to keep looking.
+Eu estava certa de que havia mais coisas para encontrar. Só tinha que continuar procurando.
+
+[HEADER 00000FC8]
+#Did Monsieur Carchon say nothing to you about my father?
+Monsieur Carchon comentou alguma vez sobre meu pai?
+
+[HEADER 00000FCD]
+#No, I'm sorry.  He never mentioned him.
+Não, me desculpe. Ele nunca o mencionou.
+
+[HEADER 00000FD2]
+#Are you sure you don't know anything about my father?
+Tem certeza que não sabe nada sobre meu pai?
+
+[HEADER 00000FD7]
+#Positive.
+Sim, tenho.
+
+[HEADER 00000C62]
+#You're upset, Madame.  Take this...
+Você está muito abalada, Madame. Pegue isto...
+
+[HEADER 00000C63]
+#Oh...  Why, thank you.
+Ah... obrigada.
+
+[HEADER 00000C64]
+#I'm terribly sorry...
+Sinto muitíssimo...
+
+[HEADER 00000C65]
+#My dear - you must forgive me.  I have been rude to you. It's a habit, you know...
+Minha querida, você deve me perdoar. Tenho sido tão rude contigo. É um hábito, sabe...
+
+[HEADER 00000C66]
+#I felt guilty using the old handkerchief routine. But hey she'd been rude to me.
+Me senti culpada por usar o velho truque do lenço. Mas ei, ela estava sendo rude comigo.
+
+[HEADER 00000CEF]
+#And anyhow - maybe there was a human in there after all...
+Mas talvez houvesse uma humana dentro dela afinal...
+
+[HEADER 00000C67]
+#Was Monsieur Carchon a... difficult man to live with?
+Monsieur Carchon era... uma pessoa difícil de se conviver?
+
+[HEADER 00000C68]
+#Not difficult.  Impossible.   He couldn't meet a woman without wanting to have her.
+Não era difícil. Era impossível. Ele não podia conhecer uma mulher sem desejar tê-la.
+
+[HEADER 00000C69]
+#Funny.  My relationship with chocolate is just like that.
+Engraçado. Minha relação com chocolates é assim também.
+
+[HEADER 00000C6A]
+#I'm sorry...
+Desculpe-me...
+
+[HEADER 00000C6B]
+#I loved him, I suppose.  I couldn't leave - he would never have allowed me to think such a thought.
+Eu o amava, eu acho... mas não podia ir embora. Ele nunca teria permitido que eu ao menos cogitasse essa ideia.
+
+[HEADER 00000C6C]
+#Thank you - you have your own reason for taking the cloth. Please keep it.
+Obrigada... você tem seus motivos para ter pego essa toalha. Fique com ela.
+
+[HEADER 00000C58]
+#Imelda.  I will do everything I can to find the killer.
+Imelda. Farei de tudo para encontrar o assassino.
+
+[HEADER 00000C59]
+#Thank you my dear.
+Obrigada, minha querida.
+
+[HEADER 00000C5A]
+#And if the police ask -
+E se a polícia perguntar...
+
+[HEADER 00000C5B]
+#Don't worry.  You were never here.
+Não se preocupe. Você nunca esteve aqui.
+
+[HEADER 00000FA1]
+#A fine Baroque door.
+Uma bela porta barroca.
+
+[HEADER 00000FA2]
+#It would look great in my apartment.
+Ela cairia bem no meu apartamento.
+
+[HEADER 00000FEB]
+#Now we were getting somewhere...
+Agora estamos chegando a algum lugar...
+
+[HEADER 00000BD9]
+#I decided not to lock the door - in case I needed to get back in.
+Decidi não trancar a porta, no caso de precisar voltar.
+
+[HEADER 00000D18]
+#It was going to take more than a hairclip to open the door.  I needed the key.
+Vai ser necessário mais do que um prendedor de cabelo para abrir a porta. Eu precisava da chave.
+
+[HEADER 00000D21]
+#A modern key on an antique door. It wasn't going to work.
+Uma chave moderna em uma porta antiga. Não iria funcionar.
+
+[HEADER 00000BD8]
+#The door was locked.
+A porta estava trancada.
+
+[HEADER 00000C84]
+#The portrait was too beautiful to ruin.  Even if I did have a thing against rich famous people.
+A pintura era muito bonita para ser estragada. Mesmo que eu tivesse algo contra pessoas ricas e famosas.
+
+[HEADER 00000C82]
+#The painting showed the Carchons together.  In love.  As the poet said: "the past is a different country".
+A pintura mostrava os Carchon juntos. Apaixonados. Como diria o poeta: "o passado é um país diferente".
+
+[HEADER 00000CF3]
+#Or did I read that in a fortune cookie?
+Ou será que eu li isso em um biscoito da sorte?
+
+[HEADER 00000C83]
+#The Carchons. Noblesse oblige.
+Os Carchon. Obrigações da nobreza.
+
+[HEADER 00000CD1]
+#Behind the picture was a safe.
+Atrás da pintura havia um cofre.
+
+[HEADER 00000CD0]
+#Aha!
+Aha!
+
+[HEADER 00000C88]
+#There was a small button hidden in the picture-frame.
+Havia um pequeno botão escondido na moldura do quadro.
+
+[HEADER 00000C89]
+#There was the very faintest of clicks.
+O mais rápido dos cliques.
+
+[HEADER 00000C87]
+#That made no sense...
+Isso não fazia sentido...
+
+[HEADER 00000C86]
+#Nice work, Nico.
+Bom trabalho, Nico.
+
+[HEADER 00000C85]
+#The painting was attached firmly to the wall.
+A pintura estava firmemente presa na parede.
+
+[HEADER 00000D19]
+#It was the wrong kind of key.
+Era o tipo errado de chave.
+
+[HEADER 00000C95]
+#The safe's lock was too secure for me to pick. How come it always works in movies, huh?
+A fechadura do cofre era segura demais para eu arrombar. Como isso funciona sempre nos filmes, hein?
+
+[HEADER 00000C8A]
+#The safe looked pretty secure.
+O cofre parecia muito seguro.
+
+[HEADER 00000C8D]
+#The safe was locked - I needed the key.
+O cofre estava trancado... Eu precisava da chave.
+
+[HEADER 00000C8C]
+#There was a strange stone cylinder in the safe...
+Havia um estranho rolo de pedra no cofre...
+
+[HEADER 00000C8F]
+#In the safe was some kind of... artefact.
+No cofre havia algum tipo de... artefato.
+
+[HEADER 00000C90]
+#There were strange symbols on its surface - it looked like the printers' blocks I'd made at art school.
+Havia símbolos estranhos em sua superfície... parecia com os blocos de tipografia que eu fazia na escola de artes.
+
+[HEADER 00000C91]
+#If there was one thing I'd learned about symbols... They are always important.
+Se há alguma coisa que eu aprendi sobre símbolos foi que são sempre importantes.
+
+[HEADER 00000FF0]
+#But these symbols - scratched into stone - were impossible to read.
+Mas estes aqui, gravados na pedra, eram impossíveis de se ler.
+
+[HEADER 00000FF4]
+#I needed to find a way of... printing them.
+Eu precisava encontrar uma maneira de... imprimi-los.
+
+[HEADER 00000FF5]
+#At least the stone was round! But what could I use for ink?
+Pelo menos a pedra era circular! Mas o que eu poderia usar como tinta?
+
+[HEADER 00000FFA]
+#And what could I print on?
+E no que eu poderia imprimi-los?
+
+[HEADER 00000C92]
+#Sure, I was stealing.  But I knew Imelda didn't know about the artefact, and Carchon was past caring.
+Certo, isto é roubo, mas eu sabia que Imelda não conhecia o artefato, e Carchon não se importaria.
+
+[HEADER 00000C8B]
+#I'd taken the contents.
+Eu tinha pego o conteúdo do cofre. 
+
+[HEADER 00000C8E]
+#There was nothing else to take from the safe.
+Não havia mais nada para retirar do cofre.
+
+[HEADER 00000C9C]
+#I decided to keep the carving - it clearly meant a lot more to me than to the Carchons.
+Decidi ficar com o entalhe. Ele certamente significava mais para mim do que para os Carchon.
+
+[HEADER 00000C99]
+#As expected, the desk was yet another priceless antique. Yawn.
+Como esperado, a mesa era outra antiguidade de valor inestimável. Chato.
+
+[HEADER 00000C9A]
+#The blotter and in-tray had clearly been placed with mathematical precision.
+A prancheta e o porta-papel haviam sido colocados com precisão matemática.
+
+[HEADER 00000C9D]
+#My heart skipped a beat.  It was a carved elephant.  But not just any carved elephant.
+Meu coração disparou. Era um elefante entalhado. Mas não um qualquer.
+
+[HEADER 00000C9E]
+#It had been made... by my father.
+Ele tinha sido feito... pelo meu pai.
+
+[HEADER 00000C9F]
+#I knew for certain because in my apartment I had its exact twin...
+Tinha certeza disso porque, em meu apartamento, eu tinha um igual a esse...
+
+[HEADER 00000CC3]
+#...carved into a box that he had made.
+...entalhado em uma caixa que ele tinha feito.
+
+[HEADER 00000CA0]
+#So Carchon had known my father.  They really must have been friends...
+Então Carchon conhecia meu pai. Eles certamente deviam ter sido amigos...
+
+[HEADER 00000CA1]
+#It was the beautiful elephant my father had carved.
+Era o belo elefante que meu pai tinha entalhado.
+
+[HEADER 00000FBE]
+#I decided to take the carved elephant - it clearly meant nothing to Imelda.
+Decidi pegá-lo. Sem dúvida, não significava nada para Imelda.
+
+[HEADER 00000D2C]
+#There wasn't enough paint left in the tube.
+Não havia tinta suficiente sobrando no tubo.
+
+[HEADER 00000CA4]
+#I'd spread blue paint over the bottom of the tray. It was ruined. I was a very bad, bad girl.
+Eu havia passado tinta azul sobre o fundo do porta-papel. Ele estava arruinado. Eu era uma garota bem má.
+
+[HEADER 00000CA5]
+#But also, quite a clever one...
+Mas também bem inteligente...
+
+[HEADER 00000D1E]
+#The tray was already ruined.
+O porta-papel já estava arruinado.
+
+[HEADER 00000D1D]
+#The cloth would get paint on the tray.  But not enough for what I needed.
+A toalha iria espalhar a tinta pelo porta-papel. Mas não o suficiente para o que eu precisava.
+
+[HEADER 00000FE6]
+#There wasn't enough paint left to cover the stone again.
+Não havia tinta suficiente para passar no rolo outra vez.
+
+[HEADER 00000CAA]
+#I rolled the artefact in the paint until it was completely coated.
+Rolei o artefato na tinta até que estivesse todo pintado.
+
+[HEADER 00000CA9]
+#Rolling the cylinder in a tray for no good reason would be just plain silly.
+Não havia sentido em rolar o rolo no porta-papel sem um bom motivo.
+
+[HEADER 00000CA6]
+#There were still some traces of paint in the tray. It would never be the same again.
+Ainda havia vestígios de tinta no porta-papel. Ele nunca mais seria o mesmo.
+
+[HEADER 00000FA4]
+#I'd ruined the tray. But I was on my way to solving a clue...
+Eu tinha arruinado o porta-papel, mas estava no caminho certo para resolver a pista...
+
+[HEADER 00000CA2]
+#The in-tray - like everything else in this place - was beautiful.
+O porta-papel - como tudo mais neste lugar - era lindo.
+
+[HEADER 00000CA3]
+#One day I was going to have an in-tray like that.  Even if I had to sell my apartment to pay for it.
+Algum dia terei um como esse. Nem que eu tenha que vender meu apartamento para pagá-lo.
+
+[HEADER 0000100B]
+#An antique tray with paint spread all over it.
+Um antigo porta-papel com tinta espalhada por sua superfície.
+
+[HEADER 0000100E]
+#Not a lot I could do with that.
+Não há muito o que fazer com isso.
+
+[HEADER 00000CA7]
+#I didn't want to take the tray, but I knew that I could use it.
+Eu não queria pegar o porta-papel, mas sabia que poderia usá-lo.
+
+[HEADER 00000CA8]
+#In a way, I was going back to art school.
+Por um momento, eu estava de volta à escola de arte.
+
+[HEADER 00000D1B]
+#Rubbing the cloth over the blotting paper would make it all blue.
+Passar a toalha sobre o papel mata-borrão iria deixá-lo todo azul.
+
+[HEADER 00000D1C]
+#I needed to come up with something slightly cleverer.
+Eu precisava de uma ideia melhor.
+
+[HEADER 00000D1A]
+#The paint would have just soaked into the blotting paper. But the idea was good.
+A tinta seria imediatamente absorvida pelo papel mata-borrão. Mas a ideia foi boa.
+
+[HEADER 00000CB3]
+#The blotter was flat already.  Rolling the cylinder across it would achieve nothing.
+O papel mata-borrão ainda estava limpo. Passar o rolo nele não serviria para nada.
+
+[HEADER 00000CB4]
+#Genius!  The roller and the paint worked just as I'd planned!  But what did it say?
+Fantástico! O rolo e a tinta funcionaram como planejado! Mas o que estava escrito?
+
+[HEADER 00000FA5]
+#A secret message had been printed onto the blotting paper.
+Uma mensagem secreta havia sido impressa no papel mata-borrão.
+
+[HEADER 00000CAD]
+#The leather holder was now empty.
+A prancheta de couro estava agora vazia.
+
+[HEADER 00000CAB]
+#It was a sheet of blotting paper in a leather holder.
+Era uma folha de papel mata-borrão sobre uma prancheta de couro.
+
+[HEADER 00000CAC]
+#Its cracked surface looked ancient. Reminded me of its owner...
+Sua superfície gasta parecia antiga. Me lembrava o seu dono...
+
+[HEADER 00000CAF]
+#It was some kind of coded message.
+Era algum tipo de mensagem cifrada.
+
+[HEADER 00000FBF]
+#It read - "Sub-Judice".
+Está escrito: "Sub-Judice".
+
+[HEADER 00000FC0]
+#I may not have learned a lot as a journalist but that was a term I knew well:
+Posso não ter aprendido muitas coisas além de jornalismo, mas eu sabia muito bem o que era esse termo:
+
+[HEADER 00000FC1]
+#it means a legal case that is before the courts.
+significa um caso legal que ainda está em julgamento.
+
+[HEADER 00000FC2]
+#Below it was a sequence of letters that made no sense.
+Abaixo havia uma sequência de letras que não faziam sentido.
+
+[HEADER 00000CB2]
+#I didn't need to take the leather holder with me.
+Eu não precisava levar a prancheta de couro comigo.
+
+[HEADER 00000CAE]
+#I didn't need a sheet of blotting paper. Not while it was blank.
+Eu não precisava de uma folha de papel mata-borrão. Não enquanto estivesse branca.
+
+[HEADER 00000C7F]
+#The sofa was antique.  For one horrible moment...
+O sofá era antigo. Por um instante terrível...
+
+[HEADER 00000CF1]
+#... I had an image of a naked Carchon wriggling around on it with a young journalist. Ugh!
+me veio a imagem de um Carchon pelado se engraçando com uma jovem jornalista. Eca!
+
+[HEADER 00000C80]
+#This wasn't the time for me to lie on the sofa doing my Marie Antoinette impression.
+Essa não era a hora para me deitar no sofá e fazer minha pose de Maria Antonieta.
+
+[HEADER 00000CF2]
+#Though it is very popular at parties. Especially with gay guys - don't ask me why...
+Apesar disso ser muito popular em festas. Especialmente com gays... não me pergunte o porquê...
+
+[HEADER 00000C7D]
+#It didn't work.
+Não iria funcionar.
+
+[HEADER 00000C7E]
+#But I guess it would have been surprising if it had.
+Mas acho que teria sido surpreendente se tivesse dado certo.
+
+[HEADER 00000C7B]
+#It was a back door.
+Era a porta dos fundos.
+
+[HEADER 00000C7C]
+#Locked. Not surprising, really.
+Trancada. Como se não fosse óbvio.
+
+[HEADER 00000FA6]
+#Even the light switch looked impressive.
+Até mesmo o interruptor parecia impressionante.
+
+[HEADER 00000FBD]
+#I didn't need the lights on - it was light enough already.
+Eu não precisava das luzes acesas. Já estava claro o suficiente.
+
+[HEADER 00000FA7]
+#It was the way out. A beautiful, expensive, antique way out, but the way out nevertheless.
+Era a porta da frente. Uma bela, cara e antiga porta, mas ainda sim uma porta.
+
+[HEADER 00001018]
+#I couldn't leave without saying goodbye to Imelda.
+Eu não podia ir embora sem me despedir de Imelda.
+
+[HEADER 00000C08]
+#I thought of leaving but was sure that there was more to find.
+Pensei em ir embora, mas eu estava certa de que havia mais coisas para achar.
+
+[HEADER 00000FA9]
+#Imelda was engrossed on the phone. She wouldn't notice me looking around.
+Imelda estava no telefone. Ela não me notaria olhando por aí.
+
+[HEADER 00000FAF]
+#Something was poking, invitingly, out of his pocket.
+Algo estava saindo do seu bolso.
+
+[HEADER 00000FB1]
+#His lifeless eyes stared blankly at nothing.
+Seus olhos sem vida olhavam para o nada.
+
+[HEADER 00000FB3]
+#I had closed his eyes. Rigor mortis hadn't set in yet.
+Eu tinha fechado seus olhos. O rigor mortis ainda não havia aparecido.
+
+[HEADER 00000FB0]
+#I closed his eyes - it was the least I could do for the poor fellow.
+Fechei seus olhos. Era o mínimo que eu podia fazer pelo pobre homem.
+
+[HEADER 00000FB2]
+#I opened his eyes - best to leave the crime scene as I found it.
+Eu abri seus olhos. Melhor deixar a cena do crime intacta.
+
+[HEADER 00000FDB]
+#The bookcase was filled with obscure first editions.
+A prateleira estava repleta de obscuras primeiras edições.
+
+[HEADER 00000FDD]
+#It contained rows of titles I didn't recognise.
+Havia vários títulos que eu não reconhecia.
+
+[HEADER 00000FDC]
+#"Programming the Z80" by Rodney Zaks.
+"Programando o Z80" por Rodney Zaks.
+
+[HEADER 00000FE1]
+#Ah, the romance. The drama! The great classic novels had a lot to learn.
+Ah, o romance. O drama! As novelas de hoje em dia têm muito o que aprender.
+
+[HEADER 00000D16]
+#A medieval pageant. Original no doubt.
+Uma representação de um festival medieval. Original, sem dúvida.
+
+[HEADER 00000D17]
+#The tapestry must have cost a fortune.
+A tapeçaria deve ter custado uma fortuna.
+
+[HEADER 00000D2E]
+#A bust of Pierre Carchon.
+Um busto de Pierre Carchon.
+
+[HEADER 00000D28]
+#A bust of...
+Um busto de...
+
+[HEADER 00000D2A]
+#Pierre Carchon. Humble servant of La France.
+Pierre Carchon, humilde servo de La France.
+
+[HEADER 00000D2D]
+#Pierre Carchon again. His eyes seemed to follow me round the room... spooky.
+Pierre Carchon outra vez. Seus olhos pareciam me seguir por essa sala... Sinistro.
+

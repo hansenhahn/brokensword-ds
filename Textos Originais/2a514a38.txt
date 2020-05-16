@@ -1,0 +1,627 @@
+[HEADER 00004358]
+There's a hole in the rock, but how do I get down there?
+
+[HEADER 00004362]
+You need to improvise a rope ladder.
+
+[HEADER 0000436C]
+Grab the branch from the tree. You'll need to tie something rope-like to it.
+
+[HEADER 00004376]
+Tie the towel to the branch.
+
+[HEADER 00004380]
+Wedge the branch and towel into the hole, and climb down.
+
+[HEADER 0000438A]
+I seem to be stuck halfway down a cliff.
+
+[HEADER 00004394]
+Take a look around for any suspicious openings.
+
+[HEADER 0000439E]
+See the hole in the back wall? Take a closer look.
+
+[HEADER 000043A8]
+Reach into the hole and give the ring a tug.
+
+[HEADER 000043B2]
+There's a corpse here. And I'm trapped. What should I do?
+
+[HEADER 000043BC]
+Do what you always do when you find a corpse. Search it.
+
+[HEADER 000043C6]
+Take a closer look at his jacket.
+
+[HEADER 000043D0]
+Move the jacket to one side to find the lens.
+
+[HEADER 000043DA]
+I've got the lens, but there doesn't seem to be a way out of here.
+
+[HEADER 000043E4]
+There's an inscription on the wall and a strange statue. Take a closer look at them.
+
+[HEADER 00360003]
+A young tree grew at the edge of the drop.
+
+[HEADER 00360004]
+I'd damaged that tree enough for one day.
+
+[HEADER 00360005]
+Centuries of hot days and cold nights had opened a crack in the cliff edge...
+
+[HEADER 00360006]
+...deep into the living rock.
+
+[HEADER 00360007]
+I could see that crack would make a good anchor point.
+
+[HEADER 00360020]
+Well, that looked really safe but I had no choice.
+
+[HEADER 00360021]
+I hadn't anticipated going mountaineering when I'd come to Syria.
+
+[HEADER 00360016]
+The ring had done the trick, all right.
+
+[HEADER 00360008]
+Close up, the niche looked somehow artificial.
+
+[HEADER 00360012]
+I took a firm hold of the ring....
+
+[HEADER 00360013]
+...tried not to think of death traps...
+
+[HEADER 00360014]
+...and pulled.
+
+[HEADER 00360015]
+Woah there!
+
+[HEADER 00360009]
+I didn't like the idea of putting my hand in there...
+
+[HEADER 0036000A]
+But, hey! What the heck! I was only risking mutilation.
+
+[HEADER 0036000B]
+No blade took my hand off at the wrist...
+
+[HEADER 0036000C]
+...and no scorpion stung me, for which I was very grateful...
+
+[HEADER 0036000D]
+...but there WAS something in there...
+
+[HEADER 0036000E]
+...a metal ring, as wide as my hand.
+
+[HEADER 0036001B]
+I got that `Go on, jump. It'll be fun!' feeling you sometimes get at a cliff edge.
+
+[HEADER 0036001C]
+If I managed to land on the truck without hitting a support, I might even survive it.
+
+[HEADER 0036001D]
+If I'd been a little bit younger and a whole bunch more stupid, I might have gone for it.
+
+[HEADER 00360018]
+This country sure was beautiful. I'd have to visit again some time when I wasn't in such a hurry..
+
+[HEADER 00360019]
+Down below I could see the top of Ultar's soft top truck...
+
+[HEADER 0036001A]
+...it seemed a hell of a long way down.
+
+[HEADER 00360027]
+A secret door. All I needed now...
+
+[HEADER 00360028]
+...was Vincent Price to loom up out of the dark for my day to be complete.
+
+[HEADER 00370000]
+Around the corner I found the corpse.
+
+[HEADER 00370001]
+Oh, my God! Klausner?
+
+[HEADER 00370002]
+Large as life and twice as dead.
+
+[HEADER 00370003]
+I'd hardly had time to accept the fact when I heard the door mechanism start up again.
+
+[HEADER 00370004]
+Aw, man! No!
+
+[HEADER 00370005]
+The door had slammed shut, trapping me.
+
+[HEADER 00370006]
+I had a bad feeling about how Klausner had died.
+
+[HEADER 0037000B]
+I couldn't help but notice...
+
+[HEADER 0037000C]
+...faint bloody finger marks on the rock...
+
+[HEADER 0037000D]
+...as if somebody had tried to claw their way out.
+
+[HEADER 00370007]
+I examined the door carefully, high...
+
+[HEADER 00370008]
+...and low.
+
+[HEADER 00370009]
+I looked for levers and rings to pull, panels and buttons to push like in the movies...
+
+[HEADER 0037000A]
+.... and found nothing.
+
+[HEADER 0037002F]
+A stone head bearing three bearded faces.
+
+[HEADER 00370030]
+It was a strange image but a powerful one...
+
+[HEADER 00370031]
+...redolent with antiquity and ancient mysteries.
+
+[HEADER 00370034]
+The mouth's opening! It must be Ultar!
+
+[HEADER 00370035]
+My God! If he comes in we'll both be trapped!
+
+[HEADER 00370036]
+ULTAR! DON'T COME IN! IT'S A TRAP!
+
+[HEADER 00370037]
+STAY WHERE YOU ARE!
+
+[HEADER 00370038]
+You!
+
+[HEADER 00370039]
+Hello, Mr. Stobbart. We meet in the most unusual places.
+
+[HEADER 0037003A]
+Please do not make any sudden moves. I have no desire to maim you.
+
+[HEADER 0037003B]
+Did you say `maim'?
+
+[HEADER 0037003C]
+I did. Dead men tell no tales, as you say...
+
+[HEADER 0037003D]
+...and I want to hear everything that you have to tell me.
+
+[HEADER 0037003E]
+And what if I don't want to talk?
+
+[HEADER 0037003F]
+Then I shall, most regrettably, have to kill you.
+
+[HEADER 00370040]
+Rest assured, however, that I am an excellent shot. You would not suffer.
+
+[HEADER 00370041]
+That's good. Believe me, I'm really assured.
+
+[HEADER 00370042]
+It is rather dark in here. I think we should conduct our business outside.
+
+[HEADER 00370043]
+Why should I make myself an easier target?
+
+[HEADER 00370044]
+If I fire at you, Mr Stobbart, I shall hit you - even in here.
+
+[HEADER 00370045]
+But, unfortunately, my marksmanship will suffer.
+
+[HEADER 00370046]
+It could be the difference between hitting you in the leg...
+
+[HEADER 00370047]
+...or the groin.
+
+[HEADER 00370048]
+Boy, it sure is hot in here!
+
+[HEADER 00370049]
+No sudden moves, Mr Stobbart.
+
+[HEADER 00370033]
+I couldn't think of anything to do with the statue, apart from scaring small children with it.
+
+[HEADER 00370026]
+Up on the wall was an inscription, partially eroded by the ages.
+
+[HEADER 00370027]
+Something, something, `In occidenta sita est in ora mundi'.
+
+[HEADER 00370028]
+The Latin was clear enough...
+
+[HEADER 00370029]
+... but what did it mean?
+
+[HEADER 0037002A]
+I couldn't take the inscription with me...
+
+[HEADER 0037002C]
+All I could do was stare at it and try to memorize it.
+
+[HEADER 0037002D]
+`In occidenta sita est in ora mundi'. Okay.
+
+[HEADER 0037002E]
+That would have to do.
+
+[HEADER 00360029]
+Now, then. Where shall we start?
+
+[HEADER 0036002A]
+How about being bosom buddies and you putting that gun away?
+
+[HEADER 0036002B]
+Klausner. Do you know where he is?
+
+[HEADER 0036002F]
+Klausner? Who the hell's Klausner?
+
+[HEADER 00360030]
+I followed his trail here as, I believe, did you.
+
+[HEADER 00360031]
+I never heard of this Klausner guy before.
+
+[HEADER 00360032]
+I just asked around about strangers and got lucky.
+
+[HEADER 00360033]
+Luck is a commodity that you are sorely pressed for now, Mr. Stobbart.
+
+[HEADER 00360034]
+I have been watching you since you arrived in Marib.
+
+[HEADER 00360035]
+You have? I never noticed you.
+
+[HEADER 00360036]
+Precisely my point. You don't know what I know.
+
+[HEADER 00360037]
+Please bear this in mind when answering my next questions.
+
+[HEADER 00360038]
+Now, where is Klausner?
+
+[HEADER 0036002C]
+Yeah, he's dead, just around the corner of the cave. Do you want to look?
+
+[HEADER 0036002D]
+I'll take your word for it. How did he die?
+
+[HEADER 0036002E]
+Starvation or dehydration by the look of it.
+
+[HEADER 0036003F]
+He was caught in this trap you were shouting about?
+
+[HEADER 00360040]
+Hmmm, I suspected as much. The Templars were not ones to give away their secrets lightly.
+
+[HEADER 00360041]
+Was he carrying anything of importance?
+
+[HEADER 0036003C]
+I'm telling you, I've never heard of the man and I don't know where he is!
+
+[HEADER 00360087]
+Maybe we can cut a deal?
+
+[HEADER 00360047]
+What is to stop me killing you anyway?
+
+[HEADER 0036004F]
+Was there anything else?
+
+[HEADER 0036003D]
+Now if you're going to kill me, just get it over with because I've got a full itinerary.
+
+[HEADER 0036003E]
+Very well.
+
+[HEADER 00360089]
+No, nothing.
+
+[HEADER 0036008A]
+So why is this location important? What did the Templars hide here if not an artefact?
+
+[HEADER 00360042]
+Yeah, he was carrying some sort of lens. I've got it here.
+
+[HEADER 00360043]
+Give it to me.
+
+[HEADER 00360044]
+No, I don't think so.
+
+[HEADER 00360045]
+Don't be a fool, Mr. Stobbart.
+
+[HEADER 00360046]
+If I give it to you, what's to stop you killing me?
+
+[HEADER 00360048]
+You might hit the lens.
+
+[HEADER 00360049]
+Not if I shoot you in the head.
+
+[HEADER 0036004A]
+When I fall, the lens might get broken.
+
+[HEADER 0036004B]
+Hmmm.
+
+[HEADER 0036004C]
+You plead convincingly, Mr. Stobbart.
+
+[HEADER 0036004D]
+Perhaps you will live to see another day.
+
+[HEADER 0036004E]
+Perhaps.
+
+[HEADER 00360039]
+Okay. He's dead, just around the corner of the cave. Do you want to look?
+
+[HEADER 0036003A]
+I shall trust you on that. How did he die?
+
+[HEADER 0036003B]
+Starvation or dehydration by the look of it.
+
+[HEADER 0036008B]
+Well, there was something in Latin up on the wall.
+
+[HEADER 0036008C]
+Latin? Do you remember it, Mr. Stobbart?
+
+[HEADER 0036008D]
+What did it say?
+
+[HEADER 0036008E]
+`In occidenta sita est, in ora mundi '.
+
+[HEADER 0036008F]
+Ah, the words of Caesar! Yes, that makes sense!
+
+[HEADER 00360090]
+Well, I know that, roughly, it means, `to the West, to the edge of the world.'
+
+[HEADER 00360091]
+But what the heck is that about?
+
+[HEADER 00360092]
+It tells me where the Sword of Baphomet lies.
+
+[HEADER 00360093]
+Mr. Stobbart. I am sure that you are just what you appear to be...
+
+[HEADER 00360094]
+...a gifted amateur.
+
+[HEADER 00360095]
+Thanks.... I think.
+
+[HEADER 00360096]
+But I can no longer tolerate your interference.
+
+[HEADER 00360097]
+There is far more at stake than you realize.
+
+[HEADER 00360098]
+So what are you going to do?
+
+[HEADER 00360099]
+I regret that we must end this here and now.
+
+[HEADER 0036009A]
+Your only choice now is whether you die like a man or like a dog.
+
+[HEADER 0036006C]
+Well, there is something, I guess, but you can't move it.
+
+[HEADER 0036006D]
+Yes? What is it?
+
+[HEADER 0036006E]
+It's a treasure map. X marks the spot?
+
+[HEADER 0036006F]
+Come now. Do you expect me to believe that?
+
+[HEADER 00360070]
+Yeh, okay. You caught me.
+
+[HEADER 00360071]
+'Round the corner, there's something in Latin up on the wall.
+
+[HEADER 00360072]
+Latin? Do you remember it, Mr. Stobbart?
+
+[HEADER 00360073]
+`In occidenta sita est, in ora mundi'.
+
+[HEADER 00360074]
+Ah, the words of Caesar! Yes, that makes sense!
+
+[HEADER 00360075]
+Well, I know that, roughly, it means, `to the West, to the edge of the world.'
+
+[HEADER 00360076]
+But what the heck is that about?
+
+[HEADER 00360077]
+It tells me where the Sword of Baphomet lies.
+
+[HEADER 00360078]
+Mr. Stobbart. I am sure that you are just what you appear to be...
+
+[HEADER 00360079]
+...a gifted amateur.
+
+[HEADER 0036007A]
+Thanks... I think.
+
+[HEADER 0036007B]
+But I can no longer tolerate your interference.
+
+[HEADER 0036007C]
+There is far more at stake than you realize.
+
+[HEADER 0036007D]
+So what are you going to do?
+
+[HEADER 0036007E]
+I regret that we must end this here and now.
+
+[HEADER 0036007F]
+Your only choice now is whether you die like a man or like a dog.
+
+[HEADER 00360086]
+Hey, look now! Don't kill me! I've got money!
+
+[HEADER 00360088]
+You disappoint me.
+
+[HEADER 00360080]
+Okay, you're the boss. I'll take my medicine.
+
+[HEADER 00360082]
+I should like to shake your hand.
+
+[HEADER 00360081]
+You are an honourable man, Mr. Stobbart, a rare breed.
+
+[HEADER 00360083]
+Yeah, well. What the heck.
+
+[HEADER 00001900]
+Hold on - it's not every day a guy gets to die...
+
+[HEADER 00001901]
+Give me a minute to prepare myself...
+
+[HEADER 00001902]
+I needed a plan but was desperately running out of time.
+
+[HEADER 00001903]
+Don't I get a last meal...?
+
+[HEADER 000018BA]
+The pocket was empty.
+
+[HEADER 000018BB]
+The smell of the corpse reminded me of something...
+
+[HEADER 000018BC]
+Hmm. It was my favourite Brie back in Paris.
+
+[HEADER 0000183F]
+I couldn't do that...
+
+[HEADER 00370019]
+I've done more fun things in my life than searching a corpse...
+
+[HEADER 0037001A]
+...but as my life expectancy wasn't great, I figured I should try every new challenge that came my way.
+
+[HEADER 000018BD]
+I cautiously flicked open the jacket.
+
+[HEADER 000018B7]
+Whatever had been in the bottle had been drunk.
+
+[HEADER 000018B8]
+Klausner must have died of thirst and dehydration.
+
+[HEADER 000018B9]
+The bottle was empty.
+
+[HEADER 00370013]
+...I couldn't see any marks of violence.
+
+[HEADER 00370014]
+Apart from his finger tips being scraped raw...
+
+[HEADER 00370015]
+...and that seemed self-inflicted.
+
+[HEADER 00370016]
+Klausner had been pretty smart to get this far...
+
+[HEADER 00370017]
+...but he was still dead.
+
+[HEADER 000018C0]
+Klausner was dead alright...
+
+[HEADER 000018B5]
+I searched the corpse...
+
+[HEADER 00370021]
+No portable phone, no demolition charges, no five course meal.
+
+[HEADER 00370022]
+You'd think international conspirators would go around better equipped.
+
+[HEADER 000018B6]
+I'd searched Klausner once - there was nothing on his body.
+
+[HEADER 000018B2]
+Bullwhips might be handy for exploring ancient ruins...
+
+[HEADER 000018B3]
+...but they're no use when you're trapped in a cave.
+
+[HEADER 000018B4]
+Klausner clearly fancied himself as a latter-day Indiana Jones.
+
+[HEADER 000018C1]
+So much for whips. They're all show.
+
+[HEADER 000018BE]
+A leather pouch was tucked behind Klausner's body.
+
+[HEADER 0037001B]
+Hey? What's this?
+
+[HEADER 0037001C]
+I'd found some kind of lens...
+
+[HEADER 0037001D]
+...a very old lens made from a very hard glass.
+
+[HEADER 0037001E]
+That settled it.
+
+[HEADER 0037001F]
+The knight on the manuscript had been holding a lens the whole time, not a crystal ball.
+
+[HEADER 000018BF]
+There was nothing else in the pouch.
+

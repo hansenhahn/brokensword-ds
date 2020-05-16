@@ -1,0 +1,2037 @@
+[HEADER 00000000]
+It was the Spanish Bible I'd borrowed from the mausoleum.
+
+[HEADER 00000001]
+It was a Paris daily tabloid newspaper full of sex, scandal and sports results.
+
+[HEADER 00000002]
+It was a thin, supple twig of hazel.
+
+[HEADER 00000003]
+It was a rectangle of towelling, printed with the words: `Nagopaleen's stout builds body!'
+
+[HEADER 00000004]
+The towel was soaked through with water.
+
+[HEADER 00000005]
+The towel had dried out but was still damp.
+
+[HEADER 00000006]
+The towel had dried out and was barely damp.
+
+[HEADER 00000007]
+It was a key ring bearing one large brass key and a tag which read 'Hotel Ubu'.
+
+[HEADER 00000008]
+It was the bright red ball I'd got from the juggler.
+
+[HEADER 00000009]
+The statuette looked pretty sorry for itself after its fall; chipped with both arms broken off.
+
+[HEADER 0000000A]
+The nose was hollow. Printed on the inside were the words: `La Risée du Monde, Paris'.
+
+[HEADER 0000000B]
+It was a bright red plastic nose, part of a clown's costume.
+
+[HEADER 0000000C]
+It was hard to believe it was the same chalice. Now the light gleamed off its perfect surface.
+
+[HEADER 0000000D]
+Fifty bucks! In the States I'd have thought of it as a good night out. Here in Marib it represented hard currency.
+
+[HEADER 0000000E]
+It was Nico's photograph of the man we suspected of killing Plantard.
+
+[HEADER 0000000F]
+On the key ring was a big, old key that looked like it might fit the excavation door.
+
+[HEADER 00000010]
+The keyring contained the keys to the washroom and the excavation.
+
+[HEADER 00000011]
+Now I'd substituted the fake key for the excavation key. It looked okay but felt false.
+
+[HEADER 00000012]
+It was a short piece of wire, twisted into a rough circle.
+
+[HEADER 00000013]
+It was a large blue gemstone.
+
+[HEADER 00000014]
+The greasepaint had worked magic. Now it looked like aged marble instead of cheap plaster.
+
+[HEADER 00000015]
+The stick I'd broken off was surprisingly hard and inflexible.
+
+[HEADER 00000016]
+It was the key to the excavation.
+
+[HEADER 00000017]
+It was my plaster copy of the excavation key. Trouble was, it looked like plaster and it felt like plaster.
+
+[HEADER 00000018]
+The plaster key had soaked up the paint nicely and now looked pretty convincing. Still felt like plaster, though.
+
+[HEADER 00000019]
+It was the card I'd found in the hotel bedroom. It read 'Thomas Moerlin, Grüber Electronics Corporation'.
+
+[HEADER 0000001A]
+It was a metal rod with a handle at one end and a short crosspiece at the other.
+
+[HEADER 0000001B]
+It was the ancient manuscript which Khan had stolen from Plantard.
+
+[HEADER 0000001C]
+The matchbook bore a pattern of swirling colour and the words: `Club Alamut'.
+
+[HEADER 0000001D]
+It was the scrap of material I'd found in the sewer.
+
+[HEADER 0000001E]
+I was now in possession of the Patented Stobbart Stick-Towel! If I could only think of a use for it...
+
+[HEADER 0000001F]
+It was a handful of plaster left in the castle by Peagram's archaeology team.
+
+[HEADER 00000020]
+It was a device used for measuring people's blood pressure.
+
+[HEADER 00000021]
+The tickets were two standard returns from London to Stirling in Scotland.
+
+[HEADER 00000022]
+It was the `Shake 'n Shock' buzzer I'd been given by the man in the costume shop.
+
+[HEADER 00000023]
+The card read: Augustin Rosso, and gave an address to the south of the Montparnasse Cemetery.
+
+[HEADER 00000024]
+It was the key to the club toilet.
+
+[HEADER 00000025]
+It was the bar of soap I'd stolen from the washroom of the excavation site.
+
+[HEADER 00000026]
+The bar of soap had the imprint of a key in it.
+
+[HEADER 00000027]
+I had filled the key's imprint in the soap with dry plaster.
+
+[HEADER 00000028]
+It was a smooth, intricately carved piece of stone that had been concealed inside the great candle.
+
+[HEADER 00000029]
+The chalice from the mausoleum was obviously of superior workmanship but grimy and tarnished.
+
+[HEADER 0000002A]
+It was the soggy tissue I'd found in the sewers.
+
+[HEADER 0000002B]
+It was a short handled brush.
+
+[HEADER 0000002C]
+It was the short length of chain I'd taken from the toilet of the Club Alamut.
+
+[HEADER 0000002D]
+It was a length of coarse grey towelling from the toilet of the Club Alamut.
+
+[HEADER 0000002E]
+It was a simple but elegant tripod made of metal with traces of colored enamel still visible in places.
+
+[HEADER 0000002F]
+It was the lens that I'd found on Klausner's body.
+
+[HEADER 00000030]
+It was the roller towel from the club washroom, now cut in half along its length by Ultar.
+
+[HEADER 00000031]
+The mirror from Lopez's utility room. Yup, I was still looking great.
+
+[HEADER 00000032]
+The tissue was pretty charred but the greasepaint had done most of the burning.
+
+[HEADER 00000033]
+The cog was mounted on a short, slim spindle.
+
+[HEADER 00000034]
+The cog was one of those objects I wished I hadn't carried in my pocket.
+
+[HEADER 00000035]
+It was the handle from the church tower's winding mechanism. It had cog teeth mounted near its base.
+
+[HEADER 00000036]
+It was an old coin.
+
+[HEADER 00000037]
+It was a black plastic pen top.
+
+[HEADER 00000038]
+The pipe could have been anything from fifty to several hundred years old...
+
+[HEADER 00000039]
+It was the barman's flashlight.
+
+[HEADER 0000003A]
+No point in phoning that guy again...
+
+[HEADER 0000003B]
+With a flourish, I tied the end of the towel to the stick with a textbook reef knot.
+
+[HEADER 0000003C]
+Quickly and without fuss I swapped the fake key for the real thing.
+
+[HEADER 0000003D]
+I made an impression of the big key in the cake of soap.
+
+[HEADER 0000003E]
+I carefully sprinkled the plaster into the soap mould I'd made of the key.
+
+[HEADER 0000003F]
+The plaster seemed to soak up the greasepaint until it began to look like stone.
+
+[HEADER 00000040]
+Uh... no.
+
+[HEADER 00000041]
+Hmm... Maybe not.
+
+[HEADER 00000042]
+Hmm... No way.
+
+[HEADER 00000043]
+Uh... That's not a good idea.
+
+[HEADER 00190010]
+The plaster cast was a pretty neat replica of the back of the stone, complete with protruding fingers.
+
+[HEADER 00000044]
+Ah, no.
+
+[HEADER 00000045]
+Uh... no.
+
+[HEADER 00000046]
+No.
+
+[HEADER 00000047]
+Hmm... No.
+
+[HEADER 00000048]
+He wouldn't have wanted to see it.
+
+[HEADER 00000049]
+She wouldn't have wanted to see it.
+
+[HEADER 0000004A]
+He wouldn't be interested in that.
+
+[HEADER 0000004B]
+She wouldn't be interested in that.
+
+[HEADER 00000064]
+Empty
+
+[HEADER 00000065]
+English
+
+[HEADER 00000066]
+French
+
+[HEADER 00000067]
+German
+
+[HEADER 00000068]
+Italian
+
+[HEADER 00000069]
+Spanish
+
+[HEADER 0000006A]
+Continue
+
+[HEADER 0000006B]
+New Game
+
+[HEADER 0000006C]
+Erase Game
+
+[HEADER 0000006D]
+Are you sure?
+
+[HEADER 0000006E]
+Play
+
+[HEADER 0000006F]
+Options
+
+[HEADER 00000070]
+No
+
+[HEADER 00000071]
+Yes
+
+[HEADER 00000072]
+Copy
+
+[HEADER 00000073]
+Erase
+
+[HEADER 00000074]
+Copy Game
+
+[HEADER 00000075]
+Erase Game
+
+[HEADER 00000076]
+Audio
+
+[HEADER 00000077]
+On
+
+[HEADER 00000078]
+Off
+
+[HEADER 00000079]
+Music Test
+
+[HEADER 0000007A]
+SFX Test
+
+[HEADER 0000007B]
+Language
+
+[HEADER 0000007C]
+Choose Language
+
+[HEADER 0000007D]
+Credits
+
+[HEADER 0000007E]
+Save Game
+
+[HEADER 0000007F]
+Name:
+
+[HEADER 00000080]
+OK
+
+[HEADER 00000081]
+Cancel
+
+[HEADER 0000005A]
+Bonus Images
+
+[HEADER 0000005B]
+Director's Message
+
+[HEADER 0000005C]
+Diary
+
+[HEADER 0000005D]
+Load Game
+
+[HEADER 0000005E]
+Save Game
+
+[HEADER 0000012C]
+Hints:
+
+[HEADER 0000012D]
+Completed:
+
+[HEADER 0000012E]
+Confirm
+
+[HEADER 0000012F]
+Saving over this slot will overwrite the previously saved game. Are you sure that you want to do this?
+
+[HEADER 00000130]
+Overwrite
+
+[HEADER 00000131]
+Any unsaved progress will be lost.  Are you sure that you want to load?
+
+[HEADER 00000132]
+Elapsed time:
+
+[HEADER 00000133]
+Game saved
+
+[HEADER 00000134]
+Settings
+
+[HEADER 00000135]
+Tell me more
+
+[HEADER 00000136]
+Back
+
+[HEADER 00000137]
+The save data could not be accessed
+
+[HEADER 00000138]
+Please turn the power off
+
+[HEADER 00000139]
+and reinsert the DS Card.
+
+[HEADER 0000013A]
+Preferences
+
+[HEADER 0000013B]
+You will lose the previously saved game if you continue. Are you sure that you want to erase this file?
+
+[HEADER 0000013C]
+Game Help Options
+
+[HEADER 0000013D]
+Current Puzzle Hint
+
+[HEADER 0000013E]
+Puzzle Hints
+
+[HEADER 0000013F]
+Interface Tips
+
+[HEADER 00000140]
+Puzzle Hints
+
+[HEADER 00000141]
+Game loaded
+
+[HEADER 00000142]
+Game erased
+
+[HEADER 00000143]
+Music Volume
+
+[HEADER 00000144]
+Sound Effects Volume
+
+[HEADER 00000145]
+Speech Volume
+
+[HEADER 00000146]
+This data is corrupt and will be erased
+
+[HEADER 00000147]
+The save data is corrupted and will be deleted
+
+[HEADER 00000148]
+Settings are corrupted and have been reset to default values
+
+[HEADER 00000149]
+Saving... Do not turn the power off or remove the Game Card.
+
+[HEADER 0000014B]
+Loading... Do not turn the power off or remove the Game Card.
+
+[HEADER 0000014A]
+Text Print Audio
+
+[HEADER 00000190]
+Ireland
+
+[HEADER 00000191]
+Paris
+
+[HEADER 00000192]
+Scotland
+
+[HEADER 00000193]
+Spain
+
+[HEADER 00000194]
+Syria
+
+[HEADER 00000195]
+Train
+
+[HEADER 0000019A]
+Castle
+
+[HEADER 0000019B]
+Dig
+
+[HEADER 0000019C]
+Hay Cart
+
+[HEADER 0000019D]
+Pub
+
+[HEADER 0000019E]
+Carchon Apt.
+
+[HEADER 0000019F]
+Drawing Room
+
+[HEADER 000001A0]
+Hallway
+
+[HEADER 000001A1]
+Library
+
+[HEADER 000001A2]
+Nico's Apt.
+
+[HEADER 000001A3]
+Rue Jarry
+
+[HEADER 000001A4]
+Alley
+
+[HEADER 000001A5]
+Café Ext.
+
+[HEADER 000001A6]
+Café Int.
+
+[HEADER 000001A7]
+Courtyard
+
+[HEADER 000001A8]
+Roadworks
+
+[HEADER 000001A9]
+Sewers
+
+[HEADER 000001AA]
+Anti Chamber
+
+[HEADER 000001AB]
+Chamber
+
+[HEADER 000001AC]
+Quayside
+
+[HEADER 000001AD]
+State Room
+
+[HEADER 000001AE]
+Skiff Room
+
+[HEADER 000001AF]
+Costumier
+
+[HEADER 000001B0]
+Police
+
+[HEADER 000001B1]
+Hotel Ubu
+
+[HEADER 000001B2]
+Hospital
+
+[HEADER 000001B3]
+Museum
+
+[HEADER 000001B4]
+Montfauçon
+
+[HEADER 000001B5]
+Dig
+
+[HEADER 000001B6]
+Church
+
+[HEADER 000001B7]
+Garden
+
+[HEADER 000001B8]
+Hall
+
+[HEADER 000001B9]
+Mausoleum
+
+[HEADER 000001BA]
+Room
+
+[HEADER 000001BB]
+Well
+
+[HEADER 000001BC]
+Carpet Stall
+
+[HEADER 000001BD]
+Club
+
+[HEADER 000001BE]
+Market
+
+[HEADER 000001BF]
+Toilet
+
+[HEADER 000001C0]
+Bull's Head
+
+[HEADER 000001C1]
+Roof
+
+[HEADER 000000FA]
+LINE '250' MISSING FROM MASTER LANGUAGE.TXT
+
+[HEADER 000000FB]
+LINE '251' MISSING FROM MASTER LANGUAGE.TXT
+
+[HEADER 000000FC]
+LINE '252' MISSING FROM MASTER LANGUAGE.TXT
+
+[HEADER 00001410]
+I had enough for a story.  An amazing story that was going to make my reputation -
+
+[HEADER 00000D01]
+and blow Carchon's to pieces. I needed to get home fast - and start typing.
+
+[HEADER 0000176E]
+Metallic artefact - this is placeholder.
+
+[HEADER 00001408]
+The note had been encoded with a substitution cipher - with letters substituted for symbols.
+
+[HEADER 0000176F]
+Puzzle cheated! :)
+
+[HEADER 0000140A]
+PIERRE. FULL REPORT TO
+
+[HEADER 0000140B]
+I wasn't the only one to make the connection between the Costume Killer murders.
+
+[HEADER 0000140C]
+I'd been right all along:  that was why he had asked to meet me. But what did I know that he didn't?
+
+[HEADER 0000140D]
+I had decrypted the note. It read:
+
+[HEADER 0000140E]
+Pierre. Full report to follow. But this is too urgent to wait. Arno and Yamada both dead.
+
+[HEADER 00001401]
+The photograph showed Carchon smiling happily to camera -
+
+[HEADER 00000CFF]
+This is not a coincidence. Indeed it seems that all of us who came together in July are in danger.
+
+[HEADER 00000D00]
+Take great care. X
+
+[HEADER 00000CFE]
+Carchon knew that he was in grave danger.
+
+[HEADER 000013B6]
+The brass case was smooth and perfectly round.
+
+[HEADER 000013BE]
+The shell case had been flattened at one end, forming a serrated edge.
+
+[HEADER 00000BCC]
+It was one of my hair clips. My favourite, in fact!
+
+[HEADER 00000BCA]
+It was a boat ticket, stamped "Bateaux de la Conciergerie".
+
+[HEADER 00000BCB]
+When I was a little girl, Papa used to take me on the Bateaux Mouches as a treat.
+
+[HEADER 00000CE4]
+The ticket could be a clue - so best not trash it.
+
+[HEADER 00000BE0]
+The tube of paint from Imelda's easel.  French ultramarine...
+
+[HEADER 00000FA3]
+The paint had been squeezed from the tube.
+
+[HEADER 00000BF6]
+A key - maybe a safe key...
+
+[HEADER 00000BF7]
+A safe key...
+
+[HEADER 00000C96]
+The artefact was like an old printers' block, covered in symbols.
+
+[HEADER 00000C97]
+The cylinder was covered in the blue paint.
+
+[HEADER 00000C98]
+I needed to work out what to do before the paint dried.
+
+[HEADER 00000BFC]
+I hoped that I hadn't ruined it for nothing...
+
+[HEADER 00000BFB]
+The cloth was covered in blue paint.
+
+[HEADER 00000CA1]
+It was the beautiful elephant my father had carved.
+
+[HEADER 00000CB5]
+Rolling out the painted cylinder had given me a print of a secret message.
+
+[HEADER 00000CB6]
+It read - "Sub-Judice".  Below it was a sequence of letters - SDSSDSS.
+
+[HEADER 00000BF8]
+The cloth was embroidered with an unusual symbol.
+
+[HEADER 00000CFD]
+with a background of burning huts and death.
+
+[HEADER 00001CE8]
+It was the drawing room key.
+
+[HEADER 00001CE9]
+On the pouch was the cross symbol of Carchon's organisation.
+
+[HEADER 00001CEA]
+Inside the pouch were two items - a strange metallic artefact and a letter in some kind of code.
+
+[HEADER 00001CEB]
+The Artefact had a sword laid across scales.
+
+[HEADER 00001CEC]
+The scales of justice - I wondered if this connected to the room at the quayside.
+
+[HEADER 00001CED]
+There was a picture of Lady Justice on the locked panel...
+
+[HEADER 00001CEF]
+... in the room below the Conciergerie.
+
+[HEADER 00001CEE]
+The letter was in code.
+
+[HEADER 00001DD8]
+So much for Imelda's innocence.  Plantard was working for her -
+
+[HEADER 00001DD9]
+and for Carchon.  But why did Plantard want to meet?  Was it a trap?
+
+[HEADER 00001DDA]
+Or maybe he was in too deep and he needed me to tell the story.
+
+[HEADER 00001DDB]
+Whatever the story was.  One thing was clear - it was a story worth killing for...
+
+[HEADER 00001DC6]
+"Plantard. Pierre killed."
+
+[HEADER 00001DC7]
+"Murderer must have followed trail from Arno and Yamada.
+
+[HEADER 00001DC8]
+"He will come for us now. We must be vigilant.
+
+[HEADER 00001DC9]
+"Thierry's girl broke into Pierre's safe. She worries me.
+
+[HEADER 00001DCA]
+" Imelda."
+
+[HEADER 00002361]
+It was the key from Imelda's locket.
+
+[HEADER 00001CAD]
+Another coded message - using the same cipher system.
+
+[HEADER 00001CAE]
+So Plantard was involved with Carchon.
+
+[HEADER 00001419]
+My father - grinning at the camera. I couldn't believe it.
+
+[HEADER 00000BE1]
+I smeared the paint all over the cloth. When I do messy I really like to put my heart into it.
+
+[HEADER 00000BE2]
+I hoped this was going to help...
+
+[HEADER 00000BE3]
+They don't make lace like that any more.
+
+[HEADER 00000BFD]
+I wiped the paint-covered cloth over the surface of the stone cylinder.
+
+[HEADER 00000BFE]
+It took me right back to art class at school.  And Maurice, my gorgeous art teacher...
+
+[HEADER 00000CE9]
+Such a shame they had to fire him. Ah, well... Concentrate, Nico, concentrate!
+
+[HEADER 00000CD2]
+Putting the paint straight on the cylinder would be too messy.  The paint would go everywhere.
+
+[HEADER 00000CD4]
+I wouldn't be able to print straight onto the cloth.  I needed something flat to print onto.
+
+[HEADER 00001771]
+Sliding the bars was the only way to free the latch.
+
+[HEADER 00001776]
+I could do with some locks like this on my apartment.
+
+[HEADER 00001777]
+Yes!  One down, one to go...
+
+[HEADER 00001778]
+Perfect!  Nothing like a good convent education for honing your lock-picking skills.
+
+[HEADER 000017B1]
+Psalms thirty-two, seven.  The numbers referred to a chapter and a verse in the Bible.
+
+[HEADER 000017B2]
+Not much to go on, but it must have meant something.
+
+[HEADER 000017B3]
+If I examined the tomb more closely there might be other clues to find.
+
+[HEADER 000017B4]
+LINE '6068' MISSING FROM MASTER LANGUAGE.TXT
+
+[HEADER 000017B5]
+LINE '6069' MISSING FROM MASTER LANGUAGE.TXT
+
+[HEADER 000017B6]
+John four, eleven.
+
+[HEADER 000017B7]
+Corinthians fourteen, five.
+
+[HEADER 000017B8]
+Psalms twenty-two, twenty-one.
+
+[HEADER 000017B9]
+There were no more references to find.
+
+[HEADER 000017BB]
+But a series of Roman numerals ran around the plaque.
+
+[HEADER 000017BC]
+I made a note in case they meant something.
+
+[HEADER 000017BD]
+A Biblical reference was engraved into the tomb edge.
+
+[HEADER 000017BE]
+Some kind of guide for the next world, I guess.
+
+[HEADER 000017BF]
+My eye was drawn to the Biblical reference carved into the edge of the tomb.
+
+[HEADER 000017C0]
+Hey! Maybe this Biblical reference means something...
+
+[HEADER 00001783]
+The message was in code.  A code I was going to have to crack...
+
+[HEADER 00001784]
+The code was the same as the other one I'd already cracked.
+
+[HEADER 0000178D]
+That's it!  I'd cracked the code!
+
+[HEADER 00001788]
+That symbol was probably an "E".
+
+[HEADER 00002B03]
+Look for the one or two letter words and try out 'A' or 'I' or 'IN' or 'OF' or 'TO' or 'BY' etc.  If you guess right, then some of the 3 or 4 letter words will now become clear.
+
+[HEADER 00002B04]
+The letter 'E' is very common.  Find the most common glyph and try inserting an 'E' in its place.
+
+[HEADER 00002B05]
+The first word is PIERRE - that will give you four correct letters.
+
+[HEADER 00002B06]
+The first words are PIERRE. FULL REPORT TO FOLLOW.
+
+[HEADER 0000178E]
+The pieces of paper were the torn fragments of a photo.
+
+[HEADER 0000178F]
+But who was in the picture...?
+
+[HEADER 00002B07]
+Try matching the vertical and horizontal edges first.
+
+[HEADER 00002B08]
+Look for the parts of a face and see if you can fit them together.
+
+[HEADER 00001792]
+Oh my God!  It can't be...
+
+[HEADER 00001793]
+There was no doubt about it...
+
+[HEADER 00001794]
+It was a picture of my father!
+
+[HEADER 000017AA]
+As I looked through the scroll, the lens distorted the image in the window.
+
+[HEADER 000017AB]
+By manipulating the lens I could adjust the distortions...
+
+[HEADER 000017AF]
+The distortions came sharply into focus...
+
+[HEADER 000017B0]
+It was a Knight Templar burning at the stake!  And below him, a date in Roman numerals.
+
+[HEADER 00002B0F]
+LINE '11023' MISSING FROM MASTER LANGUAGE.TXT
+
+[HEADER 00002B10]
+LINE '11024' MISSING FROM MASTER LANGUAGE.TXT
+
+[HEADER 00001795]
+The first task was to place the correct red pieces into the right holes...
+
+[HEADER 0000179B]
+With the red pieces in place, the square bases fit onto the white pieces.
+
+[HEADER 0000179C]
+I just had to figure out where to place them.
+
+[HEADER 000017A0]
+Bingo!  I mean, checkmate!
+
+[HEADER 00008980]
+The note has been written using a substitution cipher. This means that a different symbol has been used to represent each letter of the alphabet.
+
+[HEADER 0000898A]
+To crack the code, you must correctly match all the symbols to their corresponding letters. Highlight a symbol, then highlight the corresponding letter.
+
+[HEADER 00008994]
+If you make a mistake, tap the 'go back' button to step back - or you can reset the whole puzzle by tapping the 'reset' button.
+
+[HEADER 000088B8]
+You must move the rectangular blocks so the latch can slide all the way across, so releasing the gate to open. Blocks move along their length - some vertically, some horizontally.
+
+[HEADER 000088C2]
+Touch the stylus on a block, and drag it horizontally or vertically along the appropriate axis.
+
+[HEADER 000089E4]
+A photograph has been torn into many fragments, which must be arranged in the correct position.
+
+[HEADER 000089EE]
+To move a fragment, touch it and the pointer will turn to a grasping hand. Drag the fragment to the appropriate position.
+
+[HEADER 000089F8]
+The fragments must be arranged so that the whole of the photograph fits within the available space.
+
+[HEADER 00008B74]
+A jumble of letters are carved onto the side of the knight's tomb. You must look for and highlight a number of Biblical verse references - comprising of the name of a Book followed by the Chapter and Verse - in Latin numerals.
+
+[HEADER 00008B7E]
+So, for example, Luke Chapter 8 Verse 2 would be displayed as Luke:VIII+II.
+
+[HEADER 00008B88]
+You must find and highlight all the verse references. Drag the stylus across the Touch Screen and you will see that a highlight trail is left.
+
+[HEADER 00008BA6]
+Highlight the full verse reference, and the letters will stay lit - otherwise the letters will fade. George will read the verse references once they are all highlighted.
+
+[HEADER 0000891C]
+To release the mechanism, the cylinder must be rotated a number of times in the correct directions. The cylinder is rotated clockwise and anti-clockwise by touching the buttons at each side of the upper part of the recess.
+
+[HEADER 00008926]
+If you get the order wrong, then the locking mechanism will reset, and you will have to start again.
+
+[HEADER 00008C3C]
+To release the mechanism, the stone key must be rotated a number of times in the correct directions.
+
+[HEADER 00008C46]
+There are two dials - the gold ring representing the Roman numerals 1 to 9, the red ring representing numerals 10 to 90.
+
+[HEADER 00008C50]
+Tap the relevant buttons to turn each ring to set up a particular number between a value of 1 and 99 between the arrows, and then tap the button in the lower right to select that number.
+
+[HEADER 00008C5A]
+The mechanism requires the correct numbers to be entered in order - get a number wrong, and the mechanism will reset.
+
+[HEADER 00008B10]
+Three lens elements need to be slid to the correct position within the circle so that, when aligned, they create a clear image.
+
+[HEADER 00008B1A]
+Each lens element can be moved by touching the numbered tab with the stylus and, when a grasped hand appears, sliding the stylus left or right. George will acknowledge the image once the lenses are correctly positioned.
+
+[HEADER 00008AAC]
+All the red pieces are in position. Now the white pieces must be placed along the central column of squares such that they place the red king in checkmate.
+
+[HEADER 00008AB6]
+Remember that the crown with four baubles represents the queen, the bulbous crown with the cross represents the king.
+
+[HEADER 00008AC0]
+To move a piece, touch it and the pointer will turn to a grasped hand, then drag the piece to the desired position within the central column of squares, and release.
+
+[HEADER 00008A48]
+Each chess piece must be placed in its corresponding hole.
+
+[HEADER 00008A52]
+Touch the stylus on any unplaced chess piece, and it will turn to reveal a pattern on its base. Likewise, touch the stylus on any hole in the board, and it will show a pattern.
+
+[HEADER 00008A5C]
+Each chess piece must be dragged onto the hole of its corresponding pattern. To do this, touch the stylus on a piece, and once the pointer turns into a grasping hand, drag it to the correct hole on the chess board.
+
+[HEADER 00008A66]
+If you try to put a piece into the wrong hole, then it will jump back to the side.
+
+[HEADER 00005014]
+Accessing the Options screen
+
+[HEADER 0000501E]
+Interacting with objects and people
+
+[HEADER 00005028]
+Moving the text forward
+
+[HEADER 00005032]
+Moving your character
+
+[HEADER 0000503C]
+Checking what your character is carrying
+
+[HEADER 00005046]
+Leaving a room
+
+[HEADER 00005050]
+Examining things in the environment
+
+[HEADER 0000505A]
+Examining objects in your inventory
+
+[HEADER 00005064]
+Talking to a character
+
+[HEADER 0000506E]
+Using an item on the background
+
+[HEADER 00005078]
+Using a background object while holding it in place
+
+[HEADER 00005082]
+Combining objects in your inventory
+
+[HEADER 00005070]
+Interface Tutorial
+
+[HEADER 00005072]
+Puzzle Hints
+
+[HEADER 00005073]
+Using an inventory item on a character
+
+[HEADER 00005075]
+Diary
+
+[HEADER 00005087]
+Return Visits
+
+[HEADER 0000508C]
+Another Hint
+
+[HEADER 00005096]
+Hint 1
+
+[HEADER 00005097]
+Hint 2
+
+[HEADER 00005098]
+Hint 3
+
+[HEADER 00005099]
+Hint 4
+
+[HEADER 00004E90]
+From time to time you will see a white stylus appear in the bottom right of the Touch Screen. Tap it to get advice on the user interface.
+
+[HEADER 00004E91]
+From time to time you will see a white exclamation mark appear in the bottom right of the screen. Move the Pointer over it, and press the A Button to get advice on the user interface.
+
+[HEADER 00004E92]
+If you are stuck, you can access the puzzle hints - either by tapping the blue question mark at the top right of the Touch Screen, or through the Options screen. The game counts how many times you ask for a hint - try to use as few as possible.
+
+[HEADER 00004E20]
+The Options screen allows you to load and save games, check for puzzle hints, examine the diary, and adjust your game preferences.
+
+[HEADER 00004E2A]
+To access the Options screen, tap the Options icon - the sheet of paper in the top left of the Touch Screen.
+
+[HEADER 00004E34]
+Touch and slide the stylus around the Touch Screen to discover areas of interest. Icons will appear over things with which you can interact - the shape of the icon depicting what you can do.
+
+[HEADER 00004E36]
+Slide the stylus over an icon so that it starts to animate - then lift the stylus to perform the specific action.
+
+[HEADER 00004E3E]
+When you have read the text in the top screen, tap the stylus anywhere on the Touch Screen to move the game forward.
+
+[HEADER 00004E48]
+To move your character, tap the stylus on the place that you want to walk to and lift. Beware - if you tap over an object with which you can interact, and an animating icon has appeared, then your character will perform that action instead.
+
+[HEADER 00004E52]
+Items that your character picks up are put into an 'inventory'. The inventory can be accessed by tapping on the bag icon on the Touch Screen.
+
+[HEADER 00004E5C]
+To leave a room, slide the stylus over the exit area. When an animating hand appears then lift the stylus, and your character will leave that area. Doors which might become an exit, but which are locked, may need to be opened before they can be used.
+
+[HEADER 00004E66]
+To examine something, touch and slide the stylus over it.  If it can be examined then an eye icon will appear.
+
+[HEADER 00004E68]
+Move the stylus over the eye icon until the eye starts to blink and then lift the stylus.
+
+[HEADER 00004E70]
+To examine an object that you have picked up and placed in your inventory, first you must open your inventory by tapping on the bag icon on the Touch Screen.  The inventory will be displayed. Then simply tap the stylus on the object that interests you.
+
+[HEADER 00004E7A]
+Touch and slide the stylus over the character. A mouth icon will appear - slide the stylus over the mouth icon until it starts to animate, then lift the stylus.
+
+[HEADER 00004E84]
+Some characters may not want to talk to you immediately. But if they do, icons depicting subjects, and reflecting the objects in your inventory will be displayed. Simply tap the relevant icon and a conversation will start.
+
+[HEADER 00004E98]
+Some items in your inventory can be given to, or used on other characters. To do this, first open your inventory. Touch and hold the stylus on the item you want to use.
+
+[HEADER 00004E9A]
+Drag the item out of the inventory: after a few moments the rest of the inventory will fade away.  Now drag the item over the character.
+
+[HEADER 00004E9C]
+When the mouth icon starts to animate, release the item and see what happens.
+
+[HEADER 00004EA2]
+Some objects in the environment can be lifted and held up. If your character stays holding an object up, then inventory items may be used on that object.
+
+[HEADER 00004EA4]
+Tap anywhere on the floor area to drop the object and return to normal gameplay control.
+
+[HEADER 00004EAC]
+Some items in your inventory can be combined. To do this, open your inventory. Then touch the stylus on the first item you want to combine.
+
+[HEADER 00004EAE]
+Drag the item on top of a second item and release. If the items can be successfully combined, then you will see the result in the top screen.
+
+[HEADER 00004E9E]
+The diary keeps a record of what you have achieved in the game. It is useful to recap. Remember - sometimes information recorded in the diary is necessary to solve puzzles!
+
+[HEADER 00004EA0]
+The diary can be accessed through the Options menu.
+
+[HEADER 00004E95]
+Some background objects may require an item that you will get later in the game, and so can't be used immediately. Don't worry - the game will not let you progress from a section until you have completed everything that needs to be done there.
+
+[HEADER 000050DC]
+Items in your inventory can sometimes be used to act upon objects in the game.  To do this, first open your inventory.
+
+[HEADER 000050E6]
+Touch and hold the stylus over the item you want to use.  Drag it out of the inventory: after a few moments the rest of the inventory will fade away.
+
+[HEADER 000050F0]
+Now drag the item onto the background object. When the interaction icon starts to animate, release the item and see what happens.
+
+[HEADER 00005208]
+Palais Royale: Pierre Carchon Interview
+
+[HEADER 00005212]
+Below the Conciergerie: Sub Judice
+
+[HEADER 0000521C]
+Meeting Plantard: Explosive Results
+
+[HEADER 00005226]
+Palais Royale: Imelda In Danger
+
+[HEADER 00005230]
+Paris: Vacation
+
+[HEADER 0000523A]
+Paris: Clown Chasing
+
+[HEADER 00005244]
+Paris: Crune Museum
+
+[HEADER 0000524E]
+Ireland: The Lochmarne Gem
+
+[HEADER 00005258]
+Paris: Montfauçon
+
+[HEADER 00005262]
+Syria: Marib
+
+[HEADER 0000526C]
+Syria: Bull's Head
+
+[HEADER 00005276]
+Spain: Villa de Vasconcellos
+
+[HEADER 00005280]
+Paris: Baphomet Dig
+
+[HEADER 0000528A]
+Scotland: Train
+
+[HEADER 00005294]
+Scotland: St Ninian's
+
+[HEADER 000055EE]
+Contents
+
+[HEADER 000055EF]
+Current Entry
+
+[HEADER 000055F0]
+Relaxing in bath when I was disturbed by phone call from my editor, Ronnie. He asked me to interview Pierre Carchon - media tycoon and serial philanderer. On the case like a shot.
+
+[HEADER 000055FA]
+Creepy mime outside the Carchons' apartment.
+
+[HEADER 00005604]
+Mme. Carchon cold as ice. M. Carchon suave and charming - living up to his reputation. Played along with his flirtation.
+
+[HEADER 0000560E]
+The sound of a vase smashing, and M. Carchon went to investigate. A gunshot - I rushed to the room and found mime standing over Carchon's body.
+
+[HEADER 00005618]
+Mime beckoned. As I walked to him he punched me. Knocked me out.
+
+[HEADER 00005622]
+Came to, to find Imelda distraught - almost feel sorry for her.
+
+[HEADER 0000562C]
+Must get to the bottom of this story before the police arrive. This is the break that I have waited for.
+
+[HEADER 00005636]
+Imelda doesn't trust me very much. Fortunately, she has chosen to let me investigate her husband's murder.
+
+[HEADER 00005640]
+In Carchon's safe, found a stone cylinder with symbols carved on surface. Got an imprint and found that it contained a coded message.
+
+[HEADER 0000564A]
+Sub-Judice - SDSSDSS. Sub-Judice refers to a case that is under the jurisdiction of a court - but what about the letters?
+
+[HEADER 00005654]
+Carchon was carrying a boat ticket marked 'Bateaux de la Conciergerie' - the Conciergerie being the ancient law-courts. The coded message includes the words 'Sub Judice'.
+
+[HEADER 00005656]
+I should follow the clues exactly - by going to the quayside on the Ile de la Cité - literally under the Conciergerie.
+
+[HEADER 0000565E]
+Found a shell case underneath rotting skiff. Weird thing to find in a grotto.
+
+[HEADER 00005668]
+Carchon's stone cylinder operated a mechanism which opened door to a hidden chamber. But my way is blocked. Someone has gone to great lengths to protect something.
+
+[HEADER 00005672]
+I've made it into an extraordinary state room, the place that someone wanted to hide. Something very sinister going on, and I'm part of it.
+
+[HEADER 0000567C]
+Amazing! Carchon, the 'media hero', has a very nasty past. And he is somehow connected to the Costumer Killer murders.
+
+[HEADER 0000567E]
+They have been watching me - will they come after me now? Need to get the story published straight away. Ronnie will love it.
+
+[HEADER 00005681]
+Can't believe it. Ronnie spiked the story. Someone powerful has got to him, someone connected with Carchon and this whole nasty business. My big break - and now I must let it go.
+
+[HEADER 00005686]
+strange. guy called Plantard phoned, saying he had  information about the Costume Killer. How did he know I was writing the story, let alone that it had been spiked?
+
+[HEADER 00005688]
+He wants me to meet him at the Café de la Chandelle Verte tomorrow  morning. But should I go? What if it's a trap?
+
+[HEADER 000059D8]
+Arrived to meet Plantard. Turns out the café has been blown up - Plantard is the latest victim of the Costume Killer. Will I be next?
+
+[HEADER 000059E2]
+Met an American guy, George, who was caught in the blast. He's keen to find out what happened. I gave him my phone number - I hope that wasn't a mistake. Last thing I need is someone pestering me.
+
+[HEADER 000059EC]
+George called. He has found some clues. I invited him over this afternoon - need to find out more for myself before he arrives. Should I go to the police? Can I trust them? Glad to have someone else investigating.
+
+[HEADER 000059F6]
+Fleur, the flower seller, tells me that a girl who looked like me broke into my apartment. She must have planted a bug - which is how Plantard knew about the spiked story.
+
+[HEADER 000059F8]
+Maybe Plantard was scared and wanted to talk to me - tell me what was really going on.
+
+[HEADER 000059FA]
+Carchon's organisation have kept me under surveillance, but have chosen not to kill me. Yet. How about the Costume Killer? There's some kind of war going on, but I don't know how - or why - I am involved.
+
+[HEADER 00005A00]
+The police missed evidence in the café - not that I'm surprised. Found a pouch with another coded letter, and a strange metal object with a familiar symbol.
+
+[HEADER 00005A02]
+Decrypted the message - it was written to Plantard by Imelda. She was clearly part of the organisation and lied to me - her front was a complete sham.
+
+[HEADER 00005A0A]
+She warns Plantard that the murderer will come after them. Plantard must have really wanted to tell me, or show me something.
+
+[HEADER 00005A14]
+Oh no. Found part of a photograph which links my father directly with Carchon. He was part of Carchon's organisation. A fascist involved in war atrocities. Can it really be true?
+
+[HEADER 00005A1E]
+Papa is the link to this whole business. Was he the real reason why Carchon asked to meet me? I hope George does come over - but this part of the story must remain my own terrible secret.
+
+[HEADER 00005DC0]
+Three messages on my answer-machine. My editor very worried about the story. George calling from Ireland - drunk.
+
+[HEADER 00005DCA]
+And finally, Imelda Carchon. She said that a man called Moerlin is visiting her for dinner tonight. That's Khan - the Costume Killer! She's in terrible danger. I have to go and warn her.
+
+[HEADER 00005DD4]
+Broken into Carchon's apartment. I make a great cat burglar.
+
+[HEADER 00005DDE]
+So now it's Imelda's turn to die. Another murder by the Costume Killer - Moerlin, or Khan. This time dressed as a cavalier.
+
+[HEADER 00005DE8]
+The police won't investigate - they'll just cover it up as they have covered up all the other killings.
+
+[HEADER 00005DF2]
+Thank God. Papa... wasn't working with Carchon. He was a spy - working undercover. And he was Imelda's lover! One of the good guys all along. This has to remain my secret - no one would understand.
+
+[HEADER 000061A8]
+My long overdue vacation in Paris. This is the life, sitting in cafes, drinking coffee, enjoying the sunshine... and the ladies.
+
+[HEADER 000061B2]
+Woah! The café just exploded. EXPLODED! A clown left a bomb in an accordion. Killed a guy. And nearly killed me. I will bring that clown to justice. Once I get some hearing back in my ears.
+
+[HEADER 000061BC]
+The police don't think I had anything to do with the explosion. Which is a relief. But who was responsible?
+
+[HEADER 000061C6]
+Met a very cute photo-journalist called Nico Collard. She works for La Liberté - some kind of newspaper. She knew something about whoever planted the bomb, but wasn't giving much away.
+
+[HEADER 000061C8]
+But, she did give me her number!
+
+[HEADER 000061D0]
+Met an old guy in the courtyard near the café. He saw a man running away after the bomb blast, wearing a jacket made of the same material I found in the sewers.
+
+[HEADER 000061DA]
+He gave the jacket away straight away. But I've got the phone number of the tailor who made it, so I might have a lead.
+
+[HEADER 00006590]
+Visited Nico in her apartment. Turns out, her editor spiked the story.
+
+[HEADER 0000659A]
+Seems some important guys are being assassinated by clowns and penguins, while the police are keeping quiet about the murders. Not quite the vacation I expected.
+
+[HEADER 000065A4]
+Inside the clown's nose I found the name of the costume shop from which the clown suit was hired. Great lead.
+
+[HEADER 000065AE]
+Nico's sharp. When I showed her the material that I found in the courtyard, she gave me a photograph she took at the scene.
+
+[HEADER 000065B0]
+It shows a man emerging from the courtyard, wearing trousers made of the same material - and there's a scar on his cheek in the shape of a crescent moon.
+
+[HEADER 000065B8]
+The guy in Nico's photograph - he bought greasepaint from the costume shop, and rented two costumes; Seamus the Pixie, and Bozo the Clown. Apparently he called himself Khan. I'm on his trail!
+
+[HEADER 000065C2]
+Nico was right! The police are ignoring these murders! Inspector Rosso refused to even discuss the incident, and said he'd been taken off the case. It is beginning to look like a cover up.
+
+[HEADER 000065CC]
+Gave that tailor Todryk another call. He finally admitted to knowing something - confirmed that the guy who bought the suit was called Khan. Apparently he's staying at the Hotel Ubu. I'm getting closer.
+
+[HEADER 000065D6]
+Met the most fantastic, and insane, English woman, Lady Piermont. She recognised the photo of Khan, but said he claimed to be called Moerlin.
+
+[HEADER 000065E0]
+He's been lying to her, toying with her affections - brave man. She's after revenge.
+
+[HEADER 000065EA]
+That was so close. Just as I was searching Khan's hotel room, he came in. I hid in the wardrobe. My heart was thumping so hard, I am amazed he didn't hear me.
+
+[HEADER 000065F4]
+He's left his trousers on the bed. I found a matchbook with the name 'Club Alamut' and a fake electrician's ID card.
+
+[HEADER 000065FE]
+Lady Piermont is fantastic! If I were a couple of hundred years older... After helping me get the room key, she then worked her magic to get me Khan's stash out the hotel safe.
+
+[HEADER 00006600]
+It turned out to be an ancient manuscript. So that was what Plantard was killed for - but why?
+
+[HEADER 00006608]
+Showed Nico the manuscript. I think she was impressed! How could she not be?
+
+[HEADER 00006612]
+She knew right away that it was something to do with the Knights Templar - a hugely powerful medieval order with too few horses to go around, or something. But they had hidden treasure!
+
+[HEADER 0000661C]
+The tripod from the manuscript, it's in the Crune Museum right here in Paris. According to the plaque, it was discovered in Lochmarne, Ireland.
+
+[HEADER 00006626]
+An archaeologist, Professor Nigel Peagram found it, and he has the gem to go with it. So it's off to the Emerald Isle for me.
+
+[HEADER 00006630]
+My attempt to thwart the robbery at the museum was hindered by a shoddy totem pole. But then a figure swooped in from the ceiling, like some kind of superhero.
+
+[HEADER 0000663A]
+The masked saviour was Nico! I guess she did a good job - we do have the tripod. And I found the gem. Next move is to head to the site of Montfauçon, and see if I can figure out what to do with them.
+
+[HEADER 00006978]
+The tripod from the manuscript is in the Crune Museum right here in Paris! According to the plaque, it was discovered by the archaeologist Professor Nigel Peagram while excavating a site in Lochmarne, in the West of Ireland.
+
+[HEADER 00006982]
+The gem shown in the manuscript may well be there too.
+
+[HEADER 00006D60]
+Lochmarne - what a beautiful village. Nico and I must really be onto something here. Ancient manuscripts, the Knights Templar, and a tripod from a medieval manuscript. All I need is the gem that goes with it.
+
+[HEADER 00006D6A]
+I will start by asking the locals about Peagram and his dig.
+
+[HEADER 00006D74]
+Came across this guy, Sean Fitzgerald, who was as nervous as a long-tailed cat. He'd been given a package by Peagram - and told to give it to someone called Jacques Marquet.
+
+[HEADER 00006D7E]
+Fitzgerald panicked when I caught him out, rushed out the pub and... was run over. By a leprechaun. Khan rented a leprechaun suit - it must be him.
+
+[HEADER 00006D88]
+I met Khan. Face to face! He came right up to me and asked about the accident. He was looking for something - Fitzgerald must have had the gem in the package. Now all I need to do is find it.
+
+[HEADER 00006D92]
+Got it! Got the gem that goes with the tripod. Now I just have to figure out what to do with them.
+
+[HEADER 00006D9C]
+So the 'ghost of Lochmarne' is no more than a fierce Billy goat. For a moment I thought he was going to be incredibly awkward to get past, but in the end it was surprisingly simple. Who would have known?
+
+[HEADER 00006DA6]
+Nico will be impressed. I figured out how to open a secret door under the castle, which revealed my next big clue. An image of a gibbet in a place called Montfauçon. I'll just join the locals for a quick beer before heading back to Paris.
+
+[HEADER 00006DB0]
+Need to find out what Montfauçon is all about. Something to do with a hanging man? And I need to find out more about the mysterious Marquet.
+
+[HEADER 00006DBA]
+Marquet's in the local hospital. I'll head right over there.
+
+[HEADER 00006DC4]
+Marquet thought I was some sort of assassin. Seems someone is trying to stop him re-forging a sword. He wanted me to deliver the gem to some guy called the Grand Master.
+
+[HEADER 00006DCE]
+Marquet said those two thugs from the hotel would try to steal the tripod. He also mentioned someone called Klausner, who the assassin might have followed to Syria. Very confusing.
+
+[HEADER 00006DD8]
+But before I could get any explanation, I was ordered out by a doctor. Who wasn't a real doctor because he then murdered Marquet! These people certainly don't mess around.
+
+[HEADER 00006DE2]
+Wow, that Lobineau guy is such a jerk. "Look at me, look how much I know about the Knights Templar".
+
+[HEADER 00006DEC]
+Well. I guess he did know about the Hashshashin, and he knew about Montfauçon and where I need to head.
+
+[HEADER 00006DF6]
+Fooled an idiot juggler - or jongleur as he wanted to be called. And now here I go again. Into another sewer.
+
+[HEADER 00006E00]
+Gate-crashed a meeting of influential leaders - from the military, business, government and academia. Recognised the academic - he was hanging around the Hotel Ubu. Must have been staking out Khan.
+
+[HEADER 00006E0A]
+The big boss, a guy they called the 'Grand Master', mentioned a 'Broken Sword'. Didn't Marquet say something about fixing a sword? The Sword of Baphomet.
+
+[HEADER 00006E0C]
+They talked about Klausner who has some lens that's important, but he's vanished in Syria - they think the assassin may have got him too.
+
+[HEADER 00006E14]
+The Grand Master claimed to be a Knights Templar! I really don't trust them at all. They're just a bunch of megalomaniacs planning a "New Order".
+
+[HEADER 00006E1E]
+Found out what the tripod and gem were for. Placed on the stump at the centre of the circle where the neo-Templars had met, the gem refracted light onto five letters: M A R I B.
+
+[HEADER 00006E28]
+Nico informs me Marib is the name of a village in Syria. That was where Klausner was last seen. This assassin must be Khan. He's killing them to stop them from re-forging this Sword of Baphomet, whatever that might be.
+
+[HEADER 00006E32]
+Used the lens in the church in Montfauçon and discovered an ancient clue in the window. The burning of Jacques de Molay, and the date 1314.
+
+[HEADER 00006E3C]
+Got the priest in the church in Montfauçon to clean the Countess's chalice. He recognised the engraving on the side as matching one on a tomb in his church! The Pegasus of the de Vasconcellos family.
+
+[HEADER 00006E46]
+Around the outside of the inscriptions were the numerals XIV and XXVII at the top, VI and LXXXI to the left, III and I on the right, and XVII, XII, XXV along the bottom.
+
+[HEADER 00006E50]
+Seems the three-faced monstrosity I saw in that Syrian cave was a depiction of Baphomet.
+
+[HEADER 00006E5A]
+Lobineau says a Baphomet statue was recently found in Paris at the Institut Hermétique de Nerval. Apparently it's covered in Templar symbols.
+
+[HEADER 00006E47]
+On the tomb were carved the numerals; 14 Right, 27 Right, 6 Left, 81 Left, 3 right, 1 Left, 18 Right, 12 Right, 25 Left.
+
+[HEADER 00007148]
+Now in Marib, the village revealed by the tripod and gem. Need to start hunting for clues as to what happened to this Klausner guy, and the lens he is supposed to have found.
+
+[HEADER 00007152]
+The knight in the manuscript isn't holding a crystal ball. It must be the lens that Klausner was supposed to have found in Marib.
+
+[HEADER 0000715C]
+Oh no. Khan's here, and he's been asking around about ME. According to Ultar, the taxi driver, Klausner asked to go someplace called Bull's Head Hill. I need to check that out.
+
+[HEADER 00007166]
+This place is weird. Had to get a toilet brush to get a towel to fix a taxi. But I made it to Bull's Head Hill. Now to look for Klausner. Find him, find the lens.
+
+[HEADER 00007170]
+This is some vacation. Trapped in a cave in Syria, with a corpse for company and an assassin on my tail.
+
+[HEADER 0000717A]
+I was right, it's a lens, not a crystal ball. And now I have it. Although Klausner is dead, and I'm going the same way unless I find a way out. Kinda mixed result.
+
+[HEADER 00007184]
+Face to face with Khan again. But this time he tried to kill me. Fortunately my ninja-like reflexes saved me. The Latin inscription in the cave is a clue to where the Sword of Baphomet is hidden.
+
+[HEADER 00007532]
+Lobineau tells me that the knight's coat of arms belongs to the de Vasconcellos family in Costa Calida, Spain. Must figure out what the de Vasconcellos family has to do with the manuscript.
+
+[HEADER 00007530]
+It looks like Lobineau was right. The de Vasconcellos family was heavily involved with the Templars. The Countess's chess board dates back to that era as well. There's something odd about those chess pieces.
+
+[HEADER 0000753A]
+The Countess took me to her thirteenth century mausoleum, where five of the six de Vasconcellos Templars are buried.
+
+[HEADER 00007544]
+Found a chessboard puzzle which must connect to those weird chess pieces. Countess's face really lit up when I told her!
+
+[HEADER 0000754E]
+Countess told me about the missing de Vasconcellos knight, Don Carlos, and his conflict with the church after the dissolution of the Templars.
+
+[HEADER 00007550]
+Don Carlos returned from a scholarly trip to find his manservant killed, and his children gone. Distraught, he searched for his kids until the day he died.
+
+[HEADER 00007552]
+Since then, there has been a curse on the de Vasconcellos family.
+
+[HEADER 00007558]
+My new puzzle-solving skills have uncovered an ancient hidden Templar chalice! Now back to Paris to show Nico.
+
+[HEADER 00007559]
+Guess I've promised the Countess I'll try to find out what happened to Don Carlos. I'm sure that everything is related in some way.
+
+[HEADER 0000755A]
+So I've got a chalice. Now it's time to follow that lead from Ireland and explore Montfauçon further.
+
+[HEADER 00007562]
+The countess was very excited to hear that I had discovered the tomb of her missing ancestor - Don Carlos de Vasconcellos.
+
+[HEADER 0000756C]
+We translated the verses on Don Carlos's tomb.
+
+[HEADER 00007576]
+'A hiding place'. 'The well is deep'. 'Will bring light into hidden things'. 'Save me from the lion's mouth'. Those are the Bible verses on the tomb. But what do they mean?
+
+[HEADER 00007580]
+Guess I brought light to a hidden thing. The candle in the mausoleum contained some sort of carved stone key.
+
+[HEADER 0000758A]
+Have discovered a hidden cave.
+
+[HEADER 00007594]
+And found the pathetic corpses of the missing children, grasping the missing chess piece.
+
+[HEADER 0000759E]
+So the loyal manservant must have hidden them - and they waited there, terrified and all alone for their father's return, finally dying of dehydration and starvation.
+
+[HEADER 000075A8]
+Hope the de Vasconcellos curse has finally been lifted.
+
+[HEADER 00007918]
+Finally got past the dig guard, and into the Baphomet site.
+
+[HEADER 00007922]
+Found out what the chalice was for. Following the clues from Syria and Spain, I put the chalice in front of the Baphomet statue which revealed the image of a church reflected in its surface.
+
+[HEADER 00007D00]
+All the clues came together - and suddenly make sense. The year 1314. A church. A stream, or burn, running through the site of a massively one-sided battle.
+
+[HEADER 00007D05]
+It all points to the battle of Bannockburn, in which a small Scottish army defeated a much larger English army. Legend has it that the Scots were aided by a Templar army.
+
+[HEADER 00007D0A]
+So Nico and I are heading to the church of St. Ninian's, close to the city of Stirling in Scotland where the battle of Bannockburn was fought. Lobineau couldn't come... What a shame.
+
+[HEADER 00007D14]
+Khan said that the Sword of Baphomet is a colossal power. An energy emanating from the earth that can be harnessed to give whoever controls it great power.
+
+[HEADER 00007D1E]
+It seems that Khan was always on our side! Like his sect in medieval times, he had a great respect for the real Templars, but knew that he had to stop these frauds. Now he's dead, it's up to us - Nico and me.
+
+[HEADER 00007D28]
+Nico and me. I like the sound of that.
+
+[HEADER 000080E8]
+The Grand Master - a ruthless megalomaniac who manipulates all around him. An Assassin perpetuating a medieval conflict to uphold ancient honour.
+
+[HEADER 000080EB]
+It's crazy. But it all makes perfect sense.
+
+[HEADER 000080EE]
+The 'Sword', a colossal energy - a divine power. It is a communication with angels - the opportunity to learn arcane and divine secrets. A power that the Templars had - and lost.
+
+[HEADER 000080F2]
+No wonder these neo-Templar guys wanted to find and re-forge the 'Sword' so badly. When Edward II led his English army up to Bannockburn, this must have been his goal. And this is why the Templars intervened to stop him.
+
+[HEADER 000080FC]
+We made it. We prevented the Sword of Baphomet from being re-forged, and escaped those crazy neo-Templars unscathed! It's best kept secret, not that anyone would believe us if we tried to tell them the truth.
+
+[HEADER 00008106]
+But still, I got to kiss Nico, and she's agreed to have dinner with me when we get back to Paris! So I guess it's all worked out pretty well.
+
+[HEADER 000084D0]
+Ile de la Cité - an hour later
+
+[HEADER 000084DA]
+Nico's Apartment - that evening...
+
+[HEADER 000084E4]
+Café de la Chandelle Verte - the next morning...
+
+[HEADER 00630002]
+Later that afternoon...
+
+[HEADER 000084EE]
+A few hours later...
+
+[HEADER 000084F8]
+That evening, back in Paris...
+
+[HEADER 00008502]
+That evening...
+
+[HEADER 00630004]
+Back in Nico's apartment...
+
+[HEADER 00008507]
+The next morning...
+
+[HEADER 0000850C]
+Early the next morning...
+
+[HEADER 00008516]
+Meanwhile, across town...
+
+[HEADER 00008520]
+Several minutes later...
+
+[HEADER 00008D04]
+Director's Message:
+
+[HEADER 00008D0E]
+Thank you for playing Broken Sword: Shadow of the Templars - The Director's Cut.
+
+[HEADER 00008D18]
+The Broken Sword series was conceived, like so many of the best ideas, over dinner with plenty of wine. It was 1994 and I was dining with my wife, Noirin Carmody, and a colleague, Sean Brennan.
+
+[HEADER 00008D22]
+We started talking about the mythology of the Templars (almost unheard of at that time) and what a rich historical background it would create for any entertainment product, particularly a game.
+
+[HEADER 00008D2C]
+And so, ten years before the plethora of Templar-themed entertainment products, Broken Sword was born.
+
+[HEADER 00008D36]
+I feel extraordinarily proud that, fifteen years after we conceived and started designing the first game, there is still such passion for the games - and privileged that so many fans have remained so loyal to the series.
+
+[HEADER 00008D40]
+I always knew that the Nintendo platforms, with their innovative control systems, would offer the perfect platforms for an adventure. We had had so many requests for the Broken Sword games on the platforms - and even a petition demanding them.
+
+[HEADER 00008D4A]
+But rather than create a straight port, I felt that this was the ideal opportunity to enhance the original through the creation of additional story and puzzles, an integrated hint system, enhanced graphics - and much more.
+
+[HEADER 00008D54]
+Much of the story came from what we had intended to include the first time around. Our approach has been that everything that happened in the first Broken Sword is the absolute truth - nothing must be contradicted.
+
+[HEADER 00008D5E]
+Thank you, again, for playing. Thanks, also, for the whole team who have approached the development with such passion, dedication and professionalism.
+
+[HEADER 00008D68]
+And thanks to the Ubisoft team who have been a pleasure to work with, and who have contributed enormously to the quality of the final game.
+
+[HEADER 00008D72]
+Charles Cecil - Director
+
+[HEADER 00008CA1]
+This was the first conception drawing for George.
+
+[HEADER 00008CA2]
+And this was his first expression sheet...
+
+[HEADER 00008CA3]
+This is how Nico started life.
+
+[HEADER 00008CA4]
+And her less than flattering expression sheet!
+
+[HEADER 00008CA6]
+This is the character sheet for Albert the Concierge...
+
+[HEADER 00008CA7]
+...for Chantelle the hapless waitress,
+
+[HEADER 00008CA8]
+...and the enigmatic Duane. Who is he really?
+
+[HEADER 00008CA9]
+And does his mysterious wife Pearl really know for sure?
+
+[HEADER 00008CB4]
+This is the Revolution team when we first started in 1990.
+
+[HEADER 00008CB5]
+And this was taken a few years later when Dave Gibbons came to visit us in Hull.
+
+[HEADER 00008CBE]
+This is Charles Cecil today - with slightly less hair.
+
+[HEADER 00008CBF]
+And David Gibbons today.
+
+[HEADER 00008CC0]
+Noirin Carmody, one of the founders of Revolution.
+
+[HEADER 00008CC1]
+Tony Warriner, a Revolution co-founder.
+
+[HEADER 00008CC2]
+Joost Peters, present day Revolution programmer.
+
+[HEADER 00008CC8]
+Barrington Pheloung, his wife Heather, and daughter Adel.
+
+[HEADER 00008CD2]
+A photograph of Constantine's broken sword. Erected outside York Minster a few years ago.
+
+[HEADER 000014B4]
+FOLLOW. BUT THIS IS TOO
+
+[HEADER 000014B5]
+URGENT TO WAIT. ARNO AND
+
+[HEADER 000014B6]
+YAMADA BOTH DEAD. THIS
+
+[HEADER 000014B7]
+IS NOT A COINCIDENCE.
+
+[HEADER 000014B8]
+INDEED IT SEEMS THAT ALL
+
+[HEADER 000014B9]
+OF US WHO CAME TOGETHER
+
+[HEADER 000014BA]
+IN JULY ARE IN DANGER.
+
+[HEADER 000014BB]
+TAKE GREAT CARE. X
+
+[HEADER 00001DCB]
+PLANTARD. PIERRE KILLED.
+
+[HEADER 00001DCE]
+MURDERER MUST HAVE
+
+[HEADER 00001DCF]
+FOLLOWED TRAIL FROM
+
+[HEADER 00001DD0]
+ARNO AND YAMADA. HE
+
+[HEADER 00001DD1]
+WILL COME FOR US NOW.
+
+[HEADER 00001DD2]
+WE MUST BE VIGILANT.
+
+[HEADER 00001DD3]
+THIERRY'S GIRL BROKE
+
+[HEADER 00001DD4]
+INTO PIERRE'S SAFE. SHE
+
+[HEADER 00001DD5]
+WORRIES ME. IMELDA.
+
+[HEADER 000017BA]
+But a series of Roman numerals with direction symbols ran the length of the shield.  The symbols pointed right and left.
+
+[HEADER 00002969]
+The message includes the letters SDSSDSS. That's the order in which you need to turn the cylinder - S for left, D for right.
+
+[HEADER 00002AFC]
+Here's the cheat the lock-makers built into the system: Position the Pointer at the top-left of the screen, hold down the A button, then move the Pointer to the bottom-right of the screen and the lock will spring open.
+
+[HEADER 00004E2B]
+To access the Options screen, move the Pointer over the Options icon - the sheet of paper in the top left of the screen - and press the A Button.
+
+[HEADER 00004E37]
+Move the Pointer around the screen to discover areas of interest. Icons will appear over things with which you can interact - the shape of the icon depicting what you can do.
+
+[HEADER 00004E38]
+Press the A Button to interact. For many objects, you can press the B Button to examine - an eye icon will indicate when this option is available.
+
+[HEADER 00004E49]
+To move your character, move the Pointer over a place that you want to walk to and press the A Button. Beware - if you are over an object with which you can interact, and an animating icon appears, then your character will perform that action instead.
+
+[HEADER 00004E53]
+Items that your character picks up are put into an 'inventory'. The inventory can be accessed by moving the Pointer onto the bag icon on the screen and pressing the A Button.
+
+[HEADER 00004E5D]
+To leave a room, move the Pointer over the exit area. When an animating hand appears then press the A Button, and your character will leave that area. Doors which might become an exit, but which are locked, may need to be opened before they can be used.
+
+[HEADER 00004E69]
+To examine something, move the Pointer over it.  If it can be examined then an eye icon will appear at the bottom of the screen. Press the B Button.
+
+[HEADER 00004E71]
+To examine an inventory object, open your inventory by moving the Pointer over the bag icon on the screen and pressing the A Button.  The inventory will be displayed. Then move the Pointer over the object that interests you and press the B Button.
+
+[HEADER 00004E85]
+Move the Pointer over the character. Press the A Button when a mouth icon appears.
+
+[HEADER 000050F1]
+Move the Pointer over the item you want to use, and press the A Button.  The item will be 'attached' to the Pointer.
+
+[HEADER 000050F2]
+Move the Pointer over a background object. When the interaction icon starts to animate, press the A Button and see what happens. The object can be released by pressing the A Button when the Pointer is not over a background object or person.
+
+[HEADER 00004E9B]
+Some items in your inventory can be given to, or used on other characters. To do this, first open your inventory. Move the Pointer over the object that you want to select and press the A Button.
+
+[HEADER 00004E9D]
+Move the Pointer, with the inventory object attached, over the character.
+
+[HEADER 00004E9F]
+When the mouth icon starts to animate, press the A Button and see what happens.
+
+[HEADER 00004EA1]
+The diary can be accessed through the Options menu.
+
+[HEADER 00004EA5]
+Move the Pointer to anywhere on the floor area and press the A Button to drop the object and return to normal gameplay control.
+
+[HEADER 00004EAF]
+Some items in your inventory can be combined. To do this, open your inventory. Then move the Pointer over the first item you want to combine and press the A Button.
+
+[HEADER 00004EB0]
+Move the Pointer, with the inventory item attached, over a second inventory item and press the A Button.
+
+[HEADER 00002B16]
+I see a ring with Roman numerals, but I'm getting nowhere.
+
+[HEADER 00002B17]
+Remember the numbers that were inscribed on Don Carlos's tomb? They may be useful here. Check the notes in your diary after you examined the tomb in the church at Montfauçon.
+
+[HEADER 00002B18]
+The first number is 14 Right.  In Roman numerals this is XIV. Turn the stone in the right-hand (clockwise) direction so that 'X' is next to 'IV'. Then slide the slider, and go on to the next number.
+
+[HEADER 00002B19]
+27 Right doesn't work? Did you really think that it would be that simple? Try adding each new number to the previous total, and then turning in the indicated direction.
+
+[HEADER 00008930]
+To release the mechanism, the cylinder must be rotated clockwise and anti-clockwise like a combination safe. Move the Pointer over the cylinder and, when the Pointer changes to a hand, press the A Button to grasp it.
+
+[HEADER 0000893A]
+You must rotate the cylinder in the correct direction to the right position.
+
+[HEADER 00008944]
+You can deduce the direction that the cylinder needs to turn from clues that you have gathered, but not the position that the cylinder must be turned to. So listen and feel for the lock barrels to click open, and then release.
+
+[HEADER 0000894E]
+If correctly positioned, the cylinder will move into the hole and then return to the central position. Repeat the operation until the lock is cracked.
+
+[HEADER 00008958]
+Rotate in the wrong direction, or go too far and the locking mechanism will reset, and you will have to start again.
+
+[HEADER 000088CC]
+To move a block, move the Pointer over it and, when the Pointer changes to a hand, press the A Button to grasp it. You can now move the block horizontally or vertically along its appropriate axis.
+
+[HEADER 00008A02]
+A photograph has been torn into many fragments, which must be arranged in the correct position and at the right orientation.
+
+[HEADER 00008A0C]
+To move a fragment, grasp it and rotate it / drag it to the appropriate position. The fragments must be arranged so that the whole of the photograph fits within the available space.
+
+[HEADER 00008A70]
+Move the Pointer over any hole in the board, and it will light up a pattern. Position the Pointer over any unplaced chess piece and, when it changes to a hand, press the A Button to grasp the piece.
+
+[HEADER 00008A7A]
+As it rotates it will reveal a pattern on its base. Each chess piece must be dragged onto the hole with its corresponding pattern.
+
+[HEADER 00008AD4]
+Remember that the queen wears the crown with three baubles, the king wears the crown with a cross.
+
+[HEADER 00008ADE]
+To move a piece, move the Pointer over any white chess piece and, when it changes to a hand, press the A Button to grasp the piece. Drag it into the desired position along the central column, and release.
+
+[HEADER 00008B24]
+Three lens elements need to be rotated so that, when correctly aligned, they create a clear image.
+
+[HEADER 00008B2E]
+Each lens element can be rotated by moving the Pointer over a tab and, when it changes to a hand, pressing the A Button to grasp the tab. Rotate the lens to the desired position and release.
+
+[HEADER 00008B38]
+George will acknowledge the image once the lenses are correctly positioned.
+
+[HEADER 00008B42]
+Press the 'reset' button to, well, reset the puzzle and start again.
+
+[HEADER 00008B92]
+Move the Pointer to the edge of the screen and it will slide to reveal more of the tomb.
+
+[HEADER 00008B9C]
+You must find and highlight all the verse references. Press the A Button while moving the Pointer and you will see that a highlight trail is left.
+
+[HEADER 00008BD8]
+To release the mechanism, the stone key must be rotated clockwise and anti-clockwise like a combination safe. Move the Pointer over the cylinder and, when it changes to a hand, press the A Button to grasp it.
+
+[HEADER 00008BE2]
+You must rotate the stone key in the correct direction to the right numbers.
+
+[HEADER 00008BEC]
+The required number is achieved when the Roman numerals in the dial representing 1-9 are next to the Roman numerals in the dial representing 10-90. So 81 would be represented by LXXX (80) next to I (1).
+
+[HEADER 00008BF6]
+When in the correct position, grab the slider corresponding to that rotation and slide it across.
+
+[HEADER 00008C00]
+From the clues that you have gathered, you have the information to deduce the direction and position that the cylinder needs to turn each time. But be warned - it's not as obvious as it might first seem.
+
+[HEADER 00008C0A]
+Rotate in the wrong direction, or slide the slider on the incorrect number and the locking mechanism will reset, and you will have to start again.
+
+[HEADER 00009C04]
+King
+
+[HEADER 00009C05]
+Queen
+
+[HEADER 00009C06]
+Bishop
+
+[HEADER 00009C07]
+Knight
+
+[HEADER 00009C08]
+Castle
+
+[HEADER 00009C09]
+Pawn
+
+[HEADER 00000082]
+A charles Cecil Production
+
+[HEADER 00000083]
+*Writer and Director:
+
+[HEADER 00000084]
+Charles Cecil
+
+[HEADER 00000085]
+*Programming:
+
+[HEADER 00000086]
+Tony Warriner
+
+[HEADER 00000087]
+Joost Peters
+
+[HEADER 00000088]
+*Background Layouts:
+
+[HEADER 00000089]
+Neil Breen
+
+[HEADER 0000008A]
+*Background Layouts - Original Story:
+
+[HEADER 0000008B]
+Eoghan Cahill
+
+[HEADER 0000008C]
+*Facial Expressions:
+
+[HEADER 0000008D]
+Dave Gibbons
+
+[HEADER 0000008E]
+Angus McKie
+
+[HEADER 0000008F]
+*2D Art:
+
+[HEADER 00000090]
+Linda Smith
+
+[HEADER 00000091]
+*Animation - New Story:
+
+[HEADER 00000092]
+Aron Durkin
+
+[HEADER 00000093]
+Ravi Govind
+
+[HEADER 00000094]
+Adrian Lausch
+
+[HEADER 00000095]
+*Animation - Original Story:
+
+[HEADER 00000096]
+Steve Oades
+
+[HEADER 00000097]
+*Script Writer - New Story:
+
+[HEADER 00000098]
+Neil Richards
+
+[HEADER 00000099]
+*Script Writer - Original Story:
+
+[HEADER 0000009A]
+Dave Cummins
+
+[HEADER 0000009B]
+Jonathan Howard
+
+[HEADER 0000009C]
+*Music Composed and conducted by:
+
+[HEADER 0000009D]
+Barrington Pheloung
+
+[HEADER 0000009E]
+*Production (Revolution):
+
+[HEADER 0000009F]
+Steve Ince
+
+[HEADER 000000A0]
+*Production (Ubisoft):
+
+[HEADER 000000A1]
+Nouredine Abboud
+
+[HEADER 000000A2]
+Alexandre Hartpence
+
+[HEADER 000000A3]
+Francois Berranger
+
+[HEADER 000000A4]
+Pierre de Margerie
+
+[HEADER 000000A5]
+Paul-Adrien Tournier
+
+[HEADER 000000A6]
+
+
+[HEADER 000000A7]
+Presents
+

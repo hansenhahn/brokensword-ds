@@ -1,0 +1,2687 @@
+# Broken Sword - Shadow of the Templars (Director's Cut)
+# Versão do Script: 09.12
+[HEADER 00000000]
+#It was the Spanish Bible I'd borrowed from the mausoleum.
+Era a Bíblia Espanhola que peguei emprestado do mausoléu.
+
+[HEADER 00000001]
+It was a Paris daily tabloid newspaper full of sex, scandal and sports results.
+Era um tablóide de Paris cheio de sexo, escândalos e resultados de jogos.
+
+[HEADER 00000002]
+#It was a thin, supple twig of hazel.
+Era um fino e maleável ramo de aveleira.
+
+[HEADER 00000003]
+#It was a rectangle of towelling, printed with the words: `Nagopaleen's stout builds body!'
+Era um pedaço de pano, impresso com as palavras: `Nagopaleen, a cerveja escura que fortalece o corpo!'
+
+[HEADER 00000004]
+#The towel was soaked through with water.
+O pano foi encharcado pela água. 
+
+[HEADER 00000005]
+#The towel had dried out but was still damp.
+O pano foi enxugado, mas ainda estava úmido.
+
+[HEADER 00000006]
+#The towel had dried out and was barely damp.
+O pano foi enxugado e quase não estava mais úmido.
+
+[HEADER 00000007]
+#It was a key ring bearing one large brass key and a tag which read 'Hotel Ubu'.
+Era um chaveiro contendo uma grande chave de cobre e uma etiqueta escrito 'Hotel Ubu'.
+
+[HEADER 00000008]
+#It was the bright red ball I'd got from the juggler.
+Era a bola vermelha brilhante que peguei do malabarista.
+
+[HEADER 00000009]
+#The statuette looked pretty sorry for itself after its fall; chipped with both arms broken off.
+A estatueta parecia bem triste de si após sua queda, estilhaçada com ambos os braços rompidos.
+
+[HEADER 0000000A]
+#The nose was hollow. Printed on the inside were the words: `La Risée du Monde, Paris'.
+O nariz era oco. Impresso no seu interior estavam as palavras: `La Risée du Monde, Paris'.
+
+[HEADER 0000000B]
+#It was a bright red plastic nose, part of a clown's costume.
+Era um nariz vermelho brilhante de plástico, parte da fantasia de um palhaço.
+
+[HEADER 0000000C]
+#It was hard to believe it was the same chalice. Now the light gleamed off its perfect surface.
+Era difícil acreditar que fosse o mesmo cálice. Agora a luz refletia a partir da sua superfície perfeita.
+
+[HEADER 0000000D]
+#Fifty bucks! In the States I'd have thought of it as a good night out. Here in Marib it represented hard currency.
+Cinquenta pratas! Na América eu teria pensado em uma boa noitada. Aqui, em Marib, isso representava moeda forte.
+
+[HEADER 0000000E]
+#It was Nico's photograph of the man we suspected of killing Plantard.
+Era a fotografia da Nico do homem que suspeitamos ter matado o Plantard.
+
+[HEADER 0000000F]
+#On the key ring was a big, old key that looked like it might fit the excavation door.
+No molho de chaves havia uma grande e velha chave que parecia se encaixar na porta da escavação.
+
+[HEADER 00000010]
+#The keyring contained the keys to the washroom and the excavation.
+O chaveiro continha as chaves para o banheiro e a escavação.
+
+[HEADER 00000011]
+#Now I'd substituted the fake key for the excavation key. It looked okay but felt false.
+Agora eu tinha substituído a chave da escavação pela falsa. Ela parecia autêntica pelo olhar, mas no tato não.
+
+[HEADER 00000012]
+#It was a short piece of wire, twisted into a rough circle.
+Era um pequeno pedaço de arame, torcido em um círculo imperfeito.
+
+[HEADER 00000013]
+#It was a large blue gemstone.
+Era um grande gema de cor azul.
+
+[HEADER 00000014]
+#The greasepaint had worked magic. Now it looked like aged marble instead of cheap plaster.
+A maquiagem de teatro funcionou como mágica. Agora parecia um velho mármore, ao invés de gesso barato.
+
+[HEADER 00000015]
+#The stick I'd broken off was surprisingly hard and inflexible.
+O graveto que rompi era surpreendentemente duro e inflexível.
+
+[HEADER 00000016]
+#It was the key to the excavation.
+Era a chave para a escavação.
+
+[HEADER 00000017]
+#It was my plaster copy of the excavation key. Trouble was, it looked like plaster and it felt like plaster.
+Era minha cópia de gesso da chave da escavação. O problema era que parecia gesso no olhar e no tato.
+
+[HEADER 00000018]
+#The plaster key had soaked up the paint nicely and now looked pretty convincing. Still felt like plaster, though.
+A chave de gesso tinha absorvido a tinta perfeitamente e agora parecia bem convincente, embora tivesse a sensação de gesso ao tocá-la.
+
+[HEADER 00000019]
+#It was the card I'd found in the hotel bedroom. It read 'Thomas Moerlin, Electronics Corporation'.
+Era o crachá que encontrei no quarto do hotel. Está escrito: 'Thomas Moerlin, Corporação Eletrônica Grüber'.
+
+[HEADER 0000001A]
+#It was a metal rod with a handle at one end and a short crosspiece at the other.
+Era um tirante de metal com um cabo em uma extremidade e uma pequena peça atravessada na outra.
+
+[HEADER 0000001B]
+#It was the ancient manuscript which Khan had stolen from Plantard.
+Era o manuscrito antigo que o Khan tinha roubado do Plantard.
+
+[HEADER 0000001C]
+#The matchbook bore a pattern of swirling colour and the words: `Club Alamut'.
+A caixa de fósforos continha um desenho multicolorido e as palavras: `Club Alamut'.
+
+[HEADER 0000001D]
+#It was the scrap of material I'd found in the sewer.
+Era o pedaço de tecido que eu tinha encontrado no esgoto.
+
+[HEADER 0000001E]
+#I was now in possession of the Patented Stobbart Stick-Towel! If I could only think of a use for it...
+Eu estava agora em posse do Patenteado Graveto-Toalha Stobbart! Se eu pelo menos conseguisse pensar em alguma utilidade para isto...
+
+[HEADER 0000001F]
+#It was a handful of plaster left in the castle by Peagram's archaeology team.
+Era um punhado de gesso deixado no castelo pela equipe arqueológica do Peagram.
+
+[HEADER 00000020]
+#It was a device used for measuring people's blood pressure.
+Era um aparelho usado para medir a pressão sanguínea das pessoas.
+
+[HEADER 00000021]
+#The tickets were two standard returns from London to Stirling in Scotland.
+Eram duas passagens de ida e volta de Londres à Stirling, na Escócia.
+
+[HEADER 00000022]
+#It was the `Shake 'n Shock' buzzer I'd been given by the man in the costume shop.
+Era o aparelhinho de choque `Aperte e Trema' que me foi dado pelo homem na loja de fantasias.
+
+[HEADER 00000023]
+#The card read: Augustin Rosso, and gave an address to the south of the Montparnasse Cemetery.
+Está escrito 'Augustin Rosso' e um endereço ao sul do Cemitério de Montparnasse.
+
+[HEADER 00000024]
+#It was the key to the club toilet.
+Era a chave para o toalete do clube.
+
+[HEADER 00000025]
+#It was the bar of soap I'd stolen from the washroom of the excavation site.
+Era a barra de sabão que eu tinha roubado do banheiro do local da escavação.
+
+[HEADER 00000026]
+#The bar of soap had the imprint of a key in it.
+A barra de sabão tinha a impressão de uma chave nela.
+
+[HEADER 00000027]
+#I had filled the key's imprint in the soap with dry plaster.
+Eu cobri a impressão da chave no sabão com gesso seco.
+
+[HEADER 00000028]
+#It was a smooth, intricately carved piece of stone that had been concealed inside the great candle.
+Era um pedaço macio de pedra intricadamente esculpida que foi escondida dentro da grande vela.
+
+[HEADER 00000029]
+#The chalice from the mausoleum was obviously of superior workmanship but grimy and tarnished.
+O cálice do mausoléu era, obviamente, de qualidade superior, mas encardido e deslustrado.
+
+[HEADER 0000002A]
+#It was the soggy tissue I'd found in the sewers.
+Era o lenço usado que eu tinha encontrado no esgoto.
+
+[HEADER 0000002B]
+#It was a short handled brush.
+Era uma escova de cabo pequeno.
+
+[HEADER 0000002C]
+#It was the short length of chain I'd taken from the toilet of the Club Alamut.
+Era a curta corrente que eu tinha pegado do toalete do Clube Alamut.
+
+[HEADER 0000002D]
+#It was a length of coarse grey towelling from the toilet of the Club Alamut.
+Era um pedaço de toalha áspera e cinza do toalete do Club Alamut.
+
+[HEADER 0000002E]
+#It was a simple but elegant tripod made of metal with traces of colored enamel still visible in places.
+Era um simples, mas elegante tripé feito de metal com traços de esmalte colorido ainda visíveis em alguns lugares.
+
+[HEADER 0000002F]
+#It was the lens that I'd found on Klausner's body.
+Era a lente que eu tinha encontrado no corpo do Klausner.
+
+[HEADER 00000030]
+#It was the roller towel from the club washroom, now cut in half along its length by Ultar.
+Era o rolo de toalha do banheiro do clube, agora cortada ao meio pelo Ultar.
+
+[HEADER 00000031]
+#The mirror from Lopez's utility room. Yup, I was still looking great.
+O espelho da despensa do Lopez. É, eu ainda estava em forma.
+
+[HEADER 00000032]
+#The tissue was pretty charred but the greasepaint had done most of the burning.
+O lenço estava bem chamuscado, mas a maquiagem de teatro tinha feito a maior parte da queima.
+
+[HEADER 00000033]
+#The cog was mounted on a short, slim spindle.
+A engrenagem estava montada num pequeno e fino eixo.
+
+[HEADER 00000034]
+#The cog was one of those objects I wished I hadn't carried in my pocket.
+A engrenagem era um daqueles objetos que eu desejaria não ter que carregar no bolso.
+
+[HEADER 00000035]
+#It was the handle from the church tower's winding mechanism. It had cog teeth mounted near its base.
+Era a manivela do mecanismo de corda da torre da igreja. Continha uma roda dentada montada em sua base.
+
+[HEADER 00000036]
+#It was an old coin.
+Era uma velha moeda.
+
+[HEADER 00000037]
+#It was a black plastic pen top.
+Era a tampa de plástico preta de uma caneta.
+
+[HEADER 00000038]
+#The pipe could have been anything from fifty to several hundred years old...
+O cachimbo poderia ter de cinquenta a centenas de anos...
+
+[HEADER 00000039]
+#It was the barman's flashlight.
+Era a laterna do cara do bar.
+
+[HEADER 0000003A]
+#No point in phoning that guy again...
+Não há por que telefonar para aquele cara de novo...
+
+[HEADER 0000003B]
+#With a flourish, I tied the end of the towel to the stick with a textbook reef knot.
+Num só movimento, eu amarrei a extremidade da toalha ao graveto com um nó de marinheiro.
+
+[HEADER 0000003C]
+#Quickly and without fuss I swapped the fake key for the real thing.
+Rápidamente e sem rebuliço, troquei a chave falsa pela verdadeira.
+
+[HEADER 0000003D]
+#I made an impression of the big key in the cake of soap.
+Eu fiz uma impressão da chave grande na barra de sabão.
+
+[HEADER 0000003E]
+#I carefully sprinkled the plaster into the soap mould I'd made of the key.
+Espalhei cuidadosamente o gesso no molde da chave que eu tinha feito no sabão.
+
+[HEADER 0000003F]
+#The plaster seemed to soak up the greasepaint until it began to look like stone.
+O gesso parecia absorver a maquiagem de teatro até começar a parecer uma pedra.
+
+[HEADER 00000040]
+#Uh... no.
+Uh... não.
+
+[HEADER 00000041]
+#Hmm... Maybe not.
+Hmm... Melhor não.
+
+[HEADER 00000042]
+#Hmm... No way.
+Hmm... Não mesmo.
+
+[HEADER 00000043]
+#Uh... That's not a good idea.
+Uh... Não é uma boa ideia.
+
+[HEADER 00190010]
+#The plaster cast was a pretty neat replica of the back of the stone, complete with protruding fingers.
+O molde de gesso era uma réplica perfeita da parte traseira da pedra, completo com dedos espichados.
+
+[HEADER 00000044]
+#Ah, no.
+Ah, não.
+
+[HEADER 00000045]
+#Uh... no.
+Uh... não.
+
+[HEADER 00000046]
+#No.
+Não.
+
+[HEADER 00000047]
+#Hmm... No.
+Hmm... Não.
+
+[HEADER 00000048]
+#He wouldn't have wanted to see it.
+Ele não iria querer ver isto.
+
+[HEADER 00000049]
+#She wouldn't have wanted to see it.
+Ela não iria querer ver isto.
+
+[HEADER 0000004A]
+#He wouldn't be interested in that.
+Ele não se interessaria por isto.
+
+[HEADER 0000004B]
+#She wouldn't be interested in that.
+Ela não se interessaria por isto.
+
+[HEADER 00000064]
+#Empty
+Vazio
+
+[HEADER 00000065]
+#English
+Português
+
+[HEADER 00000066]
+#French
+Francês
+
+[HEADER 00000067]
+#German
+Alemão
+
+[HEADER 00000068]
+#Italian
+Italiano
+
+[HEADER 00000069]
+#Spanish
+Espanhol
+
+[HEADER 0000006A]
+#Continue
+Continuar
+
+[HEADER 0000006B]
+#New Game
+Novo Jogo
+
+[HEADER 0000006C]
+#Erase Game
+Apagar Jogo
+
+[HEADER 0000006D]
+#Are you sure?
+Tem certeza?
+
+[HEADER 0000006E]
+#Play
+Jogar
+
+[HEADER 0000006F]
+#Options
+Opções
+
+[HEADER 00000070]
+#No
+Não
+
+[HEADER 00000071]
+#Yes
+Sim
+
+[HEADER 00000072]
+#Copy
+Copiar
+
+[HEADER 00000073]
+#Erase
+Apagar
+
+[HEADER 00000074]
+#Copy Game
+Copiar Jogo
+
+[HEADER 00000075]
+#Erase Game
+Apagar Jogo
+
+[HEADER 00000076]
+#Audio
+Áudio
+
+[HEADER 00000077]
+#On
+Ligado
+
+[HEADER 00000078]
+#Off
+Desligado
+
+[HEADER 00000079]
+#Music Test
+Teste de Som
+
+[HEADER 0000007A]
+#SFX Test
+Teste de SFX
+
+[HEADER 0000007B]
+#Language
+Idioma
+
+[HEADER 0000007C]
+#Choose Language
+Escolher Idioma
+
+[HEADER 0000007D]
+#Credits
+Créditos
+
+[HEADER 0000007E]
+#Save Game
+Salvar Jogo
+
+[HEADER 0000007F]
+#Name:
+Nome:
+
+[HEADER 00000080]
+#OK
+Confirmar
+
+[HEADER 00000081]
+#Cancel
+Cancelar
+
+[HEADER 0000005A]
+#Bonus Images
+Imagens Bônus
+
+[HEADER 0000005B]
+#Director's Message
+Mensagem do Diretor
+
+[HEADER 0000005C]
+#Diary
+Diário
+
+[HEADER 0000005D]
+#Load Game
+Carregar Jogo
+
+[HEADER 0000005E]
+#Save Game
+Salvar Jogo
+
+[HEADER 0000012C]
+#Hints:
+Dicas:
+
+[HEADER 0000012D]
+#Completed:
+Completado:
+
+[HEADER 0000012E]
+#Confirm
+Confirmar
+
+[HEADER 0000012F]
+#Saving over this slot will overwrite the previously saved game. Are you sure that you want to do this?
+Salvar sobre este espaço irá sobrescrever o jogo salvo anteriormente. Tem certeza de que deseja fazer isto?
+
+[HEADER 00000130]
+#Overwrite
+Sobrescrever
+
+[HEADER 00000131]
+#Any unsaved progress will be lost.  Are you sure that you want to load?
+Qualquer progresso não salvo será perdido. Tem certeza de que deseja carregar este arquivo?
+
+[HEADER 00000132]
+#Elapsed time:
+Tempo Decorrido:
+
+[HEADER 00000133]
+#Game saved
+Jogo salvo
+
+[HEADER 00000134]
+#Settings
+Definições
+
+[HEADER 00000135]
+#Tell me more
+Diga-me mais
+
+[HEADER 00000136]
+#Back
+Voltar
+
+[HEADER 00000137]
+#The save data could not be accessed
+Os dados salvos não puderam ser acessados
+
+[HEADER 00000138]
+#Please turn the power off
+Por favor, desligue o aparelho
+
+[HEADER 00000139]
+#and reinsert the DS Card.
+e reinsira o cartucho.
+
+[HEADER 0000013A]
+#Preferences
+Preferências
+
+[HEADER 0000013B]
+#You will lose the previously saved game if you continue. Are you sure that you want to erase this file?
+Você perderá o jogo salvo anteriormente se continuar. Tem certeza de que deseja apagar este arquivo?
+
+[HEADER 0000013C]
+#Game Help Options
+Opções de Ajuda do Jogo
+
+[HEADER 0000013D]
+#Current Puzzle Hint
+Dica do Enigma Atual
+
+[HEADER 0000013E]
+#Puzzle Hints
+Dicas do Enigma
+
+[HEADER 0000013F]
+#Interface Tips
+Ajuda da Interface
+
+[HEADER 00000140]
+#Puzzle Hints
+Dicas do Enigma
+
+[HEADER 00000141]
+#Game loaded
+Jogo carregado
+
+[HEADER 00000142]
+#Game erased
+Jogo apagado
+
+[HEADER 00000143]
+#Music Volume
+Volume da Música
+
+[HEADER 00000144]
+#Sound Effects Volume
+Volume do SFX
+
+[HEADER 00000145]
+#Speech Volume
+Volume dos Diálogos
+
+[HEADER 00000146]
+#This data is corrupt and will be erased
+Estes dados estão corrompidos e serão apagados
+
+[HEADER 00000147]
+#The save data is corrupted and will be deleted
+Os dados salvos estão corrompidos e serão deletados
+
+[HEADER 00000148]
+#Settings are corrupted and have been reset to default values
+As definições estão corrompidas e foram restauradas ao padrão
+
+[HEADER 00000149]
+#Saving... Do not turn the power off or remove the Game Card.
+Salvando... Não desligue o aparelho ou retire o Cartucho.
+
+[HEADER 0000014B]
+#Loading... Do not turn the power off or remove the Game Card.
+Carregando... Não desligue o aparelho ou retire o Cartucho.
+
+[HEADER 0000014A]
+#Text Print Audio
+Som dos Textos
+
+[HEADER 00000190]
+#Ireland
+Irlanda
+
+[HEADER 00000191]
+#Paris
+Paris
+
+[HEADER 00000192]
+#Scotland
+Escócia
+
+[HEADER 00000193]
+#Spain
+Espanha
+
+[HEADER 00000194]
+#Syria
+Síria
+
+[HEADER 00000195]
+#Train
+Trem
+
+[HEADER 0000019A]
+#Castle
+Castelo
+
+[HEADER 0000019B]
+#Dig
+Escavação
+
+[HEADER 0000019C]
+#Hay Cart
+Pilha de Feno
+
+[HEADER 0000019D]
+#Pub
+Pub
+
+[HEADER 0000019E]
+#Carchon Apt.
+Apt. dos Carchon
+
+[HEADER 0000019F]
+#Drawing Room
+Sala de Estar
+
+[HEADER 000001A0]
+#Hallway
+Corredor
+
+[HEADER 000001A1]
+#Library
+Biblioteca
+
+[HEADER 000001A2]
+#Nico's Apt.
+Apt. da Nico
+
+[HEADER 000001A3]
+#Rue Jarry
+Rue Jarry
+
+[HEADER 000001A4]
+#Alley
+Beco
+
+[HEADER 000001A5]
+#Café Ext.
+Ext. do Café
+
+[HEADER 000001A6]
+#Café Int.
+Int. do Café
+
+[HEADER 000001A7]
+#Courtyard
+Quintal
+
+[HEADER 000001A8]
+#Roadworks
+Estrada em Obras
+
+[HEADER 000001A9]
+#Sewers
+Esgoto
+
+[HEADER 000001AA]
+#Anti Chamber
+Antecâmara
+
+[HEADER 000001AB]
+#Chamber
+Câmara
+
+[HEADER 000001AC]
+#Quayside
+Cais
+
+[HEADER 000001AD]
+#State Room
+Salão Nobre
+
+[HEADER 000001AE]
+#Skiff Room
+Esquife
+
+[HEADER 000001AF]
+#Costumier
+Loja de Fantasias
+
+[HEADER 000001B0]
+#Police
+Polícia
+
+[HEADER 000001B1]
+#Hotel Ubu
+Hotel Ubu
+
+[HEADER 000001B2]
+#Hospital
+Hospital
+
+[HEADER 000001B3]
+#Museum
+Museu
+
+[HEADER 000001B4]
+#Montfauçon
+Montfauçon
+
+[HEADER 000001B5]
+#Dig
+Escavação
+
+[HEADER 000001B6]
+#Church
+Igreja
+
+[HEADER 000001B7]
+#Garden
+Jardim
+
+[HEADER 000001B8]
+#Hall
+Saguão
+
+[HEADER 000001B9]
+#Mausoleum
+Mausoléu
+
+[HEADER 000001BA]
+#Room
+Quarto
+
+[HEADER 000001BB]
+#Well
+Poço
+
+[HEADER 000001BC]
+#Carpet Stall
+Tenda de Tapetes
+
+[HEADER 000001BD]
+#Club
+Clube
+
+[HEADER 000001BE]
+#Market
+Mercado
+
+[HEADER 000001BF]
+#Toilet
+Toalete
+
+[HEADER 000001C0]
+#Bull's Head
+Cabeça do Touro
+
+[HEADER 000001C1]
+#Roof
+Telhado
+
+[HEADER 000000FA]
+LINE '250' MISSING FROM MASTER LANGUAGE.TXT
+
+[HEADER 000000FB]
+LINE '251' MISSING FROM MASTER LANGUAGE.TXT
+
+[HEADER 000000FC]
+LINE '252' MISSING FROM MASTER LANGUAGE.TXT
+
+[HEADER 00001410]
+#I had enough for a story.  An amazing story that was going to make my reputation -
+Eu já tinha o suficiente para um artigo. Um artigo incrível que iria fazer minha reputação... 
+
+[HEADER 00000D01]
+#and blow Carchon's to pieces. I needed to go home fast - and start typing.
+e deixar Carchon em pedaços. Eu precisava ir para casa logo, e começar a digitar.
+
+[HEADER 0000176E]
+#Metallic artefact - this is placeholder.
+Artefato Metálico. Isto é uma incógnita.
+
+[HEADER 00001408]
+#The note had been encoded with a substitution cipher - with letters substituted for symbols.
+O bilhete foi codificado com uma cifra de substituição (letras substituídas por símbolos).
+
+[HEADER 0000176F]
+#Puzzle cheated! :)
+Enigma trapaceado! Tá tudo bem agora. :)
+
+[HEADER 0000140A]
+#PIERRE. FULL REPORT TO
+PIERRE.ENVIADO RELATORIO
+
+[HEADER 0000140B]
+#I wasn't the only one to make the connection between the Costume Killer murders.
+Eu não era a única que tinha feito a ligação entre os homicídios do Assassino das Fantasias.
+
+[HEADER 0000140C]
+#I'd been right all along:  that was why he had asked to meet me. But what did I know that he didn't?
+Eu estive certa o tempo todo. Foi por isso que ele queria me conhecer. Mas o que eu sabia que ele não?
+
+[HEADER 0000140D]
+#I had decrypted the note. It read:
+Decifrei o bilhete. Está escrito:
+
+[HEADER 0000140E]
+#Pierre. Full report to follow. But this is too urgent to wait. Arno and Yamada both dead.
+Pierre. Enviado relatório completo. Mas isto é importante demais para esperar. Arno e Yamada estão mortos.
+
+[HEADER 00001401]
+#The photograph showed Carchon smiling happily to camera -
+A fotografia mostrava o Carchon bastante sorridente à câmera.
+
+[HEADER 00000CFF]
+#This is not a coincidence. Indeed it seems that all of us who came together in July are in danger.
+Não é uma coincidência. Creio que todos que apareceram em Julho estão em perigo.
+
+[HEADER 00000D00]
+#Take great care. X
+Tome muito cuidado. X
+
+[HEADER 00000CFE]
+#Carchon knew that he was in grave danger.
+Carchon sabia que estava em bastante perigo.
+
+[HEADER 000013B6]
+#The brass case was smooth and perfectly round.
+A cápsula de bronze estava lisa e perfeitamente redonda.
+
+[HEADER 000013BE]
+#The shell case had been flattened at one end, forming a serrated edge.
+A cápsula de projétil foi achatada em uma extremidade, formando uma borda serrada.
+
+[HEADER 00000BCC]
+#It was one of my hair clips. My favourite, in fact!
+Era um dos meus prendedores de cabelo. Na verdade, meu favorito!
+ 
+[HEADER 00000BCA]
+#It was a boat ticket, stamped "Bateaux de la Conciergerie".
+Era um bilhete de barco, estampado "Bateaux de la Conciergerie".
+
+[HEADER 00000BCB]
+#When I was a little girl, Papa used to take me on the Bateaux Mouches as a treat.
+Quando eu era garotinha, Papa me levava no Bateaux Mouches para brincar.
+
+[HEADER 00000CE4]
+#The ticket could be a clue - so best not trash it.
+O bilhete poderia ser uma pista, então melhor não jogá-lo fora.
+
+[HEADER 00000BE0]
+#The tube of paint from Imelda's easel.  French ultramarine...
+O tubo de tinta do cavalete da Imelda. Ultramarino francês...
+
+[HEADER 00000FA3]
+#The paint had been squeezed from the tube.
+A tinta foi espremida do tubo.
+
+[HEADER 00000BF6]
+#A key - maybe a safe key...
+Uma chave. Talvez de um cofre...
+
+[HEADER 00000BF7]
+#A safe key...
+Uma chave de cofre...
+
+[HEADER 00000C96]
+#The artefact was like an old printers' block, covered in symbols.
+O artefato era como um bloco tipográfico, coberto de símbolos.
+
+[HEADER 00000C97]
+#The cylinder was covered in the blue paint.
+O rolo foi coberto de tinta azul.
+
+[HEADER 00000C98]
+#I needed to work out what to do before the paint dried.
+Eu precisava planejar o que fazer antes da tinta secar.
+
+[HEADER 00000BFC]
+#I hoped that I hadn't ruined it for nothing...
+Eu esperava não tê-la arruinado em vão...
+
+[HEADER 00000BFB]
+#The cloth was covered in blue paint.
+A toalha foi coberta de tinta azul.
+
+[HEADER 00000CA1]
+#It was the beautiful elephant my father had carved.
+Era o lindo elefante que meu pai tinha entalhado.
+
+[HEADER 00000CB5]
+#Rolling out the painted cylinder had given me a print of a secret message.
+Rolando o rolo tingido, descobri uma impressão de uma mensagem secreta.
+
+[HEADER 00000CB6]
+#It reads: "Sub-Judice".  Below it was a sequence of letters - SDSSDSS.
+Está escrito: "Sub-Judice". Abaixo havia uma série de letras: SDSSDSS.
+
+[HEADER 00000BF8]
+#The cloth was embroidered with an unusual symbol.
+A toalha foi bordada com um símbolo incomum.
+
+[HEADER 00000CFD]
+#with a background of burning huts and death.
+com um fundo de cabanas em chamas e mortos.
+
+[HEADER 00001CE8]
+#It was the drawing room key.
+Era a chave da sala de estar.
+
+[HEADER 00001CE9]
+#On the pouch was the cross symbol of Carchon's organisation.
+Na bolsa estava o símbolo da cruz da organização do Carchon.
+
+[HEADER 00001CEA]
+#Inside the pouch were two items - a strange metallic artefact and a letter in some kind of code.
+Dentro da bolsa havia dois objetos: um estranho artefato metálico e uma carta com algum tipo de código.
+
+[HEADER 00001CEB]
+#The Artefact had a sword laid across scales.
+O Artefato possuía uma espada sobre a balança.
+
+[HEADER 00001CEC]
+#The scales of justice - I wondered if this connected to the room at the quayside.
+A balança da justiça. Fiquei imaginando se isso tinha ligação com a sala no cais.
+
+[HEADER 00001CED]
+#There was a picture of Lady Justice on the locked panel...
+Havia uma imagem da Senhora Justiça no painel trancado...
+
+[HEADER 00001CEF]
+#... in the room below the Conciergerie.
+... no local embaixo da Conciergerie.
+
+[HEADER 00001CEE]
+#The letter was in code.
+A carta estava com um código.
+
+[HEADER 00001DD8]
+#So much for Imelda's innocence.  Plantard was working for her  -
+Acabou a inocência de Imelda. Plantard estava trabalhando para ela...
+
+[HEADER 00001DD9]
+#and for Carchon.  But why did Plantard wanted to meet me? Was it a trap?
+e para Carchon. Mas por que Plantard queria se encontrar comigo? Era uma armadilha?
+
+[HEADER 00001DDA]
+#Or maybe he was in too deep and he needed me to tell the story.
+Ou talvez ele estivesse tão envolvido que precisava me contar a história.
+
+[HEADER 00001DDB]
+#Whatever the story was.  One thing was clear - it was a story worth killing for...
+Qualquer que fosse a história, uma coisa era clara: era uma história pela qual valia a pena matar...
+
+[HEADER 00001DC6]
+#"Plantard. Pierre killed."
+"Plantard. Pierre morto."
+
+[HEADER 00001DC7]
+#"Murderer must have followed trail from Arno and Yamada.
+"O Assassino deve ter seguido os rastros de Arno e Yamada.
+
+[HEADER 00001DC8]
+#"He will come for us now. We must be vigilant.
+"Ele irá nos pegar agora. Temos que ficar alertas.
+
+[HEADER 00001DC9]
+#"Thierry's girl broke into Pierre's safe. She worries me.
+"A filha de Thierry abriu o cofre de Pierre. Ela me preocupa.
+
+[HEADER 00001DCA]
+#" Imelda."
+"Imelda."
+
+[HEADER 00002361]
+#It was the key from Imelda's locket.
+Era a chave do medalhão da Imelda.
+
+[HEADER 00001CAD]
+#Another coded message - using the same cipher system.
+Outra mensagem codificada, usando o mesmo sistema de cifras.
+
+[HEADER 00001CAE]
+#So Plantard was involved with Carchon.
+Então o Plantard estava envolvido com o Carchon.
+
+[HEADER 00001419]
+#My father - grinning at the camera. I couldn't believe it.
+Meu pai, sorrindo ironicamente para a câmera. Eu mal podia acreditar.
+
+[HEADER 00000BE1]
+#I smeared the paint all over the cloth. When I do messy I really like to put my heart into it.
+Eu espalhei a tinta por toda a toalha. Quando faço lambança, gosto de botar meu coração nisso.
+
+[HEADER 00000BE2]
+#I hoped this was going to help...
+Eu esperava que isso fosse ajudar...
+
+[HEADER 00000BE3]
+#They don't make lace like that any more.
+Não se fazem mais toalhas como aquela.
+
+[HEADER 00000BFD]
+#I wiped the paint-covered cloth over the surface of the stone cylinder.
+Eu passei a toalha coberta de tinta sobre a superfície do rolo de pedra.
+
+[HEADER 00000BFE]
+#It took me right back to art class at school.  And Maurice, my gorgeous art teacher...
+Isso me fez voltar aos tempos da aula de arte na escola. E Maurice, meu professor bonitão de arte...
+
+[HEADER 00000CE9]
+#Such a shame they had to fire him. Ah, well... Concentrate, Nico, concentrate!
+Uma pena eles terem o demitido. Ah, bem... Concentre-se, Nico. Concentre-se!
+
+[HEADER 00000CD2]
+#Putting the paint straight on the cylinder would be too messy.  The paint would go everywhere.
+Pôr a tinta diretamente no rolo seria uma bagunça. A tinta iria para toda parte.
+
+[HEADER 00000CD4]
+#I wouldn't be able to print straight onto the cloth.  I needed something flat to print onto.
+Eu não conseguiria imprimir diretamente na toalha. Precisava de algo plano para fazer isso.
+
+[HEADER 00001771]
+#Sliding the bars was the only way to free the latch.
+Deslizar as barras era o único meio de liberar o trinco.
+
+[HEADER 00001776]
+#I could do with some locks like this on my apartment.
+Eu poderia ter algumas travas como essa no meu apartamento.
+
+[HEADER 00001777]
+#Yes!  One down, one to go...
+Sim! Uma já foi. Falta a outra...
+
+[HEADER 00001778]
+#Perfect!  Nothing like a good convent education for honing your lock-picking skills.
+Perfeito! Nada que uma boa educação religiosa para afiar suas habilidades de arrombamento.
+
+[HEADER 000017B1]
+#Psalms thirty-two, seven.  The numbers referred to a chapter and a verse in the Bible.
+Salmos trinta e dois, sete. Os números referiam-se a um capítulo e um versículo da Bíblia.
+
+[HEADER 000017B2]
+#Not much to go on, but it must have meant something.
+Nada de muita ajuda, mas deveria significar algo.
+
+[HEADER 000017B3]
+#If I examined the tomb more closely there might be other clues to find.
+Se eu examinasse o túmulo mais de perto, poderia haver outras pistas para encontrar.
+
+[HEADER 000017B4]
+LINE '6068' MISSING FROM MASTER LANGUAGE.TXT
+
+[HEADER 000017B5]
+LINE '6069' MISSING FROM MASTER LANGUAGE.TXT
+
+[HEADER 000017B6]
+#John four, eleven.
+João quatro, onze.
+
+[HEADER 000017B7]
+#Corinthians fourteen, five.
+I Coríntios quatro, cinco.
+
+[HEADER 000017B8]
+#Psalms twenty-two, twenty-one.
+Salmos trinta e dois, trinta e um.
+
+[HEADER 000017B9]
+#There were no more references to find.
+Não havia mais referências para achar.
+
+[HEADER 000017BB]
+#But a series of Roman numerals ran around the plaque.
+Mas uma série de algarismos romanos no contorno da placa.
+
+[HEADER 000017BC]
+#I made a note in case they meant something.
+Fiz uma nota no caso de significarem algo.
+
+[HEADER 000017BD]
+#A Biblical reference was engraved into the tomb edge.
+Uma referência bíblica foi gravada na borda do túmulo.
+
+[HEADER 000017BE]
+#Some kind of guide for the next world, I guess.
+Algum tipo de guia para o próximo mundo, eu acho.
+
+[HEADER 000017BF]
+#My eye was drawn to the Biblical reference carved into the edge of the tomb.
+Meu olho foi atraído à referência bíblica esculpida na borda do túmulo.
+
+[HEADER 000017C0]
+#Hey! Maybe this Biblical reference means something...
+Ei, talvez essa referência bíblica signifique algo!
+
+[HEADER 00001783]
+#The message was in code.  A code I was going to have to crack...
+A mensagem estava codificada, e eu tinha que decifrá-la...
+
+[HEADER 00001784]
+#The code was the same as the other one I'd already cracked.
+O código era igual ao outro que eu já tinha decifrado.
+
+[HEADER 0000178D]
+#That's it!  I'd cracked the code!
+Isso! Eu decifrei o código!
+
+[HEADER 00001788]
+#That symbol was probably an "E".
+Aquele símbolo provavelmente era um "E".
+
+[HEADER 00002B03]
+#Look for the one or two letter words and try out 'A' or 'I' or 'IN' or 'OF' or 'TO' or 'BY' etc.  If you guess right, then some of the 3 or 4 letter words will now become clear.
+Procure por palavras de uma ou duas letras e experimente 'A' ou 'E' ou 'EM', etc. Se seus palpites estiverem certos, então 3 ou 4 palavras agora estarão visíveis.
+
+[HEADER 00002B04]
+#The letter 'E' is very common.  Find the most common glyph and try inserting an 'E' in its place.
+A letra 'E' é muito comum. Procure a cifra mais usada e tente colocar o 'E' no seu lugar.
+
+[HEADER 00002B05]
+#The first word is PIERRE - that will give you four correct letters.
+A primeira palavra é PIERRE. Isso vai resultar em quatro letras corretas.
+
+[HEADER 00002B06]
+#The first words are PIERRE. FULL REPORT TO FOLLOW.
+As primeiras palavras são PIERRE. ENVIADO RELATORIO COMPLETO.
+
+[HEADER 0000178E]
+#The pieces of paper were the torn fragments of a photo.
+Os pedaços de papel eram os fragmentos rasgados de uma foto.
+
+[HEADER 0000178F]
+#But who was in the picture...?
+Mas quem estava na foto...?
+
+[HEADER 00002B07]
+#Try matching the vertical and horizontal edges first.
+Tente montar os lados primeiro.
+
+[HEADER 00002B08]
+#Look for the parts of a face and see if you can fit them together.
+Procure por pedaços com um rosto e veja se você consegue juntá-los.
+
+[HEADER 00001792]
+#Oh my God!  It can't be...
+Meu Deus! Não pode ser...
+
+[HEADER 00001793]
+#There was no doubt about it...
+Não havia dúvidas sobre isso...
+
+[HEADER 00001794]
+#It was a picture of my father!
+Era uma foto do meu pai!
+
+[HEADER 000017AA]
+#As I looked through the scroll, the lens distorted the image in the window.
+Conforme eu olhava pelo pergaminho, a lente distorcia a imagem na janela.
+
+[HEADER 000017AB]
+#By manipulating the lens I could adjust the distortions...
+Manipulando a lente, pude ajustar as distorções.
+
+[HEADER 000017AF]
+#The distortions came sharply into focus...
+Elas ficaram nitidamente em foco.
+
+[HEADER 000017B0]
+#It was a Knight Templar burning at the stake!  And below him, a date in Roman numerals.
+Era um Templário queimando numa estaca! E, abaixo dele, uma data em algarismos romanos.
+
+[HEADER 00002B0F]
+LINE '11023' MISSING FROM MASTER LANGUAGE.TXT
+
+[HEADER 00002B10]
+LINE '11024' MISSING FROM MASTER LANGUAGE.TXT
+
+[HEADER 00001795]
+#The first task was to place the correct red pieces into the right holes...
+A primeira tarefa era colocar as peças vermelhas certas nas casas certas.
+
+[HEADER 0000179B]
+#With the red pieces in place, the square bases fit onto the white pieces.
+Com as peças vermelhas no lugar, as peças brancas ajustam-se nas bases quadriculares.
+
+[HEADER 0000179C]
+#I just had to figure out where to place them.
+Eu só precisava descobrir onde colocá-las.
+
+[HEADER 000017A0]
+#Bingo!  I mean, checkmate!
+Bingo! Digo, xeque-mate!
+
+[HEADER 00008980]
+#The note has been written using a substitution cipher. This means that a different symbol has been used to represent each letter of the alphabet.
+O bilhete foi escrito usando uma cifra de substituição. Isso significa que um símbolo diferente foi usado para representar cada letra do alfabeto.
+
+[HEADER 0000898A]
+#To crack the code, you must correctly match all the symbols to their corresponding letters. Highlight a symbol, then highlight the corresponding letter.
+Para decifrar o código, você deve combinar corretamente todos os símbolos com suas letras correspondentes. Destaque um símbolo e depois a sua letra correspondente.
+
+[HEADER 00008994]
+#If you make a mistake, tap the 'go back' button to step back - or you can reset the whole puzzle by tapping the 'reset' button.
+Se cometer um erro, clique no botão 'voltar' para retroceder. Ou você pode reiniciar todo o enigma clicando no botão "reiniciar". 
+
+[HEADER 000088B8]
+#You must move the rectangular blocks so the latch can slide all the way across, so releasing the gate to open. Blocks move along their length - some vertically, some horizontally.
+Você deve mover os blocos retangulares para que o trinco possa deslizar por completo, e assim o portão se abrir. Cada bloco tem seu eixo de movimento, uns na vertical, outros na horizontal.
+
+[HEADER 000088C2]
+#Touch the stylus on a block, and drag it horizontally or vertically along the appropriate axis.
+Toque com a stylus em um bloco e arraste-o na horizontal ou na vertical ao longo do eixo apropriado.
+
+[HEADER 000089E4]
+#A photograph has been torn into many fragments, which must be arranged in the correct position.
+Uma fotografia foi rasgada em vários pedaços, e deve ser arrumada na posição correta.
+
+[HEADER 000089EE]
+#To move a fragment, touch it and the pointer will turn to a grasping hand. Drag the fragment to the appropriate position.
+Para mover um pedaço, toque nele e o ponteiro se tornará uma mão fechada. Arraste o pedaço até a posição apropriada.
+
+[HEADER 000089F8]
+#The fragments must be arranged so that the whole of the photograph fits within the available space.
+Os pedaços devem ser arrumados para que toda a fotografia se ajuste dentro do espaço disponível.
+
+[HEADER 00008B74]
+#A jumble of letters are carved onto the side of the knight's tomb. You must look for and highlight a number of Biblical verse references - comprising of the name of a Book followed by the Chapter and Verse - in Latin numerals.
+Um emaranhado de letras está esculpido na lateral do túmulo do cavaleiro. Você deve procurar e destacar um número de referências de versículos Bíblicos, que abrange o nome de um Livro seguido do Capítulo e do Versículo, em algarismos romanos.
+
+[HEADER 00008B7E]
+#So, for example, Luke Chapter 8 Verse 2 would be displayed as Luke:VIII+II.
+Então, por exemplo: Lucas, Capítulo 8, Versículo 2, estaria exposto como Lucas:VIII+II
+
+[HEADER 00008B88]
+#You must find and highlight all the verse references. Drag the stylus across the Touch Screen and you will see that a highlight trail is left.
+Você deve achar e destacar todas as referências dos versículos. Arraste a stylus pela Tela de Toque e verá que uma trilha destacada começará a surgir.
+
+[HEADER 00008BA6]
+#Highlight the full verse reference, and the letters will stay lit - otherwise the letters will fade. George will read the verse references once they are all highlighted.
+Destaque a referência completa do versículo e as letras permanecerão acesas; ou apagarão. George lerá as referências dos versículos quando todas estiverem destacadas.
+
+[HEADER 0000891C]
+#To release the mechanism, the cylinder must be rotated a number of times in the correct directions. The cylinder is rotated clockwise and anti-clockwise by touching the buttons at each side of the upper part of the recess.
+Para liberar o mecanismo, o rolo deve ser rodado um número de vezes nas direções corretas. Ele é rodado no sentido horário ou anti-horário clicando nos botões em cada lado da parte superior do encaixe.
+
+[HEADER 00008926]
+#If you get the order wrong, then the locking mechanism will reset, and you will have to start again.
+Caso errar a ordem, o mecanismo de trava reiniciará, e você terá que recomeçar.
+
+[HEADER 00008C3C]
+#To release the mechanism, the stone key must be rotated a number of times in the correct directions.
+Para liberar o mecanismo, a chave de pedra deve ser rodada um número de vezes nas direções corretas.
+
+[HEADER 00008C46]
+#There are two dials - the gold ring representing the Roman numerals 1 to 9, the red ring representing numerals 10 to 90.
+Há dois indicadores: o anel dourado, representando os algarismos Romanos de 1 a 9; e o anel vermelho, representando os algarismos de 10 a 90.
+
+[HEADER 00008C50]
+#Tap the relevant buttons to turn each ring to set up a particular number between a value of 1 and 99 between the arrows, and then tap the button in the lower right to select that number.
+Toque nos botões relevantes para girar cada anel para estabelecer um número específico, entre um valor de 1 a 99 entre as setas e, então, clique no botão no canto inferior direito para selecioná-lo.
+
+[HEADER 00008C5A]
+#The mechanism requires the correct numbers to be entered in order - get a number wrong, and the mechanism will reset.
+O mecanismo requer que os números corretos sejam inseridos na ordem. Caso errar, ele reiniciará.
+
+[HEADER 00008B10]
+#Three lens elements need to be slid to the correct position within the circle so that, when aligned, they create a clear image.
+Os três componentes da lente precisam ser deslizados à posição correta dentro do círculo para que, quando alinhados, criem uma imagem nítida.
+
+[HEADER 00008B1A]
+#Each lens element can be moved by touching the numbered tab with the stylus and, when a grasped hand appears, sliding the stylus left or right. George will acknowledge the image once the lenses are correctly positioned.
+Cada componente pode ser movido tocando na aba numerada com a stylus e, quando uma mão fechada aparece, deslizando-a para a esquerda ou direita. George reconhecerá a imagem quando as lentes estiverem corretamente posicionadas.
+
+[HEADER 00008AAC]
+#All the red pieces are in position. Now the white pieces must be placed along the central column of squares such that they place the red king in checkmate.
+Todas as peças vermelhas estão em posição. Agora as brancas devem ser postas ao longo da coluna central do tabuleiro, de tal maneira que façam xeque-mate no rei vermelho.
+
+[HEADER 00008AB6]
+#Remember that the crown with four baubles represents the queen, the bulbous crown with the cross represents the king.
+Lembre-se de que a coroa com as quatro pontas representa a rainha e a em forma de bulbo com a cruz representa o rei.
+
+[HEADER 00008AC0]
+#To move a piece, touch it and the pointer will turn to a grasped hand, then drag the piece to the desired position within the central column of squares, and release.
+Para mover uma peça, toque nela e o ponteiro se tornará uma mão fechada. Então arraste-a até a posição desejada dentro da coluna central do tabuleiro e solte.
+
+[HEADER 00008A48]
+#Each chess piece must be placed in its corresponding hole.
+Cada peça do xadrez deve ser posta em sua casa correspondente.
+
+[HEADER 00008A52]
+#Touch the stylus on any unplaced chess piece, and it will turn to reveal a pattern on its base. Likewise, touch the stylus on any hole in the board, and it will show a pattern.
+Toque com a stylus em qualquer peça não colocada e acabará se revelando um desenho em sua base. O mesmo vale também para as casas no tabuleiro.
+
+[HEADER 00008A5C]
+#Each chess piece must be dragged onto the hole of its corresponding pattern. To do this, touch the stylus on a piece, and once the pointer turns into a grasping hand, drag it to the correct hole on the chess board.
+Cada peça de xadrez deve ser arrastada até a casa com o desenho correspondente. Para fazer isso, toque com a stylus em uma peça e, quando o ponteiro virar uma mão fechada, arraste-a até a casa correta no tabuleiro.
+
+[HEADER 00008A66]
+#If you try to put a piece into the wrong hole, then it will jump back to the side.
+Se tentar pôr uma peça na casa errada, essa retornará à lateral.
+
+[HEADER 00005014]
+#Accessing the Options screen
+Acessando a tela de Opções
+
+[HEADER 0000501E]
+#Interacting with objects and people
+Interagindo com objetos e pessoas
+
+[HEADER 00005028]
+#Moving the text forward
+Avançando o texto
+
+[HEADER 00005032]
+#Moving your character
+Movendo sua personagem
+
+[HEADER 0000503C]
+#Checking what your character is carrying
+Verificando o que sua personagem está carregando
+
+[HEADER 00005046]
+#Leaving a room
+Saindo de um lugar
+
+[HEADER 00005050]
+#Examining things in the environment
+Examinando coisas no ambiente
+
+[HEADER 0000505A]
+#Examining objects in your inventory
+Examinando objetos no seu inventário
+
+[HEADER 00005064]
+#Talking to a character
+Conversando com uma personagem
+
+[HEADER 0000506E]
+#Using an item on the background
+Usando um item no segundo plano
+
+[HEADER 00005078]
+#Using a background object while holding it in place
+Usando um objeto de segundo plano depois de pegá-lo
+
+[HEADER 00005082]
+#Combining objects in your inventory
+Combinando objetos no seu inventário
+
+[HEADER 00005070]
+#Interface Tutorial
+Tutorial da Interface
+
+[HEADER 00005072]
+#Puzzle Hints
+Dicas do Enigma
+
+[HEADER 00005073]
+#Using an inventory item on a character
+Usando um item do inventário em alguém
+
+[HEADER 00005075]
+#Diary
+Diário
+
+[HEADER 00005087]
+#Return Visits
+Visitas de Retorno
+
+[HEADER 0000508C]
+#Another Hint
+Outra Dica
+
+[HEADER 00005096]
+#Hint 1
+Dica 1
+
+[HEADER 00005097]
+#Hint 2
+Dica 2
+
+[HEADER 00005098]
+#Hint 3
+Dica 3
+
+[HEADER 00005099]
+#Hint 4
+Dica 4
+
+[HEADER 00004E90]
+#From time to time you will see a white stylus appear in the bottom right of the Touch Screen. Tap it to get advice on the user interface.
+De vez em quando, você verá uma stylus branca no canto inferior direito da Tela de Toque. Toque nela para obter uma explicação de como usar a interface.
+
+[HEADER 00004E91]
+#From time to time you will see a white exclamation mark appear in the bottom right of the screen. Move the Pointer over it, and press the A Button to get advice on the user interface.
+De vez em quando, você verá um ponto de exclamação branco no canto inferior direito da tela. Mova o ponteiro até ele e aperte o Botão A para obter uma explicação de como usar a interface.
+
+[HEADER 00004E92]
+#If you are stuck, you can access the puzzle hints - either by tapping the blue question mark at the top right of the Touch Screen, or through the Options screen. The game counts how many times you ask for a hint - try to use as few as possible.
+Se estiver empacado, você pode acessar as dicas do enigma tocando no ponto de interrogação azul no canto superior direito da Tela de Toque, ou pela tela de Opções. O jogo conta quantas vezes você usou as dicas. Tente usar o menos possível.
+
+[HEADER 00004E20]
+#The Options screen allows you to load and save games, check for puzzle hints, examine the diary, and adjust your game preferences.
+A tela de Opções permite carregar e gravar jogos, olhar as dicas do enigma, examinar o diário e ajustar as suas preferências do jogo.
+
+[HEADER 00004E2A]
+#To access the Options screen, tap the Options icon - the sheet of paper in the top left of the Touch Screen.
+Para acessar a tela de Opções, clique no ícone de Opções (a folha de papel no canto superior esquerdo da Tela de Toque).
+
+[HEADER 00004E34]
+#Touch and slide the stylus around the Touch Screen to discover areas of interest. Icons will appear over things with which you can interact - the shape of the icon depicting what you can do.
+Toque e deslize a stylus pela Tela de Toque para descobrir áreas de interesse. Ícones aparecerão sobre as coisas que você pode interagir. A forma dele descreve o que você pode fazer.
+
+[HEADER 00004E36]
+#Slide the stylus over an icon so that it starts to animate - then lift the stylus to perform the specific action.
+Deslize a stylus sobre um ícone para que ele comece a animar e, então, levante-a para executar a ação específica.
+
+[HEADER 00004E3E]
+#When you have read the text in the top screen, tap the stylus anywhere on the Touch Screen to move the game forward.
+Quando tiver lido o texto na tela superior, toque com a stylus em qualquer lugar na Tela de Toque para avançar o jogo.
+
+[HEADER 00004E48]
+#To move your character, tap the stylus on the place that you want to walk to and lift. Beware - if you tap over an object with which you can interact, and an animating icon has appeared, then your character will perform that action instead.
+Para mover sua personagem, toque com a stylus no lugar que deseja e levante-a. Cuidado: caso toque sobre um objeto com que possa interagir e um ícone animado aparecer, então sua personagem executará essa ação ao invés de se mover pelo cenário.
+
+[HEADER 00004E52]
+#Items that your character picks up are put into an 'inventory'. The inventory can be accessed by tapping on the bag icon on the Touch Screen.
+Itens que sua personagem pegar são postos num 'inventário'. Esse pode ser acessado tocando no ícone de bolsa na Tela de Toque.
+
+[HEADER 00004E5C]
+#To leave a room, slide the stylus over the exit area. When an animating hand appears then lift the stylus, and your character will leave that area. Doors which might become an exit, but which are locked, may need to be opened before they can be used.
+Para sair de um lugar, deslize a stylus até a área de saída. Quando uma mão animada aparecer, levante a stylus e seu personagem sairá dessa área. Portas que possam ser uma saída, mas estão trancadas, talvez precisem ser abertas antes de usar.
+
+[HEADER 00004E66]
+#To examine something, touch and slide the stylus over it.  If it can be examined then an eye icon will appear.
+Para examinar algo, toque e deslize a stylus sobre ele. Caso puder ser examinado, um ícone de olho aparecerá. 
+
+[HEADER 00004E68]
+#Move the stylus over the eye icon until the eye starts to blink and then lift the stylus.
+Mova a stylus para sobre o ícone de olho até que ele comece a piscar e, então, levante-a.
+
+[HEADER 00004E70]
+#To examine an object that you have picked up and placed in your inventory, first you must open your inventory by tapping on the bag icon on the Touch Screen.  The inventory will be displayed. Then simply tap the stylus on the object that interests you.
+Para examinar um objeto que você tenha pegado e posto no seu inventário, deve-se primeiro abrir o inventário tocando no ícone de bolsa na Tela de Toque. O inventário será exibido. Aí, simplesmente toque com a stylus no objeto de interesse.
+
+[HEADER 00004E7A]
+#Touch and slide the stylus over the character. A mouth icon will appear - slide the stylus over the mouth icon until it starts to animate, then lift the stylus.
+Toque e deslize a stylus até a personagem. Um ícone de boca aparecerá. Deslize a stylus para sobre o ícone de boca até que ele comece a ficar animado e, então, levante a stylus.
+
+[HEADER 00004E84]
+#Some characters may not want to talk to you immediately. But if they do, icons depicting subjects, and reflecting the objects in your inventory will be displayed. Simply tap the relevant icon and a conversation will start.
+Algumas pessoas podem não querer conversar com você imediatamente. Caso contrário, ícones retratando pessoas ou refletindo itens no seu inventário serão exibidos. Simplesmente toque no ícone relevante e uma conversa iniciará.
+
+[HEADER 00004E98]
+#Some items in your inventory can be given to, or used on other characters. To do this, first open your inventory. Touch and hold the stylus on the item you want to use.
+Alguns itens no seu inventário podem ser dados ou usados em outras personagens. Para isso, primeiro abra seu inventário e, então, toque e segure a stylus no item que deseja usar.
+
+[HEADER 00004E9A]
+#Drag the item out of the inventory: after a few moments the rest of the inventory will fade away.  Now drag the item over the character.
+Arraste o item para fora do inventário. Em poucos segundos, o resto do inventário desaparecerá. Agora arraste-o até a personagem.
+
+[HEADER 00004E9C]
+#When the mouth icon starts to animate, release the item and see what happens.
+Quando o ícone de boca começar a ficar animado, solte o item e veja o que acontece.
+
+[HEADER 00004EA2]
+#Some objects in the environment can be lifted and held up. If your character stays holding an object up, then inventory items may be used on that object.
+Alguns objetos no ambiente podem ser levantados e segurados. Se sua personagem continuar segurando-o, então os itens do seu inventário possam, talvez, ser usados nesse objeto.
+
+[HEADER 00004EA4]
+#Tap anywhere on the floor area to drop the object and return to normal gameplay control.
+Toque em qualquer lugar no chão para largar um objeto e voltar ao controle normal do jogo.
+
+[HEADER 00004EAC]
+#Some items in your inventory can be combined. To do this, open your inventory. Then touch the stylus on the first item you want to combine.
+Alguns itens no seu inventário podem ser combinados. Para isso, abra-o e toque com a stylus no primeiro item que deseja combinar.
+
+[HEADER 00004EAE]
+#Drag the item on top of a second item and release. If the items can be successfully combined, then you will see the result in the top screen.
+Arraste-o para sobre o segundo item e solte. Se os dois puderem ser combinados com êxito, então você verá o resultado na tela superior.
+
+[HEADER 00004E9E]
+#The diary keeps a record of what you have achieved in the game. It is useful to recap. Remember - sometimes information recorded in the diary is necessary to solve puzzles!
+O diário mantém um registro do que você alcançou no jogo. Ele é útil para recapitular. Lembre-se: às vezes, uma informação registrada no diário é necessária para solucionar os enigmas!
+
+[HEADER 00004EA0]
+#The diary can be accessed through the Options menu.
+O diário pode ser acessado pelo menu Opções.
+
+[HEADER 00004E95]
+#Some background objects may require an item that you will get later in the game, and so can't be used immediately. Don't worry - the game will not let you progress from a section until you have completed everything that needs to be done there.
+Alguns objetos de segundo plano podem requerer um item que você pegará mais tarde no jogo, portanto não podem ser usados imediatamente. Não se preocupe, o jogo não deixará você passar de um ponto até que tenha concluído tudo o que precisa ser feito lá.
+
+[HEADER 000050DC]
+#Items in your inventory can sometimes be used to act upon objects in the game.  To do this, first open your inventory.
+Itens no seu inventário podem, às vezes, ser usados para agir em objetos no jogo. Para isso, abra primeiro seu inventário.
+
+[HEADER 000050E6]
+#Touch and hold the stylus over the item you want to use.  Drag it out of the inventory: after a few moments the rest of the inventory will fade away.
+Toque e segure a stylus sobre o item que deseja usar. Arraste-o para fora do inventário. Em poucos segundos, o resto do inventário desaparecerá.
+
+[HEADER 000050F0]
+#Now drag the item onto the background object. When the interaction icon starts to animate, release the item and see what happens.
+Agora arraste o item até o objeto no segundo plano. Quando o ícone de interação começar a ficar animado, solte-o e veja o que acontece.
+
+[HEADER 00005208]
+#Palais Royale: Pierre Carchon Interview
+Palais Royale: Entrevista com Pierre Carchon
+
+[HEADER 00005212]
+#Below the Conciergerie: Sub Judice
+Sob a Conciergerie: Sub Judice
+
+[HEADER 0000521C]
+#Meeting Plantard: Explosive Results
+Encontrando Plantard: Resultados Explosivos
+
+[HEADER 00005226]
+#Palais Royale: Imelda In Danger
+Palais Royale: Imelda Em Perigo
+
+[HEADER 00005230]
+#Paris: Vacation
+Paris: Férias
+
+[HEADER 0000523A]
+#Paris: Clown Chasing
+Paris: Caça ao Palhaço
+
+[HEADER 00005244]
+#Paris: Crune Museum
+Paris: Museu Crune
+
+[HEADER 0000524E]
+#Ireland: The Lochmarne Gem
+Irlanda: A Gema de Lochmarne
+
+[HEADER 00005258]
+#Paris: Montfauçon
+Paris: Montfauçon
+
+[HEADER 00005262]
+#Syria: Marib
+Síria: Marib
+
+[HEADER 0000526C]
+#Syria: Bull's Head
+Síria: Cabeça do Touro
+
+[HEADER 00005276]
+#Spain: Villa de Vasconcellos
+Espanha: Villa de Vasconcellos
+
+[HEADER 00005280]
+#Paris: Baphomet Dig
+Paris: Escavação do Baphomet
+
+[HEADER 0000528A]
+#Scotland: Train
+Escócia: Trem
+
+[HEADER 00005294]
+#Scotland: St Ninian's
+Escócia: St. Ninian's
+
+[HEADER 000055EE]
+#Contents
+Conteúdo
+
+[HEADER 000055EF]
+#Current Entry
+Entrada Atual
+
+[HEADER 000055F0]
+#Relaxing in bath when I was disturbed by phone call from my editor, Ronnie. He asked me to interview Pierre Carchon - media tycoon and serial philanderer. On the case like a shot.
+Relaxando no banho quando fui interrompida por telefonema do meu editor, Ronnie. Ele me pediu que entrevistasse Pierre Carchon, magnata da mídia e galanteador em série. No caso num piscar de olhos.
+
+[HEADER 000055FA]
+#Creepy mime outside the Carchons' apartment.
+Mímico apavorante do lado de fora do apartamento dos Carchons.
+
+[HEADER 00005604]
+#Mme. Carchon cold as ice. M. Carchon suave and charming - living up to his reputation. Played along with his flirtation.
+Mme. Carchon fria como gelo. M. Carchon suave e charmoso, mantendo sua reputação. Deixei rolar seu galanteio.
+
+[HEADER 0000560E]
+#The sound of a vase smashing, and M. Carchon went to investigate. A gunshot - I rushed to the room and found mime standing over Carchon's body.
+O som de um vaso quebrando, e M. Carchon foi investigar. Um tiro. Fui depressa ao quarto e encontrei mímico próximo ao corpo do Carchon.
+
+[HEADER 00005618]
+#Mime beckoned. As I walked to him he punched me. Knocked me out.
+Mímico fez sinal. Andei até ele. Esse me socou. Fui nocauteada.
+
+[HEADER 00005622]
+#Came to, to find Imelda distraught - almost feel sorry for her.
+Dei por mim, encontrando Imelda perturbada. Quase com pena dela. 
+
+[HEADER 0000562C]
+#Must get to the bottom of this story before the police arrive. This is the break that I have waited for.
+Devo ir ao fundo desta história antes da polícia chegar. Esta era a chance que eu estava esperando.
+
+[HEADER 00005636]
+#Imelda doesn't trust me very much. Fortunately, she has chosen to let me investigate her husband's murder.
+Imelda não confia muito em mim. Felizmente, escolheu deixar que eu investigue o assassinato do marido.
+
+[HEADER 00005640]
+#In Carchon's safe, found a stone cylinder with symbols carved on surface. Got an imprint and found that it contained a coded message.
+No cofre do Carchon, encontrei um rolo de pedra com símbolos esculpidos na surperfície. Peguei uma impressão e descobri que continha uma mensagem codificada.
+
+[HEADER 0000564A]
+#Sub-Judice - SDSSDSS. Sub-Judice refers to a case that is under the jurisdiction of a court - but what about the letters?
+Sub-Judice - SDSSDSS. Sub-Judice refere-se a um caso que está sobre jurisdição de um tribunal, mas e as letras?
+
+[HEADER 00005654]
+#Carchon was carrying a boat ticket marked 'Bateaux de la Conciergerie' - the Conciergerie being the ancient law-courts. The coded message includes the words 'Sub Judice'.
+Carchon estava carregando um bilhete de barco escrito: 'Bateaux de la Conciergerie', sendo a Conciergerie as antigas cortes de justiça. A mensagem codificada inclui as palavras 'Sub Judice'.
+
+[HEADER 00005656]
+#I should follow the clues exactly - by going to the quayside on the Ile de la Cité - literally under the Conciergerie.
+Devo seguir as pistas exatamente, indo ao cais na Ile de la Cité, literalmente sob a Conciergerie.
+
+[HEADER 0000565E]
+#Found a shell case underneath rotting skiff. Weird thing to find in a grotto.
+Achei uma cápsula embaixo de esquife podre. Coisa estranha para se achar numa gruta.
+
+[HEADER 00005668]
+#Carchon's stone cylinder operated a mechanism which opened door to a hidden chamber. But my way is blocked. Someone has gone to great lengths to protect something.
+Rolo de pedra de Carchon acionou um mecanismo que abriu porta para uma câmara secreta. Mas passagem está bloqueada. Alguém não mediu esforços para proteger algo.
+
+[HEADER 00005672]
+#I've made it into an extraordinary state room, the place that someone wanted to hide. Something very sinister going on, and I'm part of it.
+Consegui entrar num salão nobre extraordinário, o lugar que alguém quis esconder. Algo muito sinistro acontecendo, e faço parte disso.
+
+[HEADER 0000567C]
+#Amazing! Carchon, the 'media hero', has a very nasty past. And he is somehow connected to the Costumer Killer murders.
+Incrível! Carchon, o 'herói da mídia', tem um passado bem sórdido. E está, de alguma forma, conectado aos assassinatos do Assassino das Fantasias.
+
+[HEADER 0000567E]
+#They have been watching me - will they come after me now? Need to get the story published straight away. Ronnie will love it.
+Estavam me espionando. Virão atrás de mim agora? Preciso publicar o artigo logo. Ronnie vai amar.
+
+[HEADER 00005681]
+#Can't believe it. Ronnie spiked the story. Someone powerful has got to him, someone connected with Carchon and this whole nasty business. My big break - and now I must let it go.
+Não posso acreditar. Ronnie censurou o artigo. Alguém poderoso o pegou, alguém conectado ao Carchon e todo este negócio sórdido. Minha grande chance... e agora tenho que deixá-la.
+
+[HEADER 00005686]
+#strange. guy called Plantard phoned, saying he had  information about the Costume Killer. How did he know I was writing the story, let alone that it had been spiked?
+Esquisito. Cara chamado Plantard ligou, dizendo que tinha informação sobre o Assassino das Fantasias. Como poderia saber que eu estava escrevendo o artigo, ainda mais que foi descartado?
+
+[HEADER 00005688]
+#He wants me to meet him at the Café de la Chandelle Verte tomorrow  morning. But should I go? What if it's a trap?
+Ele quer que o encontre no Café de La Chandelle Verte amanhã de manhã. Mas devo ir? E se for uma armadilha?
+
+[HEADER 000059D8]
+#Arrived to meet Plantard. Turns out the café has been blown up - Plantard is the latest victim of the Costume Killer. Will I be next?
+Cheguei para encontrar Plantard. Acabou que o Café foi explodido. Plantard é a última vítima do Assassino das Fantasias. Serei a próxima?
+
+[HEADER 000059E2]
+#Met an American guy, George, who was caught in the blast. He's keen to find out what happened. I gave him my phone number - I hope that wasn't a mistake. Last thing I need is someone pestering me.
+Encontrei um Americano, George, que foi pego na explosão. Está interessado em descobrir o que aconteceu. Dei meu telefone. Espero que não tenha sido um erro. Última coisa que preciso é alguém me importunando.
+
+[HEADER 000059EC]
+#George called. He has found some clues. I invited him over this afternoon - need to find out more for myself before he arrives. Should I go to the police? Can I trust them? Glad to have someone else investigating.
+George ligou. Achou algumas pistas. Convidei para vir aqui esta tarde. Preciso descobrir mais por mim mesma antes dele chegar. Devo ir até a polícia? Posso confiar neles? Feliz por ter outra pessoa investigando.
+
+[HEADER 000059F6]
+#Fleur, the flower seller, tells me that a girl who looked like me broke into my apartment. She must have planted a bug - which is how Plantard knew about the spiked story.
+Fleur, a vendedora de flores, disse que uma garota parecida comigo invadiu meu apartamento. Deve ter plantado uma escuta, que foi como Plantard sabia sobre o artigo censurado.
+
+[HEADER 000059F8]
+#Maybe Plantard was scared and wanted to talk to me - tell me what was really going on.
+Talvez Plantard estava assustado e queria falar comigo, dizer o que estava realmente acontecendo.
+
+[HEADER 000059FA]
+#Carchon's organisation have kept me under surveillance, but have chosen not to kill me. Yet. How about the Costume Killer? There's some kind of war going on, but I don't know how - or why - I am involved.
+A organização do Carchon tem me mantido sobre vigilância, mas escolheu não me matar... ainda. E o Assassino das Fantasias? Há algum tipo de guerra acontecendo, mas não sei como - ou por que - estou envolvida.
+
+[HEADER 00005A00]
+#The police missed evidence in the café - not that I'm surprised. Found a pouch with another coded letter, and a strange metal object with a familiar symbol.
+Polícia não notou evidência no Café. Não que eu esteja surpresa. Encontrei uma bolsa com uma outra carta codificada e um estranho objeto metálico com um símbolo familiar.
+
+[HEADER 00005A02]
+#Decrypted the message - it was written to Plantard by Imelda. She was clearly part of the organisation and lied to me - her front was a complete sham.
+Decifrei a mensagem. Foi escrita para Plantard por Imelda. Ela fazia claramente parte da organização e mentiu para mim. Tudo aquilo não passou de fingimento.
+
+[HEADER 00005A0A]
+#She warns Plantard that the murderer will come after them. Plantard must have really wanted to tell me, or show me something.
+Ela avisou Plantard que o assassino virá atrás deles. Ele deveria querer mesmo me contar, ou mostrar, algo.
+
+[HEADER 00005A14]
+#Oh no. Found part of a photograph which links my father directly with Carchon. He was part of Carchon's organisation. A fascist involved in war atrocities. Can it really be true?
+Ah, não. Encontrei parte de uma fotografia que liga meu pai diretamente com Carchon. Ele fazia parte da organização de Carchon. Um fascista envolvido em crimes de guerra. Será que é mesmo verdade?
+
+[HEADER 00005A1E]
+#Papa is the link to this whole business. Was he the real reason why Carchon asked to meet me? I hope George does come over - but this part of the story must remain my own terrible secret.
+Papai é a ligação para todo este negócio. Ele era mesmo a verdadeira razão de Carchon ter me solicitado? Espero que George venha. Mas esta parte da história deve permanecer meu terrível segredo.
+
+[HEADER 00005DC0]
+#Three messages on my answer-machine. My editor very worried about the story. George calling from Ireland - drunk.
+Três mensagens na minha secretária eletrônica. Meu editor muito preocupado com o artigo, George ligando da Irlanda... bêbado.
+
+[HEADER 00005DCA]
+#And finally, Imelda Carchon. She said that a man called Moerlin is visiting her for dinner tonight. That's Khan - the Costume Killer! She's in terrible danger. I have to go and warn her.
+E, finalmente, Imelda Carchon. Ela disse que um homem chamado Moerlin está visitando-a para jantar esta noite. Esse é Khan, o Assassino das Fantasias! Ela está em muito perigo. Tenho que ir avisá-la.
+
+[HEADER 00005DD4]
+#Broken into Carchon's apartment. I make a great cat burglar.
+Invadi o apartamento do Carchon. Faço uma boa gatuna.
+
+[HEADER 00005DDE]
+#So now it's Imelda's turn to die. Another murder by the Costume Killer - Moerlin, or Khan. This time dressed as a cavalier.
+Agora foi Imelda que acabou morrendo. Outro assassinato do Assassino das Fantasias, Moerlin, ou Khan. Desta vez vestido de cavaleiro.
+
+[HEADER 00005DE8]
+#The police won't investigate - they'll just cover it up as they have covered up all the other killings.
+A polícia não irá investigar. Só irão encobrir como fizeram com todos os outros.
+
+[HEADER 00005DF2]
+#Thank God. Papa... wasn't working with Carchon. He was a spy - working undercover. And he was Imelda's lover! One of the good guys all along. This has to remain my secret - no one would understand.
+Graças a Deus. Papai... não estava trabalhando com Carchon. Ele era um espião, agindo secretamente. E era amante da Imelda! Um dos mocinhos o tempo todo. Isto tem de permanecer meu segredo. Ninguém entenderia.
+
+[HEADER 000061A8]
+#My long overdue vacation in Paris. This is the life, sitting in cafes, drinking coffee, enjoying the sunshine... and the ladies.
+Minhas longas férias atrasadas em Paris. Esta é a vida: sentado em Cafés, bebendo café, apreciando a luz do sol... e as senhoritas.
+
+[HEADER 000061B2]
+#Woah! The café just exploded. EXPLODED! A clown left a bomb in an accordion. Killed a guy. And nearly killed me. I will bring that clown to justice. Once I get some hearing back in my ears.
+Caramba! O Café foi explodido. EXPLODIDO! Um palhaço deixou uma bomba num acordeon. Matou um cara. E quase me matou. Irei trazê-lo à justiça. Assim que recuperar a audição dos ouvidos.
+
+[HEADER 000061BC]
+#The police don't think I had anything to do with the explosion. Which is a relief. But who was responsible?
+A polícia não acha que tive algo a ver com a explosão. O que é um alívio. Mas quem foi o responsável?
+
+[HEADER 000061C6]
+#Met a very cute photo-journalist called Nico Collard. She works for La Liberté - some kind of newspaper. She knew something about whoever planted the bomb, but wasn't giving much away.
+Encontrei uma jornalista muito bonita chamada Nico Collard. Trabalha para a La Liberté, um tipo de jornal. Ela sabia algo sobre quem plantou a bomba, mas não revelou muita coisa.
+
+[HEADER 000061C8]
+#But, she did give me her number!
+Mas me deu o telefone dela!
+
+[HEADER 000061D0]
+#Met an old guy in the courtyard near the café. He saw a man running away after the bomb blast, wearing a jacket made of the same material I found in the sewers.
+Encontrei um velho no pátio próximo ao Café. Ele viu um homem fugindo depois da explosão, vestindo uma jaqueta feita do mesmo tecido que encontrei no esgoto.
+
+[HEADER 000061DA]
+#He gave the jacket away straight away. But I've got the phone number of the tailor who made it, so I might have a lead.
+Ele deu a jaqueta para uma pessoa. Mas consegui o número do telefone do alfaiate que a fez, então eu talvez tenha uma pista.
+
+[HEADER 00006590]
+#Visited Nico in her apartment. Turns out, her editor spiked the story.
+Visitei Nico em seu apartamento. Acabou que o editor censurou artigo.
+
+[HEADER 0000659A]
+#Seems some important guys are being assassinated by clowns and penguins, while the police are keeping quiet about the murders. Not quite the vacation I expected.
+Parece que alguns caras importantes estão sendo assassinados por palhaços e pinguins, enquanto a polícia nada fala sobre os assassinatos. Não bem as férias que eu esperava.
+
+[HEADER 000065A4]
+#Inside the clown's nose I found the name of the costume shop from which the clown suit was hired. Great lead.
+Dentro do nariz de palhaço encontrei o nome da loja de fantasias, onde a fantasia de palhaço foi alugada. Boa pista.
+
+[HEADER 000065AE]
+#Nico's sharp. When I showed her the material that I found in the courtyard, she gave me a photograph she took at the scene.
+Nico é esperta. Quando mostrei o tecido que encontrei no pátio, ela me deu uma fotografia que havia tirado na cena.
+
+[HEADER 000065B0]
+#It shows a man emerging from the courtyard, wearing trousers made of the same material - and there's a scar on his cheek in the shape of a crescent moon.
+Mostra um homem saindo do pátio, vestindo calças feitas do mesmo tecido. Há uma cicatriz na bochecha em forma de uma lua crescente.
+
+[HEADER 000065B8]
+#The guy in Nico's photograph - he bought greasepaint from the costume shop, and rented two costumes; Seamus the Pixie, and Bozo the Clown. Apparently he called himself Khan. I'm on his trail!
+O cara na fotografia, ele comprou a maquiagem de teatro da loja de fantasia e alugou duas fantasias: Seamus, o Duende e Bozo, o Palhaço. Aparentemente, se chama Khan. Estou no rastro dele!
+
+[HEADER 000065C2]
+#Nico was right! The police are ignoring these murders! Inspector Rosso refused to even discuss the incident, and said he'd been taken off the case. It is beginning to look like a cover up.
+Nico estava certa! A polícia está ignorando estes assassinatos! O Inspetor Rosso se recusou até a discutir sobre o incidente, e disse que havia abandonado o caso. Está começando a parecer um encobrimento.
+
+[HEADER 000065CC]
+#Gave that tailor Todryk another call. He finally admitted to knowing something - confirmed that the guy who bought the suit was called Khan. Apparently he's staying at the Hotel Ubu. I'm getting closer.
+Fiz uma outra ligação ao alfaiate Todryk. Ele finalmente admitiu saber algo. Confirmou que o cara que comprou a fantasia se chamava Khan. Aparentemente, ele está ficando no Hotel Ubu. Estou chegando perto.
+
+[HEADER 000065D6]
+#Met the most fantastic, and insane, English woman, Lady Piermont. She recognised the photo of Khan, but said he claimed to be called Moerlin.
+Encontrei a inglesa mais fantástica e insana de todas, Lady Piermont. Ela reconheceu a foto do Khan, mas ela me disse que ele alegou se chamar Moerlin.
+
+[HEADER 000065E0]
+#He's been lying to her, toying with her affections - brave man. She's after revenge.
+Esteve mentindo para ela, brincando com seus sentimentos. Homem valente. Ela quer vingança.
+
+[HEADER 000065EA]
+#That was so close. Just as I was searching Khan's hotel room, he came in. I hid in the wardrobe. My heart was thumping so hard, I am amazed he didn't hear me.
+Essa foi por pouco. Bem quando eu estava investigando o quarto do Khan, ele entra. Escondi-me no armário. Meu coração estava batendo tão forte, que fiquei pasmo por ele não ter me escutado.
+
+[HEADER 000065F4]
+#He's left his trousers on the bed. I found a matchbook with the name 'Club Alamut' and a fake electrician's ID card.
+Ele deixou suas calças na cama. Encontrei uma caixa de fósforos com o nome 'Club Alamut' e um falso crachá de eletricista.
+
+[HEADER 000065FE]
+#Lady Piermont is fantastic! If I were a couple of hundred years older... After helping me get the room key, she then worked her magic to get me Khan's stash out the hotel safe.
+Lady Piermont é fantástica! Se eu fosse algumas centenas de anos mais velho... Após me ajudar com a chave do quarto, ela então usou sua mágica para tirar o que o Khan havia depositado do cofre do hotel.
+
+[HEADER 00006600]
+#It turned out to be an ancient manuscript. So that was what Plantard was killed for - but why?
+Acabou que era um antigo manuscrito. Então foi por causa disso que Plantard foi morto... mas por quê?
+
+[HEADER 00006608]
+#Showed Nico the manuscript. I think she was impressed! How could she not be?
+Mostrei o manuscrito à Nico. Acho que ela ficou impressionada! Como não poderia?
+
+[HEADER 00006612]
+#She knew right away that it was something to do with the Knights Templar - a hugely powerful medieval order with too few horses to go around, or something. But they had hidden treasure!
+Ela sabia bem que era algo a ver com os Templários, uma ordem medieval imensamente poderosa com muito poucos cavalos para andar por aí, ou algo assim. Mas eles haviam escondido um tesouro!
+
+[HEADER 0000661C]
+#The tripod from the manuscript, it's in the Crune Museum right here in Paris. According to the plaque, it was discovered in Lochmarne, Ireland.
+O tripé do manuscrito está no Museu Crune, bem aqui em Paris. De acordo com a placa, foi descoberto em Lochmarne, Irlanda.
+
+[HEADER 00006626]
+#An archaeologist, Professor Nigel Peagram found it, and he has the gem to go with it. So it's off to the Emerald Isle for me.
+Um arqueólogo, Professor Nigel Peagram, encontrou, e tem a gema que o acompanha. Hora de partir para a Ilha Esmeralda.
+
+[HEADER 00006630]
+#My attempt to thwart the robbery at the museum was hindered by a shoddy totem pole. But then a figure swooped in from the ceiling, like some kind of superhero.
+Minha tentativa de impedir o roubo no museu foi atrapalhada por um totem ordinário. Mas então um vulto desceu do teto, como um tipo de superherói.
+
+[HEADER 0000663A]
+#The masked saviour was Nico! I guess she did a good job - we do have the tripod. And I found the gem. Next move is to head to the site of Montfauçon, and see if I can figure out what to do with them.
+O salvador mascarado era Nico! Creio que ela fez um bom trabalho. Temos o tripé, e encontrei a gema. Próximo passo é ir ao local do Montfauçon e ver se consigo descobrir o que fazer com eles.
+
+[HEADER 00006978]
+#The tripod from the manuscript is in the Crune Museum right here in Paris! According to the plaque, it was discovered by the archaeologist Professor Nigel Peagram while excavating a site in Lochmarne, in the West of Ireland.
+O tripé do manuscrito está no Museu Crune bem aqui em Paris! De acordo com a placa, foi descoberto pelo arqueólogo Professor Nigel Peagram enquanto escavava um local em Lochmarne, no Oeste da Irlanda.
+
+[HEADER 00006982]
+#The gem shown in the manuscript may well be there too.
+A gema mostrada no manuscrito deve estar lá também.
+
+[HEADER 00006D60]
+#Lochmarne - what a beautiful village. Nico and I must really be onto something here. Ancient manuscripts, the Knights Templar, and a tripod from a medieval manuscript. All I need is the gem that goes with it.
+Lochmarne, que lindo vilarejo. Nico e eu devemos realmente estar diante de algo aqui. Manuscritos antigos, os Templários e um tripé de um manuscrito medieval. Tudo o que preciso é a gema que o acompanha.
+
+[HEADER 00006D6A]
+#I will start by asking the locals about Peagram and his dig.
+Começarei perguntando aos habitantes locais sobre o Peagram e sua escavação.
+
+[HEADER 00006D74]
+#Came across this guy, Sean Fitzgerald, who was as nervous as a long-tailed cat. He'd been given a package by Peagram - and told to give it to someone called Jacques Marquet.
+Deparei-me com esse cara, Sean Fitzgerald, que estava tão nervoso quanto um gato em dia de faxina. Ele recebeu um pacote do Peagram, que disse para dá-lo a alguém chamado Jacques Marquet.
+
+[HEADER 00006D7E]
+#Fitzgerald panicked when I caught him out, rushed out the pub and... was run over. By a leprechaun. Khan rented a leprechaun suit - it must be him.
+O Fitzgerald entrou em pânico quando o peguei, saiu correndo do pub e... foi atropelado... por um leprechaun. Khan alugou uma fantasia de leprechaun. Só pode ser ele.
+
+[HEADER 00006D88]
+#I met Khan. Face to face! He came right up to me and asked about the accident. He was looking for something - Fitzgerald must have had the gem in the package. Now all I need to do is find it.
+Encontrei o Khan, cara a caca! Ele veio bem até mim e perguntou sobre o acidente. Estava procurando por algo. Fitzgerald devia estar com a gema no pacote. Agora só tenho que achá-la.
+
+[HEADER 00006D92]
+#Got it! Got the gem that goes with the tripod. Now I just have to figure out what to do with them.
+Consegui! Peguei a gema que acompanha o tripé. Agora só tenho que descobrir o que fazer com eles.
+
+[HEADER 00006D9C]
+#So the 'ghost of Lochmarne' is no more than a fierce Billy goat. For a moment I thought he was going to be incredibly awkward to get past, but in the end it was surprisingly simple. Who would have known?
+Então o 'fantasma de Lochmarne' era nada mais, nada menos que um bode feroz. Por um momento, pensei que seria incrivelmente complicado passar por ele, mas no final foi surpreendentemente simples. Quem iria imaginar?
+
+[HEADER 00006DA6]
+#Nico will be impressed. I figured out how to open a secret door under the castle, which revealed my next big clue. An image of a gibbet in a place called Montfauçon. I'll just join the locals for a quick beer before heading back to Paris.
+Nico ficará impressionada. Descobri como abrir a porta secreta debaixo do castelo, que revelou minha próxima pista. Uma imagem de uma forca num lugar chamado Montfauçon. Mas antes de voltar a Paris, vou encontrar o pessoal daqui para uma última cerveja.
+
+[HEADER 00006DB0]
+#Need to find out what Montfauçon is all about. Something to do with a hanging man? And I need to find out more about the mysterious Marquet.
+Preciso descobrir o que é Montfauçon. Algo a ver com um homem enforcado? E descobrir mais, também, sobre o misterioso Marquet.
+
+[HEADER 00006DBA]
+#Marquet's in the local hospital. I'll head right over there.
+O Marquet está no hospital local. Irei para lá já.
+
+[HEADER 00006DC4]
+#Marquet thought I was some sort of assassin. Seems someone is trying to stop him re-forging a sword. He wanted me to deliver the gem to some guy called the Grand Master.
+Marquet pensou que eu era algum tipo de assassino. Parece que alguém está tentando impedi-lo de reforjar a espada. Ele queria que eu entregasse a gema para um cara chamado de Grão-Mestre.
+
+[HEADER 00006DCE]
+#Marquet said those two thugs from the hotel would try to steal the tripod. He also mentioned someone called Klausner, who the assassin might have followed to Syria. Very confusing.
+Marquet disse que aqueles dois gângsteres do hotel tentariam roubar o tripé. Também citou alguém chamado Klausner, a quem o assassino deve ter seguido até a Síria. Muito confuso.
+
+[HEADER 00006DD8]
+#But before I could get any explanation, I was ordered out by a doctor. Who wasn't a real doctor because he then murdered Marquet! These people certainly don't mess around.
+Mas antes que eu pudesse conseguir alguma explicação, fui mandado embora pelo doutor, que não era o verdadeiro, pois ele então assassinou o Marquet! Essas pessoas certamente não ficam à toa.
+
+[HEADER 00006DE2]
+#Wow, that Lobineau guy is such a jerk. "Look at me, look how much I know about the Knights Templar".
+Caramba, aquele Lobineau é um babaca. "Olha pra mim, veja o quanto sei sobre os Templários.".
+
+[HEADER 00006DEC]
+#Well. I guess he did know about the Hashshashin, and he knew about Montfauçon and where I need to head.
+Bem, acho que ele sabia sobre os Hashshashin, Mountfauçon e aonde eu deveria ir.
+
+[HEADER 00006DF6]
+#Fooled an idiot juggler - or jongleur as he wanted to be called. And now here I go again. Into another sewer.
+Passei a perna em um malabarista idiota - ou jongleur, como ele queria ser chamado. E aqui vou eu de novo. Em outro esgoto.
+
+[HEADER 00006E00]
+#Gate-crashed a meeting of influential leaders - from the military, business, government and academia. Recognised the academic - he was hanging around the Hotel Ubu. Must have been staking out Khan.
+Entrei como penetra numa reunião de líderes influentes - militares, comerciantes, congressistas e acadêmicos. Reconheci o acadêmico. Ele estava vagando pelo Hotel Ubu. Devia estar vigiando o Khan.
+
+[HEADER 00006E0A]
+#The big boss, a guy they called the 'Grand Master', mentioned a 'Broken Sword'. Didn't Marquet say something about fixing a sword? The Sword of Baphomet.
+O chefão, um cara que chamaram de 'Grão-Mestre', citou uma 'Espada Quebrada'. Marquet não havia dito algo sobre consertar uma espada? A Espada de Baphomet.
+
+[HEADER 00006E0C]
+#They talked about Klausner who has some lens that's important, but he's vanished in Syria - they think the assassin may have got him too.
+Eles falaram sobre Klausner, que possui uma lente importante, mas ele desapareceu na Síria. Acham que o assassino deve ter o pegado também.
+
+[HEADER 00006E14]
+#The Grand Master claimed to be a Knights Templar! I really don't trust them at all. They're just a bunch of megalomaniacs planning a "New Order".
+O Grão-Mestre alega ser um Templário! Eu não confio nem um pouco neles. São só um bando de megalomaníacos planejando uma "Nova Ordem".
+
+[HEADER 00006E1E]
+#Found out what the tripod and gem were for. Placed on the stump at the centre of the circle where the neo-Templars had met, the gem refracted light onto five letters: M A R I B.
+Descobri para que serviam o tripé e a gema. Colocado no pedestal no centro do círculo, onde os Neo-Templários tinham se encontrado, a gema refratou a luz para sobre cinco letras: M A R I B.
+
+[HEADER 00006E28]
+#Nico informs me Marib is the name of a village in Syria. That was where Klausner was last seen. This assassin must be Khan. He's killing them to stop them from re-forging this Sword of Baphomet, whatever that might be.
+A Nico me informou que Marib é o nome de uma vila na Síria. É onde o Klausner foi visto pela última vez. O assassino deve ser o Khan. Ele está matando-os para impedir que reforgem essa Espada de Baphomet, seja lá o que for.
+
+[HEADER 00006E32]
+#Used the lens in the church in Montfauçon and discovered an ancient clue in the window. The burning of Jacques de Molay, and the date 1314.
+Usei a lente na igreja em Montfauçon e descobri uma pista antiga na janela. A queima na fogueira de Jacques de Molay, e o ano 1314.
+
+[HEADER 00006E3C]
+#Got the priest in the church in Montfauçon to clean the Countess's chalice. He recognised the engraving on the side as matching one on a tomb in his church! The Pegasus of the de Vasconcellos family.
+Consegui que o padre da igreja em Montfauçon limpasse o cálice da Condessa. Ele reconheceu a gravura na lateral como correspondente ao do túmulo na sua igreja! O Pégaso da família de Vasconcellos.
+
+[HEADER 00006E46]
+#Around the outside of the inscriptions were the numerals XIV and XXVII at the top, VI and LXXXI to the left, III and I on the right, and XVII, XII, XXV along the bottom.
+Em volta do exterior das inscrições estavam os algarismos XIV e XXVII no topo, VI e LXXXI na esquerda, III e I na direita e XVII, XII e XXV na parte inferior.
+
+[HEADER 00006E50]
+#Seems the three-faced monstrosity I saw in that Syrian cave was a depiction of Baphomet.
+Parece que a monstruosidade de três rostos que vi naquela caverna na Síria era uma representação de Baphomet.
+
+[HEADER 00006E5A]
+#Lobineau says a Baphomet statue was recently found in Paris at the Institut Hermétique de Nerval. Apparently it's covered in Templar symbols.
+Lobineau disse que uma estátua de Baphomet foi recentemente encontrada em Paris, no Institut Hermétique de Nerval. Aparentemente, está coberto de símbolos Templários.
+
+[HEADER 00006E47]
+#On the tomb were carved the numerals; 14 Right, 27 Right, 6 Left, 81 Left, 3 right, 1 Left, 18 Right, 12 Right, 25 Left.
+No túmulo estavam esculpidos os algarismos: 14-Direita, 27-Direita, 6-Esquerda, 81-Esquerda, 3-direita, 1-Esquerda, 18-Direita, 12-Direita, 25-Esquerda.
+
+[HEADER 00007148]
+#Now in Marib, the village revealed by the tripod and gem. Need to start hunting for clues as to what happened to this Klausner guy, and the lens he is supposed to have found.
+Agora em Marib, a vila mostrada pelo tripé e a gema. Preciso começar a caçar por pistas sobre o que aconteceu com esse Klausner, e a lente que ele parece ter encontrado.
+
+[HEADER 00007152]
+#The knight in the manuscript isn't holding a crystal ball. It must be the lens that Klausner was supposed to have found in Marib.
+O cavaleiro no manuscrito não está segurando uma bola de cristal. Deve ser a lente que o Klausner parece ter encontrado em Marib.
+
+[HEADER 0000715C]
+#Oh no. Khan's here, and he's been asking around about ME. According to Ultar, the taxi driver, Klausner asked to go someplace called Bull's Head Hill. I need to check that out.
+Ah, não. O Khan está aqui, e esteve perguntando por aí sobre MIM. De acordo com Ultar, o motorista de táxi, Klausner pediu para ir a algum lugar chamado de Colina Cabeça do Touro. Preciso verificar isso.
+
+[HEADER 00007166]
+#This place is weird. Had to get a toilet brush to get a towel to fix a taxi. But I made it to Bull's Head Hill. Now to look for Klausner. Find him, find the lens.
+Este lugar é estranho. Tive que pegar uma escova de banheiro para pegar uma toalha para consertar um táxi. Mas consegui chegar na Colina Cabeça do Touro. Agora procurar pelo Klausner. Encontro ele, encontro a lente.
+
+[HEADER 00007170]
+#This is some vacation. Trapped in a cave in Syria, with a corpse for company and an assassin on my tail.
+Isto que são férias. Preso numa caverna na Síria com um defunto de companhia e um assassino na minha cola.
+
+[HEADER 0000717A]
+#I was right, it's a lens, not a crystal ball. And now I have it. Although Klausner is dead, and I'm going the same way unless I find a way out. Kinda mixed result.
+Eu estava certo, era uma lente e não bola de cristal, e agora eu a tenho. O Klausner está morto e, se eu não encontrar uma maneira de sair daqui, vou ter o mesmo destino dele. Santa ironia.
+
+[HEADER 00007184]
+#Face to face with Khan again. But this time he tried to kill me. Fortunately my ninja-like reflexes saved me. The Latin inscription in the cave is a clue to where the Sword of Baphomet is hidden.
+Cara a cara com o Khan de novo. Mas desta vez ele tentou me matar. Felizmente, meus reflexos de ninja me salvaram. A inscrição em latim na caverna é uma indicação do local onde a Espada de Baphomet está escondida. 
+
+[HEADER 00007532]
+#Lobineau tells me that the knight's coat of arms belongs to the de Vasconcellos family in Costa Calida, Spain. Must figure out what the de Vasconcellos family has to do with the manuscript.
+O Lobineau me contou que o brasão de armas do cavaleiro pertence à família de Vasconcellos, em Costa Calida, Espanha. Tenho que descobrir o que a família de Vasconcellos tem a ver com o manuscrito.
+
+[HEADER 00007530]
+#It looks like Lobineau was right. The de Vasconcellos family was heavily involved with the Templars. The Countess's chess board dates back to that era as well. There's something odd about those chess pieces.
+Parece que o Lobineau estava certo. A família de Vasconcellos estava bastante envolvida com os Templários. O tabuleiro de xadrez da Condessa pertence àquela época também. Há algo estranho naquelas peças.
+
+[HEADER 0000753A]
+#The Countess took me to her thirteenth century mausoleum, where five of the six de Vasconcellos Templars are buried.
+A Condessa me levou até seu mausoléu do século XIII, onde cinco dos seis Templários de Vasconcellos foram enterrados.
+
+[HEADER 00007544]
+#Found a chessboard puzzle which must connect to those weird chess pieces. Countess's face really lit up when I told her!
+Encontrei um enigma no tabuleiro de xadrez que deve ter algo a ver com aquelas peças estranhas. O rosto da Condessa brilhou quando contei isso a ela!
+
+[HEADER 0000754E]
+#Countess told me about the missing de Vasconcellos knight, Don Carlos, and his conflict with the church after the dissolution of the Templars.
+A Condessa me contou sobre o cavaleiro de Vasconcellos perdido, Don Carlos, e seu conflito com a igreja após a dissolução dos Templários.
+
+[HEADER 00007550]
+#Don Carlos returned from a scholarly trip to find his manservant killed, and his children gone. Distraught, he searched for his kids until the day he died.
+Don Carlos retornou de sua peregrinação para encontrar seu servo morto e seus filhos desaparecidos. Perturbado, procurou pelos seus garotos até o dia de sua morte.
+
+[HEADER 00007552]
+#Since then, there has been a curse on the de Vasconcellos family.
+Desde então, tem ocorrido uma maldição sobre a família de Vasconcellos.
+
+[HEADER 00007558]
+#My new puzzle-solving skills have uncovered an ancient hidden Templar chalice! Now back to Paris to show Nico.
+Minhas novas habilidades de resolver enigmas descobriram um antigo cálice Templário escondido! Agora, de volta à Paris para mostrar à Nico.
+
+[HEADER 00007559]
+#Guess I've promised the Countess I'll try to find out what happened to Don Carlos. I'm sure that everything is related in some way.
+Acho que prometi à Condessa que tentarei descobrir o que aconteceu com Don Carlos. Estou certo de que tudo está relacionado de alguma forma.
+
+[HEADER 0000755A]
+#So I've got a chalice. Now it's time to follow that lead from Ireland and explore Montfauçon further.
+Peguei o cálice. Agora é hora de seguir aquela pista que achei na Irlanda e explorar Mountfauçon mais além.
+
+[HEADER 00007562]
+#The countess was very excited to hear that I had discovered the tomb of her missing ancestor - Don Carlos de Vasconcellos.
+A condessa ficou muito animada em ouvir que eu tinha descoberto o túmulo do seu ancestral perdido, Don Carlos de Vasconcellos.
+
+[HEADER 0000756C]
+#We translated the verses on Don Carlos's tomb.
+Nós traduzimos os versículos no túmulo de Don Carlos.
+
+[HEADER 00007576]
+#'A hiding place'. 'The well is deep'. 'Will bring light into hidden things'. 'Save me from the lion's mouth'. Those are the Bible verses on the tomb. But what do they mean?
+'Um esconderijo'. 'O poço é profundo'. 'Trará à luz as coisas ocultas'. 'Salva-me da boca do leão'. Esses são os versículos da Bíblia no túmulo. Mas o que significam? 
+
+[HEADER 00007580]
+#Guess I brought light to a hidden thing. The candle in the mausoleum contained some sort of carved stone key.
+Creio que eu trouxe à luz uma coisa oculta. A vela no mausoléu continha algum tipo de chave de pedra esculpida.
+
+[HEADER 0000758A]
+#Have discovered a hidden cave.
+Descobri uma caverna escondida.
+
+[HEADER 00007594]
+#And found the pathetic corpses of the missing children, grasping the missing chess piece.
+E encontrei os cadáveres das crianças perdidas, agarrando a peça de xadrez que faltava.
+
+[HEADER 0000759E]
+#So the loyal manservant must have hidden them - and they waited there, terrified and all alone for their father's return, finally dying of dehydration and starvation.
+Então o leal servo deve ter as escondido, e elas esperaram lá, aterrorizadas e sozinhas, pela volta de seu pai, finalmente morrendo de desidratação e fome.
+
+[HEADER 000075A8]
+#Hope the de Vasconcellos curse has finally been lifted.
+Espero que a maldição dos de Vasconcellos tenha finalmente sido anulada.
+
+[HEADER 00007918]
+#Finally got past the dig guard, and into the Baphomet site.
+Finalmente consegui passar pelo guarda da escavação e entrar na área de escavação do Baphomet.
+
+[HEADER 00007922]
+#Found out what the chalice was for. Following the clues from Syria and Spain, I put the chalice in front of the Baphomet statue which revealed the image of a church reflected in its surface.
+Descobri para que era o cálice. Seguindo as pistas da Síria e Espanha, coloquei-o na frente da estátua de Baphomet, revelando uma imagem de uma igreja refletida em sua superfície.
+
+[HEADER 00007D00]
+#All the clues came together - and suddenly make sense. The year 1314. A church. A stream, or burn, running through the site of a massively one-sided battle.
+Todas as pistas se juntam, e de repente fazem sentido. O ano 1314. Uma igreja. Um riacho passando pelo local de uma batalha maciçamente unilateral.
+
+[HEADER 00007D05]
+#It all points to the battle of Bannockburn, in which a small Scottish army defeated a much larger English army. Legend has it that the Scots were aided by a Templar army.
+Tudo aponta para a batalha de Bannockburn, onde um pequeno exército escocês derrotou um exército inglês bem maior. Diz a lenda que os escoceses foram auxiliados por um exército templário.
+
+[HEADER 00007D0A]
+#So Nico and I are heading to the church of St. Ninian's, close to the city of Stirling in Scotland where the battle of Bannockburn was fought. Lobineau couldn't come... What a shame.
+Então a Nico e eu fomos à igreja de St. Ninian's, perto da cidade de Stirling, na Escócia, onde a batalha de Bannockburn foi travada. O Lobineau não pôde vir... Que pena.
+
+[HEADER 00007D14]
+#Khan said that the Sword of Baphomet is a colossal power. An energy emanating from the earth that can be harnessed to give whoever controls it great power.
+O Khan disse que a Espada de Baphomet é um poder colossal. Uma energia emanando da terra que pode ser usada para dar a quem a controla grande poder. 
+
+[HEADER 00007D1E]
+#It seems that Khan was always on our side! Like his sect in medieval times, he had a great respect for the real Templars, but knew that he had to stop these frauds. Now he's dead, it's up to us - Nico and me.
+Parece que o Khan esteve sempre do nosso lado! Como sua seita na época medieval, ele tinha um grande respeito pelos verdadeiros Templários, mas sabia que tinha que acabar com esses impostores. Agora que está morto, depende de nós, Nico e eu.
+
+[HEADER 00007D28]
+#Nico and me. I like the sound of that.
+Nico e eu. Gosto do som disso.
+
+[HEADER 000080E8]
+#The Grand Master - a ruthless megalomaniac who manipulates all around him. An Assassin perpetuating a medieval conflict to uphold ancient honour.
+O Grão-Mestre, um megalomaníaco sem escrúpulos que manipula todos a sua volta. Um Assassino perpetuando um conflito medieval para preservar a honra antiga.
+
+[HEADER 000080EB]
+#It's crazy. But it all makes perfect sense.
+É insano, mas faz todo o sentido.
+
+[HEADER 000080EE]
+#The 'Sword', a colossal energy - a divine power. It is a communication with angels - the opportunity to learn arcane and divine secrets. A power that the Templars had - and lost.
+A 'Espada', uma energia colossal, um poder divino. É um meio de comunicação com os anjos, a oportunidade de aprender segredos arcanos e divinos. Um poder que os Templários tinham, e perderam.
+
+[HEADER 000080F2]
+#No wonder these neo-Templar guys wanted to find and re-forge the 'Sword' so badly. When Edward II led his English army up to Bannockburn, this must have been his goal. And this is why the Templars intervened to stop him.
+Não é de admirar que esses Neo-Templários quiseram encontrar e reforjar a 'Espada' tanto assim. Quando Eduardo II liderou seu exército inglês até Bannockburn, esse deve ter sido seu objetivo, e é por isso que os Templários interviram para impedi-los.
+
+[HEADER 000080FC]
+#We made it. We prevented the Sword of Baphomet from being re-forged, and escaped those crazy neo-Templars unscathed! It's best kept secret, not that anyone would believe us if we tried to tell them the truth.
+Conseguimos. Impedimos que a Espada de Baphomet fosse reforjada e escapamos daqueles Neo-Templários malucos são e salvos! Melhor manter segredo. Não que alguém acreditaria em nós se tentássemos contar a verdade.
+
+[HEADER 00008106]
+#But still, I got to kiss Nico, and she's agreed to have dinner with me when we get back to Paris! So I guess it's all worked out pretty well.
+Mas mesmo assim, consegui beijar a Nico, e ela aceitou jantar comigo quando voltarmos a Paris! Então creio que tudo deu certo no fim das contas.
+
+[HEADER 000084D0]
+#Ile de la Cité - an hour later
+Ile de la Cité, uma hora depois
+
+[HEADER 000084DA]
+#Nico's Apartment - that evening...
+Apartamento de Nico, naquela noite...
+
+[HEADER 000084E4]
+#Café de la Chandelle Verte - the next morning...
+Café de la Chandelle Verte, na manhã seguinte...
+
+[HEADER 00630002]
+#Later that afternoon...
+Mais tarde naquela tarde...
+
+[HEADER 000084EE]
+#A few hours later...
+Algumas horas depois...
+
+[HEADER 000084F8]
+#That evening, back in Paris...
+Naquela noite, voltando à Paris...
+
+[HEADER 00008502]
+#That evening...
+Naquela noite...
+
+[HEADER 00630004]
+#Back in Nico's apartment...
+Voltando ao apartamento da Nico...
+
+[HEADER 00008507]
+#The next morning...
+Na manhã seguinte...
+
+[HEADER 0000850C]
+#Early the next morning...
+No começo da manhã seguinte...
+
+[HEADER 00008516]
+#Meanwhile, across town...
+Enquanto isso, pela cidade...
+
+[HEADER 00008520]
+#Several minutes later..
+Alguns minutos depois...
+
+[HEADER 00008D04]
+#Director's Message:
+Mensagem do Diretor:
+
+[HEADER 00008D0E]
+#Thank you for playing Broken Sword: Shadow of the Templars - The Director's Cut.
+Obrigado por jogar Broken Sword: A Sombra dos Templários - Versão do Diretor.
+
+[HEADER 00008D18]
+#The Broken Sword series was conceived, like so many of the best ideas, over dinner with plenty of wine. It was 1994 and I was dining with my wife, Noirin Carmody, and a colleague, Sean Brennan.
+A série Broken Sword foi concebida, como a maioria das melhores ideias, em um jantar com muito vinho. O ano era 1994, e eu estava jantando com minha esposa, Noirin Carmody, e um colega, Sean Brennan.
+
+[HEADER 00008D22]
+#We started talking about the mythology of the Templars (almost unheard of at that time) and what a rich historical background it would create for any entertainment product, particularly a game.
+Começamos falando sobre a mitologia dos Templários (quase desconhecida naquela ocasião) e o que um rico conhecimento histórico criaria para um produto de entretenimento, particularmente um jogo.
+
+[HEADER 00008D2C]
+#And so, ten years before the plethora of Templar-themed entertainment products, Broken Sword was born.
+Aí, dez anos antes do estouro de produtos de entretenimento sobre Templários, Broken Sword nasceu.
+
+[HEADER 00008D36]
+#I feel extraordinarily proud that, fifteen years after we conceived and started designing the first game, there is still such passion for the games - and privileged that so many fans have remained so loyal to the series.
+Fico extraordinariamente orgulhoso que, quinze anos após conceber e começar a esboçar o primeiro jogo, há ainda tamanha paixão pelos jogos; e privilegiado por ter tantos fãs ainda tão fiéis à série.
+
+[HEADER 00008D40]
+#I always knew that the Nintendo platforms, with their innovative control systems, would offer the perfect platforms for an adventure. We had had so many requests for the Broken Sword games on the platforms - and even a petition demanding them.
+Eu sempre soube que as plataformas da Nintendo, com seus sistemas de controle inovadores, ofereceriam a plataforma perfeita para uma aventura. Nós tivemos vários pedidos para jogos Broken Sword nas plataformas, e até uma petição exigindo-os.
+
+[HEADER 00008D4A]
+#But rather than create a straight port, I felt that this was the ideal opportunity to enhance the original through the creation of additional story and puzzles, an integrated hint system, enhanced graphics - and much more.
+Mas, ao invés de criar uma adaptação direta, senti que esta era a oportunidade ideal para engrandecer o original por meio da criação de uma história adicional e enigmas, um sistema de dicas integrado, gráficos melhorados, e muito mais.
+
+[HEADER 00008D54]
+#Much of the story came from what we had intended to include the first time around. Our approach has been that everything that happened in the first Broken Sword is the absolute truth - nothing must be contradicted.
+Grande parte da história veio a partir do que tínhamos em mente de incluir na primeira vez. A nossa abordagem foi a de que tudo o que aconteceu no primeiro Broken Sword seja a verdade absoluta. Nada deve ser contrariado.
+
+[HEADER 00008D5E]
+#Thank you, again, for playing. Thanks, also, for the whole team who have approached the development with such passion, dedication and professionalism.
+Obrigado - de novo - por jogar. Obrigado - também - para toda a equipe que conduziu o desenvolvimento com tamanha paixão, dedicação e profissionalismo.
+
+[HEADER 00008D68]
+#And thanks to the Ubisoft team who have been a pleasure to work with, and who have contributed enormously to the quality of the final game.
+E obrigado à equipe da Ubisoft, que foi um prazer trabalhar junto e contribuiu enormemente à qualidade do jogo final.
+
+[HEADER 00008D72]
+#Charles Cecil - Director
+Charles Cecil, Diretor
+
+[HEADER 00008CA1]
+#This was the first conception drawing for George.
+Esta foi a primeira arte conceitual do George.
+
+[HEADER 00008CA2]
+#And this was his first expression sheet...
+E este foi seu primeiro esboço de expressão.
+
+[HEADER 00008CA3]
+#This is how Nico started life.
+Esta é como a Nico ganhou vida.
+
+[HEADER 00008CA4]
+#And her less than flattering expression sheet!
+E seu esboço de expressão não muito satisfatório!
+
+[HEADER 00008CA6]
+#This is the character sheet for Albert the Concierge...
+Este é o esboço da personagem de Albert, o Concierge...
+
+[HEADER 00008CA7]
+#...for Chantelle the hapless waitress,
+... de Chantelle, a garçonete desafortunada...
+
+[HEADER 00008CA8]
+#...and the enigmatic Duane. Who is he really?
+... e o enigmático Duane. Quem ele realmente é?
+
+[HEADER 00008CA9]
+#And does his mysterious wife Pearl really know for sure?
+E sua misteriosa esposa, Pearl, de fato sabia com certeza?
+
+[HEADER 00008CB4]
+#This is the Revolution team when we first started in 1990.
+Esta é a equipe da Revolution quando começamos pela primeira vez, em 1990.
+
+[HEADER 00008CB5]
+#And this was taken a few years later when Dave Gibbons came to visit us in Hull.
+E esta foi tirada poucos anos depois, quando Dave Gibbons veio visitar-nos em Hull.
+
+[HEADER 00008CBE]
+#This is Charles Cecil today - with slightly less hair.
+Este é Charles Cecil hoje, com um pouco menos de cabelo.
+
+[HEADER 00008CBF]
+#And David Gibbons today.
+E David Gibbons hoje.
+
+[HEADER 00008CC0]
+#Noirin Carmody, one of the founders of Revolution.
+Noirin Carmody, uma das fundadoras da Revolution.
+
+[HEADER 00008CC1]
+#Tony Warriner, a Revolution co-founder.
+Tony Warriner, um cofundador da Revolution.
+
+[HEADER 00008CC2]
+#Joost Peters, present day Revolution programmer.
+Joost Peters, programador atual da Revolution.
+
+[HEADER 00008CC8]
+#Barrington Pheloung, his wife Heather, and daughter Adel.
+Barrington Pheloung; sua esposa, Heather; e sua filha, Adel.
+
+[HEADER 00008CD2]
+#A photograph of Constantine's broken sword. Erected outside York Minster a few years ago.
+Uma fotografia da espada quebrada de Constantino. Erguida no exterior da Catedral de Iorque a alguns anos atrás.
+
+[HEADER 000014B4]
+#FOLLOW. BUT THIS IS TOO
+COMPLETO.MAS ISTO E
+
+[HEADER 000014B5]
+#URGENT TO WAIT. ARNO AND
+IMPORTANTE DEMAIS PARA
+
+[HEADER 000014B6]
+#YAMADA BOTH DEAD. THIS
+ESPERAR.ARNO E YAMADA
+
+[HEADER 000014B7]
+#IS NOT A COINCIDENCE.
+ESTAO MORTOS.NAO E UMA
+
+[HEADER 000014B8]
+#INDEED IT SEEMS THAT ALL
+COINCIDENCIA.CREIO QUE
+
+[HEADER 000014B9]
+#OF US WHO CAME TOGETHER
+TODOS QUE APARECERAM EM
+
+[HEADER 000014BA]
+#IN JULY ARE IN DANGER.
+JULHO ESTAO EM PERIGO.
+
+[HEADER 000014BB]
+#TAKE GREAT CARE. X
+TOME MUITO CUIDADO.X
+
+[HEADER 00001DCB]
+#PLANTARD. PIERRE KILLED.
+PLANTARD.PIERRE MORTO.
+
+[HEADER 00001DCE]
+#MURDERER MUST HAVE
+O ASSASSINO DEVE TER
+
+[HEADER 00001DCF]
+#FOLLOWED TRAIL FROM
+SEGUIDO OS RASTROS DE
+
+[HEADER 00001DD0]
+#ARNO AND YAMADA. HE
+ARNO E YAMADA.ELE IRA
+
+[HEADER 00001DD1]
+#WILL COME FOR US NOW.
+VIR NOS PEGAR AGORA.
+
+[HEADER 00001DD2]
+#WE MUST BE VIGILANT.
+TEMOS QUE FICAR ALERTAS.
+
+[HEADER 00001DD3]
+#THIERRY'S GIRL BROKE
+A FILHA DE THIERRY ABRIU
+
+[HEADER 00001DD4]
+#INTO PIERRE'S SAFE. SHE
+O COFRE DE PIERRE.ELA
+
+[HEADER 00001DD5]
+#WORRIES ME. IMELDA.
+ME PREOCUPA.IMELDA.
+
+[HEADER 000017BA]
+#But a series of Roman numerals with direction symbols ran the length of the shield.  The symbols pointed right and left.
+Mas uma série de algarismos romanos com símbolos direcionais estavam por todo o escudo. Eles apontam para a direita e esquerda.
+
+[HEADER 00002969]
+#The message includes the letters SDSSDSS. That's the order in which you need to turn the cylinder - S for left, D for right.
+A mensagem inclui as letras SDSSDSS. Essa é a ordem a qual você deve girar o rolo: S para a esquerda e D para a direita.
+
+[HEADER 00002AFC]
+#Here's the cheat the lock-makers built into the system: Position the Pointer at the top-left of the screen, hold down the A button, then move the Pointer to the bottom-right of the screen and the lock will spring open.
+Aqui está o segredo que os projetista da trava colocaram nela: Posicione o Ponteiro no canto superior esquerdo da tela, segure o botão A, mova-o para o cantor inferior direito da tela e, assim, a trava abrirá.
+
+[HEADER 00004E2B]
+#To access the Options screen, move the Pointer over the Options icon - the sheet of paper in the top left of the screen - and press the A Button.
+Para acessar a tela de Opções, mova o Ponteiro até o ícone de Opções (a folha de papel no canto superior esquerdo) e aperte o Botão A.
+
+[HEADER 00004E37]
+#Move the Pointer around the screen to discover areas of interest. Icons will appear over things with which you can interact - the shape of the icon depicting what you can do.
+Mova o Ponteiro pela tela para descobrir áreas de interesse. Ícones aparecerão sobre as coisas com as quais possa interagir. O formato dele descreve o que você pode fazer.
+
+[HEADER 00004E38]
+#Press the A Button to interact. For many objects, you can press the B Button to examine - an eye icon will indicate when this option is available.
+Aperta o Botão A para interagir. Para vários objetos, você pode pressionar o Botão B para examinar. Um ícone de olho indicará quando esta opção está disponível.
+
+[HEADER 00004E49]
+#To move your character, move the Pointer over a place that you want to walk to and press the A Button. Beware - if you are over an object with which you can interact, and an animating icon appears, then your character will perform that action instead.
+Para mover sua personagem, mova o Ponteiro até o lugar que deseja andar e aperte o Botão A. Cuidado: se você estiver sobre um objeto o qual possa interagir e um ícone animado aparecer, aí sua personagem executará essa ação ao invés disso.
+
+[HEADER 00004E53]
+#Items that your character picks up are put into an 'inventory'. The inventory can be accessed by moving the Pointer onto the bag icon on the screen and pressing the A Button.
+Itens que sua personagem pegar são postos num "inventário". Esse pode ser acessado movendo o Ponteiro até o ícone de bolsa na tela e apertando o Botão A.
+
+[HEADER 00004E5D]
+#To leave a room, move the Pointer over the exit area. When an animating hand appears then press the A Button, and your character will leave that area. Doors which might become an exit, but which are locked, may need to be opened before they can be used.
+Para sair de um lugar, mova o Ponteiro até a área de saída. Quando uma mão animada aparecer, pressione o Botão A e sua personagem sairá dessa área. Portas que possam virar uma saída, mas que estão trancadas, talvez precisam ser abertas antes de serem usadas.
+
+[HEADER 00004E69]
+#To examine something, move the Pointer over it.  If it can be examined then an eye icon will appear at the bottom of the screen. Press the B Button.
+Para examinar algo, mova o Ponteiro até ele. Se puder ser, então um ícone de olho aparecerá na base da tela. Aperte o Botão B.
+
+[HEADER 00004E71]
+#To examine an inventory object, open your inventory by moving the Pointer over the bag icon on the screen and pressing the A Button.  The inventory will be displayed. Then move the Pointer over the object that interests you and press the B Button.
+Para examinar um objeto do inventário, abra-o movendo o Ponteiro até o ícone de bolsa na tela e aperte o Botão A. Ele será exibido. Aí mova o Ponteiro até o objeto que lhe interessa e pressione o Botão B.
+
+[HEADER 00004E85]
+#Move the Pointer over the character. Press the A Button when a mouth icon appears.
+Mova o Ponteiro até a personagem. Aperte o Botão A quando um ícone de boca aparecer.
+
+[HEADER 000050F1]
+#Move the Pointer over the item you want to use, and press the A Button.  The item will be 'attached' to the Pointer.
+Mova o Ponteiro até o item que deseja usar e aperte o Botão A. Ele será "anexado" ao Ponteiro.
+
+[HEADER 000050F2]
+#Move the Pointer over a background object. When the interaction icon starts to animate, press the A Button and see what happens. The object can be released by pressing the A Button when the Pointer is not over a background object or person.
+Mova o Ponteiro até um objeto de segundo plano. Quando o ícone de interação começar a animar, aperte o Botão A e veja o que acontece. O objeto pode ser solto apertando o Botão A quando o Ponteiro não estiver sobre um objeto de segundo plano ou uma pessoa.
+
+[HEADER 00004E9B]
+#Some items in your inventory can be given to, or used on other characters. To do this, first open your inventory. Move the Pointer over the object that you want to select and press the A Button.
+Alguns itens no seu inventário podem ser dados ou usados em outras personagens. Para isso, abra-o primeiro. Mova o Ponteiro até o objeto que deseja selecionar e aperte o Botão A.
+
+[HEADER 00004E9D]
+#Move the Pointer, with the inventory object attached, over the character.
+Mova o Ponteiro, com um objeto do inventário anexado, até a personagem.
+
+[HEADER 00004E9F]
+#When the mouth icon starts to animate, press the A Button and see what happens.
+Quando o ícone de boca começar a animar, aperte o Botão A e veja o que acontece.
+
+[HEADER 00004EA1]
+#The diary can be accessed through the Options menu.
+O diário pode ser acessado pelo menu Opções.
+
+[HEADER 00004EA5]
+#Move the Pointer to anywhere on the floor area and press the A Button to drop the object and return to normal gameplay control.
+Mova o Ponteiro para qualquer lugar do chão e aperte o Botão A para largar o objeto e voltar ao controle normal do jogo.
+
+[HEADER 00004EAF]
+#Some items in your inventory can be combined. To do this, open your inventory. Then move the Pointer over the first item you want to combine and press the A Button.
+Alguns itens no seu inventário podem ser combinados. Para isso, abra-o e, então, mova o Ponteiro até o primeiro item que deseja combinar e aperte o Botão A.
+
+[HEADER 00004EB0]
+#Move the Pointer, with the inventory item attached, over a second inventory item and press the A Button.
+Mova o Ponteiro, com o item do inventário anexado, até um segundo item do inventário e aperte o Botão A.
+
+[HEADER 00002B16]
+#I see a ring with Roman numerals, but I'm getting nowhere.
+Vejo um anel com algarismos Romanos, mas não estou chegando a lugar nenhum.
+
+[HEADER 00002B17]
+#Remember the numbers that were inscribed on Don Carlos's tomb? They may be useful here. Check the notes in your diary after you examined the tomb in the church at Montfauçon.
+Lembra-se dos números que estavam inscritos no túmulo de Don Carlos? Talvez eles possam ser úteis aqui. Verifique as anotações no seu diário após ter examinado a túmula na igreja em Montfauçon.
+
+[HEADER 00002B18]
+#The first number is 14 Right.  In Roman numerals this is XIV. Turn the stone in the right-hand (clockwise) direction so that 'X' is next to 'IV'. Then slide the slider, and go on to the next number.
+O primeiro número é 14, Direita. Em algarismos Romanos seria XIV. Gire a pedra para a direita (sentido horário) para que o 'X' fique perto do 'IV'. Aí deslize a barra e vá para o próximo número.
+
+[HEADER 00002B19]
+#27 Right doesn't work? Did you really think that it would be that simple? Try adding each new number to the previous total, and then turning in the indicated direction.
+27 Direita não funciona? Achou mesmo que seria tão simples assim? Tente adicionar cada novo número ao total anterior e, então, girar na direção indicada.
+
+[HEADER 00008930]
+#To release the mechanism, the cylinder must be rotated clockwise and anti-clockwise like a combination safe. Move the Pointer over the cylinder and, when the Pointer changes to a hand, press the A Button to grasp it.
+Para liberar o mecanismo, o rolo deve ser rodado no sentido horário e anti-horário como um cofre. Mova o Ponteiro até o rolo e, quando ele mudar para uma mão, aperte o Botão A para pegar.
+
+[HEADER 0000893A]
+#You must rotate the cylinder in the correct direction to the right position.
+Você deve rodar o rolo na direção correta para a posição certa.
+
+[HEADER 00008944]
+#You can deduce the direction that the cylinder needs to turn from clues that you have gathered, but not the position that the cylinder must be turned to. So listen and feel for the lock barrels to click open, and then release.
+Você pode deduzir a direção que o rolo precisa girar pelas pistas que juntou, mas não a posição que o rolo deve ser girado. Portanto escute e sinta o clique das travas se abrindo e, então, solte. 
+
+[HEADER 0000894E]
+#If correctly positioned, the cylinder will move into the hole and then return to the central position. Repeat the operation until the lock is cracked.
+Se posicionado corretamente, o rolo moverá para o buraco e retornará à posição central. Repita a operaçao até que a trava seja rompida.
+
+[HEADER 00008958]
+#Rotate in the wrong direction, or go too far and the locking mechanism will reset, and you will have to start again.
+Rode na direção errada ou vá muito longe e o mecanismo da trava reiniciará, tendo que começar tudo de novo.
+
+[HEADER 000088CC]
+#To move a block, move the Pointer over it and, when the Pointer changes to a hand, press the A Button to grasp it. You can now move the block horizontally or vertically along its appropriate axis.
+Para mover um bloco, mova o Ponteiro até ele e, quando mudar para uma mão, aperte o Botão A para pegar. Você agora pode mover o bloco na horizontal ou na vertical ao longo de seu eixo apropriado.
+
+[HEADER 00008A02]
+#A photograph has been torn into many fragments, which must be arranged in the correct position and at the right orientation.
+Uma fotografia foi rasgada em vários pedaços e deve ser arrumada na posição correta e na orientação certa.
+
+[HEADER 00008A0C]
+#To move a fragment, grasp it and rotate it / drag it to the appropriate position. The fragments must be arranged so that the whole of the photograph fits within the available space.
+Para mover um pedaço, pegue-o e rode/arraste até a posição apropriada. Eles devem ser arrumados para que toda a fotografia se ajuste dentro do espaço disponível.
+
+[HEADER 00008A70]
+#Move the Pointer over any hole in the board, and it will light up a pattern. Position the Pointer over any unplaced chess piece and, when it changes to a hand, press the A Button to grasp the piece.
+Mova o Ponteiro até uma casa no tabuleiro e ele irá aparecer um desenho. Posicione o Ponteiro sobre uma peça de xadrez não colocada e, quando mudar para uma mão, aperte o Botão A para pegá-la.
+
+[HEADER 00008A7A]
+#As it rotates it will reveal a pattern on its base. Each chess piece must be dragged onto the hole with its corresponding pattern.
+Conforme for rodando, surgirá um desenho em sua base. Cada peça de xadrez deve ser arrastada até a casa com o desenho correspondente.
+
+[HEADER 00008AD4]
+#Remember that the queen wears the crown with three baubles, the king wears the crown with a cross.
+Lembre-se de que a rainha usa uma coroa com quatro pontas e o rei uma coroa com uma cruz.
+
+[HEADER 00008ADE]
+#To move a piece, move the Pointer over any white chess piece and, when it changes to a hand, press the A Button to grasp the piece. Drag it into the desired position along the central column, and release.
+Para mover uma peça, mova o Ponteiro até uma peça branca de xadrez e, quando mudar para uma mão, aperte o Botão A para pegá-la. Arraste-a para a posição desejada ao longo da coluna central e solte.
+
+[HEADER 00008B24]
+#Three lens elements need to be rotated so that, when correctly aligned, they create a clear image.
+Os três componentes da lente devem ser rodados para que, quando corretamente alinhados, criem uma imagem nítida.
+
+[HEADER 00008B2E]
+#Each lens element can be rotated by moving the Pointer over a tab and, when it changes to a hand, pressing the A Button to grasp the tab. Rotate the lens to the desired position and release.
+Cada componente pode ser rodado movendo o Ponteiro sobre uma aba e, quando mudar para uma mão, apertando o Botão A para pegá-la. Rode a lente para a posição desejada e solte.
+
+[HEADER 00008B38]
+#George will acknowledge the image once the lenses are correctly positioned.
+O George reconhecerá a imagem quando as lentes estiverem corretamente posicionadas.
+
+[HEADER 00008B42]
+#Press the 'reset' button to, well, reset the puzzle and start again.
+Aperte o botão 'reiniciar' para, bem... recomeçar o enigma.
+
+[HEADER 00008B92]
+#Move the Pointer to the edge of the screen and it will slide to reveal more of the tomb.
+Mova o Ponteiro para a beirada da tela e ela deslizará, revelando mais do túmulo.
+
+[HEADER 00008B9C]
+#You must find and highlight all the verse references. Press the A Button while moving the Pointer and you will see that a highlight trail is left.
+Você deve encontrar e destacar todas as referências dos versículos. Aperte o Botão A enquanto move o Ponteiro e verá que uma trilha destacada começará a surgir.
+
+[HEADER 00008BD8]
+#To release the mechanism, the stone key must be rotated clockwise and anti-clockwise like a combination safe. Move the Pointer over the cylinder and, when it changes to a hand, press the A Button to grasp it.
+Para liberar o mecanismo, a chave de pedra deve ser rodada no sentido horário e anti-horário como num cofre. Mova o Ponteiro para sobre o rolo e, quando mudar para uma mão, aperte o Botão A para pegá-lo.
+
+[HEADER 00008BE2]
+#You must rotate the stone key in the correct direction to the right numbers.
+Você deve rodar a chave de pedra na direção correta aos números certos.
+
+[HEADER 00008BEC]
+#The required number is achieved when the Roman numerals in the dial representing 1-9 are next to the Roman numerals in the dial representing 10-90. So 81 would be represented by LXXX (80) next to I (1).
+O número desejado é obtido quando os algarismos romanos do indicador representando 1-9 estiverem próximos aos do representando 10-90. Então 81 seria representado por LXXX (80) próximo a I (1).
+
+[HEADER 00008BF6]
+#When in the correct position, grab the slider corresponding to that rotation and slide it across.
+Quando na posição correta, apanhe a barra correspondente àquela rotação e deslize-a.
+
+[HEADER 00008C00]
+#From the clues that you have gathered, you have the information to deduce the direction and position that the cylinder needs to turn each time. But be warned - it's not as obvious as it might first seem.
+Pelas pistas que juntou, você possui a informação para deduzir a direção e posição que o rolo precisa girar cada vez. Mas tome cuidado: não é tão óbvio quanto parece ao primeiro olhar.
+
+[HEADER 00008C0A]
+#Rotate in the wrong direction, or slide the slider on the incorrect number and the locking mechanism will reset, and you will have to start again.
+Rode na direção errada ou deslize a barra no número incorreto e o mecanismo de trava reiniciará, tendo que começar tudo de novo.
+
+[HEADER 00009C04]
+#King
+Rei
+
+[HEADER 00009C05]
+#Queen
+Rainha
+
+[HEADER 00009C06]
+#Bishop
+Bispo
+
+[HEADER 00009C07]
+#Knight
+Cavalo
+
+[HEADER 00009C08]
+#Castle
+Castelo
+
+[HEADER 00009C09]
+#Pawn
+Peão
+
+[HEADER 00000082]
+#A Charles Cecil Production
+Uma Produção de Charles Cecil
+
+[HEADER 00000083]
+#*Writer and Director:
+*Escritor e Diretor:
+
+[HEADER 00000084]
+Charles Cecil
+
+[HEADER 00000085]
+#*Programming:
+*Programação:
+
+[HEADER 00000086]
+Tony Warriner
+
+[HEADER 00000087]
+Joost Peters
+
+[HEADER 00000088]
+#*Background Layouts:
+*Planos de Fundo:
+
+[HEADER 00000089]
+Neil Breen
+
+[HEADER 0000008A]
+#*Background Layouts - Original Story:
+*Planos de Fundo - História Original:
+
+[HEADER 0000008B]
+Eoghan Cahill
+
+[HEADER 0000008C]
+#*Facial Expressions:
+*Expressões Faciais:
+
+[HEADER 0000008D]
+Dave Gibbons
+
+[HEADER 0000008E]
+Angus McKie
+
+[HEADER 0000008F]
+#*2D Art:
+*Arte 2D:
+
+[HEADER 00000090]
+Linda Smith
+
+[HEADER 00000091]
+#*Animation - New Story:
+*Animação - Nova História:
+
+[HEADER 00000092]
+Aron Durkin
+
+[HEADER 00000093]
+Ravi Govind
+
+[HEADER 00000094]
+Adrian Lausch
+
+[HEADER 00000095]
+#*Animation - Original Story:
+*Animação - História Original:
+
+[HEADER 00000096]
+Steve Oades
+
+[HEADER 00000097]
+#*Script Writer - New Story:
+*Roteiro - Nova História:
+
+[HEADER 00000098]
+Neil Richards
+
+[HEADER 00000099]
+#*Script Writer - Original Story:
+*Roteiro - História Original:
+
+[HEADER 0000009A]
+Dave Cummins
+
+[HEADER 0000009B]
+Jonathan Howard
+
+[HEADER 0000009C]
+#*Music Composed and conducted by:
+*Música Composta e Conduzida por:
+
+[HEADER 0000009D]
+Barrington Pheloung
+
+[HEADER 0000009E]
+#Production (Revolution):
+*Produção (Revolution):
+
+[HEADER 0000009F]
+Steve Ince
+
+[HEADER 000000A0]
+#*Production (Ubisoft):
+*Produção (Ubisoft):
+
+[HEADER 000000A1]
+Nouredine Abboud
+
+[HEADER 000000A2]
+Alexandre Hartpence
+
+[HEADER 000000A3]
+Francois Berranger
+
+[HEADER 000000A4]
+Pierre de Margerie
+
+[HEADER 000000A5]
+Paul-Adrien Tournier
+
+[HEADER 000000A6]
+<00>
+
+[HEADER 000000A7]
+#Presents
+Apresenta

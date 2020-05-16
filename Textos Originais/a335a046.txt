@@ -1,0 +1,1314 @@
+[HEADER 00002710]
+Carchon's dead - what should I do?
+
+[HEADER 00002711]
+Search the whole apartment for clues. Stay out of sight of Imelda, and you'll be able to search without being interrupted.
+
+[HEADER 00002712]
+As well as clues, you may need to talk to Imelda. Try and get her attention.
+
+[HEADER 0000271A]
+You'll find Imelda on the phone by the front door.
+
+[HEADER 00002724]
+I want to talk to Imelda. What should I do?
+
+[HEADER 0000272E]
+Imelda is busy on the phone to the police.  But she's keeping an eye on you when you're in her sight...
+
+[HEADER 00002738]
+Imelda enjoys painting. If you touch her precious paints she'll soon pay attention to you.
+
+[HEADER 00002742]
+I talked to Imelda, but it didn't help - what should I do?
+
+[HEADER 0000274C]
+Are you sure you talked to her about everything?
+
+[HEADER 00002756]
+Talk to her about every subject and gain her trust enough to give you the key to the drawing room.
+
+[HEADER 00002760]
+Imelda gave me the key - what do I do now?
+
+[HEADER 0000276A]
+The key is now an object in your inventory. Select the key, and use it to open the drawing room door by the library. You'll find plenty of clues in there.
+
+[HEADER 00002774]
+I've opened the drawing room, and looked around - what am I missing?
+
+[HEADER 0000277E]
+Carchon was a very cautious and secretive man. Look for places where he may have hidden things.
+
+[HEADER 00002788]
+Look at the painting of Carchon and Imelda.  In close-up you will even see the detail of the frame itself - look carefully at the pattern...
+
+[HEADER 00002792]
+In the close-up of the painting, you'll find a hidden button on the left side of the ornate frame. Touch it. Now step back and interact with the painting to open it.
+
+[HEADER 0000279C]
+I've found the safe - how do I open it?
+
+[HEADER 000027A6]
+To open the safe, you need the key. So you'll need to discover where Carchon hid it. Without alerting Imelda of course!
+
+[HEADER 000027B0]
+Carchon loved beautiful furniture. Have you examined all his tables and desks?
+
+[HEADER 000027BA]
+The key is hidden in the table in the hall.
+
+[HEADER 000027C4]
+How do I open up the table?
+
+[HEADER 000027CE]
+Pick up the cloth from the table and examine the table top underneath.
+
+[HEADER 000027D8]
+Just below the centre of the inlay pattern you'll see an area which has been worn.  Look carefully - there's a small hole. Now all you need is something to poke into the hole.
+
+[HEADER 000027E2]
+Where do I find something to poke into the hole in the table?
+
+[HEADER 000027EC]
+The hole is too small for Nico's finger. You need to use something thinner.
+
+[HEADER 000027F6]
+Search the crime scene for anything thin enough to poke into the hole.
+
+[HEADER 00002800]
+Go to the close up view of Carchon's body. To the right, you'll find one of Nico's hairclips. Pick it up.
+
+[HEADER 0000280A]
+What do I do with the small hole in the table?
+
+[HEADER 00002814]
+Check your inventory. You have something you can poke into the hole.
+
+[HEADER 0000281E]
+Select Nico's hairpin from the inventory, and use it to poke into the hole.
+
+[HEADER 00002828]
+Poke the hairpin into the hole and a secret flap will open. Pick up the key.
+
+[HEADER 00002832]
+I've got a key - what do I do with it?
+
+[HEADER 0000283C]
+The key looks modern - like a safe key...
+
+[HEADER 00002846]
+Go to the drawing room, and use the safe key on the safe door. Recover what you find inside.
+
+[HEADER 00002850]
+Pick up the stone cylinder.
+
+[HEADER 0000285A]
+The stone cylinder looks interesting - but what do I do with it?
+
+[HEADER 00002864]
+The stone cylinder has symbols that can't be read - you need to find a way to print the symbols.
+
+[HEADER 0000286E]
+There isn't any ink.  But maybe Imelda's paint would do...
+
+[HEADER 00002878]
+Go to the drawing room, and squirt the paint into the in-tray.
+
+[HEADER 00002882]
+Roll the stone cylinder in the paint, while it's in the in-tray. The paint-covered stone cylinder can now be rolled onto Carchon's blotting paper. Pick up the paper once you have printed the pattern.
+
+[HEADER 00002896]
+I've got a piece of paper which has 'Sub-Judice' printed on it - what now?
+
+[HEADER 000028A0]
+Are you sure you've examined Carchon's body properly?
+
+[HEADER 000028AA]
+Examine Carchon to get a close-up. Then interact with his jacket to open it. In his inside pocket you'll see a piece of paper.
+
+[HEADER 000028B4]
+Pick up the paper - it's a boat ticket. Now you'll know the significance of Sub-Judice.
+
+[HEADER 000028BE]
+I think I've got all the evidence, but I can't leave the apartment!
+
+[HEADER 000028C8]
+Try talking to Imelda again.
+
+[HEADER 000028D2]
+After making peace with Imelda, you'll be able to leave through the front door.
+
+[HEADER 000028DC]
+I know that the Conciergerie is important, but I still need something!
+
+[HEADER 000028E6]
+You have missed one key clue.
+
+[HEADER 000028F0]
+In the drawing room, on Carchon's desk, you will find a carved elephant. Pick it up.
+
+[HEADER 00000FA8]
+The police could turn up at any minute.
+
+[HEADER 00000FB4]
+Somewhere there were clues to the murder - and I needed to find them.
+
+[HEADER 00000BCC]
+It was one of my hair clips. My favourite, in fact!
+
+[HEADER 00000BCD]
+It must have fallen when I was knocked down.
+
+[HEADER 00001004]
+Fights are so much more complicated for girls.
+
+[HEADER 00000BCE]
+I picked up my hair clip...
+
+[HEADER 000009C4]
+Paris.  City of love, romance, and dreams - so they say.
+
+[HEADER 000009C8]
+I used to say it too.
+
+[HEADER 000009C9]
+But ever since that day, the day of the murder...
+
+[HEADER 000009CA]
+... I have always associated my beloved Paris with death.
+
+[HEADER 000009CC]
+I was at home having a bath when my editor called:
+
+[HEADER 000009D0]
+Collard! Get your ass over to the Palais Royale - now! You got an interview.
+
+[HEADER 000009D4]
+With Pierre Carchon.
+
+[HEADER 000009D7]
+Yes - THE Pierre Carchon.
+
+[HEADER 000009D5]
+No photos - so leave your gear at home.
+
+[HEADER 000009D6]
+He asked for you - personally. Don't ask me why.
+
+[HEADER 000009D8]
+Anyhow - this could be big - so if he makes a pass don't forget...
+
+[HEADER 000009D9]
+... just smile, say yes, and keep taking notes.
+
+[HEADER 000009DC]
+So charming. And so very apt.
+
+[HEADER 000009DD]
+Pierre Carchon was a media king, a national hero...
+
+[HEADER 000009DE]
+... and one of the most infamous adulterers in Europe.
+
+[HEADER 000009E0]
+He and his wife Imelda were just one step down from royalty.
+
+[HEADER 000009E4]
+Whoa!
+
+[HEADER 000009E5]
+I hate mimes.
+
+[HEADER 000009E8]
+But unless you humour them, they don't go away.
+
+[HEADER 000009E9]
+This one was creepier than most.  So I gave him my creepiest smile.
+
+[HEADER 000009EC]
+And tried not to look back.
+
+[HEADER 000009F0]
+Here I was. The palace of the Media King and the Ice Queen.
+
+[HEADER 000009F4]
+I pressed the doorbell, and set in motion a chain of events...
+
+[HEADER 000009F6]
+... which would change my life for ever.
+
+[HEADER 000009F8]
+Yes?  What is it?
+
+[HEADER 000009FC]
+Madame - my name is Nico Collard.  I am here to see Monsieur Carchon.
+
+[HEADER 00000A00]
+Come up.  We're on the first floor.
+
+[HEADER 00000A04]
+Madame Carchon?  It's a pleasure to meet you...
+
+[HEADER 00000A08]
+Yes, I'm sure.
+
+[HEADER 00000A0C]
+The Ice Queen was certainly living up to her reputation.
+
+[HEADER 00000A14]
+Will you be... staying for the interview?
+
+[HEADER 00000A18]
+Mademoiselle: I know little of my husband's business affairs...
+
+[HEADER 00000A1A]
+... and I care even less.
+
+[HEADER 00000A19]
+I certainly have no intention of watching him...
+
+[HEADER 00000A1B]
+paw over yet another pretty little journalist.
+
+[HEADER 00000A1C]
+Pretty?  You're too kind, Madame...
+
+[HEADER 00000A20]
+Aha! The talented - and very beautiful - Mam'selle Collard.
+
+[HEADER 00000A21]
+Such a pleasure to meet you at last.
+
+[HEADER 00000A24]
+Monsieur Carchon, I'm honoured...
+
+[HEADER 00000A28]
+Oh, I'm sure you are...
+
+[HEADER 00000A2C]
+Call me Pierre, please... But I do not flatter you idly.
+
+[HEADER 00000A2D]
+I was a friend of your father - he was a great man.
+
+[HEADER 00000A30]
+My father? He never mentioned...
+
+[HEADER 00000A34]
+He and I were very close.
+
+[HEADER 00000A35]
+And then his death - so tragic.  I must -
+
+[HEADER 00000A38]
+Imelda - your damned cat's in my study again!
+
+[HEADER 00000A3C]
+Another Ming vase I suppose...
+
+[HEADER 00000A3D]
+Excuse me for one moment, my dear girl.
+
+[HEADER 00000A40]
+You journalists are getting younger each year.
+
+[HEADER 00000A44]
+Perhaps it is the rest of the world getting older, Madame?
+
+[HEADER 00000A4C]
+Aaghhh!
+
+[HEADER 00000A50]
+That was no cat...
+
+[HEADER 00000A54]
+My God!  What - ! Monsieur Carchon -
+
+[HEADER 00000A58]
+Ugghh!
+
+[HEADER 00000A5C]
+He's dead.  I must call the police. You had better stay here.
+
+[HEADER 00000A60]
+There was a man - it was the Mime...
+
+[HEADER 00000A61]
+Do you think he - ?
+
+[HEADER 00000A64]
+Well I believe we can rule out suicide - don't you?
+
+[HEADER 00000A68]
+No wonder they called her the Ice Queen.
+
+[HEADER 00000A69]
+She'd have been top of my list of suspects...
+
+[HEADER 00000A6A]
+...if I hadn't seen the attacker myself.
+
+[HEADER 00000A6C]
+And if I hadn't come across a couple of murders just like this already.
+
+[HEADER 00000A70]
+One of the most important men in Europe murdered.
+
+[HEADER 00000A71]
+And here was I, Nico Collard, alone at the scene of the crime.
+
+[HEADER 00000A74]
+Should I wait for the cops? Or start my own investigation?
+
+[HEADER 00000A75]
+It was a no-brainer...
+
+[HEADER 00000BC0]
+I decided to keep the ticket.
+
+[HEADER 00000BC1]
+You never know when things will come in handy.
+
+[HEADER 00000CE2]
+And if the cops were after me at least I now had a getaway option.
+
+[HEADER 00000BBF]
+Playing the old hair clip game with a dead guy - how sad was that?
+
+[HEADER 00000BC2]
+I decided against laying the cloth on the body - made him look like a picnic table.  And this was no picnic.
+
+[HEADER 00000BC3]
+This wasn't the time for playing paint the corpse.  I hate that game anyway. I always lose.
+
+[HEADER 00000BC4]
+Nothing wrong with girl power - but I draw the line at beating dead men with stones.
+
+[HEADER 00000BC5]
+Unlock the victim, unlock the crime, Carchon was the key - I wasn't a headline writer for nothing you know.
+
+[HEADER 00000BC6]
+There are ways of drawing attention to the elephant in the room. This wasn't one of them...
+
+[HEADER 00000BC7]
+That wasn't going to help...
+
+[HEADER 00000BB9]
+Mimes and guns don't usually go together. But I had an idea that this was no ordinary mime...
+
+[HEADER 00000BB7]
+I'd come across this murderer before.  And written about him.  The Costume Killer -
+
+[HEADER 00000CDE]
+at least that's what I'd called him.
+
+[HEADER 00000BBA]
+Pierre Carchon was stiff for the last time.
+
+[HEADER 00000BB8]
+Carchon had been shot.
+
+[HEADER 00000FAD]
+I'd come across a murder like this before. Twice. In fact, I'd written an article all about it.
+
+[HEADER 00000FAE]
+The Costume Killer - at least that's what I'd called him.
+
+[HEADER 00000BBB]
+Some people hate searching corpses for clues. Me - I'm okay with it.  Reminds me of an old boyfriend.
+
+[HEADER 00000BBC]
+In his pocket I found a ticket stamped "Bateaux de la Conciergerie".
+
+[HEADER 00000CE0]
+Shame. No more day-trips for you, Pierre.
+
+[HEADER 00000BBD]
+Taking the ticket meant that I'd tampered with the evidence. There was no going back now.
+
+[HEADER 00000CB7]
+I suddenly realised there was a connection between the boat ticket and the coded message.
+
+[HEADER 00000CB8]
+The boat ticket was stamped "Bateaux de la Conciergerie".
+
+[HEADER 00000CB9]
+The Conciergerie on the Ile de la Cité - by the river - housed the ancient law courts.
+
+[HEADER 00000CBA]
+So "Sub-Judice" could in this case mean literally - "under the law courts".
+
+[HEADER 00000CC4]
+Below the Conciergerie!
+
+[HEADER 00000CBC]
+I was pretty sure I'd found all I could, here...
+
+[HEADER 00000CBD]
+... and besides - all this opulence was making me pine for my regular life of poverty.
+
+[HEADER 00000CBF]
+This was a huge story. It was also one heck of a puzzle, with a lot of pieces missing.
+
+[HEADER 00000CC0]
+But I was going to crack it.
+
+[HEADER 00000CC1]
+And if I could just remember the name of that fancy prize you get for being an ace journalist -
+
+[HEADER 00000CC2]
+I was definitely going to win it this time...
+
+[HEADER 00000BBE]
+I searched Carchon's body again, but there was nothing else to find. A girl's got to know when to stop.
+
+[HEADER 00000BCF]
+You had to hand it to the Ice Queen - she sure knew her fabrics.
+
+[HEADER 00000FB5]
+A small round piece of glass had been cut out of the pane...
+
+[HEADER 00000FB6]
+This was a professional job.
+
+[HEADER 00000BD0]
+Your original 18th century high security window handle.
+
+[HEADER 00000BD1]
+The killer must have used a ladder to reach the window.
+
+[HEADER 00000BD2]
+He was long gone. Guess he folded that ladder up, popped it in his pocket and took it with him.
+
+[HEADER 00000BD7]
+Smashing the window even more was not a great idea.
+
+[HEADER 00000BD5]
+This was the work of the Mime.  Unless the cat was in on it too...
+
+[HEADER 00000BD6]
+The Mime had broken the window to gain entry.
+
+[HEADER 00000BD3]
+I didn't want to cut myself and leave blood on the glass.
+
+[HEADER 00000CE6]
+Call me old-fashioned - but I like to keep my DNA to myself.
+
+[HEADER 00000BD4]
+Not a good idea to touch the broken glass.
+
+[HEADER 00000BDD]
+I would only have ruined it.
+
+[HEADER 00000BDA]
+There was a tube of paint on the lip of the easel.
+
+[HEADER 00000BDB]
+Imelda wasn't going to miss an old tube of paint. I doubt she was going to miss her husband much either.
+
+[HEADER 00000BDC]
+This was no time to take up new hobbies.
+
+[HEADER 00000BDE]
+It was a tube of acrylic paint.  French ultramarine.
+
+[HEADER 00000BDF]
+Just the colour I was after for my bathroom.
+
+[HEADER 00000FB7]
+I'm sorry - I have to go. Someone is...
+
+[HEADER 00000FB8]
+Young lady, what are you doing?!
+
+[HEADER 00000FB9]
+Uh - this paint - it's my favourite colour...
+
+[HEADER 00000FBA]
+For God's sake - keep the damned stuff.
+
+[HEADER 00000BF9]
+I decided to keep the cloth for the time being.
+
+[HEADER 00000BED]
+A magnificent antique table.
+
+[HEADER 00000BEA]
+A Louis XIV table with an antique cloth - Imelda had taste.
+
+[HEADER 00000CE8]
+But hey, with a husband that rich, taste is easy.
+
+[HEADER 00000045]
+Uh... no.
+
+[HEADER 00000BE6]
+A beautiful cloth had been draped over the table.
+
+[HEADER 00000BE7]
+It was embroidered with an unusual cross.
+
+[HEADER 00000BE8]
+A beautiful lace cloth.
+
+[HEADER 00000BE9]
+I reckoned that cloth might just turn out to be useful.
+
+[HEADER 00000BEF]
+Ah ha!
+
+[HEADER 00000BF3]
+Nico - you are just so damned good at this stuff...
+
+[HEADER 00000D20]
+It wouldn't fit.
+
+[HEADER 00000BEE]
+There was a tiny hole in the table top: part of the inlay had been chipped away.
+
+[HEADER 00000BF2]
+Even my finger nail wouldn't fit into such a small hole.
+
+[HEADER 00000BF4]
+A key had been hidden in a secret compartment.  A modern key...
+
+[HEADER 00000BF5]
+Instead of comforting Imelda I was ransacking her flat. Why?
+
+[HEADER 00001005]
+Because there was something going on here and I had to get answers before the cops arrived.
+
+[HEADER 00001006]
+And hey - she'd been rude to me so she had it coming.
+
+[HEADER 00000BFF]
+Imelda was upset enough - I wasn't going to make it worse.
+
+[HEADER 00000C03]
+Imelda had talent.
+
+[HEADER 00000C04]
+But I certainly wasn't going to tell her that.
+
+[HEADER 00000C00]
+Even the telephone was antique.
+
+[HEADER 00000C01]
+Never trust anyone who owns a phone like that.
+
+[HEADER 00000C02]
+There was no one I needed to phone. Not until I had solved this case.
+
+[HEADER 00000D0D]
+Besides, Imelda was using it.
+
+[HEADER 00000C5C]
+Mme Carchon. This is the police!
+
+[HEADER 00000C5D]
+One moment. I am just coming.
+
+[HEADER 00000C5E]
+You must leave.  Now.  I'll see you out through the back door.
+
+[HEADER 00000C5F]
+She was right - there were going to be a lot of difficult questions.  And I didn't want to answer them.
+
+[HEADER 00000CBB]
+'Sub-Judice' was the key - I was going to have to find a way under the Conciergerie.
+
+[HEADER 00000FBB]
+I decided to head straight for the quayside on the Ile de la Cité.
+
+[HEADER 00000CC5]
+If there was a way of getting under the Conciergerie it would have to be from there.
+
+[HEADER 00000C40]
+This carving... Do you know anything about it?
+
+[HEADER 00000C41]
+It was Pierre's.  What does a statue have to do with -
+
+[HEADER 00000C42]
+Please - I need to know.
+
+[HEADER 00000C43]
+He was given it - by a friend. Something to do with Africa.
+
+[HEADER 00000C44]
+He never explained any more?
+
+[HEADER 00000C45]
+No.  But I think it was important to him.  Always on display.  Why?
+
+[HEADER 00000C46]
+It was carved by my father.
+
+[HEADER 00000C47]
+Oh.  I see.  I didn't know...
+
+[HEADER 00000C09]
+Imelda was on the phone to the police.  Poor guys...
+
+[HEADER 00000C0A]
+I needed to hurry with my investigation before they arrived.
+
+[HEADER 00000C0B]
+Imelda was the coldest woman I'd ever met.  How was I going to break through that ice?
+
+[HEADER 00000C0C]
+She was deep in conversation.  She totally ignored me.
+
+[HEADER 00000C0D]
+Imelda looked shocked. But still every bit as hostile.
+
+[HEADER 00000C0E]
+Excuse me, Madame.
+
+[HEADER 00000C0F]
+Yes.
+
+[HEADER 00000FAA]
+Would you like to see my favourite hairclip?
+
+[HEADER 00000FAB]
+What a ridiculous question. Of course not.
+
+[HEADER 00000FAC]
+Ah - another time, I guess.
+
+[HEADER 00000C6E]
+So her husband took secret boat trips.  Did she really need to see the ticket?
+
+[HEADER 00000C6F]
+She'd know I'd broken into her husband's safe if I showed her the artefact. That would have been insane.
+
+[HEADER 00000C70]
+Not a good idea - she was already upset and I knew she loved her fabrics.
+
+[HEADER 00000C71]
+The last thing she needed to talk about was paint.
+
+[HEADER 00000C72]
+I was confident that Imelda wouldn't recognise the patterns...
+
+[HEADER 00000CF0]
+... but whatever her husband was into, I felt I should keep to myself for now.
+
+[HEADER 00000C73]
+I needed to open the drawing room door before giving Imelda back the key.
+
+[HEADER 00000C74]
+Thank you - let me give you the key back.
+
+[HEADER 00000C75]
+I didn't need it any more.
+
+[HEADER 00000C76]
+Imelda might not have been so cool with me poking around if I'd shown her the key I'd found.
+
+[HEADER 00000C60]
+You're upset, Madame.  Please take this...
+
+[HEADER 00000C61]
+That is the lace cloth from the table.  What can you be thinking?!
+
+[HEADER 00000C10]
+I am so sorry for your loss, Madame.
+
+[HEADER 00000C11]
+No you're not. You're a journalist. Journalists don't feel sorry.
+
+[HEADER 00000C12]
+Not true.
+
+[HEADER 00000C13]
+We shall see.
+
+[HEADER 00000C14]
+Why did your husband send for me? What did he want to discuss?
+
+[HEADER 00000C15]
+I have no idea. His business was his business.
+
+[HEADER 00000C16]
+He never told you anything?
+
+[HEADER 00000C17]
+No. And frankly I preferred it that way.
+
+[HEADER 00000C1A]
+How did your husband know my father?
+
+[HEADER 00000C1B]
+I have no idea.
+
+[HEADER 00000C1C]
+You didn't know him? Thierry Collard?
+
+[HEADER 00000C1D]
+Pierre knew a lot of people I didn't know. Most of them women...
+
+[HEADER 00000C18]
+Why would a mime want to kill your husband?
+
+[HEADER 00000C19]
+Pierre had plenty of enemies. Half the husbands in Paris, for a start.
+
+[HEADER 00000C1E]
+This is quite a scoop for you. I suppose you're already inventing the headlines.
+
+[HEADER 00000C1F]
+Just because I'm a journalist -
+
+[HEADER 00000C20]
+Don't patronise me. You're all cut from the same cloth.
+
+[HEADER 00000C21]
+Do you have any moral sense at all?
+
+[HEADER 00000C22]
+Yes. That's why I do this job.
+
+[HEADER 00000C23]
+Pah! You do it to see your name in print.
+
+[HEADER 00000C24]
+As if. My editor gets the byline. I just do the work.
+
+[HEADER 00000C25]
+Well don't expect my sympathy.
+
+[HEADER 00000C26]
+I certainly don't let it get in the way of a good story.
+
+[HEADER 00000C27]
+I admire your loyalty to your profession.
+
+[HEADER 00000C28]
+The police will be here soon, Madame.
+
+[HEADER 00000D0C]
+Is there anybody you would like me to contact?  Family?  Friends?
+
+[HEADER 00000C29]
+No.  I have no family.  Pierre and I were...
+
+[HEADER 00000C2A]
+He was all I had really. Not much was it?
+
+[HEADER 00001007]
+The dutiful wife - that was my role. He never talked, never let me in...
+
+[HEADER 00000C2B]
+I know one thing, Madame.
+
+[HEADER 00000C2C]
+What?
+
+[HEADER 00000C2D]
+If you want to find out who killed your husband...
+
+[HEADER 00001008]
+then you let me do the job - not the police.
+
+[HEADER 00000C2E]
+Why?  How do I know I can trust you?
+
+[HEADER 00000C2F]
+Your husband invited me here today because he needed me.
+
+[HEADER 00001009]
+I think he knew somebody wanted to kill him - and he knew I could help.
+
+[HEADER 00000C30]
+I doubt it was your database he was after.
+
+[HEADER 00000C31]
+You're wrong.  I was onto his killers already.  I'm sure of it.  Please... You owe it to him.
+
+[HEADER 00000C32]
+Because you have no choice.  The police will take weeks.  In which time your own life may be in danger.
+
+[HEADER 00000C33]
+What?!
+
+[HEADER 00000C34]
+Believe me. This killer has struck before.  And he will strike again.
+
+[HEADER 00000CEA]
+Who is to know that you are not next on his list?
+
+[HEADER 00000C35]
+I don't know...
+
+[HEADER 00000C36]
+All I need is a few more minutes to look around before the police come.
+
+[HEADER 00000C37]
+I think perhaps you do have a moral sense - of sorts. You're not a very good liar Nico Collard...
+
+[HEADER 00000C38]
+You really do have a moral sense, don't you?  I trust so few people...
+
+[HEADER 00000C39]
+...and perhaps Pierre really did think that you could help.
+
+[HEADER 0000100A]
+Of course it wouldn't have stopped him seducing you too.
+
+[HEADER 00000C3A]
+...and I share your low opinion of the police.
+
+[HEADER 00000C3B]
+Here - take this.  It's the key to the Drawing Room - next to the library at the end of the hall.
+
+[HEADER 00000C3C]
+It was Pierre's room. I rarely went in there.  I couldn't.  I was too scared of what I might find.
+
+[HEADER 00000C3D]
+Thank you.  I promise - you won't regret this.
+
+[HEADER 00000C3E]
+Imelda now looked shocked and scared. Almost human, in fact...
+
+[HEADER 00000C3F]
+Did you find anything useful?
+
+[HEADER 00000C79]
+Would you like to take the elephant back?
+
+[HEADER 00000C7A]
+No, my dear. You should keep it.
+
+[HEADER 00000C48]
+No, nothing.  I'm sorry.
+
+[HEADER 00000CEB]
+And right now she had enough to deal with. I decided a white lie wouldn't do any harm.
+
+[HEADER 00000FA0]
+The real Imelda was clearly emerging.
+
+[HEADER 00000C49]
+Just one thing...  I know, this is going to sound strange, but did your husband ever mention...
+
+[HEADER 00000CEC]
+Did he ever talk to you about - a penguin?  Or a snowman?
+
+[HEADER 00000C4A]
+What?  I don't understand...
+
+[HEADER 00000C4B]
+He never mentioned... people dressed up as penguins?
+
+[HEADER 00000C4C]
+Nico - I don't know what you're talking -
+
+[HEADER 00000C4D]
+My dear, you should go before the police arrive - there will be many awkward questions.
+
+[HEADER 00000C4E]
+I am grateful that you stayed. You have been so kind.
+
+[HEADER 00000C4F]
+Please call if there is anything that I can do.
+
+[HEADER 00000C50]
+I'd misjudged her.  She had every reason to be bitter, living with a guy like Carchon.
+
+[HEADER 00000CED]
+From the sound of it, no-one and nothing was safe around him.
+
+[HEADER 00000CEE]
+Hmm, maybe I should have interrogated the cat after all...
+
+[HEADER 00000C51]
+Mme Carchon, I...
+
+[HEADER 00000C52]
+Please call me Imelda.  We hardly need the formalities now, do we?
+
+[HEADER 00000C53]
+Excuse me, Imelda.
+
+[HEADER 00000C54]
+Yes?
+
+[HEADER 00000FBC]
+I was sure that there was more to find - I just had to keep looking.
+
+[HEADER 00000FC8]
+Did Monsieur Carchon say nothing to you about my father?
+
+[HEADER 00000FCD]
+No, I'm sorry.  He never mentioned him.
+
+[HEADER 00000FD2]
+Are you sure you don't know anything about my father?
+
+[HEADER 00000FD7]
+Positive.
+
+[HEADER 00000C62]
+You're upset, Madame.  Take this...
+
+[HEADER 00000C63]
+Oh...  Why, thank you.
+
+[HEADER 00000C64]
+I'm terribly sorry...
+
+[HEADER 00000C65]
+My dear - you must forgive me.  I have been rude to you. It's a habit, you know...
+
+[HEADER 00000C66]
+I felt guilty using the old handkerchief routine. But hey she'd been rude to me.
+
+[HEADER 00000CEF]
+And anyhow - maybe there was a human in there after all...
+
+[HEADER 00000C67]
+Was Monsieur Carchon a... difficult man to live with?
+
+[HEADER 00000C68]
+Not difficult.  Impossible.   He couldn't meet a woman without wanting to have her.
+
+[HEADER 00000C69]
+Funny.  My relationship with chocolate is just like that.
+
+[HEADER 00000C6A]
+I'm sorry...
+
+[HEADER 00000C6B]
+I loved him, I suppose.  I couldn't leave - he would never have allowed me to think such a thought.
+
+[HEADER 00000C6C]
+Thank you - you have your own reason for taking the cloth. Please keep it.
+
+[HEADER 00000C58]
+Imelda.  I will do everything I can to find the killer.
+
+[HEADER 00000C59]
+Thank you my dear.
+
+[HEADER 00000C5A]
+And if the police ask -
+
+[HEADER 00000C5B]
+Don't worry.  You were never here.
+
+[HEADER 00000FA1]
+A fine Baroque door.
+
+[HEADER 00000FA2]
+It would look great in my apartment.
+
+[HEADER 00000FEB]
+Now we were getting somewhere...
+
+[HEADER 00000BD9]
+I decided not to lock the door - in case I needed to get back in.
+
+[HEADER 00000D18]
+It was going to take more than a hairclip to open the door.  I needed the key.
+
+[HEADER 00000D21]
+A modern key on an antique door. It wasn't going to work.
+
+[HEADER 00000BD8]
+The door was locked.
+
+[HEADER 00000C84]
+The portrait was too beautiful to ruin.  Even if I did have a thing against rich famous people.
+
+[HEADER 00000C82]
+The painting showed the Carchons together.  In love.  As the poet said: "the past is a different country".
+
+[HEADER 00000CF3]
+Or did I read that in a fortune cookie?
+
+[HEADER 00000C83]
+The Carchons. Noblesse oblige.
+
+[HEADER 00000CD1]
+Behind the picture was a safe.
+
+[HEADER 00000CD0]
+Aha!
+
+[HEADER 00000C88]
+There was a small button hidden in the picture-frame.
+
+[HEADER 00000C89]
+There was the very faintest of clicks.
+
+[HEADER 00000C87]
+That made no sense...
+
+[HEADER 00000C86]
+Nice work, Nico.
+
+[HEADER 00000C85]
+The painting was attached firmly to the wall.
+
+[HEADER 00000D19]
+It was the wrong kind of key.
+
+[HEADER 00000C95]
+The safe's lock was too secure for me to pick. How come it always works in movies, huh?
+
+[HEADER 00000C8A]
+The safe looked pretty secure.
+
+[HEADER 00000C8D]
+The safe was locked - I needed the key.
+
+[HEADER 00000C8C]
+There was a strange stone cylinder in the safe...
+
+[HEADER 00000C8F]
+In the safe was some kind of... artefact.
+
+[HEADER 00000C90]
+There were strange symbols on its surface - it looked like the printers' blocks I'd made at art school.
+
+[HEADER 00000C91]
+If there was one thing I'd learned about symbols... They are always important.
+
+[HEADER 00000FF0]
+But these symbols - scratched into stone - were impossible to read.
+
+[HEADER 00000FF4]
+I needed to find a way of... printing them.
+
+[HEADER 00000FF5]
+At least the stone was round! But what could I use for ink?
+
+[HEADER 00000FFA]
+And what could I print on?
+
+[HEADER 00000C92]
+Sure, I was stealing.  But I knew Imelda didn't know about the artefact, and Carchon was past caring.
+
+[HEADER 00000C8B]
+I'd taken the contents.
+
+[HEADER 00000C8E]
+There was nothing else to take from the safe.
+
+[HEADER 00000C9C]
+I decided to keep the carving - it clearly meant a lot more to me than to the Carchons.
+
+[HEADER 00000C99]
+As expected, the desk was yet another priceless antique. Yawn.
+
+[HEADER 00000C9A]
+The blotter and in-tray had clearly been placed with mathematical precision.
+
+[HEADER 00000C9D]
+My heart skipped a beat.  It was a carved elephant.  But not just any carved elephant.
+
+[HEADER 00000C9E]
+It had been made... by my father.
+
+[HEADER 00000C9F]
+I knew for certain because in my apartment I had its exact twin...
+
+[HEADER 00000CC3]
+...carved into a box that he had made.
+
+[HEADER 00000CA0]
+So Carchon had known my father.  They really must have been friends...
+
+[HEADER 00000CA1]
+It was the beautiful elephant my father had carved.
+
+[HEADER 00000FBE]
+I decided to take the carved elephant - it clearly meant nothing to Imelda.
+
+[HEADER 00000D2C]
+There wasn't enough paint left in the tube.
+
+[HEADER 00000CA4]
+I'd spread blue paint over the bottom of the tray. It was ruined. I was a very bad, bad girl.
+
+[HEADER 00000CA5]
+But also, quite a clever one...
+
+[HEADER 00000D1E]
+The tray was already ruined.
+
+[HEADER 00000D1D]
+The cloth would get paint on the tray.  But not enough for what I needed.
+
+[HEADER 00000FE6]
+There wasn't enough paint left to cover the stone again.
+
+[HEADER 00000CAA]
+I rolled the artefact in the paint until it was completely coated.
+
+[HEADER 00000CA9]
+Rolling the cylinder in a tray for no good reason would be just plain silly.
+
+[HEADER 00000CA6]
+There were still some traces of paint in the tray. It would never be the same again.
+
+[HEADER 00000FA4]
+I'd ruined the tray. But I was on my way to solving a clue...
+
+[HEADER 00000CA2]
+The in-tray - like everything else in this place - was beautiful.
+
+[HEADER 00000CA3]
+One day I was going to have an in-tray like that.  Even if I had to sell my apartment to pay for it.
+
+[HEADER 0000100B]
+An antique tray with paint spread all over it.
+
+[HEADER 0000100E]
+Not a lot I could do with that.
+
+[HEADER 00000CA7]
+I didn't want to take the tray, but I knew that I could use it.
+
+[HEADER 00000CA8]
+In a way, I was going back to art school.
+
+[HEADER 00000D1B]
+Rubbing the cloth over the blotting paper would make it all blue.
+
+[HEADER 00000D1C]
+I needed to come up with something slightly cleverer.
+
+[HEADER 00000D1A]
+The paint would have just soaked into the blotting paper. But the idea was good.
+
+[HEADER 00000CB3]
+The blotter was flat already.  Rolling the cylinder across it would achieve nothing.
+
+[HEADER 00000CB4]
+Genius!  The roller and the paint worked just as I'd planned!  But what did it say?
+
+[HEADER 00000FA5]
+A secret message had been printed onto the blotting paper.
+
+[HEADER 00000CAD]
+The leather holder was now empty.
+
+[HEADER 00000CAB]
+It was a sheet of blotting paper in a leather holder.
+
+[HEADER 00000CAC]
+Its cracked surface looked ancient. Reminded me of its owner...
+
+[HEADER 00000CAF]
+It was some kind of coded message.
+
+[HEADER 00000FBF]
+It read - "Sub-Judice".
+
+[HEADER 00000FC0]
+I may not have learned a lot as a journalist but that was a term I knew well:
+
+[HEADER 00000FC1]
+it means a legal case that is before the courts.
+
+[HEADER 00000FC2]
+Below it was a sequence of letters that made no sense.
+
+[HEADER 00000CB2]
+I didn't need to take the leather holder with me.
+
+[HEADER 00000CAE]
+I didn't need a sheet of blotting paper. Not while it was blank.
+
+[HEADER 00000C7F]
+The sofa was antique.  For one horrible moment...
+
+[HEADER 00000CF1]
+... I had an image of a naked Carchon wriggling around on it with a young journalist. Ugh!
+
+[HEADER 00000C80]
+This wasn't the time for me to lie on the sofa doing my Marie Antoinette impression.
+
+[HEADER 00000CF2]
+Though it is very popular at parties. Especially with gay guys - don't ask me why...
+
+[HEADER 00000C7D]
+It didn't work.
+
+[HEADER 00000C7E]
+But I guess it would have been surprising if it had.
+
+[HEADER 00000C7B]
+It was a back door.
+
+[HEADER 00000C7C]
+Locked. Not surprising, really.
+
+[HEADER 00000FA6]
+Even the light switch looked impressive.
+
+[HEADER 00000FBD]
+I didn't need the lights on - it was light enough already.
+
+[HEADER 00000FA7]
+It was the way out. A beautiful, expensive, antique way out, but the way out nevertheless.
+
+[HEADER 00001018]
+I couldn't leave without saying goodbye to Imelda.
+
+[HEADER 00000C08]
+I thought of leaving but was sure that there was more to find.
+
+[HEADER 00000FA9]
+Imelda was engrossed on the phone. She wouldn't notice me looking around.
+
+[HEADER 00000FAF]
+Something was poking, invitingly, out of his pocket.
+
+[HEADER 00000FB1]
+His lifeless eyes stared blankly at nothing.
+
+[HEADER 00000FB3]
+I had closed his eyes. Rigor mortis hadn't set in yet.
+
+[HEADER 00000FB0]
+I closed his eyes - it was the least I could do for the poor fellow.
+
+[HEADER 00000FB2]
+I opened his eyes - best to leave the crime scene as I found it.
+
+[HEADER 00000FDB]
+The bookcase was filled with obscure first editions.
+
+[HEADER 00000FDD]
+It contained rows of titles I didn't recognise.
+
+[HEADER 00000FDC]
+"Programming the Z80" by Rodney Zaks.
+
+[HEADER 00000FE1]
+Ah, the romance. The drama! The great classic novels had a lot to learn.
+
+[HEADER 00000D16]
+A medieval pageant. Original no doubt.
+
+[HEADER 00000D17]
+The tapestry must have cost a fortune.
+
+[HEADER 00000D2E]
+A bust of Pierre Carchon.
+
+[HEADER 00000D28]
+A bust of...
+
+[HEADER 00000D2A]
+Pierre Carchon. Humble servant of La France.
+
+[HEADER 00000D2D]
+Pierre Carchon again. His eyes seemed to follow me round the room... spooky.
+

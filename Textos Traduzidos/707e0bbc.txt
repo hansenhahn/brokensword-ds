@@ -1,0 +1,1411 @@
+# Broken Sword - Shadow of the Templars (Director's Cut)
+# Versão do Script: 08.19
+[HEADER 00004A38]
+#The guard in the basement won't let me into the excavation.
+O guarda no subsolo não vai me deixar entrar na área da escavação.
+
+[HEADER 00004A42]
+#You need his keys. The washroom door is also locked.
+Você precisa das chaves dele. A porta do banheiro também está fechada.
+
+[HEADER 00004A4C]
+#Ask the guard if you can get his keys. Now what if the key to the excavation was on the same ring as the key to the washroom?
+Peça as chaves ao guarda. Quem sabe a da área da escavação não esteja no mesmo molho que a do banheiro?
+
+[HEADER 00004A56]
+#I have the guard's keys, but he won't let me past.
+Eu tenho as chaves do guarda, mas ele não vai me deixar passar.
+
+[HEADER 00004A60]
+#You need to get hold of that site entrance key. Replacing the keys might do the trick.
+Você precisa ficar com a chave da entrada. Substitui-las talvez seja um bom negócio.
+
+[HEADER 00004A6A]
+#Head into the bathroom and see what you can find.
+Vá até o banheiro e veja o que você pode encontrar.
+
+[HEADER 00004A74]
+#Push the key into the soap to make an impression.
+Aperte a chave contra o sabão para fazer uma impressão.
+
+[HEADER 00004A7E]
+#Use the plaster in the soap, then add water from the sink, then use the hand drier to dry it. One fake key.
+Coloque o gesso no sabão, adicione água da torneira, e então use o secador de mãos para secá-lo. Voilà, uma chave falsa.
+
+[HEADER 00004A88]
+#This key won't fool the guard. It's the wrong colour.
+A chave não vai enganar o guarda. Ela é da cor errada.
+
+[HEADER 00004A92]
+#You need to find some paint. Who just had paint?
+Você precisa encontrar alguma tinta. Quem é que estava pintando?
+
+[HEADER 00004A9C]
+#Head up and try and dip the key in the paint bucket.
+Suba as escadas e tente mergulhar a chave na lata de tinta.
+
+[HEADER 00004AA6]
+#Return downstairs, and use the phone on the wall, and talk to Nico.
+Volte para o subsolo e use o telefone na parede para ligar para a Nico.
+
+[HEADER 00004AB0]
+#Head up and tell the painter he's needed on the phone. Now you can dip the key in the bucket of paint.
+Suba as escadas e diga ao pintor que ele precisa atender o telefone. Agora você pode mergulhar a chave na lata de tinta.
+
+[HEADER 00004AC4]
+#This plaster key may look real, but it doesn't feel real.
+Esta chave de gesso parece real, mas dá para sentir pelo tato que não é.
+
+[HEADER 00004ACE]
+#Imagine if the guard couldn't feel things with his fingers...
+Imagine se o guarda não pudesse tocar nas coisas com os dedos...
+
+[HEADER 00004AD8]
+#Check the thermostat on the wall, then talk to the guard about it.
+Cheque o termostato na parede, então converse com o guarda sobre ele.
+
+[HEADER 00004AE2]
+#Turn the thermostat right down, until the guard puts his gloves on.
+Diminua a temperatura do termóstato até o guarda pôr suas luvas.
+
+[HEADER 00004AEC]
+#Get the keys back from the guard and combine his keys with your fake key to swap them. Then give the keys to the guard.
+Pegue o molho de chaves do guarda e troque a chave verdadeira pela falsa. Depois devolva-o ao guarda.
+
+[HEADER 00004AF6]
+#Well, I have the key, but the guard's still in the way of the door.
+Bem, eu tenho a chave, mas o guarda continua na frente da porta.
+
+[HEADER 00004B00]
+#How did you distract someone last time?
+Como foi que você distraiu alguém da última vez?
+
+[HEADER 00004B0A]
+#Give Nico another call.
+Telefone outra vez para a Nico.
+
+[HEADER 00004B14]
+#Once the guard is distracted, head back down.
+Uma vez que o guarda esteja distraído, volte à porta.
+
+[HEADER 00004B1E]
+#Finally I'm in the Baphomet site. There's a mosaic on the floor, but I can't make sense of it.
+Finalmente estou na área de escavação. Há um mosaico no chão, mas eu não sei o que ele significa.
+
+[HEADER 00004B28]
+#You need to reflect on this matter.
+Você precisa refletir sobre o problema.
+
+[HEADER 00004B32]
+#What do you have that's shiny like a mirror?
+O que você possui que reflete como um espelho?
+
+[HEADER 00004B3C]
+#Use the chalice on the mosaic.
+Coloque o cálice sobre o mosaico.
+
+[HEADER 0028000D]
+#The guard was telling the painter there was a call for him...
+O guarda estava falando para o pintor que alguém o esperava no telefone...
+
+[HEADER 0028000E]
+#...and the painter wasn't believing a word of it.
+... e este não acreditava em nenhuma palavra daquele.
+
+[HEADER 0028000B]
+#The painter didn't seem to regard the painting as too important.
+O pintor não parecia achar a pintura tão importante.
+
+[HEADER 0028000C]
+#Not as important as his cigarette break, anyhow.
+Não tão importante quanto a pausa para fumar um cigarro.
+
+[HEADER 00280015]
+#Hi, it's me again.
+Oi, sou eu de novo.
+
+[HEADER 00280018]
+#What now?
+O que foi agora?
+
+[HEADER 00280014]
+#Excuse me, could you help me?
+Com licença, poderia me ajudar?
+
+[HEADER 00280016]
+#What is it?
+O que foi?
+
+[HEADER 00280017]
+#I've got a few questions.
+Tenho algumas perguntas.
+
+[HEADER 0028002E]
+#What does the word `Templar' suggest to you?
+O que a palavra `Templário' significa para você?
+
+[HEADER 0028002F]
+#Templar? Uh...
+Templário? Uh...
+
+[HEADER 00280030]
+#Nothing?
+Nada?
+
+[HEADER 00280031]
+#Nothing.
+Nada.
+
+[HEADER 0028001A]
+#You're doing a fine job.
+Você está fazendo um ótimo trabalho.
+
+[HEADER 0028001B]
+#Merci. I have my professional pride.
+Merci. Tenho orgulho do que faço.
+
+[HEADER 0028001C]
+#I don't think I've ever seen a Gauloise smoked so stylishly.
+Eu não me lembro de ter visto um Gauloise sendo fumado com tanto estilo.
+
+[HEADER 0028001D]
+#It's a natural talent.
+É um talento natural.
+
+[HEADER 0028001E]
+#I'm being sarcastic.
+Eu estava sendo sarcástico.
+
+[HEADER 0028001F]
+#I'm being indifferent.
+Eu estava sendo indiferente.
+
+[HEADER 00280020]
+#You're very good at that as well.
+Você é muito bom nisso também.
+
+[HEADER 00280021]
+Merci. Vive l'indifference!
+
+[HEADER 00280022]
+#So what are you doing here?
+Então, o que você está fazendo aqui?
+
+[HEADER 00280023]
+#I am having my break.
+Estou no meu intervalo.
+
+[HEADER 00280024]
+#Yeah, I mean when you finish your break.
+Bem, eu quis dizer quando acabar o intervalo.
+
+[HEADER 00280025]
+#When I finish my break? An interesting concept, m'sieur.
+Quando terminar? Uma pergunta interessante, m'sieur.
+
+[HEADER 00280026]
+#You'll probably need to think about it.
+Você provavelmente terá de pensar nisso.
+
+[HEADER 00280027]
+#I could have another cigarette while I consider.
+Posso fumar um outro cigarro enquanto penso.
+
+[HEADER 00280028]
+#Per'aps tomorrow, too.
+Talvez amanhã também.
+
+[HEADER 00280029]
+#Okay, let me put things differently. What were you hired to do here?
+Certo, deixe-me colocar as coisas de outro jeito. Você foi contratado para fazer o que aqui?
+
+[HEADER 0028002A]
+#I was hired to keep the archaeological dig in the basement of this building clear of debris...
+Eu fui contratado para manter a escavação arqueológica no subsolo deste prédio limpa de entulho...
+
+[HEADER 0028002B]
+#...and to touch up damage to the doorframes with my little pot of paint.
+... e para sumir com os estragos na soleira das portas com a minha latinha de tinta.
+
+[HEADER 0028002C]
+#It's a very responsible job.
+É um trabalho de muita responsabilidade.
+
+[HEADER 0028002D]
+#Unfortunately, I'm not a very responsible person.
+Infelizmente, eu não sou uma pessoa muito responsável.
+
+[HEADER 00280032]
+#So what do you know about the excavation?
+Então, o que você sabe sobre a escavação?
+
+[HEADER 00280033]
+#I know they won't let me in to do my job.
+Sei que eles não vão me deixar entrar para fazer meu trabalho.
+
+[HEADER 00280034]
+#I would complain to my union but, alas...
+Eu até iria reclamar ao sindicato, mas, ah...
+
+[HEADER 00280035]
+#...you couldn't be bothered to join.
+... voce não se deu ao trabalho de se associar.
+
+[HEADER 00280036]
+#Right. Tell you what, though,...
+Certo. Mas vou dizer o que acho...
+
+[HEADER 00280037]
+#...I'm surprised at the sort of people interested in this excavation!
+... Estou surpreso com o tipo de pessoas interessadas nesta escavação!
+
+[HEADER 00280038]
+#What's unusual about the visitors to the excavation?
+O que há de incomum nesses visitantes da escavação?
+
+[HEADER 00280039]
+#None of them look like archaeologists to me.
+Nenhum deles me parecia ser um arqueólogo.
+
+[HEADER 0028003A]
+#Do you know what an archaeologist looks like?
+E você sabe como um arqueólogo se parece?
+
+[HEADER 0028003B]
+#Three piece suits, crocodile hide attaché cases, Rolex Oysters...
+Terno e gravata, maleta de couro de crocodilo, Rolex Oysters...
+
+[HEADER 0028003C]
+#But no archaeologist dresses like that!
+Mas nenhum arqueólogo se veste assim!
+
+[HEADER 0028003D]
+#Quite right, m'sieur. Quite right.
+De fato, m'sieur. De fato.
+
+[HEADER 0028003E]
+#So who are they?
+Então quem eles eram?
+
+[HEADER 0028003F]
+#Who cares as long as they pay me?
+Quem se importa contanto que me paguem?
+
+[HEADER 00280040]
+#You've got a 'phone call.
+Você tem um telefonema.
+
+[HEADER 00280041]
+#For me? Are you certain?
+Para mim? Tem certeza?
+
+[HEADER 00280042]
+#It's a woman. She sounded hot!
+É uma mulher. Ela tinha uma voz sexy!
+
+[HEADER 00280043]
+#What women? You must be mistaken, m'sieur.
+Que mulher? Você deve estar enganado, m'sieur.
+
+[HEADER 00280044]
+#Well, she asked for `that hunk of man with the nicotine fingers and his ass hanging out of his pants'.
+Bem, ela pediu por `aquele gostosão com os dedos manchados de nicotina e com o cofrinho de fora'.
+
+[HEADER 00280045]
+#Certainly sounds like me.
+Certamente lembra a mim.
+
+[HEADER 00280046]
+#Stand back. It wouldn't do to keep the lady from her hunk.
+Sai da frente. Não vou deixar a garota esperando pelo seu gostosão.
+
+[HEADER 00280055]
+#I was pretty sure the Shake 'n Shock had shot its bolt in Syria.
+Eu tinha total certeza de que toda a bateria do Aperte e Trema já tinha se esgotado na Síria.
+
+[HEADER 00280056]
+#I've got a sewer key.
+Tenho uma chave de bueiro.
+
+[HEADER 00280057]
+#I used to work in the sewers.
+Eu cheguei a trabalhar num esgoto.
+
+[HEADER 00280058]
+#Oh? What happened?
+É? O que aconteceu?
+
+[HEADER 00280059]
+#I had a cigarette break in a pocket of methane.
+Fiz uma pausa para fumar num local cheio de metano.
+
+[HEADER 0028005A]
+#A manhole cover landed on the other side of the Seine and I was sacked.
+Uma tampa de bueiro voou pro outro lado do Seine, e acabei sendo demitido.
+
+[HEADER 00280077]
+#Have you ever seen a lens like this before?
+Você já viu uma lente assim antes?
+
+[HEADER 00280078]
+#Only in my sister's pince-nez.
+Só no pince-nez da minha irmã.
+
+[HEADER 00280079]
+#They're as thick as the portholes in a submarine.
+Eles são mais grossos do que as janelas de um submarino.
+
+[HEADER 0028007A]
+#If she looks up suddenly, she breaks her nose.
+Se ela olhasse para cima de repente, quebraria o nariz até.
+
+[HEADER 0028007B]
+#You're joking!
+Tá de brincadeira!
+
+[HEADER 0028007C]
+#Of course I'm joking. I don't have a sister.
+Claro que tô de brincadeira. Eu não tenho irmã.
+
+[HEADER 00280073]
+#Has a guy calling himself Moerlin been nosing around?
+Por acaso um homem chamado Moerlin apareceu por aqui?
+
+[HEADER 00280074]
+#Was he wearing a tee-shirt with `My name is Moerlin' on it?
+Ele estava usando uma camiseta com `Meu nome é Moerlin' escrito nela?
+
+[HEADER 00280075]
+#I doubt it.
+Duvido muito.
+
+[HEADER 00280076]
+#Then how the hell am I supposed to know his name just by looking at him, huh?
+Então como diabos vou saber o nome dele apenas olhando para ele, hein?
+
+[HEADER 0028006D]
+#Have you ever seen anything like this?
+Você já tinha visto algo assim antes?
+
+[HEADER 0028006E]
+#Yes. It's a communion chalice.
+Sim. É um cálice de comunhão.
+
+[HEADER 0028006F]
+#I know, you know. I used to be an altar boy.
+Sabe, eu era um coroinha.
+
+[HEADER 00280070]
+#You?
+Você?
+
+[HEADER 00280071]
+#Yes, me. What's so funny about that?
+Sim, eu. O que tem de engraçado nisso?
+
+[HEADER 00280072]
+#Uh, nothing.
+Uh, nada.
+
+[HEADER 0028005B]
+#Have you seen this man before?
+Você já viu este homem antes?
+
+[HEADER 0028005C]
+#Yeah. He asked me a lot of questions, just like you.
+Sim. Ele me fez diversas perguntas, assim como você.
+
+[HEADER 0028005F]
+#I have a red nose.
+Eu tenho um nariz vermelho.
+
+[HEADER 00280060]
+#Imagine.
+Imagino.
+
+[HEADER 00280061]
+#A greasy tissue. Don't get it too close to my cigarette, m'sieur...
+Um lenço sujo. Não deixe ele muito perto do meu cigarro, m'sieur...
+
+[HEADER 00280062]
+#...or there'll be a conflagration.
+... ou irá acontecer um incêndio dos diabos.
+
+[HEADER 0028005D]
+#I've got a blood pressure gizmo.
+Eu tenho um dispositivo para medir a pressão sanguínea.
+
+[HEADER 0028005E]
+#How exciting for you.
+Bom para você.
+
+[HEADER 00280063]
+#I have some plaster of Paris.
+Eu tenho um pouco de gesso de Paris.
+
+[HEADER 00280064]
+#Amazing.
+Que bom.
+
+[HEADER 00280065]
+#I made this key out of plaster.
+Fiz esta chave com gesso.
+
+[HEADER 00280066]
+#How thrilling. How clever. How pointless.
+Que emocionante. Que engenhoso. Que inútil.
+
+[HEADER 00280067]
+#I made this key out of plaster and paint.
+Fiz esta chave com gesso e tinta.
+
+[HEADER 00280068]
+#Convincing, isn't it?
+Convincente, não é?
+
+[HEADER 00280069]
+#Hmmm. That shade of paint seems ... familiar.
+Hmmm. Esse tom de tinta me parece... familiar.
+
+[HEADER 0028006A]
+#Not that I care.
+Não que eu me importe.
+
+[HEADER 0028006B]
+#Would you be interested in soap?
+Você estaria interessado num sabão?
+
+[HEADER 0028006C]
+#Not at this exact moment, no.
+Não agora.
+
+[HEADER 00280053]
+#Be seeing you.
+Até breve.
+
+[HEADER 00280054]
+Au revoir, m'sieur.
+
+[HEADER 00280002]
+#Hmmm. Gunmetal paint. Interesting.
+Hmmm. Tinta cinza. Interessante.
+
+[HEADER 00280003]
+#The painter had a pot of gunmetal gray primer hanging from the barrier.
+O pintor tinha uma lata com tinta cinza pendurada na barreira.
+
+[HEADER 00280011]
+#Ey! M'sieur! Get away from my paint pot!
+Ei! M'sieur! Não chegue perto da minha lata!
+
+[HEADER 00280012]
+#Okay...
+Tudo bem...
+
+[HEADER 00280013]
+#I should think so. Meddling with a man's paint pot! Pah!
+Eu devia ter imaginado. Mexendo com a lata de tinta de um homem! Pah!
+
+[HEADER 00280004]
+#What would I need a whole pot of paint for?
+Para que eu iria querer uma lata de tinta?
+
+[HEADER 00280005]
+#There was a dumpster full of debris from the excavation, I guessed.
+Havia uma caçamba cheia de entulho da escavação, eu acho.
+
+[HEADER 00280000]
+#A well-used wheelbarrow was sitting by the rubble filled dumpster.
+Um carrinho de mão bem usado estava parado ao lado da caçamba cheia de entulho.
+
+[HEADER 00280010]
+#Hey, you! Get away from my dumpster!
+Ei, você! Deixe minha caçamba em paz!
+
+[HEADER 00280006]
+#The archway was topped by a fancy balustrade.
+O topo do arco da entrada era enfeitado com uma elegante balaustrada.
+
+[HEADER 00280007]
+#Oh, darn. I'd left my grappling hook at home.
+Ah, droga. Deixei meu arpéu em casa.
+
+[HEADER 00280008]
+#No way could I get up there!
+Não tem como eu entrar por ali!
+
+[HEADER 00290019]
+#The doorway was full of assorted old tea chests, cardboard boxes and so on, all empty and all uninteresting.
+A entrada estava lotada com variedades de caixas de madeira, de papelão, entre outras; todas vazias e sem graça.
+
+[HEADER 0029001A]
+#The doorway led to an old utility closet that had lost its door.
+A entrada dava para um velho depósito que tinha perdido sua porta.
+
+[HEADER 0029001B]
+#There was nothing interesting in there.
+Não havia nada de interessante ali dentro.
+
+[HEADER 0029000E]
+#Yup, that was definitely debris.
+É, de fato, eram escombros.
+
+[HEADER 0029000D]
+#A dumpster with some debris in it.
+Uma caçamba com entulho dentro dela.
+
+[HEADER 0029000F]
+#I couldn't see any use for a collection of dirt and half bricks.
+Eu não via nenhuma utilidade para uma coleção de sujeiras e tijolos quebrados.
+
+[HEADER 00290006]
+#A thermostat was mounted over a radiator.
+Um termostato havia sido montado sobre um aquecedor.
+
+[HEADER 00290009]
+#I'd turned the thermostat all the way down. It was getting pretty chilly.
+Eu tinha diminuído a temperatura do termostato ao máximo. Estava ficando bastante frio.
+
+[HEADER 00290007]
+#The radiator was pumping out heat as the thermostat was cranked right over to full.
+Saía água quente do aquecedor conforme eu girava o interruptor do termostato para a direita.
+
+[HEADER 00290008]
+#No wonder it was warm in here even with the door open to the chill of Fall.
+Sem dúvidas estava quente aqui, mesmo com a porta aberta ao ar fresco do outono.
+
+[HEADER 0029000A]
+#I turned the heating off.
+Eu tinha desligado o aquecedor.
+
+[HEADER 0000184C]
+#As I'd hoped, the guard put his gloves on.
+Como esperado, o guarda colocou suas luvas.
+
+[HEADER 0029000C]
+#I couldn't imagine what I'd achieve by turning the dial.
+Eu não conseguia imaginar que utilidade teria em virar o indicador.
+
+[HEADER 00290029]
+#Hey! M'sieur!
+Ei! M'sieur!
+
+[HEADER 0029002A]
+#Don't go with my keys!
+Não saia com as minhas chaves!
+
+[HEADER 00290012]
+#There was a closed door with `Toilet' scratched into the cheap veneer.
+Havia uma porta fechada com `Toilet' riscado sobre o verniz barato.
+
+[HEADER 00290013]
+#The door was locked.
+A porta estava trancada.
+
+[HEADER 00290028]
+#That door's locked, m'sieur.
+Essa porta está trancada, m'sieur.
+
+[HEADER 00290014]
+#That guard had been put here to guard something.
+O guarda foi colocado aqui para guardar alguma coisa.
+
+[HEADER 00290015]
+#My guess was that the excavation was behind that door.
+Meu palpite era que a escavação estava atrás dessa porta.
+
+[HEADER 00290016]
+#I didn't think that the guard would just let me waltz past. Besides...
+Eu não acho que o guarda ia simplesmente me deixar passar. Além do que...
+
+[HEADER 00290017]
+#...I had a hunch that door was locked.
+... tive uma visão de que a porta estava fechada.
+
+[HEADER 00290018]
+#I couldn't get to the door while the guard was there.
+Eu não podia chegar até a porta enquanto o guarda estivesse ali.
+
+[HEADER 00290010]
+#A guard stood by a door I guessed led to the excavation.
+Um guarda portava-se de pé em frente a uma porta que eu achava que levava até a escavação.
+
+[HEADER 00290011]
+#He looked pretty pompous. Well - not so much pretty, just pompous.
+Ele se vestia de uma maneira grandiosa e bonita. Bem, talvez não tão bonita, apenas grandiosa.
+
+[HEADER 0029002F]
+#Hi, again.
+Olá de novo.
+
+[HEADER 00290031]
+#What is it?
+O que foi?
+
+[HEADER 0029002E]
+#Hi? Excuse me?
+Oi? Com licença?
+
+[HEADER 00290030]
+Oui?
+
+[HEADER 0029004A]
+#What do you know about the Knights Templar?
+O que você sabe sobre os Cavaleiros Templários?
+
+[HEADER 0029004B]
+#There was a long pause during which the guard said nothing. Then he said...
+Houve uma grande pausa durante a qual o guarda não falou nada. Aí ele disse...
+
+[HEADER 0029004C]
+#Nothing.
+Nada.
+
+[HEADER 0029004D]
+#Nothing at all?
+Nada mesmo?
+
+[HEADER 0029004E]
+#Is this a test?
+Isso é um teste?
+
+[HEADER 0029004F]
+#What? Like a history pop test?
+O quê? Como uma prova de história?
+
+[HEADER 00290050]
+#No. Like a ...test.
+Não. Como um... teste.
+
+[HEADER 00290051]
+#Okay, yes. It's a test.
+Certo. Sim, é um teste.
+
+[HEADER 00290052]
+#Then I know absolutely nothing about the Templars.
+Então eu não sei absolutamente nada sobre os Templários.
+
+[HEADER 00290053]
+#The guard was being amazingly evasive. It was going to take more than goodwill to get past him.
+O guarda estava sendo incrivelmente evasivo. Eu precisaria de mais do que boa vontade para passar por ele.
+
+[HEADER 00290033]
+#So, what exactly are you doing here?
+Então, o que exatamente você faz aqui?
+
+[HEADER 00290034]
+#I'm guarding. You expect to find me shearing sheep?
+Estou de guarda. Esperava me encontrar tosando ovelhas?
+
+[HEADER 00290035]
+#Take it easy! I just didn't realise you were a guard.
+Calma! Eu só não tinha percebido que você era um guarda.
+
+[HEADER 00290036]
+#I'd like to know what you're guarding, please?
+Poderia me dizer o que você está guardando, por favor?
+
+[HEADER 00290037]
+#That's a secret.
+Isso é segredo.
+
+[HEADER 00290038]
+#It wouldn't happen to be an archaeological site, would it?
+Não seria um sítio arqueológico, seria?
+
+[HEADER 00290039]
+#Are you asking me or telling me?
+Você está me perguntando ou dizendo?
+
+[HEADER 0029003A]
+#I'm telling you.
+Estou dizendo.
+
+[HEADER 0029003B]
+#Then why ask?
+Então por que perguntar?
+
+[HEADER 0029003C]
+#I had a feeling that this was no normal hole in the ground.
+Tive um pressentimento de que este não era um buraco qualquer no chão.
+
+[HEADER 00290046]
+#I need to use the, uh... toilet. Again.
+Eu preciso usar o, uh... toalete. De novo.
+
+[HEADER 00290047]
+#Again? Already?
+De novo? Mas já?
+
+[HEADER 00290048]
+#I have this problem. How technical do you want me to get?
+Eu tenho este problema. Quer que eu explique de uma maneira mais formal?
+
+[HEADER 00290049]
+#Never mind. Here's the key.
+Esqueça. Aqui está a chave.
+
+[HEADER 00290043]
+#I'd like to use the washroom but the door's locked.
+Eu gostaria de usar o banheiro, mas a porta está trancada.
+
+[HEADER 00290044]
+#Oh, that's no problem. You can have the key.
+Ah, isso não será problema. Aqui, pegue a chave.
+
+[HEADER 00290045]
+#Thanks!
+Obrigado!
+
+[HEADER 0029003D]
+#Boy, it sure is hot in here!
+Cara, como está quente aqui!
+
+[HEADER 0029003E]
+#I have to have the door open to allow the workmen access so, why not?
+Tenho que deixar a porta aberta para os operários.
+
+[HEADER 0029003F]
+#I turned the heat up.
+Eu liguei o aquecedor.
+
+[HEADER 00290040]
+#You could wrap up warm.
+Você podia ter colocado roupas quentes.
+
+[HEADER 00290041]
+#I have my gloves if it gets cold but why bother when it's warm anyway?
+Eu tenho minhas luvas caso fique frio, mas por que se incomodar quando se está quente?
+
+[HEADER 00290056]
+#I held my breath and hoped that he wouldn't notice the substitution.
+Eu segurei a respiração e torci para que ele não notasse a troca.
+
+[HEADER 00290057]
+#Here's the keys. Thanks.
+Aqui estão as chaves. Obrigado.
+
+[HEADER 00290058]
+Merci, m'sieur.
+
+[HEADER 00290059]
+#I couldn't give him the keys.
+Eu não podia devolver as chaves para o guarda.
+
+[HEADER 0029005A]
+#The false key looked pretty convincing but it felt exactly like what it was - painted plaster!
+A chave falsa parecia bastante convincente, mas a sensação ao tocá-la entregava que era feita de gesso pintado!
+
+[HEADER 0029005B]
+#He was bound to detect it.
+Ele certamente iria notar.
+
+[HEADER 0029005C]
+#Here's the keys. Thanks.
+Aqui estão as chaves. Obrigado.
+
+[HEADER 0029005D]
+Merci, m'sieur.
+
+[HEADER 00290067]
+#Have you seen this man before?
+Você já viu este homem antes?
+
+[HEADER 00290068]
+#Oh!
+Ah!
+
+[HEADER 00290069]
+#You have?
+Viu?
+
+[HEADER 0029006A]
+Uh... non.
+
+[HEADER 0029006B]
+#The conspiracy knew that the lens existed.
+Os conspiradores sabiam da existência da lente.
+
+[HEADER 0029006C]
+#I figured it wouldn't be smart to show too many people that I had it.
+Percebi que não seria muito inteligente sair mostrando para as pessoas que eu a tinha.
+
+[HEADER 0029006D]
+#I've got a red nose, here.
+Eu tenho um nariz vermelho aqui.
+
+[HEADER 0029006E]
+Oh.
+
+[HEADER 00290071]
+#Look, a tissue stained with greasepaint.
+Olhe, um lenço sujo com maquiagem de teatro.
+
+[HEADER 00290072]
+#Ah, just what I've always wanted!
+Ah, exatamente o que eu sempre quis!
+
+[HEADER 00290073]
+#If you give me that, you can enter through the door!
+Se me der isso, eu deixo você passar pela porta!
+
+[HEADER 00290074]
+#Really?
+Sério?
+
+[HEADER 00290075]
+#Of course not. What would I want with an old tissue?
+Claro que não. Por que eu iria querer um lenço usado?
+
+[HEADER 00290076]
+#This here's a blood pressure gauge.
+Este é um aparelho para medir a pressão sanguínea.
+
+[HEADER 00290077]
+#Ah! Don't talk to me about blood pressure!
+Ah! Não me fale sobre pressão sanguínea!
+
+[HEADER 00290078]
+#My doctor said to...
+Meu médico disse para...
+
+[HEADER 00290079]
+#Okay, I won't talk to you about blood pressure.
+Certo, não vou falar sobre pressão sanguínea.
+
+[HEADER 0029007A]
+#I've got...
+Eu tenho...
+
+[HEADER 0029007B]
+#I thought better of showing him the chalice.
+Pensei melhor sobre mostrar o cálice para ele.
+
+[HEADER 0029007C]
+#He might be on the conspiracy's payroll and I didn't want to risk it.
+Ele podia estar na lista de pagamentos dos conspiradores. Eu não podia arriscar.
+
+[HEADER 0029007D]
+#Oui? You have...?
+Oui? Você tem...?
+
+[HEADER 0029007E]
+#...a sudden urge to sing. Care to join me?
+... uma repentina vontade de cantar. Quer se juntar a mim?
+
+[HEADER 0029007F]
+#Non. No singing in here.
+Non. Sem cantoria aqui.
+
+[HEADER 00290080]
+#After the amount of trouble I'd been through to get that key...
+Depois de todos os problemas que tive com essa chave...
+
+[HEADER 00290081]
+#...I wasn't about to share with the guard how clever I'd been.
+... eu não queria deixar o guarda saber o quão esperto fui.
+
+[HEADER 00290065]
+#This gadget is a sewer key.
+Esta bugiganga aqui é uma chave de bueiro.
+
+[HEADER 00290066]
+#So it is.
+Ah, é.
+
+[HEADER 00290061]
+#Do you recognise this name?
+Você reconhece este nome?
+
+[HEADER 00290062]
+Moerlin? Non.
+
+[HEADER 0029005F]
+#I got this plaster from Ireland.
+Eu peguei este gesso na Irlanda.
+
+[HEADER 00290060]
+#Not an exciting souvenir.
+Não é um souvenir muito empolgante.
+
+[HEADER 00290054]
+#Talk to you later.
+Falo com você depois.
+
+[HEADER 00290055]
+Au revoir, m'sieur.
+
+[HEADER 002B0015]
+#Oh boy, dirty soap. How do they do that?
+Qual é, sabão sujo. Como eles fazem isso?
+
+[HEADER 00001843]
+#I didn't need to use the soap again.
+Eu não precisava usar o sabão outra vez.
+
+[HEADER 002B0016]
+#The taps were rusty. Oh, boy.
+As torneiras estavam enferrujadas. Sacanagem.
+
+[HEADER 002B0018]
+#I figured washing my hands with that soap in that sink would just get my hands dirtier than when I'd started.
+Eu senti que lavar minhas mãos com o sabão nessa torneira só iriam deixá-las mais sujas do que já estavam.
+
+[HEADER 002B0019]
+#That was a smart way to get a key made out of water.
+Essa foi uma maneira inteligente de se fazer uma chave com água.
+
+[HEADER 002B001A]
+#Now all I needed was a nitrogen bath to freeze it in and I'd have a usable key.
+Agora eu só precisava de um banho de nitrogênio para congelá-la. Assim, eu teria uma chave usável.
+
+[HEADER 00200000]
+#Several minutes later...
+Alguns minutos depois...
+
+[HEADER 002B001B]
+#Well, it had taken a while but I had made myself a completely unconvincing plaster key.
+Bem, levou um tempo, mas finalmente consegui uma chave de gesso pouco convincente.
+
+[HEADER 002B001C]
+#Way too fragile to use in a lock. I'd have to substitute it for the real one.
+Frágil demais para se usar em uma fechadura. Eu tinha que substituir pela verdadeira.
+
+[HEADER 002B001D]
+#Trouble was, it looked like plaster and not metal.
+O problema era que parecia com gesso e não metal.
+
+[HEADER 002B001E]
+#Then again, that plaster statue in Syria hadn't looked like stone until I'd been a bit `artful' with it.
+Foi aí que me lembrei daquela estátua de gesso na Síria que só foi parecer pedra após eu ter usado minhas `habilidades artísticas' nela.
+
+[HEADER 002B001F]
+#Maybe I could improve the key as well.
+Talvez eu pudesse fazer a mesma coisa com a chave.
+
+[HEADER 002B0017]
+#The cold tap's washer looked to have failed. It was just dribbling down the sink.
+A vedação da torneira parecia estar ruim. A água não parava de pingar.
+
+[HEADER 002B0020]
+#On the wall was an automatic hand drier.
+Na parede havia um secador de mãos automático.
+
+[HEADER 002B0021]
+#I wasn't about to wash my hands in this place so I didn't need to dry them.
+Eu não iria lavar minhas mãos aqui, então não tinha por que secá-las.
+
+[HEADER 002B000B]
+#Being in a charming comfort station like this made me think fondly of the toilet in Syria.
+Ficar num charmoso e confortável banheiro como este me fez ver o toalete na Síria com outros olhos.
+
+[HEADER 002B000C]
+#That place was kept in pretty good order.
+Este lugar estava muito bem organizado.
+
+[HEADER 002B000D]
+#At least, it had been until I vandalised it. Still, it was all for a good cause.
+Pelo menos, até eu ter o vandalizado. Mas era tudo por uma boa causa.
+
+[HEADER 002B000A]
+#I didn't need to get near to tell the toilet needed cleaning.
+Eu não precisava chegar perto para dizer que a privada precisava de uma limpeza.
+
+[HEADER 002B0003]
+#There was a big, old boiler used for heating the building.
+Havia uma enorme e velha caldeira usada para aquecer o prédio.
+
+[HEADER 002B0004]
+#The thing felt really hot. Big demands seemed to be being made on it.
+O negócio estava bem quente. Pelo jeito, estavam usando-a bastante.
+
+[HEADER 002B0005]
+#A huge pile of coal lay in the corner to fuel the boiler.
+Uma enorme pilha de carvão no canto do banheiro usada para abastecer a caldeira.
+
+[HEADER 002B0006]
+#Real high tech stuff.
+Maquinário de última geração.
+
+[HEADER 002B0007]
+#I didn't want any coal.
+Eu não queria nenhum carvão.
+
+[HEADER 00290003]
+#I knew she'd lose her patience if I didn't get the painter soon.
+Eu sabia que ela iria perder a paciência se eu não trouxesse logo o pintor.
+
+[HEADER 00290002]
+#Nico was still waiting on the phone.
+A Nico ainda estava esperando no telefone.
+
+[HEADER 00290000]
+#There was a telephone on the far wall.
+Havia um telefone na parede mais ao fundo.
+
+[HEADER 0029002B]
+#Do you mind if I use the phone?
+Você se importa se eu usar o telefone?
+
+[HEADER 0029002C]
+#Be my guest. I'm paid to guard this door.
+Sinta-se a vontade. Eu sou pago apenas para guardar esta porta.
+
+[HEADER 0029002D]
+#The 'phone can look after itself.
+O fone pode cuidar de si próprio.
+
+[HEADER 00290082]
+#Hi? Nico?
+Alô? Nico?
+
+[HEADER 00290083]
+#George! What have you discovered?
+George! O que você descobriu?
+
+[HEADER 00290084]
+#Nothing yet.
+Nada ainda.
+
+[HEADER 00290085]
+#Nothing? Is something wrong?
+Nada? Algo errado?
+
+[HEADER 00290086]
+#No.
+Não.
+
+[HEADER 00290087]
+#George, why are you calling me?
+George, então por que me telefonou?
+
+[HEADER 00290088]
+#Oh, no reason. Just wanted to hear your voice.
+Ah, para nada. Apenas queria ouvir sua voz.
+
+[HEADER 00290089]
+#Did you? Well, this is my voice saying don't bother me, I'm busy!
+É? Bem, esta é a minha voz dizendo para não me incomodar. Estou ocupada!
+
+[HEADER 0029008A]
+Ah.
+
+[HEADER 002900A2]
+#Hello, Nico. It's me.
+Alô, Nico. Sou eu.
+
+[HEADER 002900A3]
+#What do you want?
+O que você quer?
+
+[HEADER 002900A4]
+#Some ideas.
+Ideias.
+
+[HEADER 002900A5]
+#You're the man on the spot, George.
+Você quem está aí, George.
+
+[HEADER 002900A6]
+#I can't hold your hand all of the time. Au revoir.
+Você não pode ficar debaixo da minha saia para sempre. Au revoir.
+
+[HEADER 0029008B]
+Collard.
+
+[HEADER 00290091]
+#Hi, George! What's happening?
+Oi, George! O que está acontecedo?
+
+[HEADER 00290092]
+#I'm at the excavation but they won't let me in.
+Eu estou na escavação, mas não me deixam entrar.
+
+[HEADER 00290093]
+#Damn! We need to know what's in there!
+Droga! Precisamos descobrir o que há aí dentro!
+
+[HEADER 00290094]
+#Don't worry, I've got a scheme. I'm going to need your help though.
+Não se preocupe, eu tenho tudo arquitetado. Só que vou precisar da sua ajuda.
+
+[HEADER 00290095]
+#Okay, what do you want me to do?
+Certo, o que você quer que eu faça?
+
+[HEADER 00290096]
+#I want you to keep somebody on the 'phone for a while.
+Só quero que você segure alguém no telefone por um tempo.
+
+[HEADER 00290097]
+#Who?
+Quem?
+
+[HEADER 00290098]
+#A painter. I need to get at his pot.
+Um pintor. Eu preciso da lata de tinta dele.
+
+[HEADER 00290099]
+#Oh, okay.
+Ah, certo.
+
+[HEADER 0029009A]
+#Stay on the line, I'll go and get him.
+Fique na linha, vou lá chamá-lo.
+
+[HEADER 0029009B]
+#Hi, Nico! It's me again!
+Oi, Nico! Sou eu de novo!
+
+[HEADER 0029009C]
+#I'd guessed. What do you want this time?
+Imaginei que fosse. O que quer desta vez?
+
+[HEADER 0029009D]
+#What did you say to the painter?
+O que você disse para o pintor?
+
+[HEADER 0029009E]
+#I shan't repeat it, George.
+Não posso falar, George.
+
+[HEADER 0029009F]
+#Look, I need to get the guard out of the way.
+Olha, preciso tirar o guarda do meu caminho.
+
+[HEADER 002900A0]
+#Could you call back and ask him to get the painter again?
+Você podia ligar de volta e pedir para ele chamar o pintor outra vez?
+
+[HEADER 002900A1]
+#Okay, I'll call back soon.
+Certo, já ligo de volta.
+
+[HEADER 00290001]
+#I figured I'd best not bother Nico again until I'd got a good reason.
+Percebi que eu não devia incomodar a Nico outra vez sem ter uma boa razão.
+
+[HEADER 0029001D]
+#Well, m'sieur! What a strange woman!
+Bem, m'sieur! Que mulher mais estranha!
+
+[HEADER 0029001E]
+#She was all over me and then, suddenly - nothing but abuse!
+Ela estava caidinha por mim e aí, de repente, começou a me insultar!
+
+[HEADER 0029001F]
+#Really?
+Sério?
+
+[HEADER 00290020]
+#Oui - abuse! Ah, well. I have a cigarette to finish.
+Oui, insultar! Ah, que seja. Tenho um cigarro para terminar.
+
+[HEADER 00290021]
+#And, m'sieur, if she calls again... I'm not available.
+E, m'sieur, se ela ligar outra vez... diga que estou ocupado.
+
+[HEADER 0028007D]
+#This looked like a good place to watch things develop...
+Este parecia ser um bom lugar para ver as coisas se desenrolarem...
+
+[HEADER 0028007E]
+#Hey, you! It's the 'phone.
+Ei, você! O telefone está tocando.
+
+[HEADER 0028007F]
+#Yeah?
+Sim?
+
+[HEADER 00280080]
+#Who is it?
+Quem é?
+
+[HEADER 00280081]
+#How should I know? What am I, your social secretary?
+Como vou saber? O que acha que sou, seu secretário?
+
+[HEADER 00280082]
+#It's not a chick, is it?
+Não é uma garota, certo?
+
+[HEADER 00280083]
+#Yes, it's a woman. Are you going to answer it?
+Sim, é uma mulher. Você vai atender?
+
+[HEADER 00280084]
+#Does she have a warm, sensual voice like molten chocolate?
+Ela tem uma voz quente e sensual, como chocolate derretido?
+
+[HEADER 00280085]
+#Yes, yes. She has a really sexy voice. Now get a move on!
+Sim, sim. Ela tem uma voz bastante sexy. Agora vai logo!
+
+[HEADER 00280086]
+#I'm not talking to her.
+Não vou falar com ela.
+
+[HEADER 00280087]
+#I can see that! You're wasting time talking to me!
+Posso ver isso! Você está perdendo tempo conversando comigo!
+
+[HEADER 00280088]
+#Non, you don't understand. I refuse to talk to her.
+Non, você não entendeu. Eu me recuso a falar com ela.
+
+[HEADER 00280089]
+#You refuse? You REFUSE? I'm wasting valuable time...
+Se recusa? Se RECUSA? Eu estou perdendo meu tempo precioso...
+
+[HEADER 0028008A]
+#Don't make me laugh! Your time, valuable? You just stand around all day!
+Não me faça rir! Seu tempo, precioso? Você só fica parado lá o dia todo!
+
+[HEADER 0028008B]
+#I have a highly responsible job!
+Eu tenho um trabalho de alta responsabildiade!
+
+[HEADER 0028008C]
+#Pah!
+Pah!
+
+[HEADER 0028008D]
+#Don't `Pah!' me, you elephantine oaf! My job is important!
+Não diga `Pah!' para mim, seu jumento! Meu trabalho é importante!
+
+[HEADER 0028008E]
+#Impossible. They would've hired somebody competent in that case...
+Impossível. Se fosse o caso, teriam contratado alguém competente...
+
+[HEADER 0028008F]
+#Meaning what?
+O que quer dizer?
+
+[HEADER 00280090]
+#Instead of which they hired a dismal rent-a-cop like you...
+Em vez disso, contrataram um projeto de segurança patético como você... 
+
+[HEADER 00280091]
+#...all epaulettes and no brains.
+... cheio de dragonas e sem cérebro.
+
+[HEADER 00280092]
+#Why, you...
+Ora, seu...
+
+[HEADER 00280093]
+#This looked set to carry on for some time. It was too good an opportunity to miss.
+Isso parecia que iria levar algum tempo. Era uma ótima oportunidade para dar uma escapulida.
+
+[HEADER 0028000F]
+#It looked like he had enough problems without me interfering.
+Parecia que ele já tinha problemas suficientes sem a minha interferência.
+
+[HEADER 002A0010]
+#Some planks used to make the catwalk were leaning against the wall.
+Algumas tábuas, usadas para fazer a passarela, estavam encostadas contra parede.
+
+[HEADER 002A0011]
+#I couldn't see anything useful to do with the planks.
+Eu não pensava em nada útil para fazer com as tábuas.
+
+[HEADER 002A0000]
+#Oh, great. More dead people.
+Ah, ótimo. Mais pessoas mortas.
+
+[HEADER 002A0003]
+#No, thanks. I think I'm carrying enough junk.
+Não, obrigado. Acho que já estou levando lixo demais.
+
+[HEADER 002A0007]
+#There was no doubt about it...
+Não havia dúvidas sobre isso...
+
+[HEADER 002A0008]
+#...it was the same sort of idol I'd seen in Syria.
+... Era o mesmo tipo de ídolo que eu tinha visto na Síria.
+
+[HEADER 002A0009]
+#Baphomet. The Templars had certainly been through here.
+Baphomet. Os Templários certamente estiveram aqui.
+
+[HEADER 002A0004]
+#Now there's a familiar face...
+Finalmente, um rosto familiar...
+
+[HEADER 002A000A]
+#In the middle of the floor was a weird mosaic...
+No meio do chão, havia um estranho mosaico...
+
+[HEADER 002A000B]
+#...all swirling and distorted.
+... todo bagunçado e distorcido.
+
+[HEADER 002A000E]
+#And there it was, decoded by the curves of the chalice...
+E ali estava, decodificada pelas curvas do cálice...
+
+[HEADER 002A000F]
+#... the image of a church.
+... a imagem de uma igreja.
+
+[HEADER 002A000C]
+#Close up, the pattern didn't make any sort of sense.
+Olhando mais de perto, o desenho não fazia nenhum sentido.
+
+[HEADER 002A000D]
+#It fanned out around an axis point, a kind of focus to one side.
+Ele se desembaralhava em torno de um ponto, algum tipo de foco.
+
+[HEADER 0000183A]
+#Perhaps I could make a copy of the key...
+Talvez eu possa fazer uma cópia da chave...
+
+[HEADER 0000183B]
+#The key had made a clear imprint in the soap.
+A chave havia feito uma impressão limpa no sabão.
+
+[HEADER 0000183C]
+#I'd already created the right impression.
+Eu já tinha criado a impressão certa.
+
+[HEADER 0000183D]
+#I knew keeping that plaster was a good idea.
+Eu sabia que manter comigo aquele gesso seria uma ótima ideia.
+
+[HEADER 0000183E]
+#With the plaster in the imprint I was on the right lines.
+Com o gesso na impressão, eu sabia que estava no caminho certo.
+
+[HEADER 0000183F]
+#I couldn't do that...
+Eu não podia fazer isso...
+
+[HEADER 00001838]
+#The key's imprint was now filled with wet plaster.
+A impressão da chave estava agora preenchida com gesso molhado.
+
+[HEADER 00000027]
+#I had filled the key's imprint in the soap with dry plaster.
+Eu tinha preenchido a impressão da chave no sabão com gesso seco.
+
+[HEADER 00000026]
+#The bar of soap had the imprint of a key in it.
+A barra de sabão tinha o molde de uma chave impresso nela.
+
+[HEADER 00001839]
+#I didn't want to carry a bar of dirty soap around with me.
+Eu não queria carregar uma barra suja de sabão comigo.
+
+[HEADER 00001840]
+#You can't make a cast without wetting the plaster...
+Não se pode moldar algo sem molhar o gesso...
+
+[HEADER 00001841]
+#...but wet plaster alone does not make a cast.
+... mas apenas gesso molhado não iria ser o suficiente.
+
+[HEADER 00001842]
+#I used the dryer to speed up the process...
+Eu usei o secador para acelerar o processo...
+

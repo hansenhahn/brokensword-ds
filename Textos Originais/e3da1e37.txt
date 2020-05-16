@@ -1,0 +1,741 @@
+[HEADER 000028FA]
+I'm on the quayside - what do I do now?
+
+[HEADER 00002904]
+Check the gate on the far right. It's being held shut by strange locks. Take a closer look.
+
+[HEADER 0000290E]
+You need to examine the metal locks.
+
+[HEADER 00002913]
+How do I open the locks?
+
+[HEADER 00002918]
+There's a big stone door with a hole in the frame. How do I get it open?
+
+[HEADER 00002922]
+Maybe the door needs a "key".
+
+[HEADER 0000292C]
+What might fit into the hole in the frame?
+
+[HEADER 00002936]
+Put the stone cylinder into the hole.
+
+[HEADER 00002940]
+So, the cylinder is in the hole, but what now?
+
+[HEADER 0000294A]
+Remember what Nico said when she first looked at it, about how Sinister means "left" and Dexter means "right"?
+
+[HEADER 00002954]
+What else do you have with you that might refer to Sinister and Dexter?
+
+[HEADER 0000295E]
+Remember the coded message that you made in Carchon's drawing room?
+
+[HEADER 00002968]
+The message includes the letters SDSSDSS. That's the order in which you need to touch the buttons to turn the cylinder - S for left, D for right.
+
+[HEADER 0000296A]
+I got the stone door open, but now I'm stuck.
+
+[HEADER 0000296C]
+You'll see a stone cross - perhaps it isn't part of the altar.
+
+[HEADER 00002970]
+Walk to the stone cross, and lift it. See what happens.
+
+[HEADER 00002972]
+The cross won't stay up. What do I do?
+
+[HEADER 00002974]
+You'll need to prop it up with something solid.
+
+[HEADER 00002976]
+While lifting the cross, use the shell case on the cross to keep it up.
+
+[HEADER 00002978]
+I've found another chamber, but can't progress!
+
+[HEADER 0000297A]
+Perhaps you missed something useful in the first room?
+
+[HEADER 0000297C]
+It's time to push the boat out.
+
+[HEADER 0000297E]
+Push the boat over and look underneath. Pick up the shell case that you'll find.
+
+[HEADER 00002980]
+I've propped up the cross, but what now?
+
+[HEADER 00002982]
+What might fit into the hole that was revealed when the stone panel slid across?
+
+[HEADER 00002984]
+Did you leave the stone cylinder behind? Go and retrieve it.
+
+[HEADER 00002986]
+The panel has opened revealing a slot - what should I do?
+
+[HEADER 00002988]
+The stone cylinder may fit nicely into the slot.
+
+[HEADER 0000298A]
+Use the shell casing to prop up the cross, then insert the stone cylinder into the slot.
+
+[HEADER 0000298C]
+A door has partially opened, what do I need to do?
+
+[HEADER 0000298E]
+You'll need something flat and rigid to lever open the door. You have something metal - how could it be flattened?
+
+[HEADER 00002990]
+A stone door slammed down hard when you lifted the cross. If something round and metal were under it, it would soon be flat and metal.
+
+[HEADER 00002992]
+Put the shell case on the stone below the heavy stone door, and slam it down on the shell case.
+
+[HEADER 00002994]
+Ensure that the heavy stone door is open - you may need to remove the stone cylinder from the hole. Place the shell casing on the carved letters below the door, then lift the cross. The door will slam down and crush the shell casing.
+
+[HEADER 00002996]
+How can I open the jammed door?
+
+[HEADER 00002998]
+Use the crushed shell case on the gap under the door to lever it open.
+
+[HEADER 00002A08]
+It's a bit dark in here.
+
+[HEADER 00002A12]
+You need to generate some light.
+
+[HEADER 00002A1C]
+Find a blinking red light by the entrance. Then pull the breaker switch handle.
+
+[HEADER 00002A26]
+There's lots to find, but I must be missing something.
+
+[HEADER 00002A30]
+Have you looked through the drawers in the desk on the left of the state room?
+
+[HEADER 00002A35]
+Open the right hand drawer, search it and you will find a coded note.
+
+[HEADER 00002A3A]
+I've got the coded note - what now?
+
+[HEADER 00002A44]
+That drawer you opened. What if it could be opened... further.
+
+[HEADER 00002A4E]
+Pull the drawer again.
+
+[HEADER 00002A58]
+Reach inside and get the photograph.
+
+[HEADER 00002A62]
+I feel like I've found everything, but there must be more.
+
+[HEADER 00002A6C]
+Have you examined the desk top?
+
+[HEADER 00002A71]
+Examine both the dossier and newspaper clippings.
+
+[HEADER 00002A72]
+This place is packed with evidence - but I'm still missing something.
+
+[HEADER 00002A73]
+Remember that you picked up a note encoded with a cipher?
+
+[HEADER 00002A74]
+Examine the note (in your inventory), and you will have the opportunity to decipher it.
+
+[HEADER 00002F4E]
+I'm back at the quayside. But what should I do now?
+
+[HEADER 00002F58]
+You have what you need to open the safe in the state room.
+
+[HEADER 00002F62]
+Remember the key you got from the pouch in the café? Use it on the slot by the safe.
+
+[HEADER 00002B48]
+How do I match up the pieces?
+
+[HEADER 00002B07]
+Try matching the vertical and horizontal edges first.
+
+[HEADER 00002B08]
+Look for the parts of a face and see if you can fit them together.
+
+[HEADER 00002B2A]
+How do I open the locks?
+
+[HEADER 00002AF9]
+Think ahead to the position the latch needs to be in, in order to work: you might be able to work out from that position which bars need to move and where...
+
+[HEADER 00002AFA]
+The makers of the lock inserted a special cheat.  If you are really stuck, then select the next hint to discover that cheat.
+
+[HEADER 00002AFB]
+Here's the cheat the lock-makers built into the system: Drag the stylus from top-left to bottom-right of the Touch Screen and the lock will spring open.
+
+[HEADER 00002AFC]
+Here's the cheat the lock-makers built into the system: Position the Pointer at the top-left of the screen, hold down the A button, then move the Pointer to the bottom-right of the screen and the lock will spring open.
+
+[HEADER 00002B3E]
+I'm having problems cracking this cipher.
+
+[HEADER 00002B03]
+Look for the one or two letter words and try out 'A' or 'I' or 'IN' or 'OF' or 'TO' or 'BY' etc.  If you guess right, then some of the 3 or 4 letter words will now become clear.
+
+[HEADER 00002B04]
+The letter 'E' is very common.  Find the most common glyph and try inserting an 'E' in its place.
+
+[HEADER 00002B05]
+The first word is PIERRE - that will give you four correct letters.
+
+[HEADER 00002B06]
+The first words are PIERRE. FULL REPORT TO FOLLOW.
+
+[HEADER 0000138C]
+Using a boat ticket on a latch? It would just bend.
+
+[HEADER 0000138D]
+I toyed with the idea of using the paint as a lubricant.
+
+[HEADER 0000138E]
+But what an obscure and contrived solution that would be!
+
+[HEADER 0000138F]
+I wasn't going to smash a priceless artefact into a fence.
+
+[HEADER 00001390]
+The old fence-picking trick? Maybe not.
+
+[HEADER 00001426]
+The gate was loose but one bolt still kept it locked.
+
+[HEADER 0000138A]
+Strange... The fence had locks holding it firmly in place.
+
+[HEADER 0000138B]
+I tried pushing the fence but it wouldn't move.
+
+[HEADER 00001770]
+A strange pair of locks stopped the latches from releasing the gate.
+
+[HEADER 0000145A]
+For a room full of junk that was one very sophisticated lock system.
+
+[HEADER 00000D03]
+This place was definitely fishy. In more ways than one.
+
+[HEADER 0000139C]
+It was almost as if the fence was intended to double as a bridge.
+
+[HEADER 0000139D]
+I really didn't want to pull the fence back up and risk trapping myself in this place.
+
+[HEADER 00001392]
+This fence was a permanent fixture.
+
+[HEADER 00001479]
+This fence wouldn't move either.
+
+[HEADER 00001393]
+The fence wouldn't move.
+
+[HEADER 00001397]
+An old boyfriend of mine owned a barge once. Dampest relationship I ever had. In every way...
+
+[HEADER 0000139F]
+Mystery solved. Carchon's stone cylinder slotted into the hole...
+
+[HEADER 000013A0]
+...with a satisfying click.
+
+[HEADER 000013A2]
+The words "sinister" and "dexter" were carved on either side.
+
+[HEADER 000013A3]
+Now, any good convent girl like me knows the old Roman for left, right, left, right.
+
+[HEADER 000013A4]
+But what did it mean here?
+
+[HEADER 00001E7E]
+I'd already unlocked the door.
+
+[HEADER 0000139E]
+A rough hole was cut into the pillar.
+
+[HEADER 000013A1]
+Carchon's cylinder had fitted snugly into the hole.
+
+[HEADER 00001E7F]
+I removed the stone cylinder.
+
+[HEADER 00001394]
+The cross looked familiar. I'd seen it before.
+
+[HEADER 00001395]
+It was embroidered on the lace cloth I'd picked up at Carchon's apartment.
+
+[HEADER 00001396]
+I knew I was on the right track.
+
+[HEADER 000013A5]
+The hole was too small even for my little hand...
+
+[HEADER 0000141E]
+I couldn't get my hand in.
+
+[HEADER 0000176F]
+Puzzle cheated! :)
+
+[HEADER 000013B7]
+So. A stone door.
+
+[HEADER 000013B8]
+There had to be a mechanism to open it.
+
+[HEADER 000013B9]
+No handle. Nothing obvious. But there had to be a way to open it.
+
+[HEADER 00000D12]
+With nothing to hold it up, the cross dropped back down again.
+
+[HEADER 000013BA]
+Ut lex vel ut nex summitto. "To the Law or unto Death, Submit".
+
+[HEADER 00000CF6]
+I guess these people didn't believe in Liberté, Égalité, or Fraternité.
+
+[HEADER 000013BB]
+Yes, I'll admit it. I was a swot at school. I also wore lipstick and the nuns never knew.
+
+[HEADER 000013B2]
+It was an old shell case.
+
+[HEADER 000013B3]
+Probably from the 50s.
+
+[HEADER 000013B4]
+I knew what I was talking about. I grew up watching war movies.
+
+[HEADER 000013B5]
+An old shell case. I wondered what that was doing there.
+
+[HEADER 000013BD]
+The stone slab had flattened one end of the shell case.
+
+[HEADER 000013BC]
+A brass shell case versus a stone slab contest.
+
+[HEADER 000013C3]
+The Cross was firmly propped up.
+
+[HEADER 000013C6]
+The cylinder was doing a fine job of propping up the cross.
+
+[HEADER 000014BE]
+This wouldn't hold the cross up.  But I was on the right track.
+
+[HEADER 000014BF]
+I needed to use something sturdier.
+
+[HEADER 0000141F]
+The stone cross was propped up. Now I was getting somewhere.
+
+[HEADER 000013C5]
+The Cross didn't need to be propped up.
+
+[HEADER 00001429]
+I removed the shell case.
+
+[HEADER 0000142B]
+The Cross didn't drop back down. Some kind of mechanism was holding it up.
+
+[HEADER 0000142A]
+I took the stone cylinder.
+
+[HEADER 000013C0]
+Oh my God!
+
+[HEADER 000013C1]
+The slab came down with a hell of a force.
+
+[HEADER 000013C2]
+Lifting the cross closed the entrance door. And also opened some kind of stone panel. Ingenious!
+
+[HEADER 0000145F]
+If I was going to get a closer look at the panel, I'd have to find a way of keeping the cross up.
+
+[HEADER 000013CB]
+I wasn't going to risk damaging the artefact.
+
+[HEADER 000013CC]
+No sign of any mechanism to poke. I had to think of a better way to open it.
+
+[HEADER 000013CD]
+I couldn't see a gap to insert it.
+
+[HEADER 000013D2]
+The artefact slotted into the hole perfectly.
+
+[HEADER 00001464]
+Behind the old walls I could hear some kind of mechanism groaning into life.
+
+[HEADER 000013D3]
+But whatever had been triggered, had now jammed.
+
+[HEADER 000013D5]
+Even partially flattened, the shell case was still too wide.
+
+[HEADER 000013D6]
+The flattened lip of the shell case was too wide.
+
+[HEADER 000013D4]
+Shame. The shell case was too wide.
+
+[HEADER 000013C9]
+The panel was firmly closed.
+
+[HEADER 00001421]
+While Carchon's stone cylinder was in the hole...
+
+[HEADER 00001422]
+...the door back out remained closed.
+
+[HEADER 000013CE]
+A round slot precisely carved into the stonework.
+
+[HEADER 000013CA]
+The panel wouldn't move.
+
+[HEADER 000013CF]
+I touched the slot. Nothing bad happened.
+
+[HEADER 000013D0]
+Which was good. I've always been attached to my fingers.
+
+[HEADER 000013D1]
+This slot was designed for something specific - but what?
+
+[HEADER 000013DF]
+A door made out of stone.
+
+[HEADER 000013E0]
+They normally are.
+
+[HEADER 000013E1]
+No way would I be able to force the door open.
+
+[HEADER 000014C0]
+I was going to need something a lot stronger than a hairclip to free the door.
+
+[HEADER 000013DD]
+The gap was too narrow - I needed something flatter to work into it.
+
+[HEADER 00001450]
+I needed a gap for leverage.
+
+[HEADER 000013DE]
+Another good use for a shell case.
+
+[HEADER 00001469]
+Another secret room.  Somebody had something to hide. But was it what I was looking for?
+
+[HEADER 000013D7]
+A hidden door - this was getting interesting. Shame the mechanism jammed.
+
+[HEADER 000013D8]
+I was going to have to find a way to prise it open...
+
+[HEADER 000013D9]
+A secret door camouflaged in the stonework. Clever.
+
+[HEADER 000013DA]
+The gap was too thin for me to get a grip.
+
+[HEADER 000013DB]
+I needed something thin enough to prise the door open.
+
+[HEADER 000013DC]
+The slab was way too heavy for me to lift.
+
+[HEADER 000013E4]
+It was an old circuit breaker.  Like something from a Frankenstein movie.
+
+[HEADER 00001427]
+Amazing!  The thing still worked - the room lit up bright as day.
+
+[HEADER 00001473]
+That was more sensible.
+
+[HEADER 0000146E]
+Turning the lights off wasn't going to help.
+
+[HEADER 000013E5]
+The desks were covered with a layer of dust. No one had worked here for years.
+
+[HEADER 00001478]
+I wasn't going to find anything in this old desk - it hadn't been used for years.
+
+[HEADER 000013E6]
+The flags had faded, but their message was still pretty clear.
+
+[HEADER 000013E7]
+Fascist regalia. A message of hate.
+
+[HEADER 000013E8]
+It was pretty clear from the lack of dust that someone had been working very recently at this desk...
+
+[HEADER 000013E9]
+The dregs at the bottom of the mug hadn't dried out - or gone mouldy.
+
+[HEADER 000013EA]
+It wasn't more than a day old.
+
+[HEADER 000013EB]
+The congealed coffee wasn't appealing.
+
+[HEADER 000013F0]
+Oh my God!
+
+[HEADER 000013F1]
+The sheet was a printout with my personal information. Everything from my favourite food to my waist size.
+
+[HEADER 00000CFA]
+They were right about chocolate. But come on guys - I'm a size ten...
+
+[HEADER 000013F2]
+There was even a picture of me taken with a telephoto lens.
+
+[HEADER 000013F3]
+Carchon wouldn't have taken these pictures himself. This was big. And organised.
+
+[HEADER 00000D0E]
+I was a part of it. And people were getting murdered...
+
+[HEADER 000013F4]
+One thing was clear: someone connected to Carchon had been watching me.
+
+[HEADER 000013EC]
+This was the article I'd written about the Costume Killer. My suspicions were right.
+
+[HEADER 00000D0F]
+Carchon had cut it out.
+
+[HEADER 000013ED]
+Two businessmen had been killed - one in Italy, one in Japan. In each case the killer had worn a costume -
+
+[HEADER 00000CF8]
+a penguin and then a snowman. But that wasn't the only link between the two murders.
+
+[HEADER 000013EE]
+Both the victims had been big media do-gooders. And I'd proved they were just the opposite.
+
+[HEADER 00000CF9]
+So how did they fit in with Carchon?
+
+[HEADER 000013EF]
+My articles about the Costume Killer.
+
+[HEADER 00001410]
+I had enough for a story.  An amazing story that was going to make my reputation -
+
+[HEADER 00000D01]
+and blow Carchon's to pieces. I needed to get home fast - and start typing.
+
+[HEADER 000013F6]
+Inside the drawer I found a note written in some kind of code.
+
+[HEADER 000013F5]
+It was a drawer - I wondered what was inside.
+
+[HEADER 000013F7]
+There was nothing else in the drawer.
+
+[HEADER 000013F9]
+A gaping, drawer-less void.
+
+[HEADER 000013FA]
+A photo, long lost had fallen down the back of the drawer.
+
+[HEADER 000013FB]
+It was very old, but there was no mistaking the guy in the foreground: Carchon.
+
+[HEADER 000013FC]
+Behind him were soldiers, a burning village - and a corpse.
+
+[HEADER 000013FD]
+The photograph was cropped on the right hand side.
+
+[HEADER 00000CFB]
+Somebody else in the picture obviously didn't want to be in it any more...
+
+[HEADER 000013FE]
+I wasn't surprised.  This was Africa in the sixties. An uprising was being brutally suppressed.
+
+[HEADER 00000CFC]
+And here was Mister Media himself, Carchon - doing the suppressing.
+
+[HEADER 000013FF]
+The photograph was not just powerful evidence. It was also my ticket to one explosive story...
+
+[HEADER 00001400]
+But there had to be more for me to discover.
+
+[HEADER 00000D10]
+Damn!
+
+[HEADER 00000D11]
+Don't you just hate it when that happens?
+
+[HEADER 000013F8]
+The drawer had come out easily enough, but wouldn't fit back into place.
+
+[HEADER 00001412]
+This is where all the dirt was being kept.
+
+[HEADER 00001402]
+Lady Justice stared out from a stone door which was locked and reinforced with steel bands.
+
+[HEADER 00001403]
+A door like that always has something important behind it - I had to find a way to unlock it.
+
+[HEADER 00001406]
+Plantard's key fitted the lock.
+
+[HEADER 00001407]
+So he must have used this place too.
+
+[HEADER 00001404]
+A slot next to the safe door. All I had to do was find something to fit into it.
+
+[HEADER 00001405]
+It was like being back in kindergarten - all I needed now was a shape that would fit the slot...
+
+[HEADER 00000BC7]
+That wasn't going to help...
+
+[HEADER 00001413]
+The folders were empty. Someone had removed anything that they thought could be incriminating.
+
+[HEADER 00001414]
+A photograph had been torn up.
+
+[HEADER 00001415]
+If I could just arrange the pieces...
+
+[HEADER 0000142C]
+Papa!
+
+[HEADER 00001416]
+Oh God.
+
+[HEADER 00001417]
+After what I'd gone through, I thought I could face anything.
+
+[HEADER 00001418]
+But not this.  My father - the one person in the whole world who I truly admired -
+
+[HEADER 00000D02]
+standing with Carchon while those murderers carried on with their evil work...
+
+[HEADER 00001419]
+My father - grinning at the camera. I couldn't believe it.
+
+[HEADER 0000141A]
+I realised that I desperately needed to get to the bottom of this story - and that I really needed George...
+
+[HEADER 0000140F]
+I wasn't leaving yet - I had a hunch there was more to find.
+
+[HEADER 00001411]
+I had come back specifically to find out more - I wasn't leaving empty handed.
+
+[HEADER 00001423]
+Wow.
+
+[HEADER 00001424]
+Through the darkness I could see that this was a state room - but for what purpose?
+
+[HEADER 00001425]
+And how did it tie in with Carchon?
+
+[HEADER 00001388]
+Carchon wasn't the type for messing about on the river.
+
+[HEADER 00001389]
+He was up to something down here.  Something that got him killed...
+
+[HEADER 00001398]
+The Conciergerie - former royal palace, prison, and law courts.
+
+[HEADER 00001399]
+And also home to the busiest guillotine in the French Revolution.
+
+[HEADER 000013B0]
+The skiff hadn't been touched for years.
+
+[HEADER 00001428]
+I've got an exercise bike just like that.
+
+[HEADER 000013B1]
+I'd wrecked the skiff - not that it was particularly seaworthy anyway.
+
+[HEADER 000013AE]
+Oops!
+
+[HEADER 000013AF]
+Moving the skiff would only damage it more.
+
+[HEADER 00000045]
+Uh... no.
+
+[HEADER 000013A8]
+Another click, another step closer.
+
+[HEADER 00001E7A]
+I made a mistake - the lock re-set.
+
+[HEADER 00001E7B]
+Oh, no!  I had to start again...
+
+[HEADER 00001E7D]
+Nothing happened.
+
+[HEADER 00001E7C]
+I love the sound of locks clicking open...
+
+[HEADER 000013A9]
+I always knew I'd make a good safe-cracker.
+
+[HEADER 000013AA]
+Yup!
+
+[HEADER 000013A7]
+A satisfying click told me I'd turned it to the right position. It felt like... tumblers in a safe...
+
+[HEADER 00001E78]
+I must have made a mistake - the mechanism re-set.
+
+[HEADER 00001E79]
+Damn!  I'd got it wrong again...
+
+[HEADER 00001E8C]
+It was the old boathouse for the Conciergerie.
+
+[HEADER 00001E8D]
+If I was right about the meaning of Sub-Judice...
+
+[HEADER 00001E8E]
+...then the answer had to lie somewhere here on the quayside.
+

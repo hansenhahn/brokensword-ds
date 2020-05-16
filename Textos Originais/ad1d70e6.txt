@@ -1,0 +1,198 @@
+[HEADER 000030D4]
+The window is far too high to reach.
+
+[HEADER 000030DE]
+The statue has rungs - vaguely like a ladder.
+
+[HEADER 000030E8]
+You'll need to release the statue.
+
+[HEADER 000030F2]
+Unhook both wires, and then push the statue against the wall.
+
+[HEADER 000030FC]
+Imelda's dead - what should I do?
+
+[HEADER 00003106]
+Around her neck is a locket - what secret could it hold?
+
+[HEADER 00003110]
+Open the locket and take the key.
+
+[HEADER 00002337]
+Now I'd got this far, I wasn't giving up. I had to find a way in.
+
+[HEADER 00002331]
+It was held in place by wires. Hmm, maybe it wasn't art after all. Maybe it was a cellphone transmitter?
+
+[HEADER 00002332]
+People say "what's the point of modern art". I say - isn't it obvious?
+
+[HEADER 00002333]
+If I could deconstruct this I could deconstruct anything.
+
+[HEADER 00002330]
+Fixed tight. Presumably to stop critics stealing it. Who else would want to?
+
+[HEADER 00002338]
+It was a long way down.
+
+[HEADER 00002336]
+Definitely an improvement. Now the piece really spoke to me. I think it said: I have fallen over.
+
+[HEADER 00000045]
+Uh... no.
+
+[HEADER 0000232C]
+A hairclip to pick a high security lock? It might work in a movie, but not for me...
+
+[HEADER 0000232A]
+Carchon's front door. There was a fresh scratch on the paint.
+
+[HEADER 0000251E]
+The kind that's left when someone's picked the lock...
+
+[HEADER 0000232B]
+If I was right - Imelda was getting a lesson from a mime artist.
+
+[HEADER 0000251F]
+And it wasn't the old moving staircase routine...
+
+[HEADER 00002329]
+Hmm. Locked. No way was I going to break through a door like this.
+
+[HEADER 00002328]
+I arrived to find the Palais Royale courtyard deserted. I only hoped that I had beaten the assassin here.
+
+[HEADER 0000251D]
+I had to warn Imelda before it was too late.
+
+[HEADER 0000235F]
+A door bell.
+
+[HEADER 0000232F]
+A button - which didn't work...
+
+[HEADER 0000232D]
+The intercom system wasn't working.
+
+[HEADER 0000232E]
+Bad sign. Somebody had cut the wire...
+
+[HEADER 00002335]
+LINE '9013' MISSING FROM MASTER LANGUAGE.TXT
+
+[HEADER 00002334]
+Just your average modern art retaining wire.
+
+[HEADER 0000238E]
+I released the second wire...
+
+[HEADER 0000238C]
+Even with both wires removed the statue remained upright...
+
+[HEADER 0000238D]
+I unhooked the first wire...
+
+[HEADER 0000233C]
+The window had been repaired with industrial plastic sheeting.
+
+[HEADER 0000233B]
+The plastic sheet was thick and strong - I'd need more than my hands to tear it.
+
+[HEADER 00002339]
+If only I could get up to the window...
+
+[HEADER 0000233A]
+That broken window looked like the best way in.
+
+[HEADER 0000233D]
+Now that's what I call modern art.
+
+[HEADER 0000233E]
+My God. I'm too late.
+
+[HEADER 0000233F]
+Imelda. Oh no...
+
+[HEADER 00002340]
+Nico...?
+
+[HEADER 00002341]
+Don't worry, you're going to be all right.
+
+[HEADER 00002342]
+You know that isn't true.
+
+[HEADER 00002343]
+It was Moerlin, wasn't it?
+
+[HEADER 00002344]
+Dressed as a cavalier. How absurd!
+
+[HEADER 00002345]
+You came to warn me, didn't you?
+
+[HEADER 00002346]
+I must be crazy.
+
+[HEADER 00002347]
+Let me see you, Nicole...
+
+[HEADER 00002348]
+All this time you were just using me. Which one is the real Imelda?
+
+[HEADER 00002349]
+You are an extraordinary girl. Thierry would have been so proud of you.
+
+[HEADER 0000234A]
+You didn't know my father -
+
+[HEADER 0000234B]
+So like him... something about the eyes... I wish we'd had time to get to know each other -
+
+[HEADER 0000234C]
+She was gone. She'd cheated me, lied to me, used me. But why?
+
+[HEADER 0000234D]
+The killer had escaped into the night.
+
+[HEADER 0000234E]
+LINE '9038' MISSING FROM MASTER LANGUAGE.TXT
+
+[HEADER 0000235D]
+Even in death Imelda looked the same. Beautiful. Inscrutable. The Ice Queen alone in her Ice Palace.
+
+[HEADER 0000235B]
+Around her neck was a locket.
+
+[HEADER 0000235C]
+I opened it - inside was a tiny gold key.
+
+[HEADER 0000235E]
+I had to leave. I knew I could never return.
+
+[HEADER 0000234F]
+The Carchons in happier days. Well, before they were both assassinated, at least.
+
+[HEADER 00002356]
+A beautiful fireplace - though I doubt the Carchons used to cuddle up in front of it with a TV dinner.
+
+[HEADER 00002357]
+Climbing up the fireplace would be futile.
+
+[HEADER 00002358]
+I really had better things to do.
+
+[HEADER 0000235A]
+I was pretty sure the killer had gone.
+
+[HEADER 00002521]
+And unless he'd brought the next costume with him I was safe for the time being.
+
+[HEADER 00002359]
+No point in leaving without checking for clues. I was learning fast - every stiff has a silver lining.
+
+[HEADER 00002360]
+I took the key.
+

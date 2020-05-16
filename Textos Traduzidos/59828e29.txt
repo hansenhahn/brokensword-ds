@@ -1,0 +1,5303 @@
+# Broken Sword - Shadow of the Templars (Director's Cut)
+# Versão do Script: 09.12
+[HEADER 00002F6C]
+#I can't get the door to Nico's apartment to open.
+Eu não consigo abrir a porta do apartamento da Nico.
+
+[HEADER 00002F76]
+#Maybe there's somebody in the street who could help.
+Talvez haja alguém na rua que possa ajudar.
+
+[HEADER 00002F80]
+#Chat to the flower seller about Nico.
+Converse com a florista sobre a Nico.
+
+[HEADER 000032C8]
+#I have talked to Nico but don't know how to progress.
+Eu conversei com a Nico, mas não sei como progredir.
+
+[HEADER 000032D2]
+#Try showing the clown's nose to Nico.
+Tente mostrar o nariz de palhaço à Nico.
+
+[HEADER 000032DC]
+#I need to know more about the clown.
+Eu preciso saber mais sobre o palhaço.
+
+[HEADER 000032E6]
+#You know that the clown was wearing clothing with a distinct pattern - try showing the scrap of material to Nico.
+Você sabe que o palhaço vestia roupas com uma estampa distinta. Tente mostrar o pedaço de tecido à Nico.
+
+[HEADER 000B000F]
+#It was an antique phonograph, the kind you have to wind by hand.
+Era um fonógrafo antigo, ainda da época em que tinha que girar manualmente.
+
+[HEADER 000B0000]
+#The guys spoon-shaped face was mournful and humourless.
+O cara com o rosto no formato de colher estava triste e desanimado.
+
+[HEADER 000B0001]
+#He looked like a vegetarian in a slaughter-house.
+Ele parecia um vegetariano em um açougue.
+
+[HEADER 000B0010]
+#Excuse me...
+Com licença...
+
+[HEADER 000B0012]
+Bonjour, m'sieur!
+
+[HEADER 000B0013]
+#Please - come in, welcome.
+Bem vindo! Por favor, entre.
+
+[HEADER 000B0014]
+#Leave the mundane world behind for in these four walls - fantasy is king!
+Deixe o mundo mundano para fora destas quatro paredes. Fantasia é o que há!
+
+[HEADER 000B0015]
+#I don't want a costume.
+Eu não quero uma fantasia.
+
+[HEADER 000B0016]
+#Didn't you ever dress up when you were a child?
+Você nunca se fantasiou quando era uma criança?
+
+[HEADER 000B0017]
+#Not that I remember.
+Não que eu me lembre.
+
+[HEADER 000B0018]
+#Incredible!
+Inacreditável!
+
+[HEADER 000B0019]
+#You'll be telling me next that you never shared your elder sister's lingerie!
+Só falta você me dizer que nunca usou a lingerie da sua irmã mais velha!
+
+[HEADER 000B001A]
+#I don't have a sister, and I'd look silly in a brassiere.
+Não tenho irmã, e eu iria parecer um imbecil usando sutiã.
+
+[HEADER 000B001B]
+#I just need some information.
+Eu só preciso de algumas informações.
+
+[HEADER 000B001C]
+#Of course. How can I help you?
+Claro. Como posso ajudá-lo?
+
+[HEADER 000B001D]
+Oui, m'sieur?
+
+[HEADER 000B001E]
+#I'm looking for a man who hired a clown costume from you...
+Estou procurando por um homem que alugou uma fantasia de palhaço sua...
+
+[HEADER 000B001F]
+#That man whose photograph you showed me, he hired two costumes!
+Aquele homem na fotografia que você me mostrou, ele alugou duas fantasias!
+
+[HEADER 000B0020]
+#Two?
+Duas?
+
+[HEADER 000B0021]
+#Yes - Bozo the clown and Seamus the Pixie.
+Sim: Bozo, o Palhaço e Seamus, o Duende.
+
+[HEADER 000B0022]
+#What was his name?
+Qual era o nome dele?
+
+[HEADER 000B0023]
+#Khan. A Middle-Eastern man, I would think.
+Khan. Um homem do Oriente Médio, eu acho.
+
+[HEADER 000B0024]
+#And did he have the scar on his face?
+E ele tinha uma cicatriz no rosto?
+
+[HEADER 000B0025]
+#That's right. In the shape of a crescent moon...
+Isso mesmo. No formato de uma lua crescente...
+
+[HEADER 000B0026]
+#Oui, m'sieur? I do not see how I can help.
+Oui, m'sieur? Não vejo como posso ajudar.
+
+[HEADER 000B0027]
+#Don't you keep a record of costumes that you've rented out?
+Você não mantém um registro das fantasias que alugou?
+
+[HEADER 000B0028]
+#Of course, m'sieur, but....
+Claro, m'sieur, mas...
+
+[HEADER 000B0029]
+#Well, then - I'd like you to check your records.
+Bem, então... quero que verifique seus registros.
+
+[HEADER 000B002A]
+#Give me the names of everyone who has rented a clown suit.
+Me dê os nomes de todos que alugaram uma fantasia de palhaço.
+
+[HEADER 000B002B]
+#Impossible! There are too many!
+Impossível! São muitos!
+
+[HEADER 000B002C]
+#The clown I'm looking for is a cold-blooded killer.
+O palhaço que estou procurando é um assassino de sangue frio.
+
+[HEADER 000B002D]
+#Give me his name, and I'll see he's brought to justice.
+Me dê o nome dele, e verei ele ser trazido à justiça.
+
+[HEADER 000B002E]
+#I'd help you if I could, but you can't expect me to remember all my customers.
+Eu ajudaria se pudesse, mas você não pode esperar que me lembre de todos meus clientes.
+
+[HEADER 000B002F]
+#You see, the clown costume is our most popular line, m'sieur.
+Veja, a fantasia de palhaço é a nossa linha mais popular, m'sieur.
+
+[HEADER 000B0030]
+#On average, we hire out more than thirty clown suits a week.
+Em média, nós alugamos mais de trinta fantasias de palhaço por semana.
+
+[HEADER 000B0031]
+#You'll have to give me more to go by. A description, per'aps?
+Você precisa me dar mais detalhes. Uma descrição, quem sabe?
+
+[HEADER 000B0032]
+#How come clowns are so popular?
+Como palhaços se tornaram tão popular?
+
+[HEADER 000B0033]
+#I think it has something to do with their unpredictable nature.
+Acho que tem algo haver com a natureza imprevisível deles.
+
+[HEADER 000B0034]
+#Personally, I think clowns should be banned, along with mimes.
+Pessoalmente, acho que os palhaços deviam ser banidos, junto com os mímicos.
+
+[HEADER 000B0035]
+#Oh, come now - who doesn't love clowns?
+Ah, qual é. Quem não ama palhaços?
+
+[HEADER 000B0036]
+#Me, for one.
+Eu sou um.
+
+[HEADER 000B0037]
+#Have you heard of a man named Plantard?
+Já ouviu falar de alguém chamado Plantard?
+
+[HEADER 000B0038]
+#I do not recall anyone of that name.
+Eu não me lembro de ninguém com esse nome.
+
+[HEADER 000B0043]
+#Do you want this red nose back?
+Você quer este nariz vermelho de volta?
+
+[HEADER 000B0044]
+#Not after it's been worn, thank you.
+Não depois de ter sido usado, obrigado.
+
+[HEADER 000B0045]
+#What does this tool mean to you?
+O que esta ferramenta significa para você?
+
+[HEADER 000B0046]
+#Nothing, m'sieur.
+Nada, m'sieur.
+
+[HEADER 000B003D]
+#Do you want this buzzer back?
+Você quer este aparelhinho de choque de volta?
+
+[HEADER 000B003E]
+#No - you keep it.
+Não, fique com ele.
+
+[HEADER 000B003B]
+#What does this key mean to you?
+O que esta chave significa para você?
+
+[HEADER 000B003C]
+#I don't recognise it.
+Eu não reconheço ela.
+
+[HEADER 000B003F]
+#What would you give me for this ball?
+O que você me daria por esta bola?
+
+[HEADER 000B0040]
+#Ten sous.
+Dez sous.
+
+[HEADER 000B0041]
+#Oh. That's not much, is it?
+Ah. Isso não é muito, é?
+
+[HEADER 000B0042]
+#It's not much of a ball.
+Não é uma grande bola.
+
+[HEADER 000B0047]
+#Do you recognize this cloth?
+Você reconhece este tecido?
+
+[HEADER 000B0048]
+Oui.
+
+[HEADER 000B0049]
+#You do?
+Conhece?
+
+[HEADER 000B004A]
+Mais oui!
+
+[HEADER 000B004B]
+#It is the same as the suit which Monsieur Khan was wearing.
+É o mesmo tecido da roupa que o Monsieur Khan estava vestindo.
+
+[HEADER 000B004C]
+#I served a man wearing a suit made from the same material.
+Eu atendi um homem vestindo uma roupa feita do mesmo tecido.
+
+[HEADER 000B004D]
+#Do you remember his name?
+Você lembra do nome dele?
+
+[HEADER 000B004E]
+Non.
+
+[HEADER 000B0051]
+#Are you sure this is the man who bought greasepaint?
+Você tem certeza que este é o homem que comprou maquiagem de teatro?
+
+[HEADER 000B0052]
+Oui, m'sieur.
+
+[HEADER 000B004F]
+#Are you sure this is the same man who hired the clown suit?
+Você tem certeza que este é o mesmo homem que alugou a roupa de palhaço?
+
+[HEADER 000B0050]
+#Certainement - Monsieur Khan.
+Certainement. Monsieur Khan.
+
+[HEADER 000B0053]
+#Do you recognize this man?
+Você reconhece este homem?
+
+[HEADER 000B0059]
+Oui, m'sieur.
+
+[HEADER 000B005C]
+#I sold him some greasepaint.
+Eu vendi a ele um pouco de maquiagem de teatro.
+
+[HEADER 000B0054]
+#Ah, oui! He was here this morning.
+Ah, oui! Ele esteve aqui nesta manhã.
+
+[HEADER 000B005A]
+#That is the man to whom I sold the greasepaint.
+Este é o homem para quem eu vendi a maquiagem de teatro.
+
+[HEADER 000B005B]
+#I remember the scar on his face.
+Me lembro da cicatriz em seu rosto.
+
+[HEADER 000B0055]
+#He chose two costumes: Bozo the Clown, and Seamus the Pixie.
+Ele escolheu duas fantasias: Bozo, o Palhaço, e Seamus, o Duende.
+
+[HEADER 000B0056]
+#A pixie?
+Um duende?
+
+[HEADER 000B0057]
+#Very smart. Green silk with a taffeta lining.
+Muito esperto. Seda verde com forro de tafetá.
+
+[HEADER 000B0058]
+#He gave me his name as Monsieur Khan.
+Ele me deu seu nome como sendo Monsieur Khan.
+
+[HEADER 000B005D]
+#Does this dirty tissue mean anything to you?
+Este lenço sujo significa algo para você?
+
+[HEADER 000B005E]
+#Hmm! Let me smell that...
+Hmm! Deixe-me cheirá-lo...
+
+[HEADER 000B005F]
+#Bestheimer's number seven, white pancake.
+Bestheimer Número 12, base branca.
+
+[HEADER 000B0060]
+#Theatrical greasepaint, right?
+Maquiagem de teatro, certo?
+
+[HEADER 000B0061]
+#Oui, m'sieur. La crème de la crème of thespian accoutrement.
+Oui, m'sieur. La crème de la crème dos acessórios tespianos.
+
+[HEADER 000B0062]
+#Have you sold any of it recently?
+Você vendeu um desses recentemente?
+
+[HEADER 000B0063]
+#Yes. Two cans.
+Sim. Duas latas.
+
+[HEADER 000B0064]
+#About this tissue...
+Sobre este lenço...
+
+[HEADER 000B0065]
+#I have already given you my professional opinion.
+Eu já lhe dei minha opinião profissional.
+
+[HEADER 000B0039]
+#Thanks for your help, buddy...
+Obrigado pela sua ajuda, parceiro...
+
+[HEADER 000B003A]
+#My pleasure, m'sieur.
+Foi um prazer, m'sieur.
+
+[HEADER 000B0066]
+#Allow me to shake you by the hand...
+Deixe-me apertar sua mão...
+
+[HEADER 000B0067]
+#Huh? Well... okay.
+Hã? Bem... tá.
+
+[HEADER 000B0068]
+#What are you trying to do - kill me?
+O que está tentando fazer? Me matar?
+
+[HEADER 000B0069]
+#You did not find it amusing?
+Você não achou isso engraçado?
+
+[HEADER 000B006A]
+#I never saw the funny side of electro-shock therapy.
+Eu nunca vi o lado engraçado da terapia de eletrochoque.
+
+[HEADER 000B006B]
+#Eh bien - it is yours to keep. A gift.
+Eh bien... Pegue, é seu. Um presente.
+
+[HEADER 000B006C]
+#Do I need a license?
+Preciso de uma autorização?
+
+[HEADER 000B006D]
+#Non, but I give you a word of warning, m'sieur...
+Non, mas lhe dou um aviso, m'sieur...
+
+[HEADER 000B006E]
+#What?
+O quê?
+
+[HEADER 000B006F]
+#Remember to switch it off before you visit the toilet.
+Lembre-se de desligá-lo antes de visitar o toalete.
+
+[HEADER 00090000]
+#The woman was doing something with a pair of needles that couldn't be described as knitting.
+A mulher estava fazendo algo com o par de agulhas que não podia ser descrito como tricotagem.
+
+[HEADER 00090001]
+#She was a cheery old soul, the kind you'd walk across the street to avoid.
+Ela era uma velha alma alegre, do tipo que você cruzaria a rua para evitar.
+
+[HEADER 00090015]
+#Oh hi!
+Ah, oi!
+
+[HEADER 00090017]
+Bonjour, m'sieur!
+
+[HEADER 00090018]
+#Would you like me to foretell your future?
+Você quer que eu preveja seu futuro?
+
+[HEADER 00090019]
+#Oh... no, thanks.
+Ah... não, obrigado.
+
+[HEADER 0009001A]
+#I'm very good, and it only takes a minute!
+Eu sou muito boa, e só leva alguns minutos!
+
+[HEADER 0009001B]
+#Thanks all the same, but I'm not superstitious.
+Obrigado mesmo assim, mas não sou supersticioso.
+
+[HEADER 0009001C]
+#Besides, if it only takes a minute, that's not much of a future to look forward to...
+Além do que, não há muito o que se prever se leva apenas alguns minutos...
+
+[HEADER 0009001D]
+#Bonjour, m'sieur! How's your girlfriend?
+Bonjour, m'sieur! Como vai a sua namorada?
+
+[HEADER 0009001E]
+#She's not my girlfriend.
+Ela não é minha namorada.
+
+[HEADER 0009001F]
+#Maybe not yet... but I see your paths entwined in the future.
+Talvez não ainda... mas vejo seus caminhos entrelaçando-se no futuro.
+
+[HEADER 00090020]
+#I doubt it.
+Eu dúvido.
+
+[HEADER 00090021]
+#Hallo, my handsome friend.
+Olá, meu belo amigo.
+
+[HEADER 00090022]
+#I've changed my mind. Will you tell my fortune?
+Mudei de ideia. Você pode me dizer meu futuro?
+
+[HEADER 00090023]
+#You're going on a long journey.
+Você está a caminho de uma longa jornada.
+
+[HEADER 00090024]
+#My, oh my. What a surprise.
+Oh, nossa! Que supresa.
+
+[HEADER 00090025]
+#Can you tell me anything I don't already know?
+Pode me dizer algo que eu ainda não saiba?
+
+[HEADER 00090029]
+#How does this fortune telling routine work?
+Como funciona esse negócio de ler a sorte?
+
+[HEADER 0009002A]
+#If I knew that I wouldn't be selling flowers for a living.
+Se eu soubesse, não estaria vendendo flores para sobreviver.
+
+[HEADER 0009002B]
+#Haven't you ever wondered why you were blessed with the gift?
+Você nunca se perguntou por que foi abençoada com esse dom?
+
+[HEADER 0009002C]
+#Well, it's a bit like satellite television I suppose.
+Bem, é algo como um satélite de televisão, eu acho.
+
+[HEADER 0009002D]
+#Some of us are born with a built-in receiver dish.
+Alguns de nós nascem com uma antena embutida.
+
+[HEADER 0009002E]
+#I just happen to be one of the lucky ones.
+Eu só tive a sorte de ser um desses sortudos.
+
+[HEADER 0009002F]
+#Can you really foretell the future?
+Você realmente pode prever o futuro?
+
+[HEADER 00090030]
+#Only time will tell, m'sieur!
+Apenas o tempo dirá, m'sieur!
+
+[HEADER 00090031]
+#The strange thing is, I can't seem to see myself in the future.
+O estranho é que eu não consigo ver o meu próprio futuro.
+
+[HEADER 00090032]
+#Other people - I have no problem.
+Com outras pessoas não tenho problema.
+
+[HEADER 00090033]
+#But when I try to see what might happen to me - nothing!
+Mas quando tento ver o que pode acontecer comigo... nada!
+
+[HEADER 00090034]
+#That must be scary.
+Isso deve ser assustador.
+
+[HEADER 00090035]
+#Maybe. I figure it's a kind of natural safety mechanism.
+Talvez. Penso que seja algum tipo de mecanismo natural de segurança.
+
+[HEADER 00090036]
+#Either that, or I don't have a future.
+Ou isso, ou eu não tenho futuro.
+
+[HEADER 00090037]
+#Do you know a young woman called Nicole Collard?
+Conhece uma jovem mulher chamada Nicole Collard?
+
+[HEADER 00090038]
+#Yes, I do!
+Claro!
+
+[HEADER 00090039]
+#She lives upstairs from me, in the apartment block across the street.
+Ela mora um andar acima do meu, no edifício do outro lado da rua.
+
+[HEADER 0009003A]
+#I tried the door, but it's locked.
+Eu tentei abrir a porta, mas ela está trancada.
+
+[HEADER 0009003B]
+#You know, I've told the landlord about that a million times!
+Sabe, eu já falei ao proprietário sobre isso milhões de vezes!
+
+[HEADER 0009003C]
+#It is the damp. That whole building is like a sponge!
+É a umidade. Aquele prédio inteiro mais parece uma esponja!
+
+[HEADER 0009003D]
+#It sucks up the moisture from God knows where.
+Ele absorve a umidade sabe-se Deus de onde.
+
+[HEADER 0009003E]
+#You mean the door is stuck because it's swollen?
+Quer dizer que a porta está emperrada porque ela está inchada?
+
+[HEADER 0009003F]
+#That is correct. There is an art to opening it.
+Isso mesmo. Há um certo truque para abri-la.
+
+[HEADER 00090040]
+#Don't shove it hard - just give it a gentle nudge above the lock!
+Não empurre-a com força, apenas dê uma cutucada de leve acima da fechadura!
+
+[HEADER 00090041]
+#Thanks for the advice...
+Obrigado pela dica...
+
+[HEADER 00090042]
+#The door isn't locked, but you'll need to give it a gentle nudge.
+A porta não está trancada, mas você precisa dar uma empurradinha de leve nela.
+
+[HEADER 00090043]
+#It sticks, you see - because of the damp.
+Ela está emperrada, como pode ver, por causa da umidade.
+
+[HEADER 00090044]
+#The landlord said he'd fix it before winter sets in.
+O proprietário disse que vai arrumá-la antes do inverno chegar.
+
+[HEADER 00090045]
+#He's been saying that for three years.
+Ele vem dizendo isso há três anos.
+
+[HEADER 00090046]
+#How long has Mademoiselle Collard lived here?
+Há quanto tempo a Mademoiselle Collard mora aqui?
+
+[HEADER 00090047]
+#A few months. She's in for a shock when the cold weather comes.
+Há poucos meses. Ela se assusta quando o inverno chega.
+
+[HEADER 00090048]
+#Drafty windows, insufficient heating - it's a struggle to keep warm.
+Janelas expostas ao ar frio, aquecimento insuficiente; é uma luta para manter o lugar quente.
+
+[HEADER 00090049]
+#The only reason I stay is because the rent is cheap.
+A única razão para eu permanecer aqui é por causa do aluguel barato.
+
+[HEADER 0009004A]
+#Your young lady - she deserves better.
+Sua jovem amiga, ela merece algo melhor.
+
+[HEADER 0009004B]
+#I thought Mademoiselle Collard was a successful photographer...
+Pensei que a Mademoiselle Collard fosse uma fotógrafa de sucesso...
+
+[HEADER 0009004C]
+#Not as successful as she makes out, for all her fine clothes.
+Não tanto sucesso quanto ela faz aparecer, para todas aquelas roupas finas dela.
+
+[HEADER 0009004D]
+#Oh, I've heard her crying herself to sleep at night.
+Ah, e já escutei ela chorando para dormir à noite.
+
+[HEADER 0009004E]
+#That's awful.
+Que triste.
+
+[HEADER 0009004F]
+#Now don't you let on that I've told you.
+Mas não deixe que ela saiba que lhe contei isso.
+
+[HEADER 00090050]
+#She's proud, that one - too proud, if you ask me.
+Ela é orgulhosa. Até demais, se quer saber.
+
+[HEADER 00090051]
+#Have you seen anyone out here, watching Mademoiselle Collard's apartment?
+Você viu alguém aqui fora, observando o apartamento da Mademoiselle Collard?
+
+[HEADER 00090052]
+#Yes, I have. A strange man, tall and thin as a broomstick.
+Sim. Um homem estranho, alto e magro como uma vassoura.
+
+[HEADER 00090053]
+#He kept his face hidden, but I saw his eyes, peering from evil little slits.
+Ele manteve seu rosto escondido, mas vi os seus olhos espreitando com aquele olhar malígno.
+
+[HEADER 00090054]
+#How was he dressed?
+Como ele estava vestido?
+
+[HEADER 00090055]
+#A long brown raincoat, with a hat.
+Uma longa capa de chuva marrom, com um chapéu.
+
+[HEADER 00090056]
+#Like Humphrey Bogart?
+Como o Humphrey Bogart?
+
+[HEADER 00090057]
+#Yes, but he didn't have Bogart's charisma.
+Sim, mas não tinha o carisma do Bogart.
+
+[HEADER 00090058]
+#Besides, this guy looked like he needed a toilet...
+Além do que, ele parecia precisar ir ao toalete...
+
+[HEADER 00090059]
+#You never saw Bogart clenching his buttocks like that!
+Você nunca viu o Bogart apertando as nádegas daquela maneira!
+
+[HEADER 00001E40]
+#Is there anything else you can tell me about Ms. Collard?
+Há mais alguma coisa que você pode me falar sobre a Ms. Collard?
+
+[HEADER 00090082]
+Non, m'sieur.
+
+[HEADER 0009005A]
+#Are the flowers for sale?
+As flores estão a venda?
+
+[HEADER 0009005B]
+Oui, m'sieur.
+
+[HEADER 0009005C]
+#Okay, I'll take a bunch of those white ones.
+Certo, vou levar um ramalhete dessas brancas.
+
+[HEADER 0009005D]
+#I wouldn't do that if I was you.
+Eu não faria isso se fosse você.
+
+[HEADER 0009005E]
+#No?
+Não?
+
+[HEADER 0009005F]
+#They are lilies, m'sieur.
+São lírios, m'sieur.
+
+[HEADER 00090060]
+#Some people associate them with death...
+Algumas pessoas as associam com a morte...
+
+[HEADER 00090061]
+#Yikes! Thanks for telling me.
+Credo! Obrigado pelo aviso.
+
+[HEADER 00090062]
+#What other flowers do you have?
+Que outras flores você tem?
+
+[HEADER 00090063]
+#Dahlias?
+Dálias?
+
+[HEADER 00090064]
+#What do they signify?
+O que elas significam?
+
+[HEADER 00090065]
+#Insecurity.
+Insegurança.
+
+[HEADER 00090066]
+#Hmm. I don't want to give her the wrong idea about me...
+Hmm. Não quero passar a ela uma ideia errada sobre mim...
+
+[HEADER 00090067]
+#What about the tall yellow ones?
+E aquelas amarelas grandes?
+
+[HEADER 00090068]
+#Those are iris, the flame of passion!
+Aquelas são íris, a chama da paixão!
+
+[HEADER 00090069]
+#And the little yellow ones?
+E as amarelas pequenas?
+
+[HEADER 0009006A]
+#Sensuality.
+Sensualidade.
+
+[HEADER 0009006B]
+#They're no use to me.
+Elas não me são úteis.
+
+[HEADER 0009006C]
+#I want to make an impression, not jump down her throat...
+Quero passar uma boa impressão, não pular na garganta dela...
+
+[HEADER 00090071]
+#Can you tell me anything about this security pass?
+Você pode me dizer algo sobre este crachá?
+
+[HEADER 00090072]
+#I can tell it doesn't belong to you...
+Posso dizer que ele não pertence a você...
+
+[HEADER 00090073]
+#How come?
+Como sabe?
+
+[HEADER 00090074]
+#Give me some credit!
+Seja honesto...
+
+[HEADER 00090075]
+#If you're an electrician, I'll eat my antirrhinums.
+Se você for um eletricista, eu como minhas flores.
+
+[HEADER 00090076]
+#You're a remarkably talented lady.
+Você é uma senhora muito talentosa.
+
+[HEADER 00090081]
+#Do you know anything about medieval manuscripts?
+Você sabe algo sobre manuscritos medievais?
+
+[HEADER 00090079]
+#Do you recognise this nose?
+Você reconhece este nariz?
+
+[HEADER 0009007A]
+Non, m'sieur.
+
+[HEADER 00090086]
+#What can you tell me about this material?
+O que pode me dizer sobre este tecido?
+
+[HEADER 00090087]
+#It's a very expensive piece of cloth, m'sieur.
+É um pedaço de tecido muito caro, m'sieur.
+
+[HEADER 00090088]
+#What can you tell me about this tissue?
+O que você pode me dizer sobre este lenço?
+
+[HEADER 00090089]
+#Nothing.
+Nada.
+
+[HEADER 0009007B]
+#What do you make of this tool?
+O que você acha desta ferramenta?
+
+[HEADER 0009007C]
+#Is it something a dentist would use?
+É algo que um dentista usaria?
+
+[HEADER 0009007D]
+#No. It's for raising manhole covers.
+Não. É para levantar tampas de bueiros.
+
+[HEADER 0009007E]
+#Formidable!
+Formidável!
+
+[HEADER 0009007F]
+#Did I show you this tool?
+Já lhe mostrei esta ferramenta?
+
+[HEADER 00090080]
+#Yes, my dear.
+Sim, querido.
+
+[HEADER 00090077]
+#What do you think of my ball?
+O que você acha da minha bola?
+
+[HEADER 00090078]
+#I'm picking up vibrations from it. That ball will travel far.
+Estou sentindo vibrações dela. Essa bola viajará para longe.
+
+[HEADER 00090094]
+#Does this powder mean anything to you?
+Este pó significa algo para você?
+
+[HEADER 00090095]
+#No, it doesn't.
+Não.
+
+[HEADER 00090096]
+#Do you know what this tripod was used for?
+Você sabe para que este tripé era usado?
+
+[HEADER 00090097]
+#I couldn't imagine.
+Não posso imaginar.
+
+[HEADER 0009009F]
+#Does this lens mean anything to you?
+Esta lente significa algo para você?
+
+[HEADER 000900A0]
+#No, it doesn't.
+Não.
+
+[HEADER 00090098]
+#What does this apparatus mean to you?
+O que este aparelho significa para você?
+
+[HEADER 00090099]
+#The last time I saw one of those I was about to go to the operating theatre...
+A última vez que eu vi um desses, eu estava indo à sala de operações...
+
+[HEADER 0009009A]
+#The doctor told me there was nothing to worry about.
+O doutor me disse que não havia nada para se preocupar.
+
+[HEADER 0009009B]
+#I laughed in his face.
+Eu ri na cara dele.
+
+[HEADER 0009009C]
+#How come?
+Por quê?
+
+[HEADER 0009009D]
+#I can see the future, remember?
+Eu posso ver o futuro, lembra?
+
+[HEADER 0009009E]
+#Don't remind me!
+Não me lembre!
+
+[HEADER 00090083]
+#Does this matchbook mean anything to you?
+Esta caixa de fósforos significa algo para você?
+
+[HEADER 00090084]
+#Non. But I can tell you one thing...
+Non. Mas eu posso lhe dizer uma coisa...
+
+[HEADER 00090085]
+#There's no such place as the Club Alamut in Paris.
+Não existe nenhum Club Alamut em Paris.
+
+[HEADER 0009008A]
+#Do you recognise the man in this photograph?
+Você reconhece o homem nesta fotografia?
+
+[HEADER 0009008B]
+#Ooh, what a hunk!
+Ui, que bonitão!
+
+[HEADER 0009008C]
+#He's a killer.
+Ele é um assassino.
+
+[HEADER 0009008D]
+#I can see that. His eyes say it all.
+Posso ver. Seus olhos dizem tudo.
+
+[HEADER 0009008E]
+#No, dear.
+Não, querido.
+
+[HEADER 0009008F]
+#What do you make of this gem?
+O que você acha desta gema?
+
+[HEADER 00090090]
+#Very nice, cherie.
+Muito bonita, cherie.
+
+[HEADER 00090091]
+#A present for your girlfriend?
+Um presente para a sua namorada?
+
+[HEADER 00090092]
+#She's not my girlfriend.
+Ela não é minha namorada.
+
+[HEADER 00090093]
+#Nonsense! You and her were made for each other.
+Besteira! Vocês foram feitos um para o outro.
+
+[HEADER 0009006F]
+#Would you like to shake my hand?
+Você gostaria de apertar minha mão?
+
+[HEADER 00090070]
+#No, I wouldn't. I can see the future, remember?
+Não. Eu posso ver o futuro, lembra?
+
+[HEADER 0009006D]
+#See you later...
+Vejo você outra hora...
+
+[HEADER 0009006E]
+#That's right, m'sieur - you will!
+Isso mesmo, m'sieur. Você verá!
+
+[HEADER 00090002]
+#The door was shabby and in need of a coat of paint.
+A porta estava surrada e precisava de uma pintura.
+
+[HEADER 00090003]
+#I couldn't imagine the Collard woman living here.
+Eu não podia imaginar a Collard vivendo aqui.
+
+[HEADER 00090004]
+#It was the door to Nico's apartment.
+Era a porta para o apartamento da Nico.
+
+[HEADER 00090005]
+#I pushed against the door, but it seemed to be locked.
+Eu a empurrei, mas parecia estar trancada.
+
+[HEADER 00090006]
+#Remembering the flower seller's advice, I pushed the door gently just above the lock...
+Lembrando da dica da florista, empurrei a porta de leve um pouco acima da fechadura...
+
+[HEADER 008101B5]
+#Hi.
+Oi.
+
+[HEADER 008101B7]
+#Bonjour! I'm glad you could make it, m'sieur...
+Bonjour! Fico feliz que tenha conseguido chegar, m'sieur...
+
+[HEADER 008101B8]
+#Please - call me George.
+Por favor, me chame de George.
+
+[HEADER 008101B9]
+#Fine. I'm Nicole. Take a seat, George...
+Certo. Sou Nicole. Sente-se, George...
+
+[HEADER 008101B6]
+#Oh, hello.
+Ah, olá.
+
+[HEADER 008101ED]
+#Did you see who planted the bomb?
+Você viu quem plantou a bomba?
+
+[HEADER 008101EE]
+#I know it sounds crazy, but he was dressed like a clown!
+Eu sei que parece loucura, mas ele estava fantasiado de palhaço!
+
+[HEADER 008101EF]
+#A clown? It's him again...
+Um palhaço? É ele de novo...
+
+[HEADER 008101BA]
+#Eh bien... and what have you been up to?
+Eh bien... e o que você tem feito?
+
+[HEADER 008101BB]
+#I've been exploring the sewers underneath the café.
+Estive explorando os esgotos embaixo do Café.
+
+[HEADER 008101BC]
+#I thought I could smell something bad.
+Eu sabia que tinha sentido um cheiro ruim.
+
+[HEADER 008101BD]
+#The clown used the sewer to escape, and to change out of his costume.
+O palhaço usou o esgoto para escapar e trocar sua roupa.
+
+[HEADER 008101BE]
+#I guess he was in a hurry. He left his jacket behind.
+Acho que estava com pressa. Ele acabou deixando sua jaqueta para trás.
+
+[HEADER 008101BF]
+#And?
+E?
+
+[HEADER 008101C0]
+#I got his tailor's phone number.
+Eu peguei o telefone do alfaiate dele.
+
+[HEADER 008101C2]
+#You had better luck than I did.
+Você teve mais sorte do que eu.
+
+[HEADER 008101C3]
+#Luck, she said. Luck! Hard work, I'd call it.
+Sorte, ela disse. Sorte! Trabalho duro, eu diria.
+
+[HEADER 008101C4]
+#What happened?
+O que aconteceu?
+
+[HEADER 00001E3C]
+#My editor told me to drop the story.  Can you believe it?
+Meu editor disse para eu esquecer esta história. Pode acreditar nisso?
+
+[HEADER 008101C7]
+#But you're not about to do that...
+Mas você não está pensando em fazer isso...
+
+[HEADER 008101C8]
+#Oh, no. I'm going to find out what's behind these killings.
+Ah, não. Vou descobrir o que está por trás dessas mortes.
+
+[HEADER 00001E3D]
+#It just doesn't add up.  It almost feels like some sort of conspiracy!
+Só que não há lógica nisso. Chega a parecer algum tipo de conspiração!
+
+[HEADER 008101CA]
+#The police in three different countries have kept very quiet about the murders.
+A polícia de três países diferentes tem se mantido muito quieta sobre os assassinatos.
+
+[HEADER 008101CB]
+#The press don't connect them at all.
+A imprensa não os associam de maneira alguma.
+
+[HEADER 008101CC]
+#They blame them on `political, religious or militant minority extremists.'
+Eles colocam a culpa em `extremistas políticos, religiosos ou terroristas.'
+
+[HEADER 008101CD]
+#That covers just about everyone...
+Isso pode significar qualquer um...
+
+[HEADER 00810255]
+#Tell me more about the clown's previous victims.
+Me fale mais sobre as vítimas anteriores do palhaço.
+
+[HEADER 00810256]
+#The first was Arno Bilotta, the millionaire pharmaceutical baron.
+O primeiro foi Arno Bilotta, o magnata da indústria farmacêutica.
+
+[HEADER 00810257]
+#He made his money from amphetamines, in the post-war slimming and diet boom.
+Ele fez dinheiro com anfetaminas no pós-guerra, quando houve um aumento na busca pelo emagrecimento e dietas.
+
+[HEADER 00810258]
+#Imagine it! Millions of housewives, literally speeding their butts off!
+Imagine! Milhões de donas de casa, literalmente com a bunda arrebitada!
+
+[HEADER 0081025B]
+#The only witness in the case was his Filipino au pair.
+A única testemunha do caso foi uma empregada filipina.
+
+[HEADER 0081025C]
+#She swears he was lured to his death by a snowman.
+Ela jura que ele foi levado à morte por um boneco de neve.
+
+[HEADER 0081025D]
+#What about the clown's second victim?
+E a segunda vítima do palhaço?
+
+[HEADER 0081025E]
+#Yamada, the controversial Japanese politician.
+Yamada, o controverso político japonês.
+
+[HEADER 0081025F]
+#He inherited his fortune from his father's electro-chemical consortium.
+Ele herdou sua fortuna do consórcio eletroquímico de seu pai.
+
+[HEADER 00001E28]
+#How did he die?
+Como ele morreu?
+
+[HEADER 00810264]
+#At the hands - or should I say, flippers - of a giant Emperor Penguin.
+Pelas mãos - ou melhor dizendo, nadadeiras - de um pinguim-imperador gigante.
+
+[HEADER 00810265]
+#A snowman, a penguin, and now a clown...
+Um boneco de neve, um pinguim, e agora um palhaço...
+
+[HEADER 00001E3E]
+#I had been about to add 'mime' to the list, but stopped myself.
+Eu ia colocar 'mímico' na lista, mas parei por aí.
+
+[HEADER 00001E3F]
+#I really didn't want to have to explain to George about my father's involvement with Carchon.
+Eu realmente não queria ter que explicar ao George sobre o envolvimento do meu pai com o Carchon.
+
+[HEADER 00810266]
+#You know, I hate to admit it, but this is scary...
+Sabe, odeio admitir isso, mas isto é assustador...
+
+[HEADER 00810267]
+#And I'll tell you this - I will not be accepting any invitations to costume parties.
+E lhe digo uma coisa: não vou mais aceitar convites para festas a fantasias.
+
+[HEADER 00810268]
+#I don't blame you for being scared - I am too.
+Eu não o culpo por ficar assustado. Também estou.
+
+[HEADER 00810269]
+#But this story could be my only chance of a big break...
+Mas esta história pode ser minha única chance de estourar...
+
+[HEADER 0081026A]
+#Or an early death.
+Ou de uma morte prematura.
+
+[HEADER 00810237]
+#Who was the guy you were supposed to meet?
+Quem era o homem que você pretendia se encontrar?
+
+[HEADER 00810238]
+#His name was Plantard. I didn't know him, but he called me last night.
+O nome dele era Plantard. Eu não o conhecia, mas ele me telefonou ontem de noite.
+
+[HEADER 00810239]
+#He said he had a story which would interest me.
+Disse que tinha uma história que seria do meu interesse.
+
+[HEADER 0081023A]
+#He asked me to meet him at the café.
+Ele me pediu para que eu o encontrasse no Café.
+
+[HEADER 0081023D]
+#How did Plantard get your name?
+Como o Plantard pegou seu nome?
+
+[HEADER 0081023E]
+#Through the newspaper - La Liberté.
+Através do jornal, La Liberté.
+
+[HEADER 0081023F]
+#I'd written an article linking two unsolved murders, one in Italy, the other in Japan.
+Eu tinha escrito um artigo conectando dois assassinatos não resolvidos; um na Itália, outro no Japão.
+
+[HEADER 00810240]
+#The cases were remarkably similar...
+Os casos eram bastante similares...
+
+[HEADER 00810241]
+#...a wealthy victim, no apparent motive, and a costumed killer.
+... uma vítima rica, nenhum motivo aparente e um assassino fantasiado.
+
+[HEADER 00810242]
+#Plantard said he could supply me with more information.
+O Plantard disse que poderia me fornecer mais informações.
+
+[HEADER 0081020E]
+#Tell me more about yourself...
+Me fale mais sobre você...
+
+[HEADER 0081020F]
+#Oh, there's not much to tell...
+Ah, não há muito o que dizer...
+
+[HEADER 00810210]
+#Well, how did you get into photography?
+Bem, como você entrou nesse negócio de fotografia?
+
+[HEADER 00810211]
+#I guess I owe that to my father. He bought me my first camera.
+Acho que devo isso ao meu pai. Ele me comprou minha primeira câmera.
+
+[HEADER 00810212]
+#I was eight and my parents had just split up.
+Eu tinha oito anos, e meus pais tinham acabado de se separar.
+
+[HEADER 00810213]
+#Did you live with your father?
+Você morava com o seu pai?
+
+[HEADER 00810214]
+#Yes. My mother went off with her new boyfriend.
+Sim. Minha mãe partiu com o novo namorado dela.
+
+[HEADER 00810215]
+#I didn't mind. Papa was all I needed.
+Não me importei. Papa era tudo o que eu precisava.
+
+[HEADER 00810216]
+#Four years later he died in a plane crash.
+Quatro anos depois, ele morreu num acidente de avião.
+
+[HEADER 00810217]
+#Oh - I'm sorry.
+Ah... Sinto muito.
+
+[HEADER 00810218]
+#It's all right; I don't mind talking about him.
+Tudo bem, não me importo em falar sobre ele.
+
+[HEADER 00810219]
+#He was more like an older brother, really - always joking and laughing.
+Ele era mais como um irmão mais velho, sempre brincando e rindo.
+
+[HEADER 0081021A]
+#Papa always wanted me to study art. That's why I went to college.
+Meu pai sempre quis que eu estudasse arte. Foi por isso que fui para a faculdade.
+
+[HEADER 0081021B]
+#Did you learn about photography at college?
+Você aprendeu fotografia na faculdade?
+
+[HEADER 0081021C]
+#God, no - I couldn't afford the materials.
+Céus, não. Eu não podia bancar os materiais.
+
+[HEADER 0081021D]
+#We were billed for everything we used: paint, canvas, paper...
+Nós éramos cobrados por tudo que usávamos: tintas, telas, papéis...
+
+[HEADER 0081021E]
+#Most of my year turned to minimalism - it was cheaper.
+No meu primeiro ano, fui minimalista na maioria do tempo. Era mais barato.
+
+[HEADER 0081021F]
+#I used to go poaching in the park for squirrel hair.
+Eu costumava ir ao parque procurar pêlo de esquilo.
+
+[HEADER 00810220]
+#The only time I wasn't hungry was the term I did printing...
+A única hora que eu não ficava com fome era quando eu pintava...
+
+[HEADER 00810221]
+#I used to eat the potatoes.
+Eu costumava comer as batatas.
+
+[HEADER 00810222]
+#You're making fun of me, aren't you?
+Você está brincando comigo, né?
+
+[HEADER 00810223]
+#Oh, no!
+Ah, não!
+
+[HEADER 00810311]
+#I found this false nose in the sewer...
+Encontrei este nariz falso no esgoto...
+
+[HEADER 00810312]
+#Hey! What's this inside it?
+Ei! O que é isso dentro dele?
+
+[HEADER 00810313]
+#The contents of someone's nose?
+O conteúdo do nariz de alguém?
+
+[HEADER 00810314]
+#Don't be gross, George.
+Não seja grosseiro, George.
+
+[HEADER 00810315]
+#It says 'La risée du monde - masques et costumes'
+Aqui diz: 'La risée du monde. Masques et costumes'.
+
+[HEADER 00810316]
+#It has 'La risée du monde' printed inside it...
+Está impresso 'La risée du monde' dentro dele...
+
+[HEADER 00810317]
+#The laughing stock of the world...
+A central de risadas do mundo...
+
+[HEADER 00810318]
+#It's a costume shop near the Gare St Lazare.
+É uma loja de fantasias próximo à Gare Saint-Lazare.
+
+[HEADER 0081031A]
+#I'll check it out. Maybe the owner remembers who hired the clown costume.
+Vou dar uma olhada. Talvez o dono se lembre de quem alugou a fantasia de palhaço.
+
+[HEADER 0081031E]
+#I showed you the red nose, didn't I?
+Já lhe mostrei o nariz de palhaço, não é?
+
+[HEADER 0081031F]
+#Yes - you did.
+Sim, mostrou.
+
+[HEADER 00810320]
+#Why don't you pay a visit to the shop it came from?
+Por que você não vai fazer uma visita à loja de onde isso veio?
+
+[HEADER 00810321]
+#I already did, but the manager couldn't help me.
+Eu fiz isso, mas o gerente não pôde me ajudar.
+
+[HEADER 00810322]
+#You shouldn't give up so easily, George.
+Você não devia desistir tão facilmente, George.
+
+[HEADER 00810323]
+#I just might do that...
+Talvez eu faça isso...
+
+[HEADER 0081031B]
+#Why don't you put it on, George?
+Por que você não coloca isso, George?
+
+[HEADER 0081031C]
+#No way am I wearing this - I'd look really stupid!
+Nem morto vou usar isso. EU iria parecer um idiota completo!
+
+[HEADER 0081031D]
+#Besides, he might have had a cold...
+Além do mais, ele podia estar resfriado...
+
+[HEADER 0081036B]
+#I found this tissue down the sewer...
+Encontrei este lenço no esgoto...
+
+[HEADER 0081036C]
+#Pouah! That's disgusting, George!
+Pouah! Isso é nojento, George!
+
+[HEADER 0081036D]
+#I think the stuff on it is greasepaint. Like actors use... or clowns.
+Acho que é maquiagem que está nele. Tipo a que os atores usam... ou palhaços.
+
+[HEADER 0081036E]
+#It's still disgusting! Get rid of it!
+Ainda assim, é nojento! Tira isso daqui!
+
+[HEADER 0081036F]
+#Did I show you this tissue?
+Já lhe mostrei este lenço?
+
+[HEADER 00810370]
+#Yes, George. I asked you to get rid of it.
+Sim, George. Eu pedi para você tirá-lo daqui.
+
+[HEADER 0081035C]
+#I found a piece of material near the café...
+Encontrei um pedaço de tecido próximo ao Café...
+
+[HEADER 0081035F]
+#When I showed it to the concierge, he recognized it right away.
+Quando o mostrei ao porteiro do hotel, ele o reconheceu na hora.
+
+[HEADER 00810360]
+#It's very distinctive, all right.
+Concordo que ele chama muita atenção.
+
+[HEADER 00810361]
+#Just wait until you see this...
+Mas espere até ver isto...
+
+[HEADER 00810362]
+#I developed the film I shot at the café.
+Revelei o filme que usei no Café.
+
+[HEADER 00810363]
+#Here, George - it's an enlargement I made.
+Aqui, George. Uma ampliação que eu fiz.
+
+[HEADER 00810364]
+#Look what that guy's wearing.
+Olhe o que esse cara está vestindo.
+
+[HEADER 00810365]
+#Chequered pants. The same material as I found in the sewer.
+Calças quadriculadas. O mesmo tecido que encontrei no esgoto.
+
+[HEADER 00810366]
+#That's right. This guy shouldn't be difficult to find.
+Isso mesmo. Não deve ser difícil de encontrar.
+
+[HEADER 00810367]
+#Oh, no?
+Ah, não?
+
+[HEADER 00001964]
+#Take a close look at his right cheek.
+Dê uma olhada mais de perto na bochecha direita dele.
+
+[HEADER 00810369]
+#A scar in the shape of a horseshoe!
+Uma cicatriz no formato de uma ferradura!
+
+[HEADER 0081036A]
+#...or a crescent moon.
+... ou uma lua crescente.
+
+[HEADER 00810324]
+#How come you enlarged this photograph of me?
+Por que você ampliou esta fotografia de mim?
+
+[HEADER 00810325]
+#Because I noticed the guy behind you, of course.
+Porque notei o cara atrás de você, é claro.
+
+[HEADER 00810330]
+#This is the tool I used to get into the sewers...
+Esta é a ferramenta que usei para entrar no esgoto...
+
+[HEADER 00810331]
+#Fascinating, George.
+Fascinante, George.
+
+[HEADER 00810332]
+#You're not interested, are you?
+Você não está interessada, né?
+
+[HEADER 00810333]
+#Of course I am. I think it was very brave of you to go down those sewers.
+Claro que estou. Achei muito bravo da sua parte descer até aqueles esgotos.
+
+[HEADER 00810334]
+#Yeah? Well, it was kinda scary, but, well - I had a job to do.
+É? Bem, foi bastante assustador, mas, bem, eu tinha um trabalho a fazer.
+
+[HEADER 00810335]
+#Yes, you showed me before.
+Sim, você já me mostrou isso antes.
+
+[HEADER 00810353]
+#The guy at the novelty shop gave me this...
+O cara na loja de fantasias me deu isto...
+
+[HEADER 00810354]
+#What is it?
+O que é?
+
+[HEADER 00810355]
+#A hand buzzer. You put it in your hand and give people electric shocks.
+Um aparelhinho de choque. Você o coloca na mão e dá choques elétricos nas pessoas.
+
+[HEADER 00810356]
+#Why?
+Por quê?
+
+[HEADER 00810357]
+#It's a gag. A practical joke.
+É um truque. Uma brincadeirinha.
+
+[HEADER 00810358]
+#If you ever use that on me I'll break your arm.
+Se tentar usar isso comigo, eu quebro seu braço.
+
+[HEADER 00810359]
+#Okay, okay! I get the picture...
+Certo, certo! Entendi o recado...
+
+[HEADER 0081035A]
+#Hey, Nico - shake hands with me!
+Ei, Nico. Vamos apertar as mãos!
+
+[HEADER 0081035B]
+#No chance, buster.
+Sem chance, cara.
+
+[HEADER 008102BB]
+#I have to go.
+Tenho que ir.
+
+[HEADER 008102BE]
+#Okay. I'll see you later...
+Certo. Até logo...
+
+[HEADER 00120002]
+#It was a public telephone...
+Era um telefone público...
+
+[HEADER 005A00A8]
+#Bonjour - Collard?
+Bonjour. Collard?
+
+[HEADER 005A00A9]
+#Oh, hi. It's George Stobbart. The American at the café...
+Ah, oi. É o Geroge Stobbart. O americano do Café...
+
+[HEADER 005A00AA]
+#I saw you, taking photographs.
+Eu vi você, tirando fotografias.
+
+[HEADER 005A00AB]
+#How did you get my number?
+Como você conseguiu meu número?
+
+[HEADER 005A00AC]
+#The gendarme gave it me.
+O gendarme me deu.
+
+[HEADER 005A0003]
+#Hello, Nicole Collard.
+Alô, Nicole Collard.
+
+[HEADER 005A0004]
+#Hello? It's George.
+Alô? É o George.
+
+[HEADER 005A00B5]
+Ah, oui!
+
+[HEADER 005A00B6]
+#Uh... you said to call if I could help...
+Uh... você disse para ligar se eu pudesse ajudar...
+
+[HEADER 005A00B7]
+#Have you any news for me?
+Você tem alguma novidade para mim?
+
+[HEADER 005A0005]
+#Oh, hi.
+Ah, oi.
+
+[HEADER 005A00BC]
+#You bet! I met a witness who spoke to the clown...
+Pode apostar! Encontrei uma testemunha que conversou com o palhaço...
+
+[HEADER 005A00BD]
+#...and I know where the killer gets his suits.
+... e agora sei onde o assassino conseguiu a fantasia dele.
+
+[HEADER 005A00BE]
+#No kidding? Hey, I'm impressed.
+Sério? Nossa, estou impressionada.
+
+[HEADER 005A00BF]
+#You are? Well, it wasn't easy...
+Está? Bem, não foi nada fácil...
+
+[HEADER 005A00C5]
+#I found the clown's escape route... I think.
+Encontrei a rota de fuga do palhaço... eu acho.
+
+[HEADER 005A00C6]
+#You think?
+Acha?
+
+[HEADER 005A00C7]
+#He ran into a blind alley and took to the sewers.
+Ele correu para um beco sem saída e entrou no esgoto.
+
+[HEADER 005A00C8]
+#Very apt - but then what?
+Bastante esperto, mas e depois?
+
+[HEADER 005A00C9]
+#I don't know. Maybe I could come see you?
+Eu não sei. Talvez eu possa dar um pulo aí?
+
+[HEADER 005A00CA]
+#I really am very busy...
+Eu realmente estou bastante ocupada...
+
+[HEADER 005A00CB]
+#Oh. Okay. I'll keep searching.
+Ah. Certo. Vou continuar investigando.
+
+[HEADER 005A00CC]
+#Good. Be sure to let me know if you find anything.
+Ótimo. Lembre-se de me avisar se encontrar algo.
+
+[HEADER 005A00CD]
+#You can count on it.
+Pode deixar.
+
+[HEADER 005A00CE]
+#See you...
+Até mais...
+
+[HEADER 005A00CF]
+#Well, I haven't had a lot of luck...
+Bem, eu não tive muita sorte...
+
+[HEADER 005A00D0]
+#You've found nothing?
+Você encontrou algo?
+
+[HEADER 005A00D1]
+#Uh... no.
+Uh... não.
+
+[HEADER 005A00D2]
+#Look - I'm very busy right now.
+Olha, eu estou muito ocupada agora.
+
+[HEADER 005A00D3]
+#Call me if you have any news, okay?
+Me liga se tiver alguma novidade, certo?
+
+[HEADER 005A00D4]
+#Oh... yeah, I guess.
+Ah... tudo bem, eu acho.
+
+[HEADER 005A00D5]
+Adieu, m'sieur.
+
+[HEADER 005A00D6]
+#See you...
+Até mais...
+
+#Os textos abaixo estão repetidos no script 18DE1038 - Hansen 
+[HEADER 005A00D7]
+#Hello? Who is this?
+Olá? Quem é?
+
+[HEADER 005A00DC]
+#Hi! My name's George Stobbart. You don't know me.
+Oi! Meu nome é George Stobbart. Você não me conhece.
+
+[HEADER 005A00DD]
+#Correct, Mister Stobbart, I don't. What can I do for you?
+Correto, senhor Stobbart, não o conheço. O que posso fazer por você?
+
+[HEADER 005A00DE]
+#I'm trying to trace one of your customers.
+Eu estou tentando achar um dos seus clientes.
+
+[HEADER 005A00DF]
+#Could I maybe come over and talk to you?
+Talvez eu possa passar aí e conversar com você?
+
+[HEADER 005A00E0]
+#NO! No, that's not possible.
+NÃO! Não, isso não será possível.
+
+[HEADER 005A00E1]
+#Okay, forget it. Listen, all I want is a name.
+Certo, esqueça. Escuta, tudo o que eu quero é um nome.
+
+[HEADER 005A00E2]
+#What are you talking about? Who are you working for?
+Do que está falando? Para quem você trabalha?
+
+[HEADER 005A00E3]
+#I guess you might say I'm acting in the interests of Truth and Justice.
+Acho que talvez você possa dizer que estou agindo pelos interesses da Verdade e Justiça.
+
+[HEADER 005A00E4]
+#Ah, thank God! I thought you were the police...
+Ah, graças a Deus! Pensei que você fosse policial...
+
+[HEADER 005A00E5]
+#There are innocent lives at stake, mister Todryk - lives that you could save.
+Há vidas inocentes em jogo, senhor Todryk. Vidas que você pode salvar.
+
+[HEADER 005A00E6]
+#You're collecting for charity, yes?
+Você está pedindo doações para a caridade, certo?
+
+[HEADER 005A00E7]
+#No, I'm not. All I want from you is information.
+Não. Tudo o que quero de você são informações.
+
+[HEADER 005A00E8]
+#Go on, I'm listening...
+Vá em frente, estou ouvindo...
+
+[HEADER 005A00DA]
+#Mister Todryk?
+Senhor Todryk?
+
+[HEADER 005A00DB]
+#Oh, it's you again. What now?
+Ah, é você outra vez. O que é agora?
+
+[HEADER 005A00E9]
+#What do you know about the clown who bombed the Café de la Chandelle Verte?
+O que você sabe sobre o palhaço que explodiu o Café de la Chandelle Verte?
+
+[HEADER 005A00EA]
+#I don't have no idea what you're talking about.
+Eu não tenho ideia do que você está falando.
+
+[HEADER 005A00EB]
+#You're cool, Todryk, but I think you know more than you're saying.
+Você é frio, Todryk, mas acho que sabe mais do que está dizendo.
+
+[HEADER 005A00EC]
+#I don't know who you be, but sure I am you don't know what you're talking about!
+Eu não sei quem você é, mas tenho certeza de que não sabe do que está falando!
+
+[HEADER 005A00EE]
+#Oh, this is ridiculous. Quit playing games with me, Todryk.
+Ora, isso é ridículo. Pare de brincar comigo, Todryk.
+
+[HEADER 005A00EF]
+#I tell you I know nothing about no clown.
+Já disse que não sei nada sobre palhaço algum.
+
+[HEADER 005A00F0]
+#Did you know that one of your customers was a part-time clown?
+Você sabia que um dos seus clientes era um palhaço temporário?
+
+[HEADER 005A00F1]
+#If a guy feels happy with a funny nose and custard down his pants, what's the problem?
+Se alguém se sente feliz com um nariz engraçado e calças largas, qual o problema?
+
+[HEADER 005A00F2]
+#Do you know a guy called Plantard?
+Você conhece um cara chamado Plantard?
+
+[HEADER 005A00F3]
+#No. I never heard of him.
+Não. Nunca ouvi falar dele.
+
+[HEADER 005A00F4]
+#Shall I tell you what happened to Plantard?
+Devo dizer o que aconteceu com o Plantard?
+
+[HEADER 005A00F5]
+#How he was killed in cold blood?
+Como ele foi morto a sangue frio?
+
+[HEADER 005A00F6]
+#I told you - I never heard of Plantard.
+Eu já disse, nunca ouvi falar de alguém chamado Plantard.
+
+[HEADER 005A00F7]
+#I expect Plantard's a family man, don't you?
+Creio que o Plantard fosse um homem de família, não?
+
+[HEADER 005A00F8]
+#In their little apartment, Madame Plantard is cooking the supper...
+No seu pequeno apartamento, Madame Plantard está cozinhando a sopa...
+
+[HEADER 005A00F9]
+#Listening for the familiar sound of her husband's key in the door.
+Esperando escutar o som familiar da chave do seu marido na porta.
+
+[HEADER 005A00FA]
+#Junior is waiting for his daddy to come home from work.
+Júnior está esperando seu pai chegar em casa do trabalho.
+
+[HEADER 005A00FB]
+#He can't wait to show him the merit marks he earned in school today.
+Mal pode esperar para mostrar as boas notas que tirou na escola hoje.
+
+[HEADER 005A00FC]
+#Only tonight... Monsieur Plantard won't be coming home.
+Mas nessa noite... Monsieur Plantard não voltará para casa.
+
+[HEADER 005A00FD]
+#You forgot the puppy.
+Você esqueceu o cãozinho.
+
+[HEADER 005A00FE]
+#Huh?
+Hein?
+
+[HEADER 005A00FF]
+#The faithful puppy dog, waiting for the sound of his master's voice...?
+O cãozinho fiel, esperando pelo som da voz do seu dono...?
+
+[HEADER 005A0100]
+#Maybe they don't have a dog. What do you think?
+Talvez eles não tenham um cachorro. O que acha?
+
+[HEADER 005A0101]
+#I don't know Plantard, I never heard of Plantard.
+Eu não conheço nenhum Plantard, nunca ouvi falar sobre esse Plantard.
+
+[HEADER 005A0102]
+#None of this has anything to do with me!
+Isso não tem nada a ver comigo!
+
+[HEADER 005A010A]
+#The man I'm looking for is called Khan.
+O homem que estou procurando se chama Khan.
+
+[HEADER 005A010B]
+#He bought a suit from you - remember?
+Ele comprou um terno de você, lembra?
+
+[HEADER 005A010C]
+#Mister Khan...
+Senhor Khan...
+
+[HEADER 005A010D]
+#Yes - I remember him.
+Sim, me lembro dele.
+
+[HEADER 005A010E]
+#Yes. I delivered the suit to his hotel.
+Sim. Eu entreguei o terno no hotel dele.
+
+[HEADER 005A010F]
+#The Hôtel Ubu. I don't remember the room number.
+O Hotel Ubu. Não me lembro o número do quarto.
+
+[HEADER 005A0110]
+#It was upstairs - the second room on the right hand side of the corridor.
+Ficava no andar de cima, no segundo quarto do lado direito do corredor.
+
+[HEADER 005A0111]
+#Thanks, Todryk. That's all I wanted to know.
+Obrigado, Todryk. Era tudo o que eu queria saber.
+
+[HEADER 005A0112]
+#Now I've got you, Mister Clown...
+Agora eu te peguei, Senhor Palhaço...
+
+[HEADER 005A0103]
+#Did you make a suit for a man with a scar on his face?
+Você fez um terno para um homem com uma cizatriz em seu rosto?
+
+[HEADER 005A0104]
+#A scar in the shape of a crescent moon?
+Uma cicatriz no formato de lua crescente?
+
+[HEADER 005A0105]
+#Maybe... maybe not.
+Talvez sim... talvez não.
+
+[HEADER 005A0106]
+#Tell me where I can find him and I'll leave you alone.
+Diga-me onde posso encontrá-lo e eu o deixarei em paz.
+
+[HEADER 005A0107]
+#And if I don't?
+E se eu não disser?
+
+[HEADER 005A0108]
+#I won't leave you alone.
+Não o deixarei em paz.
+
+[HEADER 005A0109]
+#I can't tell you anything unless you give me his name.
+Não posso dizer nada até que me diga o nome dele.
+
+[HEADER 005A011F]
+#Thanks for nothing, Todryk.
+Obrigado por nada, Todryk.
+
+[HEADER 00120000]
+#The policeman was not much older than me. His face wore an expression of intense concentration.
+O policial não era muito mais velho do que eu. Havia uma expressão de profunda concentração em seu rosto.
+
+[HEADER 0012000D]
+#Excuse me...
+Com licença...
+
+[HEADER 0012000E]
+#Not so fast! I'd like your personal details, please.
+Não tão rápido! Preciso dos seus dados pessoais, por favor.
+
+[HEADER 0012000F]
+#Huh? What for?
+Hein? Para quê?
+
+[HEADER 00120010]
+#In the event of an accident.
+No caso de um acidente.
+
+[HEADER 00120011]
+#It would help us to know where to send the body.
+Nos ajudaria saber aonde mandar o corpo.
+
+[HEADER 00120003]
+#Hi there.
+Olá.
+
+[HEADER 00120005]
+Ah! M'sieur Hardy, non?
+
+[HEADER 00120006]
+Stobbart. George Stobbart.
+
+[HEADER 00120004]
+Bonjour.
+
+[HEADER 00120012]
+#Look - is this really necessary? I came in here to talk to Rosso.
+Olha. Isto é realmente necessário? Eu vim aqui para falar com o Rosso.
+
+[HEADER 00120013]
+#Ah! Why did you not say!
+Ah! Por que não disse?!
+
+[HEADER 0012002A]
+#He's not here.
+Ele não está aqui.
+
+[HEADER 0012002B]
+#But...
+Mas...
+
+[HEADER 0012002C]
+#Do you wish to leave a message for him?
+Você quer deixar algum recado para ele?
+
+[HEADER 0012002D]
+#I have a choice of blue or black pens.
+Deixo você escolher entre as canetas azul ou preta.
+
+[HEADER 0012002E]
+#I'd recommend the blue for a less formal communication.
+Eu recomendaria a azul para uma comunicação menos formal.
+
+[HEADER 0012002F]
+#I'd prefer to talk to him in person.
+Prefiro falar com ele pessoalmente.
+
+[HEADER 00120030]
+#As you wish, m'sieur.
+Como desejar, m'sieur.
+
+[HEADER 00120014]
+#Is Sergeant Moue available?
+O Sargento Moue está disponível?
+
+[HEADER 00120015]
+#What? You want to speak to him?
+O quê? Você quer falar com ele?
+
+[HEADER 00120016]
+#Yes, please.
+Sim, por favor.
+
+[HEADER 00120017]
+#I cannot recall the last time someone asked to speak to Moue.
+Eu não consigo lembrar da última vez que alguém pediu para falar com o Moue.
+
+[HEADER 00120018]
+#No-one ever speaks to him, not even his kids.
+Ninguém fala com ele, nem mesmo as crianças.
+
+[HEADER 00120019]
+#Eh bien - he is not here, m'sieur. He is with Inspecteur Rosso.
+Eh bien... Ele não está aqui, m'sieur. Está com o Inspecteur Rosso.
+
+[HEADER 0012001A]
+#Like Laurel and Keaton, non, m'sieur...?
+Como Laurel e Keaton, non, m'sieur...?
+
+[HEADER 0012001B]
+Hardy. Oliver Norville Hardy.
+
+[HEADER 0012007C]
+#Take a look at this...
+Dê uma olhada nisto...
+
+[HEADER 0012007D]
+#Inspector Rosso's personal card!
+O cartão do Inspetor Rosso! 
+
+[HEADER 0012007E]
+#Where did you get this?
+Onde você conseguiu isso?
+
+[HEADER 0012007F]
+#He gave it to me.
+Ele me deu.
+
+[HEADER 00120080]
+#Why?
+Por quê?
+
+[HEADER 00120081]
+#I think he was impressed with my powers of observation.
+Acho que estava impressionado com meus poderes de observação.
+
+[HEADER 00120082]
+#He asked me to contact him if I had any information...
+Ele pediu para que eu entrasse em contato se tivesse alguma informação...
+
+[HEADER 00120083]
+#I see. You are a grass.
+Entendo. Você é um informante.
+
+[HEADER 00120084]
+#Did I show you Rosso's card?
+Eu lhe mostrei o cartão do Rosso?
+
+[HEADER 00120085]
+#Yes, you did.
+Sim.
+
+[HEADER 00120046]
+#What do you make of this?
+O que você entende por isto?
+
+[HEADER 00120047]
+#It's a juggler's ball.
+É uma bola de malabarista.
+
+[HEADER 00120048]
+#Have you heard of a guy named Moerlin?
+Você já ouvi falar de alguém chamado Moerlin?
+
+[HEADER 00120049]
+#No, m'sieur.
+Não, m'sieur.
+
+[HEADER 0012004A]
+#Are you familiar with the Club Alamut?
+Você conhece o Club Alamut?
+
+[HEADER 0012004B]
+#No, m'sieur.
+Não, m'sieur.
+
+[HEADER 0012004C]
+#Do you know what this powder is?
+Você sabe o que é este pó?
+
+[HEADER 0012004D]
+#It looks like plaster, m'sieur.
+Parece gesso, m'sieur.
+
+[HEADER 0012004E]
+#Do you know what this device is used for?
+Você sabe para que este aparelho é usado?
+
+[HEADER 0012004F]
+#Certainly, m'sieur. It is for measuring the pressure of the blood.
+Certamente, m'sieur. É para medir a pressão do sangue.
+
+[HEADER 00120050]
+#This tripod is over five hundred years old...
+Este tripé tem mais de quinhentos anos de idade...
+
+[HEADER 00120051]
+#Remarkable, m'sieur, but hardly police business.
+Excepcional, m'sieur, mas isso não interessa à polícia.
+
+[HEADER 00120052]
+#Can you tell me anything about this gem?
+Você pode me dizer algo sobre esta gema?
+
+[HEADER 00120053]
+#Me? No, m'sieur.
+Eu? Não, m'sieur.
+
+[HEADER 00120054]
+#What do you think this lens could be used for?
+Para que você acha que esta lente pode ser usada?
+
+[HEADER 00120055]
+#Hard to say, m'sieur.
+Difícil dizer, m'sieur.
+
+[HEADER 00120056]
+#Do you know anything about medieval communion cups?
+Você sabe alguma coisa sobre cálices de comunhão medievais?
+
+[HEADER 00120057]
+#No, m'sieur. I was a duffer at school when it came to history.
+Não, m'sieur. Eu era um fracasso na escola quando se tratava de história.
+
+[HEADER 00120058]
+#I found this scrap of material in the sewer...
+Eu encontrei este pedaço de tecido no esgoto...
+
+[HEADER 00120059]
+Vraiment?
+
+[HEADER 0012005A]
+#It was probably torn from the clothes of a psychotic killer.
+Provavelmente rasgado da roupa de um assassino psicopata.
+
+[HEADER 0012005B]
+#Even if you were Sherlock Holmes, I would have trouble believing you.
+Mesmo se você fosse o Sherlock Holmes, dificilmente eu acreditaria em você.
+
+[HEADER 0012005C]
+#I'd like to shake you by the hand....
+Eu gostaria de apertar sua mão...
+
+[HEADER 0012005D]
+#Do you want to be arrested for assaulting a policeman?
+Você quer ser preso por agredir um policial?
+
+[HEADER 0012005E]
+#Huh?
+Hein?
+
+[HEADER 0012005F]
+#I noticed the Shake n' Shock buzzer concealed in your hand.
+Eu notei o aparelhinho de choque escondido na sua mão.
+
+[HEADER 00120060]
+#Have you any idea what this tool is used for?
+Você tem alguma ideia da utilidade desta ferramenta?
+
+[HEADER 00120061]
+#Oui, m'sieur. It's a dipstick.
+Oui, m'sieur. É uma vareta de medição.
+
+[HEADER 00120062]
+#Do you recognize the man in this photograph?
+Você reconhece o homem nesta fotografia?
+
+[HEADER 00120063]
+#Non, m'sieur, I do not. I have no memory for faces.
+Non, m'sieur. Não sou bom para memorizar rostos.
+
+[HEADER 00120066]
+#I found this tissue.
+Eu encontrei este lenço.
+
+[HEADER 00120067]
+#Aie! What the hell is that?
+Aie! Mas que diabos é isso?
+
+[HEADER 00120068]
+#It's evidence.
+É uma evidência.
+
+[HEADER 00120069]
+#Evidence of what? Mayonnaise smuggling?
+Evidência do quê? Contrabando de maionese?
+
+[HEADER 0012006A]
+#The sticky stuff is greasepaint.
+Esta coisa nojenta é maquiagem.
+
+[HEADER 0012006B]
+#Ah. And that is supposed to make me happy, is it?
+Ah. E suponho que eu deva ficar feliz com isso, certo?
+
+[HEADER 0012006C]
+#I suggest you think long and hard about what you are doing with your life, m'sieur.
+Eu sugiro que você pense bastante sobre o que está fazendo com sua vida, m'sieur.
+
+[HEADER 0012006D]
+#Don't you want this tissue?
+Você não quer este lenço?
+
+[HEADER 0012006E]
+#No, I do not.
+Não.
+
+[HEADER 0012006F]
+#I found this red nose near the café de la Chandelle Verte.
+Eu encontrei este nariz vermelho próximo ao Café de la Chandelle Verte.
+
+[HEADER 00120070]
+#A clown's nose?
+Um nariz de palhaço?
+
+[HEADER 00120071]
+#That's right.
+Isso mesmo.
+
+[HEADER 00120072]
+#The guy who wore this is a savage killer.
+O cara que estava usando-o é um assassino selvagem.
+
+[HEADER 00120073]
+#If you say so, m'sieur.
+Se você diz, m'sieur.
+
+[HEADER 00120074]
+#Don't you want to look at this nose?
+Você não quer olhar este nariz?
+
+[HEADER 00120075]
+#Not particularly, m'sieur.
+Particularmente não, m'sieur.
+
+[HEADER 00120076]
+#What do you make of this newspaper?
+O que você entende por este jornal?
+
+[HEADER 0012007B]
+#Nothing.
+Nada.
+
+[HEADER 00120045]
+#Thanks for your help, officer.
+Obrigado por sua ajuda, oficial.
+
+[HEADER 00810000]
+#There's a guy with a sword and a bull.
+Há um touro e uma pessoa com uma espada.
+
+[HEADER 00810001]
+#The only mythological bull I know of is the minotaur, but he was only half bull.
+O único touro mitológico que conheço é o minotauro, mas ele era apenas metade touro.
+
+[HEADER 00810002]
+#I don't think I'd like to be half a bull, even if it was the bottom half.
+Acho que eu não gostaria de ser metade touro, mesmo que fosse a metade de baixo.
+
+[HEADER 00810003]
+#What's that object between them?
+O que é esse objeto entre eles?
+
+[HEADER 00810004]
+#It looks like a gem on top of a tripod.
+Parece uma gema no topo de um tripé.
+
+[HEADER 00810005]
+#Between them is a gem, supported by a tripod...
+Entre eles, há uma gema, sustentada por um tripé...
+
+[HEADER 00810007]
+#There's a guy working on a loom.
+Há um cara trabalhando em um tear.
+
+[HEADER 00810008]
+#He's weaving a carpet, or a tapestry.
+Ele está tecendo algo parecido com um tapete.
+
+[HEADER 00810009]
+#Or a duvet cover.
+Ou um edredom.
+
+[HEADER 0081000A]
+#It's a clue to a place, I reckon.
+É uma pista para um lugar, eu acho.
+
+[HEADER 0081000B]
+#Somewhere famed for weaving, and ships...
+Algum lugar famoso pela tecelagem, e navios...
+
+[HEADER 0081000C]
+#Where folk live in barrels?
+Onde pessoas vivem em barris?
+
+[HEADER 0081000D]
+#It beats cardboard boxes...
+Melhor do que em caixas de papelão...
+
+[HEADER 00810010]
+#A knight with a crystal ball...
+Um cavaleiro com uma bola de cristal...
+
+[HEADER 00810011]
+#There's something written on the scroll beside the knight.
+Há algo escrito no pergaminho ao lado do cavaleiro.
+
+[HEADER 00810012]
+#Yes, but it's written in Latin.
+Sim, mas está em latim.
+
+[HEADER 00810013]
+`Per Disciplinum mea, lux videbis.'
+
+[HEADER 00810014]
+#`By my... teachings, you will see the light.'
+`Por... ensinamento... meu... luz... verás...'
+
+[HEADER 00810015]
+#You speak Latin? Where did you learn a trick like that?
+Você fala latim? Onde aprendeu um truque assim?
+
+[HEADER 00810016]
+#A trick? I studied law, okay? I can read Latin.
+Um truque? Eu estudei direito, tá? Eu sei ler latim.
+
+[HEADER 00810017]
+#My, you're touchy. Tell me that again...
+Nossa, que nervosinho. Repita o que disse...
+
+[HEADER 00810018]
+#The knight's scroll bears a phrase in Latin...
+O pergaminho do cavaleiro possui uma frase em latim...
+
+[HEADER 00810019]
+#`Through my teachings, you will be enlightened.'
+`Através dos meus ensinamentos, tu serás iluminado.'
+
+[HEADER 0081001C]
+#There's a woman looking at her reflection in a mirror...
+Há uma mulher olhando para o seu reflexo em um espelho...
+
+[HEADER 0081001D]
+#...but the reflection has three hideous faces.
+... mas ele mostra três rostos horrendos.
+
+[HEADER 0081001E]
+#She reminds me of the wicked queen in Snow White...
+Ela me lembra a bruxa malvada da Branca de Neve...
+
+[HEADER 0081001F]
+#She was the one who said: `Mirror, mirror, on the wall,' wasn't she?
+Era quem dizia: `Espelho, espelho meu', não é?
+
+[HEADER 00810020]
+#She made me cry so much when I was a kid, mom carried me out of the movie theatre.
+Ela me fez chorar tanto quando eu era criança, que minha mãe teve que me tirar do cinema.
+
+[HEADER 00810021]
+#She didn't frighten me in the least.
+Pelo menos, ela não me assustou.
+
+[HEADER 00810022]
+#Like I said, I was only a kid. I didn't like the crocodile in Peter Pan, either.
+Como eu disse, eu era apenas uma criança. Eu também não gostava do crocodilo em Peter Pan.
+
+[HEADER 0081016C]
+#Look there! Two guys on the same horse!
+Olhe aqui! Duas pessoas no mesmo cavalo!
+
+[HEADER 0081026C]
+#Let's face it - we need help, George.
+Temos que encarar os fatos. Precisamos de ajuda, George.
+
+[HEADER 0081026D]
+#Someone who knows about these things...
+Alguém que saiba sobre estas coisas...
+
+[HEADER 0081026E]
+#Who do you suggest - Indiana Jones?
+Quem você sugere? Indiana Jones?
+
+[HEADER 0081026F]
+#I know a guy who specializes in medieval studies.
+Conheço um cara especialista em estudos medievais.
+
+[HEADER 00810270]
+#His name is Lobineau.
+Seu nome é Lobineau.
+
+[HEADER 00810271]
+#Huh! Some stuffy old fossil who gets horny over ancient relics, I suppose.
+Hmpf! Algum fóssil velho e chato que fica excitado com relíquias antigas, presumo.
+
+[HEADER 00810272]
+#Far from it. André isn't the stereotypical professor you have in mind.
+Longe disso. André não é esse esteriótipo de professor que você tem em mente.
+
+[HEADER 00810273]
+#Where can I find this Lobineau guy?
+Onde posso encontrar esse tal de Lobineau?
+
+[HEADER 00810274]
+#At the Crune museum. I'll give you the address.
+No museu Crune. Vou lhe dar o endereço.
+
+[HEADER 0081018F]
+#Hi. How are you?
+Oi. Como vai?
+
+[HEADER 00810190]
+#Oh, hi. Come in, George.
+Ah, oi. Entre, George.
+
+[HEADER 00810293]
+#What are you doing to help trace the killer clown?
+O que você esta fazendo para ajudar a encontrar o palhaço assassino?
+
+[HEADER 00810294]
+#Research, George.
+Pesquisando, George.
+
+[HEADER 00810295]
+#Yeah? You have a copy of the Clowns' Yearbook?
+É? Você tem uma cópia do Anuário dos Palhaços?
+
+[HEADER 00810296]
+#I have a telephone and a lot of contacts.
+Eu tenho um telefone e vários contatos.
+
+[HEADER 00810297]
+#Oh. Well, did you find anything useful?
+Ah. Bem, encontrou algo útil?
+
+[HEADER 00810298]
+#Not yet. I'm employing my first and most useful weapon...
+Ainda não. Estou empregando minha primeira e mais útil arma...
+
+[HEADER 00810299]
+#What's that?
+Que é?
+
+[HEADER 0081029A]
+#Patience.
+Paciência.
+
+[HEADER 0081029B]
+#I've heard of that. Isn't it a substitute for decisive thinking?
+Já ouvi falar disso. Não é um substituto para pensamento decisivo?
+
+[HEADER 00810224]
+#Do you have a boyfriend?
+Você tem namorado?
+
+[HEADER 00810226]
+#Not any more...
+Tinha...
+
+[HEADER 00810227]
+#There was someone - a guy in my final year - but it didn't work out.
+Havia alguém - um cara no meu último ano -, mas não deu certo.
+
+[HEADER 00810228]
+#Neither did my degree.
+Assim como a minha graduação.
+
+[HEADER 00810229]
+#I'm sorry...
+Sinto muito...
+
+[HEADER 0081022A]
+#I'm not.
+Eu não.
+
+[HEADER 0081022B]
+#Tell me more about your family...
+Me fale mais da sua família...
+
+[HEADER 0081022C]
+#When I was a little girl, I used to spend the winter with my grandfather and grandma.
+Quando era pequena, eu costumava passar o inverno com meus avós.
+
+[HEADER 0081022D]
+#They were the best times, warm and safe in their tiny cottage...
+Uma época deliciosa, em sua cabaninha quente e segura...
+
+[HEADER 0081022E]
+#My grandfather rolled cigarettes while grandma made hot chocolate and cakes.
+Meu avô enrolava cigarros enquanto vovó fazia chocolate quente e bolos.
+
+[HEADER 0081022F]
+#One day he stopped his rolling, put the lid back on his tobacco jar, and took me in his arms.
+Um dia ele parou de enrolar, guardou o fumo e me pegou no colo.
+
+[HEADER 00810230]
+#I laughed and wriggled, but he hushed me to be silent.
+Eu ria e tentava me soltar, mas ele mandou eu ficar em silêncio.
+
+[HEADER 00810231]
+#With his unshaven chin all scratchy in my ear, he told me his secret...
+Com a sua barba espetando minha orelha, ele me contou seu segredo...
+
+[HEADER 00810232]
+#What did he say?
+O que ele disse?
+
+[HEADER 00810233]
+#He said: 'I don't smoke, but she likes to think I do.'
+Ele disse: 'Eu não fumo, mas ela gosta de pensar que sim.'
+
+[HEADER 00810234]
+#What a weird old man!
+Que velho estranho!
+
+[HEADER 00810235]
+#Don't call my grandfather weird! He was the nicest guy ever!
+Não chame meu avô de estranho! Ele foi a pessoa mais legal que já conheci!
+
+[HEADER 00810236]
+#I wish I was back in that cottage, instead of this crummy apartment in this noisy city...
+Eu queria era estar de volta àquela casinha, em vez deste apartamento podre nesta cidade barulhenta...
+
+[HEADER 00810166]
+#You're just not going to believe what I've found!
+Você não vai acreditar no que eu encontrei!
+
+[HEADER 00810167]
+#It's not another part of the clown's costume, is it?
+Não é outra parte da fantasia do palhaço, é?
+
+[HEADER 00810168]
+#It's a medieval manuscript.
+É um manuscrito medieval.
+
+[HEADER 00810169]
+#Khan left it in the safe at the Ubu.
+O Khan o deixou num cofre do hotel Ubu.
+
+[HEADER 00001E29]
+#He'd checked in under the name Thomas Moerlin.
+Ele deu entrada usando o nome de Thomas Moerlin.
+
+[HEADER 0081016A]
+#It's incredible! Is this what he took from Plantard?
+É incrível! Foi isso que ele pegou do Plantard?
+
+[HEADER 0081016B]
+#It could be, which means it's worth enough to kill for...
+Pode ser, o que significa que vale o suficiente para matar...
+
+[HEADER 0081016D]
+#Yeah. Maybe they couldn't afford one each.
+É. Talvez eles não pudessem comprar dois desse.
+
+[HEADER 0081016E]
+#What of it?
+E?
+
+[HEADER 0081016F]
+#Have you ever heard of the Knights Templar?
+Você já ouvi falar dos Cavaleiros Templários?
+
+[HEADER 00810170]
+#Their official seal was an image of two knights, sharing a horse!
+O selo oficial deles era uma imagem de dois cavaleiros dividindo um cavalo!
+
+[HEADER 00810171]
+#Whatever this manuscript means, it's connected with the Templars.
+O que quer que o manuscrito signifique, está conectado aos Templários.
+
+[HEADER 00810172]
+#How come you know about these Knights?
+Como você sabe sobre esses Cavaleiros?
+
+[HEADER 00810173]
+#I learned about them while writing an article on the Crusades.
+Eu aprendi sobre eles enquanto escrevia um artigo sobre as Cruzadas.
+
+[HEADER 00810186]
+#Jeez! So the treasure is hidden, waiting to be discovered?
+Nossa! Então o tesouro está escondido, esperando ser descoberto?
+
+[HEADER 00810187]
+#If there ever was a treasure, it's been lost for six hundred years.
+Se já houve um tesouro, ele está perdido há mais de seiscentos anos.
+
+[HEADER 00810188]
+#Anyway, we're supposed to be investigating a serial killer, not a medieval treasure trove...
+De qualquer maneira, temos que procurar um assassino em série, não um tesouro medieval...
+
+[HEADER 00810189]
+#But maybe that's what the clown and his accomplices are after.
+Mas talvez seja disso que o palhaço e seus cúmplices estão atrás.
+
+[HEADER 0081018A]
+#Maybe this manuscript is the key!
+Talvez este manuscrito seja a chave!
+
+[HEADER 0081018B]
+#You'd better leave it here for safe keeping.
+É melhor você deixá-lo aqui por segurança.
+
+[HEADER 00810275]
+#Let's take another look at the manuscript...
+Vamos dar uma outra olhada no manuscrito...
+
+[HEADER 0081032A]
+#I found this in the killer's room...
+Eu encontrei isto no quarto do assassino...
+
+[HEADER 0081032B]
+#What is it? A credit card?
+O que é isso? Um cartão de crédito?
+
+[HEADER 0081032C]
+#I.D. Thomas Moerlin, of the Grüber Electronics Corporation.
+Um crachá de Thomas Moerlin, da Corporação Eletrônica Grüber.
+
+[HEADER 0081032D]
+#Never heard of him, or the company.
+Nunca ouvi falar nele, ou na compania.
+
+[HEADER 0081032E]
+#Are you sure you've never heard of Thomas Moerlin?
+Tem certeza que nunca ouviu falar em Thomas Moerlin?
+
+[HEADER 0081032F]
+#Positive.
+Positivo.
+
+[HEADER 00810338]
+#I found this matchbook in the killer's hotel room...
+Eu encontrei esta caixa de fósforos no quarto de hotel do assassino...
+
+[HEADER 00810339]
+#It's from the Club Alamut...
+Vem do Club Alamut...
+
+[HEADER 0081033A]
+#Never heard of it. Is there anything written inside it?
+Nunca ouvi falar. Há alguma coisa escrita dentro?
+
+[HEADER 0081033B]
+#No. What were you expecting?
+Não. O que você estava esperando?
+
+[HEADER 0081033C]
+#If this was a movie there'd be a clue - a name or an address...
+Se isto fosse um filme, haveria uma pista. Um nome ou endereço...
+
+[HEADER 0081033D]
+#That's no use - there aren't even any matches in it.
+Isso não tem utilidade. Não há nem fósforos dentro dele.
+
+[HEADER 0081033E]
+#Oh, well. I'll keep it as a souvenir.
+Ah, bem. Vou guardá-lo como uma lembrança.
+
+[HEADER 0081033F]
+#Did I show you this matchbook?
+Já lhe mostrei esta caixa de fósforos?
+
+[HEADER 00810340]
+#Huh? Oh, yeah.
+Hã? Ah, sim.
+
+[HEADER 008102CE]
+#Okay. Don't forget to look for Lobineau at the Crune Museum.
+Certo. Não se esqueça de procurar o Lobineau no Museu Crune.
+
+[HEADER 00810148]
+#Hi. I've been to the Crune Museum.
+Oi. Eu estive no Museu Crune.
+
+[HEADER 00810149]
+#Did you speak to Lobineau?
+Você falou com o Lobineau?
+
+[HEADER 0081014A]
+#No - he wasn't there.
+Não, ele não estava lá.
+
+[HEADER 0081029C]
+#Have you found out any more about the murders?
+Você descobriu mais alguma coisa sobre os assassinatos?
+
+[HEADER 0081029D]
+#Well, it may be nothing, but both the clown's victims visited Paris earlier this year...
+Bem, pode não ser nada, mas as duas vítimas do palhaço visitaram Paris neste ano...
+
+[HEADER 0081029E]
+#When?
+Quando?
+
+[HEADER 0081029F]
+#The second week of July. They were both here at the same time.
+Na segunda semana de julho. Eles estiveram aqui na mesma época.
+
+[HEADER 008102A0]
+#Did they meet?
+Eles se encontraram?
+
+[HEADER 008102A1]
+#I don't know, but I can't imagine it was coincidence.
+Não sei, mas não consigo imaginar que isso seja uma coincidência.
+
+[HEADER 0081014B]
+#I've found the tripod!
+Eu encontrei o tripé!
+
+[HEADER 0081014F]
+#Where?
+Onde?
+
+[HEADER 00810150]
+#In the museum. It belonged to the Templars.
+No museu. Ele pertencia aos Templários.
+
+[HEADER 00810151]
+#It was dug up in Ireland at a place called Lochmarne...
+Ele foi encontrado na Irlanda, num lugar chamado Lochmarne...
+
+[HEADER 00810152]
+#I've heard of Lochmarne!
+Eu já ouvi falar de Lochmarne!
+
+[HEADER 00810153]
+#I read an article about the castle. Take a look for yourself.
+Li um artigo sobre o castelo. Dê uma olhada.
+
+[HEADER 00810154]
+#A popular gossip magazine! You read that rubbish?
+Uma revista de fofocas! Você lê essa porcaria?
+
+[HEADER 00810155]
+#No, I write it.
+Não, eu escrevo ela.
+
+[HEADER 00810156]
+#Professor Nigel Peagram... excavating the medieval castle at Lochmarne...
+Professor Nigel Peagram... escavando o castelo medieval de Lochmarne...
+
+[HEADER 00810157]
+#That's strange.
+Isso é estranho.
+
+[HEADER 00810158]
+#What?
+O quê?
+
+[HEADER 00810159]
+#He resigned his chair at Durham University in order to devote his time to the excavation.
+Ele se demitiu da Universidade Durham para dedicar seu tempo à escavação.
+
+[HEADER 0081015A]
+#Not only that, but he cancelled the filming of a fourth series of his popular television program!
+Não só isso, como ele cancelou as filmagens da quarta temporada do seu popular programa de televisão!
+
+[HEADER 0081015B]
+#This site at Lochmarne must be awful important to him!
+Esse local em Lochmarne deve ser muito importante para ele!
+
+[HEADER 0081015C]
+#He's a professor of history. They're all cuckoo.
+Ele é um professor de História. São todos meio lelés da cuca.
+
+[HEADER 0081015D]
+#All the same, I'd like to talk to this Professor Peagram...
+De qualquer modo, eu gostaria de conversar com esse Professor Peagram...
+
+[HEADER 0081015E]
+#How do you feel about a trip to Ireland?
+O que acha de uma viagem para a Irlanda?
+
+[HEADER 0081015F]
+#Disappointed...
+Uma pena..
+
+[HEADER 00810160]
+#Huh?
+Hein?
+
+[HEADER 00810161]
+#...that I won't be going.
+... que eu não possa ir.
+
+[HEADER 00810162]
+#I want to follow up the Bilotta case.
+Eu quero dar seguimento ao caso Bilotta.
+
+[HEADER 00810163]
+#If you really think Peagram's gem is important, why don't you visit Lochmarne?
+Se você acha mesmo que a gema do Peagram é importante, por que não visita Lochmarne?
+
+[HEADER 00810164]
+#On my own? I'm not so sure about that...
+Sozinho? Não tenho certeza disso...
+
+[HEADER 00810165]
+#Where is Ireland, exactly?
+Onde fica a Irlanda exatamente?
+
+[HEADER 00120001]
+#It was Rosso's sidekick: Sergeant Moue.
+Era o auxiliar do Rosso, Sargento Moue.
+
+[HEADER 00910001]
+#Excuse me, sergeant...
+Com licença, sargento...
+
+[HEADER 00910011]
+#What do you want now?
+O que quer agora?
+
+[HEADER 00910002]
+#Sergeant Moue?
+Sargento Moue?
+
+[HEADER 0091000C]
+Ah! Monsieur Stobbart, n'est-ce pas?
+
+[HEADER 0091000D]
+#That's correct. You remember me!
+Isso mesmo. Você se lembra de mim!
+
+[HEADER 0091000E]
+#The retention of such data is part of my duty as a gendarme.
+Lembrar tal informação faz parte do meu dever como gendarme.
+
+[HEADER 0091000F]
+#That is how crime is fought; through attention to detail, not intuition.
+É assim que lutamos contra o crime; através da atenção aos detalhes, não pela intuição.
+
+[HEADER 00910010]
+#Yeah, sure.
+É, com certeza.
+
+[HEADER 00910068]
+#Do you know a man named Khan?
+Conhece um homem chamado Khan?
+
+[HEADER 00001966]
+#He's a shifty looking guy with a scar on his right cheek.
+Ele é um cara de aparência esperta com uma cicatriz na bochecha direita.
+
+[HEADER 0091006A]
+#No, m'sieur.
+Não, m'sieur.
+
+[HEADER 0091006B]
+#He also calls himself Thomas Moerlin.
+Ele também usa o nome de Thomas Moerlin.
+
+[HEADER 0091006C]
+#I'm sorry, m'sieur Stobbart - I don't know him.
+Desculpe-me, m'sieur Stobbart. Eu não o conheço.
+
+[HEADER 0091006D]
+#Has this man any connection with the bombing of the café?
+Esse homem tem alguma conexão com a explosão no café?
+
+[HEADER 0091006E]
+#Yes. I believe Khan was the name he used when he hired the clown costume.
+Sim. Acredito que Khan foi o nome que ele usou quando alugou a fantasia de palhaço.
+
+[HEADER 0091004B]
+#Is Rosso here?
+O Rosso está aqui?
+
+[HEADER 0091004C]
+#Yes, he is. You wish to speak to him?
+Sim, está. Deseja falar com ele?
+
+[HEADER 0091004D]
+#Yes, I do.
+Sim.
+
+[HEADER 0091004E]
+#One moment, m'sieur.
+Um momento, m'sieur.
+
+[HEADER 00910053]
+#It's Stobbart, m'sieur. He insists on talking to you again.
+É o Stobbart, m'sieur. Ele insiste em falar com você outra vez.
+
+[HEADER 00910056]
+#Did he say what it was about?
+Ele disse do que se tratava?
+
+[HEADER 00910057]
+#No, m'sieur.
+Não, m'sieur.
+
+[HEADER 00910058]
+#Very well.
+Muito bem.
+
+[HEADER 00850001]
+#Hi, Inspector - remember me?
+Oi, Inspetor. Lembra-se de mim?
+
+[HEADER 00850002]
+#But of course, Docteur! My mind is a well-ordered faculty.
+Mas é claro, Docteur! Minha mente é uma faculdade bastante organizada.
+
+[HEADER 00850003]
+#But of course, Mister Stobbart! My mind is a well-ordered faculty.
+Mas é claro, senhor Stobbart! Minha mente é uma faculdade perfeitamente funcional.
+
+[HEADER 00850004]
+#A mental classification system that's the envy of the Bibliotheque Nationale.
+Um sistema de classificação mental de dar inveja à Bibliotheque Nationale.
+
+[HEADER 00850005]
+#No tricks, mark you m'sieur, just exercise.
+Sem truques, m'sieur, apenas exercícios.
+
+[HEADER 00850006]
+#Just as our muscles waste through inactivity, so our minds decay...
+Nossos músculos ficam atrofiados com a inatividade, assim como nossas mentes...
+
+[HEADER 00850007]
+#But there is no need, if only people would learn to exercise their wits daily!
+Mas isso poderia ser evitado se as pessoas aprendessem a exercitar suas mentes diariamente!
+
+[HEADER 00850008]
+#If he was trying to impress me, it worked.
+Se ele queria me impressionar, conseguiu.
+
+[HEADER 00850009]
+#He was pompous and patronizing, but he had style.
+Ele era pomposo e complacente, mas tinha estilo.
+
+[HEADER 0085000A]
+#Eh bien, if you've called about the bombing, you're too late.
+Eh bien, se você veio falar sobre a explosão, então está muito atrasado.
+
+[HEADER 0085000B]
+#Investigations have been closed.
+As investigações já foram concluídas.
+
+[HEADER 0085000C]
+#But...
+Mas...
+
+[HEADER 0085000D]
+#I've been taken off the case.
+Eu fui tirado do caso.
+
+[HEADER 0085000E]
+#What about the murder? The dead guy?
+E sobre o assassinato? O homem morto?
+
+[HEADER 0085000F]
+#It is out of my hands.
+Não posso fazer nada.
+
+[HEADER 00850030]
+#Don't you want to know what I found out about the killer?
+Você não quer saber o que descobri sobre o assassino?
+
+[HEADER 00850031]
+#I told you, m'sieur - the case is closed.
+Já lhe disse, m'sieur. O caso está encerrado.
+
+[HEADER 00850032]
+#I have washed my hands of the whole affair.
+Eu já lavei minhas mãos de todo este assunto.
+
+[HEADER 00850033]
+#Then I'll have to continue my investigations without your help...
+Então terei que continuar minhas investigações sem a sua ajuda...
+
+[HEADER 00850034]
+#No! You must forget the business of the clown completely.
+Não! Você deve esquecer esse negócio do palhaço completamente.
+
+[HEADER 00850035]
+#Go back to being an ordinary tourist, Stobbart.
+Volte a ser um turista comum, Stobbart.
+
+[HEADER 00850024]
+#Did you find out the I.D. of the guy who was killed in the explosion?
+Você descobriu a identidade do cara que morreu na explosão?
+
+[HEADER 00850025]
+#I already knew who he was.
+Eu já sabia quem ele era.
+
+[HEADER 00850026]
+#I heard that the bomb victim's name was Plantard.
+Ouvi falar que o nome da vítima da bomba era Plantard.
+
+[HEADER 00850027]
+#Your sources are reliable.
+Suas fontes são confiáveis.
+
+[HEADER 00850028]
+#He was a big shot in the Treasury, wasn't he?
+Ele era alguém importante no governo, não era?
+
+[HEADER 00850029]
+#Maybe that's why you've been taken off the case...
+Talvez seja por isso que você tenha sido tirado do caso...
+
+[HEADER 0085002A]
+#I'm sorry, m'sieur. I cannot comment.
+Desculpe-me, m'sieur. Não posso comentar.
+
+[HEADER 0085002B]
+#Do you know a pair of thugs called Flap and Guido?
+Você conhece uma dupla de gângsteres chamados Flap e Guido?
+
+[HEADER 0085002C]
+#A frase original não fez muito sentido xD
+#I have known those two since they graduated from special school.
+Eu conheço esses dois desde que se formaram na escola especial.
+
+[HEADER 0085002D]
+#Flap is a nasty piece of work, but Guido is the real brains of the partnership.
+O Flap é um valentão asqueroso, enquanto o Guido é o cérebro da parceria.
+
+[HEADER 0085002E]
+#Where did you hear of them?
+De onde você os conhece?
+
+[HEADER 0085002F]
+#I met them out front of the Hôtel Ubu.
+Eu os encontrei na frente do Hotel Ubu.
+
+[HEADER 00850036]
+#Have you heard of Dr Peagram, the archaeologist?
+Já ouviu falar sobre o Dr. Peagram, o arqueólogo?
+
+[HEADER 00850037]
+#Molly Peagram? The second son of Lord Barclay-Peagram?
+Molly Peagram? O segundo filho do Lord Barclay-Peagram?
+
+[HEADER 00850038]
+#I don't know. I read about him in a magazine.
+Sei lá. Eu li sobre ele numa revista.
+
+[HEADER 00850039]
+#So much for the efficacy of rehabilitation!
+Esse é o fim da eficácia da reabilitação!
+
+[HEADER 0085003A]
+#What has he done this time?
+O que ele fez dessa vez?
+
+[HEADER 0085003B]
+#He made an important archaeological find in Ireland.
+Uma importante descoberta arqueológica na Irlanda.
+
+[HEADER 0085003C]
+#Do you know Peagram well?
+Você conhece bem o Peagram?
+
+[HEADER 0085003D]
+#I have connections with the family, but I wouldn't say I knew him at all.
+Eu tenho ligações com a família, mas não diria que conheço ele tão bem assim.
+
+[HEADER 0085003E]
+#Is his name really Molly?
+O nome dele é mesmo Molly?
+
+[HEADER 0085003F]
+#Of course not! That was the nickname he was given at school.
+Claro que não! Esse é o apelido que ele ganhou na escola.
+
+[HEADER 00850040]
+#All his friends and acquaintances know him as Molly.
+Todos os seus amigos e familiares o conhecem por Molly.
+
+[HEADER 00850041]
+#Have you heard of the Knights Templar?
+Já ouviu falar nos Cavaleiros Templários?
+
+[HEADER 00850042]
+#Les Templiers? But of course, m'sieur!
+Les Templiers? Mas é claro, m'sieur!
+
+[HEADER 00850043]
+#Their fame is widespread throughout France!
+A fama deles está difundida por toda a França!
+
+[HEADER 00850044]
+#We haven't forgotten them, unlike the rest of Europe.
+Nós não nos esquecemos deles, diferente do resto da Europa.
+
+[HEADER 00850045]
+#It was the king of France who persecuted them, though.
+Apesar de ter sido o rei da França quem os perseguiu.
+
+[HEADER 00850046]
+#Indeed.
+É verdade.
+
+[HEADER 00850047]
+#That shook his cool. Underneath his cultured facade the man was real twitchy.
+Isso o deixou tenso. Sob aquela fachada de cultura, ele estava realmente agitado.
+
+[HEADER 00850048]
+#You're obviously a great admirer of the Knights Templar...
+Você é, obviamente, um grande admirador dos Cavaleiros Templários...
+
+[HEADER 00850049]
+#They were men of great honour, m'sieur. The flower of Chivalry.
+Eles eram homens de grande honra, m'sieur. A elite da Cavalaria.
+
+[HEADER 0085004A]
+#Not everyone would share your views, Inspector.
+Nem todo mundo compartilha esse seu ponto de vista, Inspetor.
+
+[HEADER 0085004B]
+#Not everyone shares my passion for Bartok!
+Nem todo mundo compartilha minha paixão por Bartok!
+
+[HEADER 0085004C]
+#But if the Templars were as honourable as...
+Mas se os Templários eram tão honrados quanto...
+
+[HEADER 0085004D]
+#That's enough! I do not wish to hear your uninformed opinions, Stobbart.
+Já chega! Não quero ouvir suas opiniões desinformadas, Stobbart.
+
+[HEADER 0085004E]
+#Why do you get so wound up about the Knights Templar?
+Por que você fica tão tenso quando falo sobre os Templários?
+
+[HEADER 0085004F]
+#They've been dead for centuries!
+Eles estão mortos há séculos!
+
+[HEADER 00850050]
+#I shouldn't have pushed my luck. Maybe his ancestors were Templars.
+Eu não devia ter ido tão longe. Os ancestrais dele podiam ser Templários.
+
+[HEADER 00850051]
+#Whatever, I saw the anger flare in his eyes like a distant summer thunderstorm.
+De qualquer maneira, eu vi o ódio brilhar em seus olhos, como um temporal distante de verão.
+
+[HEADER 00850052]
+#The Templars were the first true Internationalists!
+Os Templários foram os primeiros Internacionalistas!
+
+[HEADER 00850053]
+#Eight hundred years on, and still the world is fragmented by nationalistic, flag-waving fools!
+Oitocentos anos depois, e o mundo ainda está fragmentado por nacionalistas e patriotas imbecis!
+
+[HEADER 00850054]
+#You will excuse me.
+Com a sua licença...
+
+[HEADER 0085006B]
+#Would you like to see the gem again?
+Você quer ver a gema outra vez?
+
+[HEADER 0085006C]
+#No, thank you.
+Não, obrigado.
+
+[HEADER 00850066]
+#What do you make of this, Inspector?
+O que você entende por isto, Inspetor?
+
+[HEADER 00850067]
+#Astounding! Where did you come by a stone like that?
+Impressionante! Onde você conseguiu uma pedra como essa?
+
+[HEADER 00850068]
+#I was given it by a man in a bar in Ireland.
+Eu recebi de um homem num bar na Irlanda.
+
+[HEADER 00850069]
+#Do you recognize the gem?
+Você reconhece esta gema?
+
+[HEADER 0085006A]
+#It is unfamiliar to me. If such a jewel had been stolen, I would know it for sure.
+Não é familiar. Se tal joia tivesse sido roubada, eu saberia com certeza.
+
+[HEADER 00850077]
+#Did I show you this photograph?
+Já lhe mostrei esta fotografia?
+
+[HEADER 00850078]
+#Oui. You're still convinced he is the killer?
+Oui. Você ainda está convencido que ele é o assassino?
+
+[HEADER 00850079]
+#Absolutely.
+Completamente.
+
+[HEADER 00850070]
+#Do you recognize the man in this photograph?
+Você reconhece o homem nesta fotografia?
+
+[HEADER 00850071]
+Non.
+
+[HEADER 00850072]
+#It's the face of a killer.
+É o rosto de um assassino.
+
+[HEADER 00850073]
+#The man who bombed the café?
+O homem que explodiu o café?
+
+[HEADER 00850074]
+#The photograph was taken soon after the explosion.
+A fotografia foi tirada um pouco depois da explosão.
+
+[HEADER 00850075]
+#He'd escaped through the sewers, leaving a trail of clues behind him.
+Ele escapou pelo esgoto, deixando um rastro de pistas atrás dele.
+
+[HEADER 00850076]
+#Circumstantial evidence, Stobbart. None of it proves a thing.
+Evidências circunstanciais, Stobbart. Nada disso prova alguma coisa.
+
+[HEADER 00850082]
+#Does the name Thomas Moerlin mean anything to you?
+O nome Thomas Moerlin significa algo para você?
+
+[HEADER 00850087]
+Non, m'sieur.
+
+[HEADER 00850083]
+#Non, m'sieur, nothing.
+Non, m'sieur, nada.
+
+[HEADER 00850084]
+#It's another one of the assumed names used by the killer.
+É um outro nome usado pelo assassino.
+
+[HEADER 00850085]
+#Ah! The famous killer clown case...
+Ah! O famoso caso do palhaço assassino...
+
+[HEADER 00850086]
+#Yeah. You might have forgotten all about it, but I still aim to find that guy.
+Isso. Você pode ter esquecido tudo sobre ele, mas ainda quero encontrar aquele cara.
+
+[HEADER 0085008A]
+#Does this matchbook mean anything to you?
+Esta caixa de fósforos significa algo para você?
+
+[HEADER 00850091]
+#You already asked me that. I told you - non.
+Você já me perguntou isso. Já lhe disse: non.
+
+[HEADER 0085008B]
+#Non, m'sieur. I suggest you ask Sergeant Moue about that.
+Non, m'sieur. Sugiro que faça essa pergunta ao Sargento Moue.
+
+[HEADER 0085008C]
+#I did. He recognized it immediately.
+Eu fiz. Ele o reconheceu imediatamente.
+
+[HEADER 0085008D]
+#Was his information useful to you?
+A informação foi, de alguma maneira, útil para você?
+
+[HEADER 0085008E]
+#No, not at all.
+Não, nem um pouco.
+
+[HEADER 0085008F]
+#God only knows why, but he collects matchbooks.
+Só Deus sabe o porquê dele colecionar caixas de fósforos.
+
+[HEADER 00850090]
+#He claims it is a hobby.
+Ele alega ser um passatempo.
+
+[HEADER 0085006D]
+#Does this red nose mean anything to you?
+Este nariz vermelho significa algo para você?
+
+[HEADER 0085006E]
+#I'd imagine it means you have not given up your pursuit of the clown?
+Imagino que deva significar que você ainda não desistiu de perseguir o palhaço?
+
+[HEADER 0085006F]
+#You're absolutely right.
+Você está completamente certo.
+
+[HEADER 0085007A]
+#What do you make of this white powder, Rosso?
+O que você acha deste pó branco, Rosso?
+
+[HEADER 0085007B]
+#It is plaster.
+É gesso.
+
+[HEADER 0085007C]
+#Say - you're good.
+Olha, você é bom, hein.
+
+[HEADER 0085007D]
+#What do you make of this, Rosso?
+O que entende por isto, Rosso?
+
+[HEADER 0085007E]
+#It is a tool for gaining access to sewers.
+É uma ferramenta para dar acesso aos esgotos.
+
+[HEADER 0085007F]
+#Would you care to shake my hand, Inspector?
+Você se importa em apertar minha mão, Inspetor?
+
+[HEADER 00850080]
+#Please don't be offended if I decline your offer, Stobbart.
+Por favor, não sinta-se ofendido se eu recusar sua oferta, Stobbart.
+
+[HEADER 00850081]
+#The palms of my hands are particularly sensitive.
+A palma das minhas mãos são particularmente sensíveis.
+
+[HEADER 00850088]
+#I found this tissue in the sewer...
+Eu encontrei este lenço no esgoto...
+
+[HEADER 00850089]
+#It would have been best if you'd left it there.
+Teria sido melhor se você tivesse deixado lá.
+
+[HEADER 0085005A]
+#So long, Inspector.
+Adeus, Inspetor.
+
+[HEADER 00910059]
+#Not really.
+Na verdade não.
+
+[HEADER 00910022]
+#I was one of the last people to see the victim alive, sergeant.
+Eu fui a última pessoa a ver a vítima viva, sargento.
+
+[HEADER 00910023]
+#Does that worry you?
+E isso te preocupa?
+
+[HEADER 00910024]
+#Yes, it does. I feel I kinda... owe it to him, to find his killer.
+Claro. Eu meio que sinto... que devo isso a ele, encontrar seu assassino.
+
+[HEADER 00910025]
+#That is best left to the authorities, m'sieur.
+Melhor deixar isso para as autoridades, m'sieur.
+
+[HEADER 00910026]
+#Did he speak to you, tell you anything?
+Ele falou com você, disse alguma coisa?
+
+[HEADER 00910027]
+#No. He just grinned and nodded.
+Não. Ele apenas sorriu e cumprimentou.
+
+[HEADER 00910028]
+#Don't let it trouble you, m'sieur. Go home and try to forget.
+Não deixe que isso te preocupe, m'sieur. Vá para casa e tente esquecer.
+
+[HEADER 00910029]
+#I know the identity of the dead guy! His name was Plantard.
+Eu sei a identidade do homem morto! Seu nome era Plantard.
+
+[HEADER 0091002A]
+#Is that so? You knew him, did you?
+Verdade? Você conhecia ele, não é?
+
+[HEADER 0091002B]
+#No - but...
+Não, mas...
+
+[HEADER 0091002C]
+#We'll know everything there is to know about him, soon enough.
+Nós saberemos tudo o que há para saber sobre ele, cedo ou tarde.
+
+[HEADER 0091002D]
+#I'm trying to be helpful here!
+Estou apenas tentando ajudar!
+
+[HEADER 0091002E]
+#The best way you can help us is to go home, m'sieur.
+A melhor ajuda que você pode nos dar é ir para casa, m'sieur.
+
+[HEADER 0091002F]
+#I have a confession to make, Sergeant.
+Eu tenho uma confissão a fazer, Sargento.
+
+[HEADER 00910030]
+#I really did see the clown.
+Eu realmente vi o palhaço.
+
+[HEADER 00910031]
+#He ran into the alley across the street.
+Ele correu para o beco do outro lado da rua.
+
+[HEADER 00910032]
+#Why did you not tell this to Inspecteur Rosso?
+Por que não disse isso ao Inspecteur Rosso?
+
+[HEADER 00910033]
+#I didn't want to sound foolish...
+Eu não queria parecer idiota...
+
+[HEADER 00910034]
+#And you did not want to become involved, no?
+E também não queria se involver, não é?
+
+[HEADER 00910035]
+#Do not worry. It is of no consequence.
+Não se preocupe. Isso não trará consequências.
+
+[HEADER 00910037]
+#Did you follow him?
+Você o seguiu?
+
+[HEADER 00910038]
+#I lost him. I figure he went under ground.
+Eu o perdi. Creio que ele tenha descido ao esgoto.
+
+[HEADER 00910039]
+#Do you know how many kilometres of sewers there are beneath this great city?
+Você sabe quantos quilômetros de esgoto temos abaixo desta grande cidade?
+
+[HEADER 0091003A]
+#It's not a question I've lost sleep over...
+Não é uma pergunta que me faria perder o sono...
+
+[HEADER 0091003B]
+#I have no doubt that Inspecteur Rosso will organize a proper search.
+Não tenho dúvidas de que o Inspecteur Rosso irá organizar uma busca adequada.
+
+[HEADER 00910082]
+#What are you going to do about Flap and Guido, Sergeant?
+O que vai fazer em relação ao Flap e ao Guido, Sargento?
+
+[HEADER 00910083]
+#I'm going to bust them, m'sieur!
+Eu vou prendê-los, m'sieur!
+
+[HEADER 00910084]
+#For years I've been hoping to pin something on that pair.
+Há anos que espero colocar essa dupla atrás das grades.
+
+[HEADER 00910085]
+#Now's my chance. I'll show them, and the Inspecteur!
+Agora é a minha chance. Vou mostrar a eles, e ao Inspecteur!
+
+[HEADER 00910086]
+#Thanks, Sergeant. Thanks for taking me seriously.
+Obrigado, Sargento. Obrigado por me levar a sério.
+
+[HEADER 00910087]
+#I'm only doing my duty, m'sieur.
+Estou apenas cumprindo com o meu dever, m'sieur.
+
+[HEADER 00910078]
+#I'd like to report an assault.
+Eu gostaria de relatar um assalto.
+
+[HEADER 00910079]
+#Yes, m'sieur? Where is the victim?
+Sim, m'sieur? Onde está a vítima?
+
+[HEADER 0091007A]
+#I'm the victim! I've been harassed by a pair of thugs.
+Eu sou a vítima! Fui intimidado por uma dupla de bandidos.
+
+[HEADER 0091007B]
+#I see! And where did this alleged assault take place?
+Entendo! E onde aconteceu esse assalto que o m'sieur alega ter sofrido?
+
+[HEADER 0091007C]
+#Outside the Hotel Ubu.
+No pátio do Hotel Ubu.
+
+[HEADER 0091007D]
+#They stopped me as I was leaving and went through my pockets.
+Eles me pararam enquanto eu ia embora e remexeram meus bolsos.
+
+[HEADER 0091007E]
+#Could you describe the suspects, m'sieur?
+Você poderia descrever os suspeitos, m'sieur?
+
+[HEADER 0091007F]
+#One looked like a gorilla, and the other like a weasel.
+Um deles parecia um gorila. O outro lembrava uma doninha.
+
+[HEADER 00910080]
+#Their names are Flap and Guido.
+Seus nomes são Flap e Guido.
+
+[HEADER 00910081]
+#Bon! I'll get them this time...
+Bon! Irei pegá-los desta vez...
+
+[HEADER 009100BD]
+#Are you sure you don't want this false nose?
+Tem certeza de que não quer este nariz falso?
+
+[HEADER 009100BE]
+#Don't try my patience, m'sieur.
+Não teste minha paciência, m'sieur.
+
+[HEADER 009100B5]
+#I found this red nose in the sewer.
+Encontrei este nariz no esgoto.
+
+[HEADER 009100B6]
+#What were you doing down there?
+O que você estava fazendo lá?
+
+[HEADER 009100B7]
+#Fishing for clues. That's where the clown went.
+Pescando pistas. O palhaço foi por lá.
+
+[HEADER 009100B8]
+#You still insist you saw a clown, m'sieur?
+Você ainda insiste que viu um palhaço, m'sieur?
+
+[HEADER 009100B9]
+#Of course - and this novelty nose proves it!
+Claro, e esta nova evidência prova isso!
+
+[HEADER 009100BA]
+#It will take more than a plastic proboscis to convince Inspecteur Rosso!
+Vai ser necessário mais do que um narigão de plástico para convencer o Inspecteur Rosso!
+
+[HEADER 009100BB]
+#You don't want this as evidence, then?
+Você não quer isto como evidência então?
+
+[HEADER 009100BC]
+#Certainly not, m'sieur!
+Certamente não, m'sieur!
+
+#Os textos abaixo estão repetidos no script 18DE1038 - Hansen 
+[HEADER 009100C6]
+#I've got Inspector Rosso's address card...
+Eu peguei o cartão do Inspetor Rosso...
+
+[HEADER 009100C7]
+#Yes, m'sieur. You showed me before...
+Sim, m'sieur. Você já tinha me mostrado...
+
+[HEADER 009100BF]
+#Look, sergeant - the Inspector gave me his card...
+Olhe, sargento. O inspetor me deu seu cartão...
+
+[HEADER 009100C0]
+#Yes, m'sieur.
+Sim, m'sieur.
+
+[HEADER 009100C1]
+#He wants you to advise him if you have any information concerning this case.
+Ele quer que você o avise se tiver alguma informação relacionada ao caso.
+
+[HEADER 009100C2]
+#I'd be glad to talk with him, but I don't want him working his psycho weirdness on me.
+Eu ficaria feliz em conversar com ele, mas não o quero praticando aquela coisa psíquica em mim.
+
+[HEADER 009100C3]
+#Ah, no, m'sieur. You are confusing the science of parapsychology with witchcraft.
+Ah, não, m'sieur. Você está confundindo a ciência da parapsicologia com bruxaria.
+
+[HEADER 009100C4]
+#Oh, yeah? What's the difference?
+Ah, é? E qual é a diferença?
+
+[HEADER 009100C5]
+#We don't do sacrifices.
+Nós não fazemos sacrifícios
+
+[HEADER 009100D8]
+#Did I show you my tool, Sergeant?
+Já lhe mostrei minha ferramenta, Sargento?
+
+[HEADER 009100D9]
+#Yes, m'sieur - unfortunately you did.
+Infelizmente sim, m'sieur.
+
+[HEADER 009100CD]
+#What do you suppose this tool is used for, Sergeant Moue?
+Você acha que esta ferramenta é usada para que, Sargento Moue?
+
+[HEADER 009100CE]
+#It looks like something an obstetrician would use, m'sieur...
+Parece ser algo que um obstetra usaria, m'sieur...
+
+[HEADER 009100CF]
+#It was with tools like this that the clown made his escape!
+Foi com uma ferramenta como esta que o palhaço conseguiu escapar!
+
+[HEADER 009100D0]
+#I don't understand...
+Não entendi...
+
+[HEADER 009100D1]
+#He opened up the hole and disappeared into the bowels of the earth!
+Ele levantou uma tampa de bueiro e desapareceu nas entranhas da terra!
+
+[HEADER 009100D2]
+#If you say so, m'sieur.
+Se você diz, m'sieur.
+
+[HEADER 009100D3]
+#I don't think so. I found it in that workman's toolbox.
+Acho que não. Encontrei isto na caixa de ferramentas daquela operário.
+
+[HEADER 009100D4]
+#Found it? I hope you did not steal it, m'sieur!
+Encontrou? Espero que não tenha roubado, m'sieur!
+
+[HEADER 009100D5]
+#Do I look like a common thief?
+Pareço com um ladrão comum?
+
+[HEADER 009100D6]
+#He asked me to look after his hole, and his belongings.
+Ele me pediu para cuidar do seu buraco e dos seus pertences.
+
+[HEADER 009100D7]
+#You certainly know how to enjoy your vacation to the fullest, m'sieur.
+De fato, você sabe aproveitar ao máximo suas férias, m'sieur.
+
+[HEADER 009100EC]
+#Do you recognize this dirty tissue?
+Você reconhece este lenço sujo?
+
+[HEADER 009100F2]
+#I told you - no, m'sieur.
+Já disse que não, m'sieur.
+
+[HEADER 009100ED]
+#No, m'sieur, I do not.
+Não, m'sieur.
+
+[HEADER 009100EE]
+#I found it in the sewer...
+Encontrei no esgoto...
+
+[HEADER 009100EF]
+#Perhaps It would be better if you put it back there...
+Talvez fosse melhor colocar lá de volta...
+
+[HEADER 009100F0]
+#No way! This could be an important clue.
+Sem chance! Isto pode ser uma pista importante.
+
+[HEADER 009100F1]
+#If you say so, m'sieur.
+Se você diz, m'sieur.
+
+[HEADER 009100A5]
+#Did I show you this photograph, Sergeant?
+Já lhe mostrei esta fotografia, Sargento?
+
+[HEADER 009100A6]
+#Yes, m'sieur.
+Sim, m'sieur.
+
+[HEADER 0091009D]
+#Do you recognize the man in this photograph?
+Você reconhece o homem nesta fotografia?
+
+[HEADER 0091009E]
+#No, m'sieur.
+Não, m'sieur.
+
+[HEADER 0091009F]
+#It's the guy who bombed the café - the clown.
+É o cara que explodiu o café, o palhaço.
+
+[HEADER 009100A0]
+#This man looks nothing like a clown.
+Esse homem não parece ser um palhaço.
+
+[HEADER 009100A1]
+#He's taken off his greasepaint and costume.
+Ele tirou a maquiagem e a fantasia.
+
+[HEADER 009100A2]
+#Then there is nothing to link this man with the killing.
+Então não há nada conectando esse homem com o assassinato.
+
+[HEADER 009100A3]
+#Nothing? Look at those murderous eyes!
+Nada? Olhe esses olhos de assassino!
+
+[HEADER 009100A4]
+#Hmm... hardly likely to get him convicted.
+Hmm... isso não o fará ser condenado.
+
+[HEADER 0091009B]
+#Would you like to keep this ball as evidence, Sergeant?
+Você gostaria de manter esta bola como evidência, Sargento?
+
+[HEADER 0091009C]
+#No, thank you.
+Não, obrigado.
+
+[HEADER 00910092]
+#Look what I found, Sergeant Moue!
+Olhe o que encontrei, Sargento Moue!
+
+[HEADER 00910093]
+#It is a ball. The ball of a child.
+É uma bola. A bola de uma criança.
+
+[HEADER 00910094]
+#You're half right, but this is no toy, Sergeant Moue.
+Quase acertou. Isto não é um brinquedo, Sargento Moue.
+
+[HEADER 00910095]
+#Don't tell me.... the Juggler is back!
+Não me diga que... o Malabarista está de volta!
+
+[HEADER 00910096]
+#The Juggler? Who's he?
+O Malabarista? Quem é esse?
+
+[HEADER 00910097]
+#The most cunning circus performer turned pickpocket in Paris.
+O mais esperto artista de circo e batedor de carteiras de Paris.
+
+[HEADER 00910098]
+#He mesmerizes his audience with an unarguably talented but mind-numbing display of juggling...
+Ele hipnotiza seu público com um malabarismo de talento indiscútivel, mas também entorpecente...
+
+[HEADER 00910099]
+#...while his accomplice goes through the crowd and empties their pockets.
+... enquanto seu cúmplice passa pela multidão esvaziando seus bolsos.
+
+[HEADER 0091009A]
+#I thought we'd seen the last of him!
+Pensei que já tivéssemos dado um jeito nele!
+
+[HEADER 009100DA]
+#Does this matchbook mean anything to you, Sergeant?
+Esta caixa de fósforos significa algo para você, Sargento?
+
+[HEADER 009100E2]
+#You already showed me, m'sieur. It's a beauty.
+Você ja tinha me mostrado, m'sieur. É uma beleza.
+
+[HEADER 009100DB]
+#That's a double-lined Swedish with a cross-hatch Bergmann strike-strip.
+É uma caixa sueca de forro duplo com uma superfície de acendimento hachurada do tipo Bergmann. 
+
+[HEADER 009100DC]
+#Now, that's unusual. Pre-war Anderson hinging!
+Ora, isso é estranho. Dobras do tipo Anderson de antes da guerra!
+
+[HEADER 009100DD]
+#Really?
+Sério?
+
+[HEADER 009100DE]
+#I haven't seen a reinforced Anderson outside of a private collection!
+Eu nunca vi uma Anderson reforçada sem ser em coleções privadas!
+
+[HEADER 009100DF]
+#It's rare, then?
+É raro então?
+
+[HEADER 009100E0]
+#In this part of the world, yes.
+Nesta parte do mundo, sim.
+
+[HEADER 009100E1]
+#There are only three places these are made: Tai-Wan, Manila, and Slough.
+Há apenas três lugares em que elas são feitas: Taiwan, Manila e Slough.
+
+[HEADER 009100F3]
+#What do you think of this chalice, Sergeant?
+O que você acha deste cálice, Sargento?
+
+[HEADER 009100F4]
+#Hmm. Not much.
+Hmm. Não muita coisa.
+
+[HEADER 009100F5]
+#It's over six hundred years old!
+Ele tem mais de seiscentos anos!
+
+[HEADER 009100F6]
+#It looks it. I wouldn't drink from that rusty old thing if I was you.
+É o que parece. Eu não beberia nada nessa coisa velha e enferrujada se eu fosse você.
+
+[HEADER 0091006F]
+#Have you ever heard of the Hashshashin, Sergeant?
+Você já ouviu falar dos Hashshasin, Sargento?
+
+[HEADER 00910070]
+#What was that?
+O que era isso?
+
+[HEADER 00910071]
+#The Cult of the Assassins.
+O Culto dos Assassinos.
+
+[HEADER 00910072]
+#What are you trying to say, Stobbart?
+O que está tentando dizer, Stobbart?
+
+[HEADER 00910073]
+#That the clown is a member of that cult.
+Que o palhaço é membro desse culto.
+
+[HEADER 00910074]
+#I see. And what proof do you have?
+Entendo. E que prova você tem?
+
+[HEADER 00910075]
+#Proof? I arrived at my conclusion through logical deduction and...
+Prova? Eu cheguei a essa conclusão através de dedução lógica e...
+
+[HEADER 00910076]
+#Pseudo-intellectual piffle!
+Besteiras pseudo-intelectuais!
+
+[HEADER 00910077]
+#Leave the investigation of crime to those who know best - the Police!
+Deixe a investigação do crime para quem sabe o que está fazendo, a Polícia!
+
+[HEADER 009100F7]
+#Would you like to shake my hand, Sergeant?
+Gostaria de apertar minha mão, Sargento?
+
+[HEADER 009100F8]
+#Not while I'm on duty, m'sieur. The gesture could be misconstrued.
+Não enquanto estou em serviço, m'sieur. O gesto poderia ser mal-interpretado.
+
+[HEADER 00910091]
+#See you later, sergeant.
+Até mais, sargento.
+
+[HEADER 00910003]
+#Yes?
+Sim?
+
+[HEADER 00910069]
+#He's a shifty looking guy with a scar on his left cheek.
+Ele é um cara de olhar astuto com uma cicatriz na bochecha esquerda.
+
+[HEADER 00910088]
+#Have you heard of a man called Marquet?
+Já ouviu falar de um homem chamado Marquet?
+
+[HEADER 00910089]
+#Yes. He used to be known as the Mole of Montmartre.
+Sim. Ele era conhecido por a Toupeira de Montmartre.
+
+[HEADER 0091008A]
+#I heard he's been hospitalised - probably by one of his rivals.
+Ouvi dizer que foi hospitalizado, provavelmente por um dos seus rivais.
+
+[HEADER 0091008B]
+#Which hospital was Marquet taken to?
+Para qual hospital o Marquet foi levado?
+
+[HEADER 0091008C]
+#The Hagenmeyer Clinic, in the Avenue des Hérissons.
+A Clínica Hagenmeyer, na Avenue des Hérissons.
+
+[HEADER 0091008D]
+#Why was Marquet known as the Mole of Montmartre?
+Por que o Marquet era conhecido como a Touperia de Montmartre?
+
+[HEADER 0091008E]
+#Because he lived in Montmartre, I suppose.
+Porque ele morava em Montmartre, eu acho.
+
+[HEADER 0091008F]
+#Yes, but why the Mole?
+Sim, mas por que a Toupeira?
+
+[HEADER 00910090]
+#I don't know. Maybe he ruined people's lawns.
+Não sei. Talvez ele tenha arruinado o gramado das pessoas.
+
+#Os textos abaixo estão repetidos no script 18DE1038 - Hansen 
+[HEADER 009100B3]
+#Did I show you this newspaper...?
+Já lhe mostrei este jornal...?
+
+[HEADER 009100B4]
+#Yes, m'sieur.
+Sim, m'sieur.
+
+[HEADER 009100A7]
+#I found this in the street, Sergeant.
+Eu encontrei isto na rua, Sargento.
+
+[HEADER 009100A8]
+#That, m'sieur, is a newspaper, no?
+Isso, m'sieur, é um jornal, não?
+
+[HEADER 009100A9]
+#There's a note written on it - `Salah-eh Dinn, thirteen forty five.'
+Há uma nota escrita nele: `Salah-eh Dinn, treze quarenta e cinco.'
+
+[HEADER 009100AE]
+#Ah - ha!
+Ah, ha!
+
+[HEADER 009100AF]
+#That's stumped you, hasn't it?
+Isso te deixou com uma pulga atrás da orelha, não foi?
+
+[HEADER 009100B0]
+#I have never been stumped - as you put it - in my life, m'sieur.
+Eu nunca fiquei com uma pulga atrás da orelha - como você disse - em toda minha vida, m'sieur.
+
+[HEADER 009100B1]
+#It is the name assumed by the clown, no?
+É o nome que o palhaço assumiu, não?
+
+[HEADER 009100B2]
+#Salah-eh Dinn the clown...? I don't think so.
+Salah-eh Dinn, o palhaço...? Acho que não.
+
+[HEADER 009100EA]
+#Did I show you this material, Sergeant?
+Eu lhe mostrei este tecido, Sargento?
+
+[HEADER 009100EB]
+#Yes, m'sieur. It is horrible.
+Sim, m'sieur. É horrível.
+
+[HEADER 009100E3]
+#I believe this material came from the clown's clothing.
+Acredito que este tecido tenha vindo da roupa do palhaço.
+
+[HEADER 009100E4]
+#If you are right, m'sieur, then the clown must be an Englishman.
+Se você estiver certo, m'sieur, então o palhaço deve ser um inglês.
+
+[HEADER 009100E5]
+#How do you figure that?
+Como chegou a essa conclusão?
+
+[HEADER 009100E6]
+#Only the English would wear a suit made from material like that.
+Só os ingleses usariam uma roupa feita de um tecido como este.
+
+[HEADER 009100E7]
+#Don't you like the English?
+Você não gosta dos ingleses?
+
+[HEADER 009100E8]
+#It is not so much a question of liking, rather one of taste.
+Não é uma questão de gostar e sim de estilo.
+
+[HEADER 009100E9]
+#They have none.
+E isso eles não têm.
+
+[HEADER 00001C84]
+#I knew it was George.
+Eu sabia que era o George.
+
+[HEADER 00001C85]
+#For a moment I was tempted to pretend that I was out. Or ask him to go away and come back later. But then...
+Por um momento pensei em fingir que eu tinha saído. Ou pedir para que ele voltasse uma outra hora. Mas então...
+
+[HEADER 00001C86]
+#Come in...
+Entre...
+
+[HEADER 00810129]
+#Hello, George.
+Olá, George.
+
+[HEADER 0081012A]
+#So where did you stay last night?
+Então, onde ficou na noite passada?
+
+[HEADER 0081012B]
+#At MacDevitts. I got to drinking with Doyle and a couple of the guys.
+No MacDevitts. Fiquei bebendo com o Doyle e mais dois caras.
+
+[HEADER 0081012C]
+#That explains why you look so ill today. Did you get any sleep at all?
+Isso explica essa sua cara. Você chegou a dormir pelo menos? 
+
+[HEADER 0081012D]
+#Not much. I had to share the room with another guy.
+Não muito. Eu tive que dividir o quarto com outro cara.
+
+[HEADER 0081012E]
+#Did he snore?
+Ele roncava?
+
+[HEADER 0081012F]
+#Hardly - he was dead.
+Difícil, ele estava morto.
+
+[HEADER 00810130]
+#Then Leary woke me in the middle of the night to help bail out the cellar.
+Então o Leary me acordou no meio da noite para ajudá-lo a secar o porão.
+
+[HEADER 00810131]
+#The cellar was flooded?
+O porão inundou?
+
+[HEADER 00810132]
+#Yeah. Some idiot had left the faucet running...
+Sim. Algum idiota deixou a torneira aberta...
+
+[HEADER 00810133]
+#And you say Peagram has disappeared?
+E você disse que o Peagram desapareceu?
+
+[HEADER 00810134]
+#Without a trace. But my visit wasn't a complete waste of time...
+Sem deixar rastros. Mas a minha visita não foi uma completa perda de tempo...
+
+[HEADER 00810135]
+#Peagram's gem!
+A gema do Peagram!
+
+[HEADER 00810136]
+#The Templars' gem.
+A gema dos Templários.
+
+[HEADER 00810137]
+#Whoever Jacques Marquet is, he's in for a disappointment.
+Quem quer que seja Jacques Marquet, vai ficar muito desapontado. 
+
+[HEADER 00810138]
+Jacques Marquet?
+
+[HEADER 00810139]
+#He's the guy who should have collected the gem from Fitzgerald.
+Ele é o cara que devia ter pego a gema com o Fitzgerald.
+
+[HEADER 00810142]
+#What are your plans?
+Quais são seus planos?
+
+[HEADER 00810143]
+#I want to find out who, what, or where Montfauçon was.
+Quero descobrir quem, o que, ou onde fica Montfauçon.
+
+[HEADER 00810144]
+#All I've got to go by is the name and a picture of a hanged man...
+Mas, por enquanto, tudo o que tenho é o nome e uma imagem de um homem enforcado...
+
+[HEADER 00810383]
+#Look, Nico - a handful of plaster.
+Olhe, Nico, um punhado de gesso.
+
+[HEADER 00810384]
+#Yeah. Why is it that men never really grow up?
+Legal. Por que os homens nunca crescem de verdade?
+
+[HEADER 00810385]
+#What's your problem, sister?
+Qual o seu problema, Nico?
+
+[HEADER 00810386]
+#Your pockets. Stuffed with useless junk, like a little boy's...
+Seus bolsos. Cheios de coisas inúteis, como os de uma criancinha...
+
+[HEADER 00810387]
+#You never know when useless junk might come in handy.
+Nunca se sabe quando uma coisa inútil será útil.
+
+[HEADER 00810388]
+#Yeah - you showed me.
+É, você já me mostrou.
+
+[HEADER 00810328]
+#Do you want to look after the gem?
+Você quer cuidar da gema?
+
+[HEADER 00810329]
+#No, George. I'd be too tempted to sell it.
+Não, George, senão vou acabar querendo vendê-la.
+
+[HEADER 00810326]
+#Do you want this photograph back?
+Você quer de volta esta fotografia?
+
+[HEADER 00810327]
+#No, you keep it. I can always make another print.
+Não, fique com ela. Eu sempre posso fazer uma nova cópia.
+
+[HEADER 008102CD]
+#I can't sit here all day, much as I'd like to...
+Por mais que eu goste, não posso passar o dia sentado aqui...
+
+[HEADER 008102CF]
+#And why don't you see if Rosso has heard anything?
+E por que não vai ver se o Rosso descobriu alguma coisa?
+
+[HEADER 008102D0]
+#Okay. Anything else I can do for you while I'm out?
+Certo. Mais alguma coisa que posso fazer por você enquanto eu estiver fora?
+
+[HEADER 008102D1]
+#Shopping? A trip to the laundromat?
+Compras? Uma ida à lavanderia?
+
+[HEADER 008102D2]
+#Just take care of yourself.
+Apenas se cuide.
+
+[HEADER 00001C87]
+#I so much wanted to talk to George about everything that had happened.  But I knew I never could.
+Queria tanto falar com o George sobre tudo o que aconteceu. Mas eu sabia que nunca poderia fazer isso.
+
+[HEADER 00001C88]
+#My father's connection to Africa would have to remain a secret for ever.
+A conexão do meu pai com a África devem ficar em segredo para sempre.
+
+[HEADER 00000D07]
+#His bravery would be known only to the government - and to me.
+A sua bravura será conhecida apenas pelo governo. E por mim.
+
+[HEADER 00001C89]
+#Revealing it would just damage his memory.  People would take the story - and twist it.
+Revelar isso apenas arruinaria sua memória. As pessoas pegariam a história... e a distorceriam.
+
+[HEADER 00001C8A]
+#Before long, he would be the villain and Carchon would be the hero.
+Depois de um tempo, ele seria o vilão e Carchon o herói.
+
+[HEADER 00000D08]
+#I know how they do that.  I'm a journalist.
+Sei bem como fazem isso. Sou uma jornalista.
+
+[HEADER 00810069]
+#George! Welcome back!
+George! Seja bem-vindo!
+
+[HEADER 0081006A]
+#Come in, George. It's good to see you again.
+Entre, George. É bom vê-lo outra vez.
+
+[HEADER 0081006B]
+#Is it?
+É?
+
+[HEADER 0081006C]
+#Sure! What did you find in Spain?
+Claro! O que descobriu na Espanha?
+
+[HEADER 0081006D]
+#Without André we wouldn't have got this far, George.
+Sem a ajuda do André, nunca teríamos chegado tão longe, George.
+
+[HEADER 0081006E]
+#Yeah, I know.
+É, eu sei.
+
+[HEADER 0081006F]
+#The clues led to an underground chamber at the bottom of a well.
+As pistas levaram para uma câmara subterrânea no fundo de um poço.
+
+[HEADER 00810070]
+#The Templars had left a tapestry, showing a chess board.
+Os Templários deixaram uma tapeçaria, mostrando um tabuleiro de xadrez.
+
+[HEADER 00810071]
+#The white pieces were vastly outnumbered.
+As peças brancas estavam em número bastante superior.
+
+[HEADER 00810072]
+#There was a stream running across the board, and a Templar knight on a horse.
+Havia um desenho cruzando o tabuleiro e um cavaleiro Templário sobre um cavalo.
+
+[HEADER 00810073]
+#Does it mean anything to you, André?
+Isso significa algo para você, André?
+
+[HEADER 00810074]
+#No... nothing.
+Não... nada.
+
+[HEADER 00810075]
+#Maybe we should tell André what else you found, George.
+Talvez devêssemos dizer ao André o que mais você descobriu, George.
+
+[HEADER 00810076]
+#There's a map and a Latin inscription...
+Havia um mapa e uma inscrição em latim...
+
+[HEADER 00810077]
+#`To the West, at the edge of the world'.
+`Ao Oeste, nos confins do mundo.'
+
+[HEADER 00810078]
+#George found that in a cave in Syria.
+O George descobriu isso em uma caverna na Síria.
+
+[HEADER 00810079]
+#Yeah, where the Assassin almost killed me.
+Sim, onde o Assassino quase me matou.
+
+[HEADER 0081007A]
+#Then we've got the burning of Jacques de Molay, and the date: Thirteen-fourteen.
+Em seguida, temos Jacques de Molay sendo queimado e uma data, 1314.
+
+[HEADER 0081007B]
+#From the window of the church in Montfauçon Square.
+Isso na janela da igreja na Praça de Montfauçon.
+
+[HEADER 0081007C]
+#One of the few places where nobody tried to kill me.
+Um dos poucos lugares que ninguém tentou me matar.
+
+[HEADER 0081007D]
+#Then we have the image of a church that George found at the excavation.
+Também temos a imagem de uma igreja que o George descobriu na escavação.
+
+[HEADER 0081007E]
+#I don't recall anyone trying to kill you there either, George.
+Não me lembro de ninguém tentar matá-lo lá também, George.
+
+[HEADER 0081007F]
+#And finally we have the tapestry in Spain.
+E finalmente temos a tapeçaria na Espanha.
+
+[HEADER 00810080]
+#Did I mention I almost got killed there?
+Já disse que quase morri lá?
+
+[HEADER 00810081]
+#Not yet, but I'm sure you're about to...
+Ainda não, mas tenho certeza de que vai fazer isso...
+
+[HEADER 00810082]
+#It was only my cat-like reflexes that saved me from certain death!
+Foi graças aos meus reflexos de ninja que eu escapei da morte certa!
+
+[HEADER 00810083]
+#Cat-like reflexes, eh?
+Reflexos de ninja, é?
+
+[HEADER 00810084]
+#And while I was risking life and limb where were you, André?
+E enquanto eu arriscava minha pele, onde você estava, André?
+
+[HEADER 00810085]
+#Getting your glasses fogged up over an Etruscan vase?
+Se divertindo com um vaso etrusco?
+
+[HEADER 00810086]
+#That's enough, boys. Can we get back to saving the world?
+Agora chega, meninos. Podemos continuar salvando o mundo?
+
+[HEADER 00810087]
+#Of course. My apologies.
+É claro. Desculpe-me.
+
+[HEADER 00810088]
+#He started it.
+Ele quem começou.
+
+[HEADER 00810089]
+#Well, the Latin phrase are the words of Julius Caesar.
+Bem, a frase em latim são palavras de Júlio César.
+
+[HEADER 0081008A]
+#He was describing the Island of Britain.
+Ele estava descrevendo a Ilha da Bretanha.
+
+[HEADER 0081008B]
+#Are you sure? The map didn't look much like Britain...
+Tem certeza? O mapa não parecia muito com a Bretanha...
+
+[HEADER 0081008C]
+#How come Caesar described Britain as being at the edge of the world?
+Por que César descreveu a Bretanha como sendo um dos confins do mundo?
+
+[HEADER 0081008D]
+#To the Romans, the Mediterranean was the centre of the universe.
+Para os romanos, o Mediterrâneo era o centro do universo.
+
+[HEADER 0081008E]
+#Britain was a remote, unfriendly place, inhabited by blue-painted savages.
+A Bretanha era um lugar remoto e hostil, habitado por selvagens pintados de azul. 
+
+[HEADER 0081008F]
+#It hasn't changed much...
+Não mudou muito...
+
+[HEADER 00810090]
+#They've stopped painting themselves blue.
+Eles pararam de se pintar de azul.
+
+[HEADER 00810091]
+#Except when they go to a football match...
+Exceto quando vão a uma partida de futebol...
+
+[HEADER 00810092]
+#They used an extract from a plant called woad - Isatis Tinctoia.
+Eles usavam um extrato de uma planta chamada pastel-de-tintureiro, Isatis tinctoia.
+
+[HEADER 00810093]
+#The Scots were using it until fairly recently in their wars with the English.
+Os escoceses usavam-na até recentemente, nas guerras contra os ingleses.
+
+[HEADER 00810094]
+#Fairly recently? I don't recall the Scots being at war with the English!
+Recentemente? Não me lembro dos escoceses terem entrado em guerra contra os ingleses!
+
+[HEADER 00810095]
+#How recently are you talking about?
+De que época estamos falando?
+
+[HEADER 00810096]
+#I believe William Wallace's men used it in the thirteenth century.
+Acredito que os homens de Willian Wallace usavam-na no século XIII.
+
+[HEADER 00810097]
+#They might well have been using it as late as...
+E devem ter usado mais ou menos até...
+
+[HEADER 00810098]
+#You can't remember, can you?
+Não consegue se lembrar?
+
+[HEADER 00810099]
+#...Thirteen-fourteen!
+1314!
+
+[HEADER 0081009A]
+#Oh, we're back onto that, are we?
+Ah, voltamos a essa data...
+
+[HEADER 0081009B]
+#André, what is it? What do you mean?
+André, o que foi? O que quer dizer?
+
+[HEADER 0081009C]
+#Thirteen-fourteen. In Scotland.
+1314. Na Escócia.
+
+[HEADER 0081009D]
+#The Battle of Bannockburn!
+A Batalha de Bannockburn!
+
+[HEADER 0081009E]
+#That would explain the stream on the chess board!
+Isso explicaria o desenho no tabuleiro de xadrez!
+
+[HEADER 0081009F]
+#That's what a `burn' is! Right, André? As in `Bannockburn'?
+Então aquele vitral na igreja era uma pista para nos levar até Bannockburn? 
+
+[HEADER 008100A0]
+#Right, George. And it gets better...
+Isso, George. E fica melhor...
+
+[HEADER 008100A1]
+#Tradition has it that the Scots were helped by a shock force of... well, can't you guess?
+A lenda diz que os escoceses foram ajudados por um grupo de... bem, consegue adivinhar?
+
+[HEADER 008100A2]
+#Knights Templar?
+Cavaleiros Templários?
+
+[HEADER 008100A3]
+#Yes, a group of outlawed Templars.
+Sim, um grupo de Templários fora-da-lei.
+
+[HEADER 008100A4]
+#They are said to have turned the tide for the Scots.
+É dito que eles ficaram do lado dos escoceses.
+
+[HEADER 008100A5]
+#And it all ends at a church.
+E tudo isso acaba em uma igreja.
+
+[HEADER 008100A6]
+#In the Isle of Britain, at Bannockburn, in a church.
+Na ilha da Bretanha, em Bannockburn, numa igreja.
+
+[HEADER 008100A7]
+#What are we waiting for?
+O que estamos esperando?
+
+[HEADER 008100A8]
+#I'll call a cab.
+Vou chamar um táxi.
+
+[HEADER 008100A9]
+#I can't go.
+Eu não posso ir.
+
+[HEADER 008100AA]
+#André - you've been loads of help, but...
+André, você foi de muita ajuda, mas...
+
+[HEADER 008100AB]
+#What George is trying to say, is that you shouldn't feel guilty.
+O que o George está tentando dizer é que você não deve se sentir culpado.
+
+[HEADER 008100AC]
+#I was...?
+Estou...?
+
+[HEADER 008100AD]
+#We understand - you've got commitments.
+Nós entendemos. Você tem seus compromissos.
+
+[HEADER 008100AE]
+#Listen - we have to hurry. Let's go, George...
+Escute, temos que nos apressar. Vamos, George...
+
+[HEADER 008100AF]
+#We'll see it through. Oh, and - don't worry about us.
+Cuidaremos de tudo. Ah, e... não se preocupe conosco.
+
+[HEADER 008100B2]
+#I've found out what the chalice was for...!
+Eu descobri para que o cálice servia...!
+
+[HEADER 008100B3]
+#You've solved the puzzle?
+Você resolveu o enigma?
+
+[HEADER 008100B4]
+#Yeah. There was a distorted picture at the Baphomet site.
+Sim. Havia um desenho distorcido no sítio arqueológico do Baphomet.
+
+[HEADER 008100B5]
+#When I viewed it in the polished surface of the chalice, it changed.
+Quando eu o vi no reflexo da superfície polida do cálice, ele mudou.
+
+[HEADER 008100B6]
+#What did it show?
+O que ele mostrava?
+
+[HEADER 008100B7]
+#A picture of a church with a square tower...
+Uma imagem de uma igreja com uma torre quadrada...
+
+[HEADER 00810031]
+#I solved another puzzle!
+Resolvi outro enigma!
+
+[HEADER 00810032]
+#You did?
+Resolveu?
+
+[HEADER 00810033]
+#Well - I guess I did.
+Bem, acho que sim.
+
+[HEADER 00810034]
+#Well, what was it? What's the answer?
+Bem, o que era? Qual é a resposta?
+
+[HEADER 00810035]
+#Thirteen-fourteen.
+1314.
+
+[HEADER 00810036]
+#What does that mean?
+O que isso significa?
+
+[HEADER 00810037]
+#It was the date when Jacques de Molay was burned, wasn't it?
+Foi a data em que Jacques de Molay foi queimado, não é?
+
+[HEADER 00810038]
+#Of course!
+É claro!
+
+[HEADER 00810039]
+#The answer was hidden in a stained glass window.
+A resposta estava escondida num vitral.
+
+[HEADER 0081003A]
+#When I looked through the lens, the picture changed...
+Quando eu olhei através da lente, a imagem mudou...
+
+[HEADER 0081003B]
+#It became a man surrounded by flames.
+Tornou-se um homem envolto por chamas.
+
+[HEADER 0081003C]
+#It seems to me the answers to the Templar puzzles are as cryptic as the clues...
+Me parece que as respostas aos enigmas dos Templários são tão enigmáticas quanto as pistas...
+
+[HEADER 0081003D]
+#Sometimes I wonder if the manuscript isn't an elaborate joke.
+Às vezes, penso se o manuscrito não é uma piada bem elaborada.
+
+[HEADER 0081003E]
+#The Knights Templar weren't the kind of people to play jokes, were they?
+Os Cavaleiros Templários não eram do tipo que pregariam peças, eram?
+
+[HEADER 008100C7]
+#Nico! I've seen them!
+Nico! Eu os vi!
+
+[HEADER 008100C8]
+#Who?
+Quem?
+
+[HEADER 008100C9]
+#The Templars! I spied on their meeting in the catacombs!
+Os Templários! Eu espionei o encontro deles na catacumba!
+
+[HEADER 008100CA]
+#And you saw the Knights Templar?
+E você viu os Cavaleiros Templários?
+
+[HEADER 008100CB]
+#I saw a bunch of guys masquerading as Templars.
+Eu vi um monte de caras disfarçados de Templários.
+
+[HEADER 008100CC]
+#They're after something called the Sword of Baphomet.
+Eles estavam atrás de algo chamado de a Espada de Baphomet.
+
+[HEADER 008100CD]
+#The bogus doctor was there - the guy who killed Marquet.
+O médico falso estava lá, o cara que matou o Marquet.
+
+[HEADER 008100CE]
+#The manuscript is the key, just as we thought.
+O manuscrito é a chave, como tínhamos pensado.
+
+[HEADER 008100CF]
+#It shows the way to the Broken Sword - whatever that is...
+Ele nos mostra o caminho para a Espada Quebrada, seja lá o que isso for...
+
+[HEADER 008100D0]
+#And how does the Assassin fit into all this?
+E onde o Assassino se encaixa nisso tudo?
+
+[HEADER 008100D1]
+#He's out to stop them!
+Ele quer impedi-los!
+
+[HEADER 008100D2]
+#These neo-Templars - they're men and women in influential positions.
+Esses Neo-Templários, eles são homens e mulheres influentes.
+
+[HEADER 008100D3]
+#Don't you see? Plantard was one of them!
+Você não entende? O Plantard era um deles!
+
+[HEADER 008100D4]
+#The Assassin killed him for the manuscript, to stop them finding the Sword.
+O Assassino matou ele pelo manuscrito, para impedi-los de encontrar a Espada.
+
+[HEADER 008100D5]
+#But now we've got the manuscript!
+Mas agora nós temos o manuscrito!
+
+[HEADER 008100D6]
+#Yeah.
+É.
+
+[HEADER 008100D7]
+#So how do they hope to find the Sword?
+Então, como eles esperam encontrar a Espada?
+
+[HEADER 008100D8]
+#I don't know.
+Eu não sei.
+
+[HEADER 008100D9]
+#They said something about a lens, and a guy called Klausner who's gone to Syria.
+Eles disseram algo sobre uma lente, e um cara chamado Klausner que a encontrou na Síria.
+
+[HEADER 008100DA]
+#But they didn't seem to realize the significance of the very site of their meeting!
+Mas não pareceram compreender a importância do local de encontro deles!
+
+[HEADER 008100DB]
+#You see, after they'd gone, I discovered a stone pedestal and a carved inscription.
+Veja, depois que eles se foram, eu descobri um pedestal de pedra e uma inscrição gravada.
+
+[HEADER 008100DC]
+#I set up the gem on the tripod, directly below a beam of light.
+Eu coloquei a gema no tripé diretamente sob um raio de luz.
+
+[HEADER 008100DD]
+#The gem split the beam, and lit the letters M-A-R-I-B.
+A gema dividiu o raio, que iluminou as letras M-A-R-I-B.
+
+[HEADER 008100DE]
+#Marib is a village in Syria.
+Marib é um vilarejo na Síria.
+
+[HEADER 008100DF]
+#Then the Neo-Templars are ahead of us. Klausner beat me to it.
+Então os Neo-Templários estão na nossa frente. O Klausner está lá.
+
+[HEADER 008100E0]
+#You're not thinking of going there yourself, are you?
+Você não está pensando em ir até lá, está?
+
+[HEADER 008100E1]
+#Why not?
+Por que não?
+
+[HEADER 008100E2]
+#These guys are crazy - and dangerous.
+Esses caras são loucos, e perigosos.
+
+[HEADER 008100E3]
+#That reminds me - you should leave the gem here.
+Ah, isso me lembrou. Você devia deixar a gema aqui.
+
+[HEADER 008100E4]
+#Okay. What about the tripod?
+Certo. E o tripé?
+
+[HEADER 008100E5]
+#I'll send it back to André - anonymously...
+Vou devolvê-lo ao André em anonimato...
+
+[HEADER 0081004A]
+#...luckily, the canopy on Ultar's truck broke my fall.
+... felizmente, o toldo do caminhão do Ultar amorteceu minha queda.
+
+[HEADER 0081004B]
+#Thank goodness for that.
+Nossa, que sorte. Graças a Deus.
+
+[HEADER 0081004C]
+#The worst part of the experience was Ultar's driving.
+A pior parte da experiência foi ter que aguentar o Ultar dirigindo.
+
+[HEADER 0081004D]
+#What about the lens? Is it still in one piece?
+E a lente? Ainda está inteira?
+
+[HEADER 0081004E]
+#Oh, yes.
+Ah, sim.
+
+[HEADER 0081004F]
+#Well, it's good to see you again, George.
+Bem, é bom ver você outra vez, George.
+
+[HEADER 00810050]
+#Really? I must say, I'd have enjoyed Syria a lot more if you'd been there...
+Sério? Devo dizer que eu teria gostado muito mais da Síria se você estivesse lá...
+
+[HEADER 00810051]
+#I wouldn't have been much help. Anyway - you did just fine on your own.
+Eu não teria sido de muita ajuda. Você se virou bem sozinho mesmo.
+
+[HEADER 0081005B]
+#So the curse of the de Vasconcellos is lifted...
+Então a maldição dos de Vasconcellos acabou...
+
+[HEADER 0081005C]
+#Oh, no. The Countess was thrilled to find the lost chalice...
+Ah, não. A Condessa ficou entusiasmada com a descoberta do cálice perdido...
+
+[HEADER 0081005D]
+#...but there's still the riddle of the missing knight.
+... mas ainda há o mistério do cavaleiro perdido.
+
+[HEADER 0081005E]
+#Well, you can forget about that now and get back to finding the Templar's secret.
+Bem, você pode esquecer sobre isso agora e se dedicar ao segredo dos Templários.
+
+[HEADER 0081005F]
+#Uh... actually, I promised the Countess I'd find Don Carlos.
+Uh... na verdade, eu prometi à Condessa que encontraria Don Carlos.
+
+[HEADER 00810060]
+#You what?
+Você o quê?
+
+[HEADER 00810061]
+#I can explain everything...
+Eu posso explicar...
+
+[HEADER 00810062]
+#You've got the hots for a withered old Spanish aristocrat...!
+Você se apaixonou por uma aristocrata espanhola velha e sem vida...!
+
+[HEADER 00810063]
+#The Countess entrusted me with the chalice, and the quest for her ancestor's tomb.
+A Condessa me confiou o cálice e a missão de descobrir o túmulo de seu antepassado.
+
+[HEADER 00810064]
+#You're as crazy as she is! Haven't you got enough problems - Khan and the Templars...?
+Você é tão louco quanto ela! Já não tem problemas suficientes, como Khan e os Templários...?
+
+[HEADER 00810065]
+#It's all part of the same thing. The chalice is important, I'm sure.
+É tudo parte de um mesmo negócio. O cálice é importante, tenho certeza.
+
+[HEADER 00810066]
+#The manuscript pointed us to the knight, and I have to find him.
+O manuscrito nos apontava para o cavaleiro, e eu tenho que encontrá-lo.
+
+[HEADER 00810067]
+#What then?
+E depois?
+
+[HEADER 00810068]
+#I don't know. But when the knight and the chalice are reunited, maybe I will.
+Não sei. Mas quando o cavaleiro e o cálice estiverem reunidos, talvez eu saiba.
+
+[HEADER 008100F0]
+#...and when I woke up I was at the police station.
+... e quando eu acordei, estava na delegacia.
+
+[HEADER 008100F1]
+#Luckily, I managed to persuade Rosso I was innocent.
+Felizmente, consegui convencer o Rosso de que eu era inocente.
+
+[HEADER 008100F2]
+#Poor George!
+Pobre George!
+
+[HEADER 008100F3]
+#What a mess. I bungled the whole thing!
+Que bagunça. Eu estraguei tudo!
+
+[HEADER 008100F4]
+#I don't think so. You made a pretty good job of distracting those two crooks...
+Acho que não. Você fez um bom trabalho em distrair aqueles dois bandidos...
+
+[HEADER 008100F5]
+#Yeah, but the killer got away with the tripod!
+Sim, mas o assassino fugiu com o tripé!
+
+[HEADER 008100F6]
+#No he didn't. He's not the only one who can dress up in costume...
+Fugiu não. Ele não é o único que pode vestir uma fantasia...
+
+[HEADER 008100F7]
+#You mean...?
+Não me diga que...?
+
+[HEADER 008100F8]
+#It was YOU who stole the tripod.
+Foi VOCÊ quem roubou o tripé.
+
+[HEADER 008100F9]
+#Hell, Nico - I could have been shot!
+Diabos, Nico. Eu podia ter levado um tiro!
+
+[HEADER 008100FA]
+#Those dorks were more likely to shoot their own feet.
+Era capaz daqueles imbecis acertarem os próprios pés.
+
+[HEADER 008100FB]
+#I just wish you'd told me your plans.
+Eu só queria que você tivesse me falado dos seus planos.
+
+[HEADER 008100FC]
+#We're supposed to be in this together.
+Achei que estivéssemos nisto juntos.
+
+[HEADER 008100FD]
+#And how come you dressed up like a pantomime cat?
+E como você foi se vestir como uma gata pantomímica?
+
+[HEADER 008100FE]
+#Don't sulk, Georgie, please.
+Não fique emburradinho, Georgie, por favor.
+
+[HEADER 008100FF]
+#Aw... rats! And don't call me Georgie!
+Ah... que saco! E não me chame de Georgie!
+
+[HEADER 00810100]
+#I really thought you'd be pleased - after all, we've got the tripod.
+Eu realmente pensei que você fosse ficar feliz, afinal, nós temos o tripé.
+
+[HEADER 0081037A]
+#This is the chalice I discovered in Spain...
+Este é o cálice que descobri na Espanha...
+
+[HEADER 0081037B]
+#I still can't figure why the Countess gave it to you.
+Ainda não consigo entender por que a Condessa o deu para você.
+
+[HEADER 0081037C]
+#After losing it for all those years she simply gave it away to a total stranger?
+Depois dele ficar perdido por todos esses anos, ela simplesmente o dá para um completo desconhecido?
+
+[HEADER 0081037D]
+#She's one prawn short of a paella.
+Deve estar faltando camarão na paella dela.
+
+[HEADER 0081037E]
+#The Countess is a fine lady. You shouldn't compare her with seafood.
+A Condessa é uma dama. Você não devia compará-la com frutos do mar.
+
+[HEADER 0081037F]
+#I wouldn't be surprised if there's something going on between you and that Countess...
+Eu não ficaria surpresa se estivesse ocorrendo algo entre vocês dois...
+
+[HEADER 00810380]
+#Are you serious? She's old enough to be my grandmother!
+Como assim? Ela tem idade suficente pra ser minha avó!
+
+[HEADER 00810389]
+#Look at the chalice now, Nico.
+Dê uma olhada no cálice agora, Nico.
+
+[HEADER 0081038A]
+#What happened? It's shiny!
+O que aconteceu? Está brilhando!
+
+[HEADER 0081038B]
+#The priest at Montfauçon buffed it up for me.
+O padre em Montfauçon poliu-o para mim.
+
+[HEADER 0081038C]
+#That's incredible!
+É incrível!
+
+[HEADER 0081038D]
+#Yeah - it looks as good as new.
+É, parece novinho agora.
+
+[HEADER 0081038E]
+#No - you found a use for a priest. That's incredible.
+Não, você encontrou um uso para um padre. Isso é incrível.
+
+[HEADER 0081038F]
+#Would you like to look after the chalice?
+Você quer cuidar do cálice?
+
+[HEADER 00810390]
+#Oh, no. I wouldn't feel comfortable with a sacred relic in the house.
+Ah, não. Eu não me sentiria confortável com uma relíquia sagrada em casa.
+
+[HEADER 008101D0]
+#Oh, by the way - I had a visit from André Lobineau.
+Ah, a propósito, recebi uma visita do André Lobineau.
+
+[HEADER 008101D1]
+#Oh, yeah. I hope you didn't mind me giving him your address...
+Ah, sim. Espero que não tenha se importado de eu ter dado seu endereço a ele...
+
+[HEADER 008101D2]
+#Not at all. It was lovely to see him again...
+Nem um pouco. Foi muito bom vê-lo outra vez...
+
+[HEADER 008101D3]
+#He was over the moon when I showed him the manuscript.
+Ele ficou alucinado quando lhe mostrei o manuscrito.
+
+[HEADER 008101D4]
+#It's not often he gets that excited...
+Não é sempre que ele fica assim tão animado...
+
+[HEADER 008101D5]
+#He made a sketch of the Knight's crest to take back to the museum.
+Ele fez um esboço do brasão do Cavaleiro para levar ao museu.
+
+[HEADER 008101D6]
+#I believe he's identified the family who bear that crest...
+Creio que tenha identificado a qual família o brasão pertence...
+
+[HEADER 008101D7]
+#I sure hope so.
+Assim espero.
+
+[HEADER 0081028C]
+#Is there something going on between you and Lobineau?
+Há alguma coisa acontecendo entre você e o Lobineau?
+
+[HEADER 0081028D]
+#What business is it of yours?
+E o que você tem a ver com isso?
+
+[HEADER 0081028E]
+#We agreed; all this - the Clown, the Templars - strictly business, remember?
+Nós concordamos: o Palhaço, os Templários; tudo isto, só negócios, se lembra?
+
+[HEADER 0081028F]
+#Yeah, but...
+Sim, mas...
+
+[HEADER 00810290]
+#So get off my case!
+Então não se meta onde não é chamado!
+
+[HEADER 00810284]
+#Just how long have you known Lobineau?
+A quanto tempo você conhece o Lobineau?
+
+[HEADER 00810285]
+#André? We met at college.
+André? Nós nos conhecemos na faculdade.
+
+[HEADER 00810286]
+#He helped me out when I was a fresher - showed me round, that sort of thing.
+Ele me ajudou quando eu era uma caloura; deu algumas dicas, esse tipo de coisa.
+
+[HEADER 00810287]
+#You never told me that before!
+Você nunca me disse isso antes!
+
+[HEADER 00810288]
+#I thought he was just a...a working acquaintance!
+Pensei que ele fosse apenas... um conhecido do trabalho!
+
+[HEADER 00810289]
+#So he is. I rarely see him these days.
+E é. Eu raramente o vejo hoje em dia.
+
+[HEADER 0081028A]
+#You know, he hasn't changed much - a little less hair at the front, perhaps.
+Sabe, ele não mudou muito; um pouco menos de cabelo na frente, talvez.
+
+[HEADER 0081028B]
+#I'd forgotten how much fun he could be.
+Eu tinha me esquecido de como ele podia ser divertido. 
+
+[HEADER 00810052]
+#I... uh, brought you a present from Syria.
+Eu... uh, lhe trouxe um presente da Síria.
+
+[HEADER 00810053]
+#Oh, George - you shouldn't have bothered.
+Ah, George, não precisava ter se incomodado.
+
+[HEADER 00810054]
+#What is it?
+O que é?
+
+[HEADER 00810055]
+#This.
+Isto.
+
+[HEADER 00810056]
+#A necklace? It's rather heavy...
+Um colar? É um pouco pesado...
+
+[HEADER 00810057]
+#Ethnic craftsmanship at its most rustic.
+Artesanato local. Bem rústico.
+
+[HEADER 00810058]
+#Of course. I love it.
+É claro. Adorei.
+
+[HEADER 00810059]
+#You do?
+Verdade?
+
+[HEADER 0081005A]
+#It will always remind me of you.
+Ele fará com que eu me lembre sempre de você.
+
+[HEADER 0081003F]
+#Listen - remember the missing Spanish Templar?
+Escute. Se lembra do Templário Espanhol perdido?
+
+[HEADER 00810040]
+#I found his tomb in the church at Montfauçon.
+Eu encontrei o túmulo dele na igreja em Montfauçon.
+
+[HEADER 00810041]
+#So he's dead, then?
+Então ele está morto...?
+
+[HEADER 00810042]
+#I wish you wouldn't be so sarcastic.
+Não precisa ser sarcástica.
+
+[HEADER 00810043]
+#I was only joking, George. The Countess will be delighted.
+Eu estava só brincado, George. A Condessa ficará maravilhada.
+
+[HEADER 00810044]
+#Yeah. Maybe this will help lift the curse...
+É. Talvez isso ajude a acabar com a maldição...
+
+[HEADER 00810045]
+#What now? Are you going to dig up his bones?
+E agora? Você vai escavar os ossos dele?
+
+[HEADER 00810046]
+#There's no need for that, well - not yet.
+Não será necessário. Bem, por enquanto.
+
+[HEADER 00810047]
+#What I still don't understand is the significance of the chalice...
+O que eu ainda não entendo é a importância do cálice...
+
+[HEADER 00810048]
+#Yes. There must be something we're missing.
+Sim. Devemos estar esquecendo algo.
+
+[HEADER 00810049]
+#There's no point me going back to Spain until I've found out what that is...
+Não há motivo em voltar à Espanha sem que eu descobra o que é isso...
+
+[HEADER 00810103]
+#Nothing happened.
+Nada aconteceu.
+
+[HEADER 00810104]
+#Yeah.
+É.
+
+[HEADER 00810105]
+#The gem fits perfectly, but what does that prove?
+A gema encaixou perfeitamente, mas o que isso quer dizer?
+
+[HEADER 00810106]
+#Maybe the tripod has to be in a certain location...
+Talvez o tripé tenha de estar em uma posição específica...
+
+[HEADER 00810107]
+#There's nothing on the manuscript to indicate where though, is there?
+Não há nada no manuscrito que indique o local, há?
+
+[HEADER 0081010A]
+#I found Jacques Marquet.
+Eu encontrei o Jacques Marquet.
+
+[HEADER 0081010B]
+#Did he talk?
+Ele falou?
+
+[HEADER 0081010C]
+#Yeah - he talked - for the very last time.
+Sim, falou... pela última vez.
+
+[HEADER 0081010D]
+#He's dead?
+Ele está morto?
+
+[HEADER 0081010E]
+#Yeah. Killed in cold blood by a bogus doctor!
+Sim. Assassinado a sangue frio por um falso médico!
+
+[HEADER 0081010F]
+#That's despicable.
+Isso é desprezível.
+
+[HEADER 00810110]
+#What kind of guy would pass himself off as a doctor and take advantage of a dying man?
+Que tipo de pessoa se passaria por um médico para tirar vantagem de um moribundo?
+
+[HEADER 00810111]
+#Was it Khan?
+Foi o Khan?
+
+[HEADER 00810112]
+#No. I don't know who he was, but it certainly wasn't Khan.
+Não. Eu não sei quem ele era, mas certamente não era o Khan.
+
+[HEADER 00810113]
+#He got away - out the window.
+Ele fugiu pela janela.
+
+[HEADER 008102A7]
+#Have you ever heard of the Hashy-ashin?
+Você já ouviu falar dos Hashy-ashin?
+
+[HEADER 008102A8]
+#No.
+Não.
+
+[HEADER 008102A9]
+#Marquet said that they were his biggest enemy.
+O Marquet disse que eles eram seus maiores inimigos.
+
+[HEADER 008102AA]
+#His biggest enemy was the bogus doctor.
+O maior inimigo dele foi o falso médico.
+
+[HEADER 008102AB]
+#Don't remind me! That guy was evil.
+Nem me lembre! Aquele cara era o mal em pessoa.
+
+[HEADER 008102AC]
+#He had wild, staring eyes, like a dead fish...
+Os olhos arregalados, como os de um peixe morto...
+
+[HEADER 008102AD]
+#I'll never trust a doctor again...
+Nunca mais vou confiar num médico outra vez...
+
+[HEADER 008102A2]
+#Do you think the Assassin was responsible for killing Marquet?
+Você acha que o Assassino foi o responsável por matar o Marquet?
+
+[HEADER 008102A3]
+#I don't think so. He could have finished him off the first time.
+Acho que não. Ele teria acabado com ele da primeira vez.
+
+[HEADER 008102A4]
+#Besides, Marquet would have recognized him.
+Além do que, o Marquet teria o reconhecido.
+
+[HEADER 008102A5]
+#He was pumped to the gills with sedatives.
+Ele estava até o pescoço de sedativos.
+
+[HEADER 008102A6]
+#He wouldn't have recognized the four horsemen of the Apocalypse unless they introduced themselves.
+Não reconheceria nem os quatro cavaleiros do Apocalipse sem que eles se apresentassem.
+
+[HEADER 00810391]
+#Have you any ideas what this lens might be used for?
+Você tem alguma ideia de uso para esta lente?
+
+[HEADER 00810392]
+#As a magnifying glass, obviously.
+Lente de aumento, é claro.
+
+[HEADER 008102C6]
+#I guess I better go back and talk to that weirdo.
+Acho melhor eu voltar e conversar com aquele esquisito.
+
+[HEADER 008102C7]
+#Which one? Rosso, or Sergeant Moue? Or were you referring to André?
+Qual deles? Rosso, ou o Sargento Moue? Ou estava se referindo ao André?
+
+[HEADER 008102C8]
+#I'll let you to work it out...
+Vou deixar que você mesmo descubra...
+
+[HEADER 008102B9]
+#Do you think I should go to Marib...?
+Você acha que eu devo ir para Marib...?
+
+[HEADER 008102BA]
+#Syria is a long way, George.
+É um longo caminho até a Síria, George.
+
+[HEADER 008102B5]
+#I guess I'd better return the chalice to the Countess...
+Acho melhor devolver o cálice para a Condessa...
+
+[HEADER 008102B6]
+#Hurry back, George.
+Volte logo, George.
+
+[HEADER 008102BF]
+#I'd better get back to the quest...
+É melhor voltar à busca...
+
+[HEADER 0000041A]
+#It was just some police paperwork - a search warrant.
+Era uma papelada da polícia, um mandado de busca.
+
+[HEADER 0000041B]
+#A search warrant for someone named Robert Overmann.  Not a name that I recognised.
+Um mandado de busca para alguém chamado Robert Overmann. Não é um nome que eu reconheça.
+
+[HEADER 00810178]
+#This guy named Hugues de Payen arrived one day at the court of the king of Jerusalem.
+Esse cara chamado Hugues de Payen chegou um dia na corte do rei de Jerusalém.
+
+[HEADER 00810179]
+#He offered to protect Christian pilgrims from the displaced Muslim armies.
+Ele ofereceu proteção aos peregrinos cristãos dos exércitos mulçumanos.
+
+[HEADER 0081017A]
+#The king would be able to guarantee safe transit to Christians in the Holy Land.
+O rei consegueria garantir trânsito seguro aos cristãos na Terra Sagrada.
+
+[HEADER 0081017B]
+#Safer journeys meant more pilgrims, and pilgrims meant trade and wealth!
+Jornadas mais seguras significavam mais peregrinos, e peregrinos significavam comércio e riqueza!
+
+[HEADER 0081017C]
+#The Templars proved invaluable to the king as a mercenary army.
+Os Templários se mostraram indispensáveis ao rei como um exército mercenário.
+
+[HEADER 0081017D]
+#It was said that they never asked how many the enemy numbered, just where they were.
+Dizem que eles nunca chegaram a perguntar quantos inimigos eram, apenas onde eles estavam.
+
+[HEADER 0081017E]
+#And as the years went by the Templars grew in wealth and numbers.
+E, com o passar dos anos, os Templários cresceram em número e riqueza.
+
+[HEADER 0081017F]
+#They were so rich, even kings came to them for loans.
+Eram tão ricos, que até reis vinham até eles atrás de empréstimos.
+
+[HEADER 00810180]
+#But, at the height of their power they fell foul of the king of France.
+Mas, na plenitude de seus poderes, eles entraram em conflito com o rei da França.
+
+[HEADER 00810181]
+#He rounded them up and turned them over to the Inquisition.
+Esse os prendeu e mandou para a Inquisição.
+
+[HEADER 00810182]
+#Thousands of Templars were subjected to torture and confessed to heresy.
+Milhares de Templários foram sujeitados à tortura e confessaram serem hereges.
+
+[HEADER 00810183]
+#Of course, at the hands of the Inquisition, there wasn't much they wouldn't confess to.
+É claro, nas mãos da Inquisição, não havia muita coisa a ser feita.
+
+[HEADER 00810184]
+#The last Grand Master, Jacques de Molay, was burned alive...
+O último Grão-Mestre, Jacques de Molay, foi queimado vivo...
+
+[HEADER 00810185]
+#But the treasure of the Knights Templar was never found.
+Mas o tesouro dos Cavaleiros Templários nunca foi encontrado.
+
+#Os textos abaixo estão repetidos no script 55AF896E - Hansen
+[HEADER 00000AAA]
+#Hey, did I ever tell you about the old Irish couple and the lottery?
+Ei, eu já lhe contei aquela sobre o velho casal irlandês e a loteria? 
+
+[HEADER 00000AAB]
+#No.  But I think you're going to...
+Não, mas acho que irá...
+
+[HEADER 00000AAC]
+#There's this old Irish couple.
+Há um velho casal irlândes.
+
+[HEADER 00000AAD]
+#They've been married forever - like fifty years, and they win the lottery.
+Eles estão casados há muito tempo, uns cinquenta anos, e ganharam na loteria. 
+
+[HEADER 00000AAE]
+#And they think, what are we going to do?
+Então pensaram: 'O que faremos?'
+
+[HEADER 00000AAF]
+#They give some money away, but they decide to have themselves a holiday in Paris.
+Eles doaram um pouco, mas acabaram decidindo tirar férias em Paris.
+
+[HEADER 00000AB0]
+#So they fly off to Paris, first class.
+Então voaram até o destino. Primeira classe.
+
+[HEADER 00000AB1]
+#They stay in a beautiful hotel, and one day they go up the Eiffel Tower.
+Eles ficaram num lindo hotel, e um dia subiram a Torre Eiffel.
+
+[HEADER 00000AB2]
+#They get all the way up to the top and find themselves up there alone with two hippies.
+Então seguiram até o topo e se encontraram sozinhos com dois hippies.
+
+[HEADER 00000AB3]
+#The two hippies have long hair, beards, long robes.
+Eles tinham cabelos longos, barbas e longos mantos.
+
+[HEADER 00000AB4]
+#As they're looking at them, suddenly one of the hippies gets up on top of the guard rail and jumps.
+Enquanto os observavam, de repente um dos hippies subiu na grade de segurança e pulou.
+
+[HEADER 00000AB5]
+#Just before he hits the ground he waves his arms and flies all the way back up again.
+Pouco antes de atingir o chão, ele balançou os braços e voou de volta ao topo de novo.
+
+[HEADER 00000AB6]
+#The couple have never seen anything like this before in their lives. They can't believe what they have just seen.
+O casal nunca havia visto algo assim antes em sua vida. Eles não conseguiam acreditar no que tinham visto.
+
+[HEADER 00000AB7]
+#The hippy had just jumped off, just before he hit the ground he flapped his arms and up he came.
+O hippie tinha acabado de pular, e, pouco antes de atingir o chão, bateu os braços e voltou ao topo.
+
+[HEADER 00000AB8]
+#They walk over to him and say 'excuse me Sir, Good God, how did you do that?'
+Eles andaram até ele e disseram: 'Com licença, senhor. Minha nossa, como fez aquilo?'
+
+[HEADER 00000AB9]
+#'It's really easy, man, it's really easy. You jump, empty your mind...
+'É bem fácil, bixo, bem fácil. Você pula, esvazia sua mente...'
+
+[HEADER 00000ABA]
+#'... and just before you hit the pavement, you waive your arms and up you come.
+'... e pouco antes de atingir a calçada, balança seus braços até chegar lá em cima.'
+
+[HEADER 00000ABB]
+#'Here, I'll show you how to do it again.'
+'Aqui, vou te mostrar como fazer isso de novo.'
+
+[HEADER 00000ABC]
+#Just before he hits the pavement, he raises his arms and up he comes again. The couple can't believe it.
+Pouco antes de atingir a calçada, ele levantou os braços até chegar ao topo de novo. O casal mal conseguia acreditar.
+
+[HEADER 00000ABD]
+#'Come on you can try it, man. You come on up. You'll be fine. You can do it.'
+'Vamos lá, você consegue, bixo. Suba. Vai ficar tudo bem. Você consegue.'
+
+[HEADER 00000ABE]
+#So the old fellow and the old lady get up there.
+Então o velho companheiro e a senhora subiram lá.
+
+[HEADER 00000ABF]
+#And they say 'So when we jump, we'll go all the way down, and just before - we flap our arms...'.
+E eles disseram 'Então quando pularmos, iremos ir lá para baixo e, pouco antes, batemos os braços...'
+
+[HEADER 00000AC0]
+#'You come straight back up again - it's really easy. Go ahead give it a try.'
+'E volta pra cima de novo. É bem fácil. Vá em frente e tente.'
+
+[HEADER 00000AC1]
+#The old Irish couple jump. Just before they hit the pavement they start flapping their arms.
+O velho casal irlândes pulou. Pouco antes de atingir a calçada, eles começaram a bater os braços.
+
+[HEADER 00000AC2]
+#Nothing. Bang. Irish stew on the pavement. It's all over.
+Nada. Plaft. Guisado irlândes na calçada. Tudo acabado.
+
+[HEADER 00000AC3]
+#One hippie, who hasn't said a word, turns to the other and say:
+O hippie que não tinha dito uma palavra virou para o outro e disse:
+
+[HEADER 00000AC4]
+#'You know Gabriel, for an Archangel, you can be a real son of a bitch.'
+'Sabe, Gabriel, para um arcanjo, você consegue ser um tremendo filho da puta.'  

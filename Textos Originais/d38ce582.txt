@@ -1,0 +1,681 @@
+[HEADER 000036B0]
+Where should I go next?
+
+[HEADER 000036BA]
+Try going back to the café - maybe the police missed something.
+
+[HEADER 000036C4]
+To leave Nico's street, walk to the left until the exit arrow is displayed. Select it, and you'll see a map of Paris. Select 'Café de la Chandelle Verte'.
+
+[HEADER 000036CE]
+I'm back in Nico's apartment. What now?
+
+[HEADER 000036D8]
+Maybe someone phoned while you were out?
+
+[HEADER 000036E2]
+Operate the answering machine which is on the shelves at the back of the room on the left.
+
+[HEADER 000036EC]
+I'm back in the apartment. So what now?
+
+[HEADER 000036F6]
+When you opened the chest, did you spot anything else?
+
+[HEADER 00003700]
+Check out that elephant box. Does the elephant remind you of anything?
+
+[HEADER 0000370A]
+Use the key from Imelda's locket to open the box, and check out all the contents.
+
+[HEADER 00002B3E]
+I'm having problems cracking this cipher.
+
+[HEADER 00002B03]
+Look for the one or two letter words and try out 'A' or 'I' or 'IN' or 'OF' or 'TO' or 'BY' etc.  If you guess right, then some of the 3 or 4 letter words will now become clear.
+
+[HEADER 00002B04]
+The letter 'E' is very common.  Find the most common glyph and try inserting an 'E' in its place.
+
+[HEADER 00002B05]
+The first word is PIERRE - that will give you four correct letters.
+
+[HEADER 00002B06]
+The first words are PIERRE. FULL REPORT TO FOLLOW.
+
+[HEADER 00001B58]
+I was on a high:  I'd written the best piece of my whole life.
+
+[HEADER 00001B59]
+It tied Carchon's death to the other murders.
+
+[HEADER 00001B5A]
+And exposed Carchon's brutal past.
+
+[HEADER 00001B5B]
+The presses would be rolling now - with my name on the front page.
+
+[HEADER 00001B5C]
+Bonsoir, Collard.
+
+[HEADER 00001B5D]
+Nico. It's Ronnie.
+
+[HEADER 00001B5E]
+Hey, Ronnie.  You cracked open the champagne yet?
+
+[HEADER 00001B5F]
+Are you crazy?
+
+[HEADER 00001B60]
+What's wrong?  Wait a minute - you didn't print it, did you...
+
+[HEADER 00001B61]
+Course I didn't print!
+
+[HEADER 00001B62]
+That's the best piece I've written -
+
+[HEADER 00001B63]
+The last, as far as I'm concerned.
+
+[HEADER 00001B64]
+It's important -
+
+[HEADER 00001B65]
+It's suicidal.  You can't destroy a national hero.
+
+[HEADER 00001B66]
+He deserved it.
+
+[HEADER 00001B67]
+His corpse isn't even cold!
+
+[HEADER 00001B68]
+Ronnie.  Two hours ago I told you what I'd found - and you loved it.
+
+[HEADER 00001B69]
+You begged me to write it up immediately.
+
+[HEADER 00001B6A]
+Two hours is a long time in newspapers, Nico.
+
+[HEADER 00001B6B]
+Someone's got to you - haven't they?
+
+[HEADER 00001B6C]
+Listen up, Nicole.  And listen good. Pierre Carchon had a lot of friends.
+
+[HEADER 00001B6D]
+Powerful friends.  For your own sake -
+
+[HEADER 00001B6E]
+Forget what happened?
+
+[HEADER 00001B6F]
+You got it.  End of conversation.  Goodnight.
+
+[HEADER 00001B70]
+This should have been my big break.
+
+[HEADER 00001B71]
+But I knew there was nowhere else to sell the story - if Ronnie wouldn't print it, nobody would.
+
+[HEADER 00001B72]
+Bonsoir, Collard.
+
+[HEADER 00001B73]
+Mademoiselle Collard.  My name is Plantard. I need to talk to you about your story.
+
+[HEADER 00001B74]
+Your... Pierre Carchon story.
+
+[HEADER 00001B75]
+How do you know about that - ?
+
+[HEADER 00001B76]
+There are people out there Madame who will be very... upset... by this story.
+
+[HEADER 00001B77]
+Oh really?  Well, it's their lucky day - it's been spiked.
+
+[HEADER 00001B78]
+Yes, I know.  We must meet.
+
+[HEADER 00001B79]
+We must?
+
+[HEADER 00001B7A]
+I have information relating to your Costume Killer stories.
+
+[HEADER 00001B7B]
+Tomorrow morning. 8am. Café de la Chandelle Verte, Rue Alain Corre.
+
+[HEADER 00001B7C]
+I shall be wearing a grey overcoat.
+
+[HEADER 00001B7D]
+You must talk to no-one about this.
+
+[HEADER 00001B7E]
+You can't tell me what to...
+
+[HEADER 00001B7F]
+Tomorrow at eight. I'll be waiting.
+
+[HEADER 00001B80]
+People complain about newspaper articles all the time.
+
+[HEADER 00001B81]
+But not usually before they're printed. I was beginning to feel scared.
+
+[HEADER 00001B82]
+This guy Plantard...  Could I trust him?
+
+[HEADER 00001B83]
+Should I meet him, or forget the whole business?
+
+[HEADER 00001B84]
+I didn't have an answer.
+
+[HEADER 00001B93]
+So - where had my pretty new cousin hidden her little bug eh?
+
+[HEADER 00001B94]
+I was going to have to search everywhere.
+
+[HEADER 00001B91]
+It wasn't much of a door - as long as it wasn't damp, anyone could break in.
+
+[HEADER 00001B92]
+My landlord had an open door policy.  He'd made all our doors easy to open.
+
+[HEADER 00001BBC]
+It was my neighbour, the so-called psychic.
+
+[HEADER 00001BBD]
+Mam'selle Collard!
+
+[HEADER 00001BBE]
+Oh... hello there.  Don't tell me - I'm going to meet a tall dark man.
+
+[HEADER 00001BBF]
+No... I don't think so... Why would you say that?
+
+[HEADER 00001BC0]
+Oh - just a wild guess.
+
+[HEADER 00001BC1]
+Hmm.  Anyway.  Your cousin's female - and very pretty.
+
+[HEADER 00001BC2]
+What?!
+
+[HEADER 00001BC3]
+Your cousin - from Marseille. How could you forget her so soon?
+
+[HEADER 00001BC4]
+She was only in your apartment yesterday.
+
+[HEADER 00001BC5]
+Oh really...
+
+[HEADER 00001BC6]
+Such a charming young girl.
+
+[HEADER 00001BC7]
+Isn't she.  And in my apartment, you say...
+
+[HEADER 00001BC8]
+She let herself in of course.  She's got a key.
+
+[HEADER 00001BC9]
+Bonjour.
+
+[HEADER 00001BCA]
+Bonjour, Mam'selle!
+
+[HEADER 00001BCB]
+I suppose she'd forgotten which apartment was mine?
+
+[HEADER 00001BCC]
+Ooh miss Collard you're a mind-reader.  That's just what she said!
+
+[HEADER 00001BCD]
+I bet it was.  Well, I'd better be going - see what my sweet cousin's been getting up to...
+
+[HEADER 00001BCE]
+Au revoir, Mam'selle.
+
+[HEADER 00001BCF]
+Suddenly everything made sense.  My apartment had been bugged.
+
+[HEADER 00001BD0]
+That was how Plantard knew all about my article.
+
+[HEADER 00001BD1]
+How did I know?
+
+[HEADER 00001BD2]
+Because the only cousin I have is a sweet little guy called Jean-Marc who runs a patisserie in Le Touquet...
+
+[HEADER 00001BD3]
+These people were determined:  which meant they were also very dangerous.
+
+[HEADER 00001BD4]
+The woman who claimed to be my cousin - could you describe her again?
+
+[HEADER 00001BD5]
+Well... she was your height. Had hair... lighter than yours.  But otherwise, she was very like you.
+
+[HEADER 00000D04]
+But with impeccable manners of course.
+
+[HEADER 00001BD6]
+I bet.
+
+[HEADER 00001BD7]
+I don't suppose you've seen my dear cousin again, have you?
+
+[HEADER 00001BD8]
+No.  Of course, I couldn't be certain.
+
+[HEADER 00001BD9]
+I'm not the sort that spends the time gossiping and spying on the neighbours you know.
+
+[HEADER 00001BDA]
+As I said, I don't think so.
+
+[HEADER 00001BDB]
+Au revoir.
+
+[HEADER 00001BDC]
+What do you think of my hairclip?
+
+[HEADER 00001BDD]
+Very nice. One day I may be able to afford one of those Mademoiselle.
+
+[HEADER 00001BDE]
+I took this stone cylinder from a safe.
+
+[HEADER 00001BDF]
+Hmm, interesting.  Let me give you a word of advice:
+
+[HEADER 00001BF6]
+if you ever want to know what is written on it,
+
+[HEADER 00001BF7]
+you should smear it with paint and then roll it on paper.
+
+[HEADER 00001BF8]
+What?!
+
+[HEADER 00001BF9]
+It is a gift Mam'selle.  I never question it.
+
+[HEADER 00001BE0]
+I don't suppose you're any good at unravelling codes?
+
+[HEADER 00001BE1]
+My beautiful grandmother was a cryptologist for the Resistance, but all I inherited were her good looks.
+
+[HEADER 00001BE2]
+What do you think of this shell case?
+
+[HEADER 00001BE3]
+I think whoever stopped that one must have a sore bottom.
+
+[HEADER 00001BE4]
+Have you ever seen an artefact like this before?
+
+[HEADER 00001BE5]
+Mademoiselle it is no wonder you do not have a boyfriend if this is how you make conversation.
+
+[HEADER 00001BE6]
+Do you know anything about this boat ticket?
+
+[HEADER 00001BE7]
+No mademoiselle.  I am not a tourist office.
+
+[HEADER 00001BEA]
+Take a look at this cloth.
+
+[HEADER 00001BEB]
+It looks expensive.  Did you steal it?
+
+[HEADER 00001C04]
+Uh well... No, of course not!
+
+[HEADER 00001BE8]
+Take a look at this cloth.
+
+[HEADER 00001BE9]
+It was once very beautiful.
+
+[HEADER 00001C02]
+Shame some idiot got paint all over it.
+
+[HEADER 00001C03]
+I know. People have no respect these days, do they?
+
+[HEADER 00001BEC]
+Look at this tube of paint.
+
+[HEADER 00001BED]
+You don't get out much, Mademoiselle, do you...
+
+[HEADER 00001BEE]
+Ever seen a safe key like this?
+
+[HEADER 00001BEF]
+In my business I don't come across many safes.
+
+[HEADER 00001BF0]
+What do you think of this carving?
+
+[HEADER 00001BF1]
+It's nice.  But I wouldn't flash it round this neighbourhood.
+
+[HEADER 00001BF3]
+It wouldn't be sensible to let her know about Carchon.
+
+[HEADER 00001BFD]
+What do make of this message?
+
+[HEADER 00001BFE]
+It will take you on a journey... that begins where it ends...
+
+[HEADER 00001BFF]
+... in laughter and in tears... in sadness and in joy.
+
+[HEADER 00001C00]
+You got all that from this paper?
+
+[HEADER 00001C01]
+No.  It's from a song I heard it on the radio this morning.
+
+[HEADER 00001BF4]
+What do you think of this leather pouch?
+
+[HEADER 00001BF5]
+Hmm.  With a little work, it could make rather a nice hat.
+
+[HEADER 00001B8A]
+Look, why don't you come here, to my apartment, later this afternoon?
+
+[HEADER 005A00C1]
+Fine. Where do you live?
+
+[HEADER 005A00C2]
+Three-six-one, Rue Jarry.
+
+[HEADER 005A00C3]
+Okay. I'll come over.
+
+[HEADER 00001B8B]
+I was used to working alone. But I had to admit - it felt good with George on the case too.
+
+[HEADER 00001B8C]
+But there were some things I was going to have to do alone - and fast.
+
+[HEADER 00001B8D]
+I needed the answers to some questions.  Who was the Costume Killer - and why did he murder Carchon?
+
+[HEADER 00001B8E]
+Why did Carchon ask for me to interview him?  How did he know my father? And why was my editor so scared?
+
+[HEADER 00001B8F]
+There was some kind of secret war going on out there - but who was on which side?
+
+[HEADER 00001B90]
+One thing I did know - I wasn't going to get the answers sitting at my desk...
+
+[HEADER 00001B96]
+No bug.  Just a 20 year old piece of gum.
+
+[HEADER 00001B97]
+No bug.
+
+[HEADER 00001B95]
+My old table had seen better days.  I was beginning to know how it felt.
+
+[HEADER 00001B99]
+The phone was the obvious place to look for a bug...
+
+[HEADER 00001B9A]
+...but this handset hadn't been opened for years. Besides, they would have just bugged the line.
+
+[HEADER 00001B98]
+I was beginning to hate the phone.  All it brought me was bad news.
+
+[HEADER 00001B9B]
+There wasn't anyone that I needed to call.
+
+[HEADER 00001B9C]
+No messages for me.
+
+[HEADER 00001B9D]
+No one had hidden a bug on the machine.
+
+[HEADER 00001B9E]
+You have - no - messages.
+
+[HEADER 00001B9F]
+It was a photograph of my father.
+
+[HEADER 00001BA0]
+The first one I ever took - with the first camera he ever bought me.
+
+[HEADER 00001BA1]
+They hadn't placed the bug on the photo.
+
+[HEADER 00001BA2]
+My first teddy. Never had a boyfriend as loyal as him...
+
+[HEADER 00001BA3]
+Undisturbed. No bugs there.
+
+[HEADER 00001BA4]
+A chest containing all my valuables - it was pretty empty.
+
+[HEADER 00001BA5]
+The elephant on the lid was a perfect match to Carchon's.
+
+[HEADER 00001BA6]
+No bug here.
+
+[HEADER 00001C54]
+I took out the key.
+
+[HEADER 00001C55]
+I couldn't believe it.  Imelda's key opened my father's box.
+
+[HEADER 00001C56]
+I dreaded what I was going to find inside.
+
+[HEADER 00001D0A]
+I couldn't do anything with that...
+
+[HEADER 00001BA7]
+The box was one of the few things my father left me.
+
+[HEADER 00001BA8]
+But that small metal disk tucked underneath it in the chest was a recent addition.
+
+[HEADER 00001BA9]
+The box was carved by my father - it never had a key.
+
+[HEADER 00001BAA]
+A small, sinister looking metal disk had been tucked under my father's box.
+
+[HEADER 00001BAB]
+Oh!  Chère cousine! You left me a little present.  You shouldn't have...
+
+[HEADER 00001BAC]
+You don't scare me!  Espèce de...!
+
+[HEADER 00001BAD]
+I decided to head back to the café.  Maybe the cops had missed something.
+
+[HEADER 00001BAE]
+It wouldn't be the first time...
+
+[HEADER 00001C20]
+I had messages waiting to be played.
+
+[HEADER 00001C21]
+You have - three - messages.
+
+[HEADER 00001C22]
+Hey Collard.  It's me - your favourite editor.
+
+[HEADER 00001C23]
+And guess what? I'm gonna give you a second chance.  I need somebody to write the TV column.
+
+[HEADER 00001C24]
+Pay's lousy - so what's new?  If you're interested drop by the office.  In fact...
+
+[HEADER 00001C25]
+...drop by the office anyway.  We have to talk, Nico.
+
+[HEADER 00001C26]
+That story of yours I spiked - it won't go away.
+
+[HEADER 00001C27]
+You've made some dangerous enemies out there...
+
+[HEADER 00001C29]
+Hey Nico - it's your old pal - I mean your new pal - George!
+
+[HEADER 00001C2A]
+Whoa - Ireland!  It's a whole different country!
+
+[HEADER 00001C2B]
+And I got some amazing news for you - a gem of a story in fact...  Oh - gotta go.
+
+[HEADER 00001C2C]
+Fella here's got a drink lined up for me.  See you tomorrow Nico - Slán!
+
+[HEADER 00001C2D]
+Yep, only here for a day and I'm speaking the lingo like a local!
+
+[HEADER 00001C2E]
+Mam'selle Collard - this is Imelda Carchon.  I wanted to thank you for being so... understanding when...
+
+[HEADER 00001C2F]
+Come to lunch, why don't you? Tomorrow. I might have more news.
+
+[HEADER 00001C30]
+There is a Monsieur Moerlin coming to see me this evening.
+
+[HEADER 00001C31]
+He says he knows why Pierre was murdered.  In fact he will be here shortly.
+
+[HEADER 00001C32]
+I shall let you know what he says. Good bye, dear girl - till tomorrow!
+
+[HEADER 00001C33]
+Moerlin?!  My God. Moerlin's the killer! I'd better get over there and warn her - now!
+
+[HEADER 00001C34]
+When it came to being two-faced, Imelda was up there with the best.
+
+[HEADER 00001C35]
+I owed her nothing. But I couldn't just let her die.
+
+[HEADER 00001DDC]
+I had no reason to go out into the night.
+
+[HEADER 00001C52]
+In the dim light, I caught the reflection of something metallic.
+
+[HEADER 00001C53]
+It was a bug.
+
+[HEADER 00001C5C]
+"Hotel St George, Algiers, Friday.
+
+[HEADER 00001C5D]
+"My darling Thierry,
+
+[HEADER 00001C5E]
+"By the time you read this you will be safely out of Africa.
+
+[HEADER 00001C5F]
+"You need not fear - Pierre and the organization do not know who you are really working for.  Or about us.
+
+[HEADER 00001C60]
+"Did you think I would betray you?  I could not.
+
+[HEADER 00001C61]
+"You wanted me to leave him, but I don't have your courage.
+
+[HEADER 00001C62]
+"I know too much of what has been going on here.  They would find me and they would kill us both.
+
+[HEADER 00001C63]
+"Enjoy your life in Paris, Thierry, your life of honour, of patriotic duty.
+
+[HEADER 00000D05]
+"Do they give medals to spies?
+
+[HEADER 00001C64]
+"No - they'll just give you a phoney job in an embassy somewhere.
+
+[HEADER 00001C65]
+"I could never share that with you. Imagine me - a diplomat's wife.
+
+[HEADER 00001C66]
+"So.  I must stay here with Pierre, the two of us bound together by what we have done to this country.
+
+[HEADER 00001C67]
+"Au revoir, my love. You will be in my heart until I die.  Imelda"
+
+[HEADER 00001C6B]
+Suddenly everything made sense.
+
+[HEADER 00001C6C]
+My father had been working undercover for the government.  He was one of the good guys after all.
+
+[HEADER 00001C57]
+It was a photograph - of Imelda.
+
+[HEADER 00001C6D]
+But why here - in my father's box?
+
+[HEADER 00001C58]
+I felt as if a black hole had swallowed me up. Imelda and Carchon - grinning.
+
+[HEADER 00001C59]
+While behind them a village was being razed to the ground, its people butchered.
+
+[HEADER 00001C5A]
+And there, next to them, staring out at me across the years - my own father.
+
+[HEADER 00001C5B]
+There was a letter.  I feared there was even worse to come.
+
+[HEADER 00001C68]
+I stared at my father's image. Looked deep into his eyes.
+
+[HEADER 00001C69]
+What was he thinking when this picture was taken?  How brave he had been.
+
+[HEADER 00001C6A]
+I missed him so much.
+
+[HEADER 00001C71]
+He and Imelda must have fallen in love. She'd found out who he really was - so he had to leave.
+
+[HEADER 00001C72]
+It had broken her heart, but she had never revealed it to anyone.
+
+[HEADER 00001C8E]
+I knew I couldn't either:
+
+[HEADER 00001C73]
+Whatever he was doing, he'd had good reason to keep it secret.
+
+[HEADER 00000D06]
+I decided I would respect that.  And tell nobody.
+

@@ -1,0 +1,309 @@
+[HEADER 00001F4C]
+A bored looking gendarme sat staring at the sculpture.
+
+[HEADER 00001F4D]
+Bonjour Monsieur.
+
+[HEADER 00001F4E]
+Bonjour Mademoiselle!
+
+[HEADER 00001F4F]
+Can I ask what you're doing?
+
+[HEADER 00001F50]
+I am guarding the scene of a terrible and heinous crime.
+
+[HEADER 00001F51]
+Yeah, this statue. Tell me about it!
+
+[HEADER 00001F52]
+Au contraire, mademoiselle, this statue is a pure and visionary statement...
+
+[HEADER 00002137]
+... a comment upon man's self-imposed isolation within a debased societal framework.
+
+[HEADER 00001F53]
+Not a crime then?
+
+[HEADER 00001F54]
+The only crime you will find here... is the murder of the great Monsieur Carchon.
+
+[HEADER 00001F55]
+No? How dramatic!
+
+[HEADER 00001F56]
+I know. Here in this very building no less. It is top secret, but according to Carchon's wife...
+
+[HEADER 00002138]
+... the killer was dressed as a mime!
+
+[HEADER 00001F57]
+Police believe there was an accomplice - a young female journalist. Even as we speak...
+
+[HEADER 00002139]
+... she is being hotly pursued up and down the land. No stone is being left unturned.
+
+[HEADER 00001F58]
+Good place to look for a journalist, officer.
+
+[HEADER 00001F59]
+We police are no fools.
+
+[HEADER 00001F5A]
+Evidently.
+
+[HEADER 00001F5B]
+Monsieur?
+
+[HEADER 00001F5C]
+Mademoiselle?
+
+[HEADER 00001F69]
+Why would a mime kill Monsieur Carchon?
+
+[HEADER 00001F6A]
+He was a hired killer I expect. Everybody knows mimes don't leave prints.
+
+[HEADER 00001F6B]
+You must be quite an aficionado of modern art?
+
+[HEADER 00001F6C]
+Au contraire - I adore it! In fact I dabble myself...
+
+[HEADER 00001F6D]
+Oh really? I used to dabble myself, but I managed to quit in the end.
+
+[HEADER 00001F5D]
+How was Monsieur Carchon killed?
+
+[HEADER 00001F5E]
+He was shot. In cold blood. With a gun.
+
+[HEADER 00001F5F]
+Why was he dressed as a mime?
+
+[HEADER 00001F60]
+I have my own theory. Either he was mad.
+
+[HEADER 00001F61]
+Or...?
+
+[HEADER 00001F62]
+Or he was a real mime, trying to throw us off the scent by cunningly not wearing a disguise.
+
+[HEADER 00001F63]
+How long have you been in the police force?
+
+[HEADER 00001F64]
+All my life Mademoiselle.
+
+[HEADER 00001F65]
+It shows.
+
+[HEADER 00001F66]
+Thank you.
+
+[HEADER 00001F6E]
+How would you like a nice hairclip like this?
+
+[HEADER 00001F6F]
+I must warn you Mademoiselle that I have been trained to resist such improper advances.
+
+[HEADER 00001F70]
+Ever seen one of these?
+
+[HEADER 00001F71]
+Not since I was a boy. My father taught me how to whittle using a metal cylinder like that.
+
+[HEADER 00001F72]
+I bet that kept you quiet.
+
+[HEADER 00001F73]
+Indeed it did. I never talked to him again. He died before I finished.
+
+[HEADER 00001F74]
+I'd be crazy to show him the paper with the code.
+
+[HEADER 00001F75]
+Take a look at this shell case...
+
+[HEADER 00001F76]
+My God! This must be from the gun that killed him!
+
+[HEADER 00001F77]
+Are you sure? I think it's from an army field gun...
+
+[HEADER 00001F78]
+Ah yes, of course. The size - that's the give-away, isn't it?
+
+[HEADER 00001F79]
+Ever see symbols like these?
+
+[HEADER 00001F7A]
+Only at the bottom of a bottle mademoiselle.
+
+[HEADER 00001F7B]
+Ha - you see what I did there?
+
+[HEADER 00001F7C]
+I always find a little humour breaks the ice at a crime scene, don't you agree?
+
+[HEADER 00001F7D]
+Recognise this man?
+
+[HEADER 00001F7E]
+Hmm. Hmmm. Hmmmm. No.
+
+[HEADER 00001F7F]
+Look at this. It's a picture of my father.
+
+[HEADER 00001F80]
+What beautiful hair he has.
+
+[HEADER 00001F81]
+I wish I hadn't shown you that now.
+
+[HEADER 00001F82]
+What do you think of this boat ticket?
+
+[HEADER 00001F83]
+Mademoiselle, if you think taking me on a boat trip down the Seine is going to get me into bed with you...
+
+[HEADER 00001F84]
+...then you are mistaken.
+
+[HEADER 00001F85]
+I have been trained to resist women offering boat tickets.
+
+[HEADER 00001F86]
+And men too - we are up to date on gender issues you know.
+
+[HEADER 00001F87]
+What do you think of this pretty cloth?
+
+[HEADER 00001F88]
+Wait a minute! What is this?! I have seen this before... but where?! Of course, now I remember.
+
+[HEADER 0000213A]
+At my dear grandmama's! Bless her little dressing table.
+
+[HEADER 00001F89]
+Ever seen anything like this?
+
+[HEADER 00001F8A]
+Oh, that's good, that's very good. You have talent, my dear. This is clearly your medium.
+
+[HEADER 00001F8B]
+What do you think of this tube?
+
+[HEADER 00001F8C]
+Ha!  To you it is a tube of paint.
+
+[HEADER 0000213B]
+To me it is a symbol of lost dreams, of broken ambition, of thwarted desire.
+
+[HEADER 00001F8D]
+I knew better than to show him a safe key.
+
+[HEADER 00001F8E]
+What do you think of my elephant?
+
+[HEADER 00001F8F]
+Hmm. A poor piece to be honest. Derivative, crude, forgettable.
+
+[HEADER 00001F90]
+Oh really? I was just wondering where I should stick it?
+
+[HEADER 00001F91]
+Hmm. Somewhere that doesn't get much light?
+
+[HEADER 00001F92]
+That's just what I was thinking...
+
+[HEADER 00001F95]
+Isn't this a gorgeous pouch?
+
+[HEADER 00001F9D]
+Mam'selle!  I hope you are not suggesting that in my off-duty hours...
+
+[HEADER 00001F9E]
+... I dance late into the night, alone in my apartment, my body oiled and shining...
+
+[HEADER 00001F9F]
+... and my virtue protected only by a leather pouch ...
+
+[HEADER 00001FA0]
+... such as the one you are attempting to bribe me with now?
+
+[HEADER 00001FA1]
+No...
+
+[HEADER 00001FA2]
+You'll get nothing out of me Mam'selle.  I am too clever for your trick questions.
+
+[HEADER 00001F93]
+: What do you think of this artefact?
+
+[HEADER 00001F94]
+Hmm. A touch of Moore, a splash of Miro, a soupcon of Hepworth.   It's nice - but so 20th century.
+
+[HEADER 00001F42]
+It was held in place by wires. Hmm, maybe it wasn't art after all. Maybe it was a cellphone transmitter?
+
+[HEADER 00001F9B]
+Whoever had put up the statue must have been confident it wouldn't fall.
+
+[HEADER 00001F9C]
+It would have smashed straight into the wall of Carchon's apartment
+
+[HEADER 00001F40]
+I would be obliged if you would not touch the art, Mademoiselle.
+
+[HEADER 00001F41]
+I told you - do not touch the art!
+
+[HEADER 00001F45]
+Just your average modern art retaining wire.
+
+[HEADER 00001F46]
+Please do not finger the wires.
+
+[HEADER 00002135]
+They are high tension, titanium coated wires especially imported from Birmingham. In England.
+
+[HEADER 00001F47]
+This guy was either into art or wire. Or both...
+
+[HEADER 00001F48]
+If they were to become freed, this superb piece of kinetic engineering would topple and fall.
+
+[HEADER 00002136]
+At the same time, the force of the recoil would take your eye out.
+
+[HEADER 00001F49]
+Please do not fiddle with the wires, Mademoiselle.
+
+[HEADER 00001F4A]
+I am sorry Mademoiselle. This is a crime scene and I cannot permit you to pass beyond this point.
+
+[HEADER 00001F4B]
+Mademoiselle, you cannot proceed.
+
+[HEADER 00001F9A]
+The smashed window hadn't been repaired yet.  There was just a sheet of flimsy plastic over it.
+
+[HEADER 00002B3E]
+I'm having problems cracking this cipher.
+
+[HEADER 00002B03]
+Look for the one or two letter words and try out 'A' or 'I' or 'IN' or 'OF' or 'TO' or 'BY' etc.  If you guess right, then some of the 3 or 4 letter words will now become clear.
+
+[HEADER 00002B04]
+The letter 'E' is very common.  Find the most common glyph and try inserting an 'E' in its place.
+
+[HEADER 00002B05]
+The first word is PIERRE - that will give you four correct letters.
+
+[HEADER 00002B06]
+The first words are PIERRE. FULL REPORT TO FOLLOW.
+

@@ -1,0 +1,2538 @@
+[HEADER 00004268]
+I feel like I'm missing something. I need somewhere to go.
+
+[HEADER 00004272]
+Head to the carpet seller.
+
+[HEADER 0000427C]
+The pattern on that rug should look awfully familiar.
+
+[HEADER 00004286]
+Show the matchbook to the carpet seller.
+
+[HEADER 00004290]
+Ultar is a talkative fellow - but what should I do next?
+
+[HEADER 0000429A]
+Examine the notice on the toilet door, and talk to Ultar about it.
+
+[HEADER 000042A4]
+Check out the kebab seller. See the brush that he is using for his kebabs?
+
+[HEADER 000042AE]
+Talk to Nejo - he seems to be the most clued in. He will give you a phrase to say to the kebab seller.
+
+[HEADER 000042B8]
+The kebab seller wasn't very pleased! What do I do now?
+
+[HEADER 000042BA]
+That didn't appear to have worked too well. Who's crazy idea was it, again?
+
+[HEADER 000042BC]
+Go and talk to Nejo about the toilet brush again...
+
+[HEADER 000042AF]
+It doesn't feel nice carrying this toilet brush around!
+
+[HEADER 000042B0]
+Give it back to its rightful owner.
+
+[HEADER 000042B1]
+Give the toilet brush back to the club owner.
+
+[HEADER 000042BE]
+I need to find a way out of this place.
+
+[HEADER 000042BF]
+You need to find a taxi driver.
+
+[HEADER 000042C0]
+Show Ultar the photo of Khan.
+
+[HEADER 000042C2]
+I've got into the bathroom, but I still don't have money for a taxi ride.
+
+[HEADER 000042CC]
+Once again, it's Nejo you need to head to.
+
+[HEADER 000042D6]
+Try operating the bell.
+
+[HEADER 000042E0]
+Try petting the cat.
+
+[HEADER 000042EA]
+Try petting the cat and then immediately ringing the bell.
+
+[HEADER 000042F4]
+What should I do with the statue?
+
+[HEADER 000042FE]
+It looks pretty dull - certainly not an antique.
+
+[HEADER 00004308]
+Wipe the statue with the greasepaint-covered tissue - it'll transform into a priceless antique.
+
+[HEADER 00004312]
+I've got a fake marble statue, but I still need 50 Dollars.
+
+[HEADER 0000431C]
+Pearl, the American lady, loves trinket like that.
+
+[HEADER 00004326]
+Sell the fake statue to Duane, Pearl's husband.
+
+[HEADER 00004330]
+This taxi! Now it's broken down. How can I help to fix it?
+
+[HEADER 0000433A]
+You need something like a belt, a long piece of material.
+
+[HEADER 00004344]
+There was a towel dispenser in the bathroom.
+
+[HEADER 0000434E]
+You need to remove the towel, but the dispenser is locked. Use the bathroom keys to unlock the dispenser, and grab the towel.
+
+[HEADER 00004350]
+Talk to Ultar about the towel.
+
+[HEADER 0032000B]
+The mirror was as clean as anything else in there.
+
+[HEADER 002D0004]
+The cat was an ugly brute who looked like he owned the joint.
+
+[HEADER 00320004]
+The design of the toilet was a little different from what I was used to...
+
+[HEADER 00320005]
+...but a toilet chain is a toilet chain all the world over.
+
+[HEADER 00320006]
+Oops.
+
+[HEADER 002D0007]
+It was the sort of bell you see in hotel receptions. Kind of unexpected here.
+
+[HEADER 002D0005]
+Oh, bad tempered as well as ugly...
+
+[HEADER 002D000F]
+There were some great bargains on the shelf. Providing you ran a junk museum.
+
+[HEADER 002D0006]
+As I didn't see the point of going all the way over there to get scratched, I stayed where I was.
+
+[HEADER 002D0010]
+I hadn't come all this way to seek out curios.
+
+[HEADER 002D0016]
+How did this guy make a living selling useless old machine parts in the middle of nowhere?
+
+[HEADER 002D0017]
+He didn't have anything that I needed.
+
+[HEADER 002D0013]
+The stand was hawking ancient machine parts.
+
+[HEADER 002D0014]
+The stand was hawking ancient machine parts that seemed to be from a stripped down printing press.
+
+[HEADER 002D0015]
+I couldn't imagine where they'd come from or who'd want them. .
+
+[HEADER 002D0018]
+The merchant was selling fruit. I decided I might have some later.
+
+[HEADER 002D0019]
+The stand was selling some fruit I didn't recognize.
+
+[HEADER 002D001A]
+This is what travel is all about. Roam the world and discover strange fruit.
+
+[HEADER 002D0041]
+Marib looked pretty defendable with a high wall all around it.
+
+[HEADER 002D0042]
+I figured going out into the countryside was a pretty good way to get lost.
+
+[HEADER 002D001F]
+The stand had kebabs dangling from the canopy.
+
+[HEADER 002D0020]
+As a marketing device, it lacked something.
+
+[HEADER 002D0021]
+Close up, I could see flies love kebabs.
+
+[HEADER 002D001D]
+It was a kebab stand and an ugly one at that.
+
+[HEADER 002D001E]
+In the still air, the smell hung around like bad smells do.
+
+[HEADER 002F0000]
+The carpet seller had an impressive collection of wares. If I'd the time and the money I might have bought a couple of rugs.
+
+[HEADER 002F0002]
+It must have taken him all morning just to set up his stall. .
+
+[HEADER 00310008]
+The outside of the ornate spittoon was beautiful. The inside wasn't.
+
+[HEADER 00310009]
+I hadn't felt a need to spit since I was twelve.
+
+[HEADER 0031000A]
+The spittoon was nearly full. What did they sell here? Drinks or expectorants?
+
+[HEADER 0031000B]
+Even if I'd wanted to spit, my mouth was too dry.
+
+[HEADER 00320007]
+It was a roller towel dispenser.
+
+[HEADER 00320000]
+The towel sat in the open dispenser like a wad of dirty chewing gum...
+
+[HEADER 00320008]
+The dispenser had opened easily enough.
+
+[HEADER 00320009]
+There didn't seem much point in closing the dispenser.
+
+[HEADER 0032000F]
+And I thought the French had strange toilets.
+
+[HEADER 00320010]
+I hadn't drunk anything since the morning and I didn't need to use it.
+
+[HEADER 002F0004]
+The carpet in the middle looked familiar, somehow. .
+
+[HEADER 002F0005]
+It was the pattern. I'd seen that pattern somewhere recently.
+
+[HEADER 002D0030]
+The stand was being watched by a young boy, maybe twelve years old.
+
+[HEADER 002D0031]
+Nejo was still by the stand and still looking bored.
+
+[HEADER 002D0106]
+What the heck did you tell me to tell him?
+
+[HEADER 002D0107]
+Patience, Sir.
+
+[HEADER 002D0108]
+Patience? PATIENCE! I've been chased by a homicidal kebab seller and you expect me to be PATIENT?
+
+[HEADER 002D0109]
+But consider, Sir, while you were running from the irate Arto...
+
+[HEADER 002D010A]
+...the irate Arto wasn't using the brush.
+
+[HEADER 002D010B]
+Hold on.
+
+[HEADER 002D010C]
+Are you telling me that I've been used as a diversionary tactic?
+
+[HEADER 002D010D]
+Your brush, Sir.
+
+[HEADER 002D010E]
+I can't believe that you put me on that kebab seller's death list for a toilet brush.
+
+[HEADER 002D010F]
+The ends justify the means, Sir.
+
+[HEADER 002D0110]
+Yeah, but I notice it wasn't your butt that was on the line, though.
+
+[HEADER 002D0111]
+`They also serve who only stand and wait', Sir.
+
+[HEADER 002D0112]
+Oh, spare me.
+
+[HEADER 002D0104]
+Hey there, young fella! Speakie you the English? Speaka you da Angalaisey? Parlez-vous anglais?
+
+[HEADER 002D0113]
+Yes, si and, indeed, oui...
+
+[HEADER 002D0114]
+...and rather better than you, by the sound of it.
+
+[HEADER 002D0115]
+My name is Nejo. Welcome to my grand emporium of quality merchandise!
+
+[HEADER 002D0105]
+Hi, Nejo!
+
+[HEADER 002D0116]
+Hello again, Sir! And how may I help you this time?
+
+[HEADER 002D0143]
+Does the word `Templar' mean anything to you?
+
+[HEADER 002D0144]
+Templar... Templar... Templar...
+
+[HEADER 002D0145]
+Why, yes! Of course!
+
+[HEADER 002D0146]
+It does?
+
+[HEADER 002D0147]
+Yes! A splendid series of books by Mr. Leslie Charteris...
+
+[HEADER 002D0148]
+...featuring the roguish Mr. Simon Templar.
+
+[HEADER 002D0149]
+Great. That's a real help, Nejo. Anything else?
+
+[HEADER 002D014A]
+`The Saint' television program featuring Mr. Roger Moore of the quizzical eyebrow...
+
+[HEADER 002D014B]
+...and a stickman with a halo. Ping!
+
+[HEADER 002D014C]
+So all `Templar' means to you is Roger Moore?
+
+[HEADER 002D014D]
+I only watched it for the stickman with the halo. Ping!
+
+[HEADER 002D014E]
+He was better animated.
+
+[HEADER 002D014F]
+So, I'm correct in saying that the word `Templar' doesn't mean much to you?
+
+[HEADER 002D0150]
+Well, there was the order of knights who were wiped out in an inquisition in 1312, I suppose.
+
+[HEADER 002D0151]
+That's them! What else do you know?
+
+[HEADER 002D0152]
+Just how much information do you think there is on a Trivial Pursuit card?
+
+[HEADER 002D0153]
+A what?
+
+[HEADER 002D0154]
+From the Medieval edition. We had it on the stand a couple of years ago.
+
+[HEADER 002D0155]
+Ask me what a fewter is. Go on! I know all this stuff!
+
+[HEADER 002D0156]
+Never mind.
+
+[HEADER 002D0157]
+Okay, forget about the Templars for a minute. What do you know about knights?
+
+[HEADER 002D0158]
+Like the Crusaders? They came to the East on an insane and pointless mission.
+
+[HEADER 002D0159]
+They sacrificed thousands of lives, including their own, for insensate pride.
+
+[HEADER 002D015A]
+How anybody can find them romantic confounds me.
+
+[HEADER 002D0118]
+So this is your stand?
+
+[HEADER 002D0119]
+Oh, yes, Sir!
+
+[HEADER 002D011A]
+'Though `stand' does not begin to do it justice...
+
+[HEADER 002D011B]
+...the finest in this bustling metropolis!
+
+[HEADER 002D011C]
+This is a `bustling metropolis'?
+
+[HEADER 002D011D]
+Well, not per se. No.
+
+[HEADER 002D011E]
+How much are those books, there on the shelf?
+
+[HEADER 002D011F]
+Have you any Syrian pounds?
+
+[HEADER 002D0120]
+I think I might have a couple of Irish Punt.
+
+[HEADER 002D0121]
+Then they're too expensive for you, Sir.
+
+[HEADER 002D0122]
+You speak very good English.
+
+[HEADER 002D0123]
+Thank you, Sir. I learned from tapes that my uncle procured.
+
+[HEADER 002D0124]
+Oh. A language course.
+
+[HEADER 002D0125]
+No, Sir. `Jeeves and Wooster'.
+
+[HEADER 002D0126]
+Gussie Fink-Nottle! Aunt Agatha! What-Ho!
+
+[HEADER 002D0137]
+That's not a very friendly cat you got there, Nejo.
+
+[HEADER 002D0138]
+No, Sir, it is a very UNfriendly cat.
+
+[HEADER 002D0139]
+Why do you keep it?
+
+[HEADER 002D013A]
+Oh, it's not mine. It just rests where it pleases and today it pleases to rest there.
+
+[HEADER 002D013B]
+As Kipling would say, `It is a cat that walks by itself'.
+
+[HEADER 002D013C]
+Fiercely independent.
+
+[HEADER 002D013D]
+And it smells.
+
+[HEADER 002D013E]
+Is that your father lurking in the back of the stand?
+
+[HEADER 002D013F]
+He is indeed. A roaring fellow. Ayub's his name.
+
+[HEADER 002D0140]
+You don't sound like you respect him very much.
+
+[HEADER 002D0141]
+Don't I? Not only do I respect him, I rather like him.
+
+[HEADER 002D0142]
+For all his bluster, we get on very well.
+
+[HEADER 002D018F]
+I met an interesting guy earlier, a cab driver.
+
+[HEADER 002D0190]
+Ah, that would have to be Ultar.
+
+[HEADER 002D0191]
+A barbaric sort of chap...
+
+[HEADER 002D0192]
+Oh, he's not that bad!
+
+[HEADER 002D0193]
+You know how he speaks in pidgin English?
+
+[HEADER 002D0194]
+That's how he speaks in Arabic, too.
+
+[HEADER 002D0203]
+What do you think of that?
+
+[HEADER 002D0204]
+Remarkable. It seems older. Much older. Quite remarkable.
+
+[HEADER 002D0201]
+May I have this statuette? It is broken, after all?
+
+[HEADER 002D0202]
+Certainly, and when my father deals with that feline for breaking it you can have a Davy Crockett hat as well.
+
+[HEADER 002D01A1]
+What exactly does `'Il 'a'kl kalb' mean?
+
+[HEADER 002D01A2]
+A polite but subtly complimentary greeting.
+
+[HEADER 002D01A3]
+He won't be able to do enough for you.
+
+[HEADER 002D01BD]
+What do you think of this, eh?
+
+[HEADER 002D01BE]
+Oh, Sir! What a splendid plaything!
+
+[HEADER 002D01BF]
+One day, when I'm rich, I am going to build...
+
+[HEADER 002D01C0]
+...a world renowned collection of brightly colored balls!
+
+[HEADER 002D01C1]
+Are you serious?
+
+[HEADER 002D01C2]
+In deadly earnest. People will come from far and wide to see my...
+
+[HEADER 002D01C3]
+Yes?
+
+[HEADER 002D01C4]
+...collection. The Rockefellers and the Gettys can keep their hordes of so-called fine art.
+
+[HEADER 002D01C5]
+But answer me this....
+
+[HEADER 002D01C6]
+What good is a Picasso, I ask you, if you cannot bounce it off a wall?
+
+[HEADER 002D01C7]
+You may have a point.
+
+[HEADER 002D01C8]
+Sir, for such a marvelous thing, I would gladly help you!
+
+[HEADER 002D01C9]
+I thought merchants were supposed to be wily and never reveal what they really want?
+
+[HEADER 002D01CA]
+`Bah!' I say to mercantile greed! I have the soul of the aesthete and I desire that red bouncy thing  beyond reason!
+
+[HEADER 002D01CB]
+Do you understand?
+
+[HEADER 002D01CC]
+Not really. If I give you the...
+
+[HEADER 002D01CD]
+I've already told you, I'll help you if you give me the ball. What's it to be?
+
+[HEADER 002D0176]
+All right. Here you go.
+
+[HEADER 002D0177]
+Thank you, Sir!
+
+[HEADER 002D0178]
+People say bad things about Americans but you're okay in my book!
+
+[HEADER 002D0179]
+What people? What bad things?
+
+[HEADER 002D017A]
+Never mind that now. Remember the brush!
+
+[HEADER 002D017B]
+Right. Yes, the brush.
+
+[HEADER 002D017C]
+All you have to do with Arto is be polite.
+
+[HEADER 002D017D]
+It lightens his day, makes it all worthwhile for him again.
+
+[HEADER 002D017E]
+How can I be polite to the guy when I can't speak a word of Syrian?
+
+[HEADER 002D017F]
+Arabic.
+
+[HEADER 002D0180]
+That's what I meant.
+
+[HEADER 002D0181]
+Simply memorize this phrase, `'Il 'a'kl kalb'.
+
+[HEADER 002D0182]
+`'Il 'a'kl kalb'?
+
+[HEADER 002D0183]
+Close enough. Now go over to Arto and deliver these honeyed words even unto his delicate ear.
+
+[HEADER 002D0184]
+He won't be able to do enough for you.
+
+[HEADER 002D0185]
+Really?
+
+[HEADER 002D0186]
+Really.
+
+[HEADER 002D0187]
+No, kid. I might need this some other time.
+
+[HEADER 002D0188]
+Yes. Of course you will.
+
+[HEADER 002D0189]
+How can a jet-setting man like yourself live without a small red ball in his pocket?
+
+[HEADER 002D01B1]
+Seriously, do you really think this thing's so great?
+
+[HEADER 002D01B2]
+Take it away, you tempter.
+
+[HEADER 002D01B3]
+I'll swap it for something off your stand.
+
+[HEADER 002D01B4]
+Um, due to seasonal financial considerations I'm afraid I cannot.
+
+[HEADER 002D01B5]
+I thought you wanted this thing?
+
+[HEADER 002D01B6]
+I do, Sir. The stand doesn't.
+
+[HEADER 002D01B7]
+Which in translation meant - `It's not really my stand...
+
+[HEADER 002D01B8]
+...and I'll be in big trouble if I swap anything for something that I want myself.'
+
+[HEADER 002D01B9]
+Alternatively, is there any service that you require?
+
+[HEADER 002D01BA]
+Not at the moment but I'll bear it in mind.
+
+[HEADER 002D0195]
+What do you know about that couple?
+
+[HEADER 002D0196]
+Oh, they're American.
+
+[HEADER 002D0197]
+Is that all?
+
+[HEADER 002D0198]
+The chap's a little odd. As for the lady...
+
+[HEADER 002D0199]
+It's a funny thing but I get the impression she's a lot cleverer than she's letting on.
+
+[HEADER 002D0162]
+Look, this is going to sound a bit strange but I need Arto's brush.
+
+[HEADER 002D0163]
+What? The brush he bastes the kebabs with?
+
+[HEADER 002D0164]
+Yes.
+
+[HEADER 002D0165]
+Let me find some dirty postcards for you instead.
+
+[HEADER 002D0166]
+Nejo, this is serious.
+
+[HEADER 002D0167]
+Arto stole that brush he's using from a friend and I want to get it back.
+
+[HEADER 002D0168]
+Perhaps I could help you, old chap. Maybe. Perhaps.
+
+[HEADER 002D0169]
+Maybe what? Perhaps what?
+
+[HEADER 002D016A]
+I do not wish to seem mercenary, Sir, but I am a merchant and merchants trade...
+
+[HEADER 002D016B]
+Merchant? This isn't Sears and Roebuck here!
+
+[HEADER 002D016C]
+Well, if you're going to be disagreeable...
+
+[HEADER 002D016D]
+No! No, you're right. What would you like?
+
+[HEADER 002D016F]
+I seem to recall that you have something that might alleviate my boredom.
+
+[HEADER 002D0170]
+A globe of delight!
+
+[HEADER 002D0171]
+A rubicund spheroid of heavenly pleasure!
+
+[HEADER 002D0172]
+You mean the ball, don't you?
+
+[HEADER 002D0173]
+A tiny spherular form that barely spans my hand yet promises hours of amusement!
+
+[HEADER 002D0174]
+If you mean the ball, why can't you just say so?
+
+[HEADER 002D0175]
+Can I have the ball back, mister?
+
+[HEADER 002D018E]
+What have you got?
+
+[HEADER 002D015B]
+Who's the guy selling the kebabs?
+
+[HEADER 002D015C]
+Oh, that's Arto. A miserable blighter to be sure, Sir.
+
+[HEADER 002D015D]
+He doesn't seem very happy.
+
+[HEADER 002D015E]
+He never is. Day in, day out, a face like a wet Wednesday.
+
+[HEADER 002D015F]
+Whatever one of those is.
+
+[HEADER 002D0160]
+Does he speak any English?
+
+[HEADER 002D0161]
+Not cogently, no.
+
+[HEADER 002D01E1]
+Here! Shake hands, Nejo!
+
+[HEADER 002D01E2]
+I'd rather not, Sir.
+
+[HEADER 002D01E6]
+Hey, I got fifty bucks out of those tourists!
+
+[HEADER 002D01E7]
+Congratulations, Sir!
+
+[HEADER 002D01F4]
+Look at this! A lifting key as used by Parisian sewer workers.
+
+[HEADER 002D01F5]
+Calloo callay, Sir. I must remember this day for posterity. My grandchildren will be fascinated.
+
+[HEADER 002D01F6]
+What do you make of this?
+
+[HEADER 002D01F7]
+Well, beyond the obvious, very little. That pattern seems very familiar, though.
+
+[HEADER 002D01F8]
+Have you seen this man before?
+
+[HEADER 002D01F9]
+No, Sir, I'm glad to say. Cold eyes.
+
+[HEADER 002D01FE]
+What can I do with a blood pressure gauge?
+
+[HEADER 002D01FF]
+Don't tempt me to tell you, Sir.
+
+[HEADER 002D0200]
+Oh. A comedian. No surprise there.
+
+[HEADER 002D0205]
+Do you know the name Moerlin?
+
+[HEADER 002D0206]
+I'm afraid not, old bean.
+
+[HEADER 002D0207]
+What do you make of this?
+
+[HEADER 002D0208]
+Hmmm. A man-size double ply tissue stained with Bestheimer's Number twelve, White Pancake greasepaint. Apparently.
+
+[HEADER 002D0209]
+Thanks for getting the brush and risking my life to do it.
+
+[HEADER 002D020A]
+Anytime. Glad to be of service.
+
+[HEADER 002D020B]
+What does this toilet chain mean to you?
+
+[HEADER 002D020D]
+Are you building a bathroom in easy instalments?
+
+[HEADER 002D020E]
+Do you recognize these keys?
+
+[HEADER 002D020F]
+No.
+
+[HEADER 002D0219]
+This plaster was very useful in Ireland.
+
+[HEADER 002D021A]
+Really. Your fund of traveller's tales never ceases to enthral me.
+
+[HEADER 002D021B]
+What do you think of this?
+
+[HEADER 002D021E]
+A beautiful artefact.
+
+[HEADER 002D01AD]
+So long, Nejo.
+
+[HEADER 002D01AE]
+Toodle pip, Sir.
+
+[HEADER 002D003C]
+Pearl was actually as close to decency as she could be.
+
+[HEADER 002D003D]
+Syria's a pretty conservative country. They don't like women displaying legs and shoulders.
+
+[HEADER 002D003E]
+I wondered if the respect for local custom was accidental or deliberate.
+
+[HEADER 002D003A]
+It was a guess, but I figured the woman to be an American tourist.
+
+[HEADER 002D003B]
+Just call me Sherlock.
+
+[HEADER 002D021F]
+Hello? I was wondering whether you could help me?
+
+[HEADER 002D0221]
+Why, hi there, handsome! What can I do for you?
+
+[HEADER 002D0222]
+Hi, my name's George. I was just...
+
+[HEADER 002D0223]
+Well, it certainly is delightful to meet you, George.
+
+[HEADER 002D0224]
+I was...
+
+[HEADER 002D0225]
+My name's Mrs. Henderson but you can call me Pearl, I'm sure.
+
+[HEADER 002D0226]
+Okay, Pearl. I was...
+
+[HEADER 002D0227]
+So nice to meet a friendly American face so far from home.
+
+[HEADER 002D0228]
+Pearl?
+
+[HEADER 002D0229]
+Yes, dear?
+
+[HEADER 002D022A]
+I was just wondering if you could help me?
+
+[HEADER 002D022B]
+Why, sure, precious!
+
+[HEADER 002D0220]
+Hello again, Pearl!
+
+[HEADER 002D022C]
+Why, hello, George! It is such a pleasure to see you again.
+
+[HEADER 002D0278]
+Do you know anything about medieval weaving?
+
+[HEADER 002D0279]
+I do a little needlework but, gosh!
+
+[HEADER 002D027A]
+It's okay. It was a long shot.
+
+[HEADER 002D0257]
+Have you ever heard of a group of knights called the Templars?
+
+[HEADER 002D0258]
+Sounds familiar. I remember! Duane had a book...
+
+[HEADER 002D0259]
+`The Holy Something and the Holy Something Else', I can't quite recall.
+
+[HEADER 002D025A]
+I read a little of it.
+
+[HEADER 002D025B]
+And?
+
+[HEADER 002D025C]
+Seemed like a lot of hooey to me.
+
+[HEADER 002D022E]
+I've been talking to your husband, Duane.
+
+[HEADER 002D022F]
+Oh?
+
+[HEADER 002D0230]
+Yeah, he tells me that he runs a greeting card company and you write the poems that go in them.
+
+[HEADER 002D0231]
+Oh, yes, indeed! I consider myself the artiste of the family.
+
+[HEADER 002D0232]
+Tell me, George, would you like to hear one of my poems?
+
+[HEADER 002D023E]
+Well, maybe not just for the moment.
+
+[HEADER 002D023F]
+Okay, George, but you don't know what you're missing.
+
+[HEADER 002D0233]
+Yes, go on then.
+
+[HEADER 002D0234]
+Okay then, darlin'. Here we go.
+
+[HEADER 002D0235]
+`Our sympathy upon this time,
+
+[HEADER 002D0236]
+When your heart doth break,'
+
+[HEADER 002D0237]
+I like the `doth'.
+
+[HEADER 002D0238]
+Classy, isn't it?
+
+[HEADER 002D0239]
+`We know the grief that must entail,
+
+[HEADER 002D023A]
+When your Schnauzer gets bitten by a snake.'
+
+[HEADER 002D023B]
+Ah, it still touches me. What do you think, George?
+
+[HEADER 002D023C]
+It's...very specific, isn't it?
+
+[HEADER 002D023D]
+You think so? We sell a lot of those, dear.
+
+[HEADER 002D0240]
+So, tell me a little about yourself, Pearl.
+
+[HEADER 002D0241]
+Me? Oh, a gentleman's interest is always so flattering!
+
+[HEADER 002D0242]
+Well, my husband and I run a greetings card company in a cute, little place called Akron in Ohio.
+
+[HEADER 002D0243]
+Akron? Cute? Little?
+
+[HEADER 002D024D]
+You said that your company is based in Akron...
+
+[HEADER 002D024E]
+...and Duane said it's in Cleveland, no doubt.
+
+[HEADER 002D024F]
+Well, yes, he did.
+
+[HEADER 002D0250]
+Duane was in the Marines, in Vietnam, you know?
+
+[HEADER 002D0251]
+Anyway, he got a medical discharge.
+
+[HEADER 002D0252]
+Thing is, he gets confused. We moved away from Cleveland five years ago.
+
+[HEADER 002D0253]
+Oh, I'm sorry! I didn't mean...
+
+[HEADER 002D0254]
+He also gets a little paranoid. Thinks he's a spy or something.
+
+[HEADER 002D0255]
+I'm so sorry, Pearl.
+
+[HEADER 002D0256]
+Don't worry yourself, George. We live with it.
+
+[HEADER 002D024A]
+I met your husband earlier.
+
+[HEADER 002D024B]
+He's an interesting man.
+
+[HEADER 002D024C]
+That's why I married him.
+
+[HEADER 002D0247]
+Is your husband around, Pearl?
+
+[HEADER 002D0249]
+Well, as a matter of fact, yes, he is. Sorry to disappoint you.
+
+[HEADER 002D0263]
+Have you talked to the boy on the bric-a-brac stand?
+
+[HEADER 002D0264]
+Oh, you've met him! His name's Nejo, you know.
+
+[HEADER 002D0265]
+Oh, he's just so cute I could die! I'd love to bundle him up and take him back to Ohio!
+
+[HEADER 002D0266]
+He might not thank you.
+
+[HEADER 002D0267]
+I'm looking for something ancient, you know? Something to impress the folks back home.
+
+[HEADER 002D0268]
+The poor boy was trying his best but...
+
+[HEADER 002D0269]
+...we still haven't found anything.
+
+[HEADER 002D026A]
+Have you met the taxi man, Ultar?
+
+[HEADER 002D026B]
+Heavens, yes! What a big man! Very muscular!
+
+[HEADER 002D026C]
+But you didn't go for a ride.
+
+[HEADER 002D026D]
+Why, George! You are absolutely the most...!
+
+[HEADER 002D026E]
+Oh. You mean a taxi ride.
+
+[HEADER 002D026F]
+No, Duane wasn't interested so it didn't happen.
+
+[HEADER 002D0261]
+Have you had anything from the kebab stand?
+
+[HEADER 002D0262]
+Heavens, no! With my digestion?
+
+[HEADER 002D0274]
+Have you ever heard of a hill called the Bull's Head?
+
+[HEADER 002D0275]
+No. No, I haven't. Is it nearby?
+
+[HEADER 002D0276]
+I'm not sure.
+
+[HEADER 002D0277]
+Sounds awful romantic. `The Bull's Head Hill'.
+
+[HEADER 002D0270]
+Do you know what 'Il 'a'kl kalb' means?
+
+[HEADER 002D0272]
+My, sounds romantic!
+
+[HEADER 002D0273]
+Yeah, I don't think it is though.
+
+[HEADER 002D0290]
+Are you interested in antiquities?
+
+[HEADER 002D0291]
+Am I! What have you got there, George?
+
+[HEADER 002D0292]
+How about this fine statuette?
+
+[HEADER 002D0293]
+Oh, George. That'd be ideal except, I don't know...
+
+[HEADER 002D0294]
+It looks new, George.
+
+[HEADER 002D0295]
+You wouldn't be trying to make a fool out of me, would you, George?
+
+[HEADER 002D0296]
+Good God, no, Pearl! Nothing could be further from my mind!
+
+[HEADER 002D0297]
+What do you think of this fine piece of ancient statuary?
+
+[HEADER 002D0298]
+Oh, my! That's just what I've been looking for!
+
+[HEADER 002D0299]
+Just one thing, though.
+
+[HEADER 002D029A]
+Oh?
+
+[HEADER 002D029B]
+It looks awful similar to that modern one you showed me.
+
+[HEADER 002D029C]
+Ah, well. That's because, you see, that's because...
+
+[HEADER 002D029D]
+That's because...
+
+[HEADER 002D029E]
+That's because the first one I showed you was a modern copy of this one!
+
+[HEADER 002D029F]
+And... and I sought out the artist who'd done the copy and bought the original!
+
+[HEADER 002D02A0]
+Yeah, that's it. Yeah.
+
+[HEADER 002D02A1]
+Oh, George! How can you ever forgive me?
+
+[HEADER 002D02A2]
+There's nothing to forgive, believe me!
+
+[HEADER 002D02A3]
+Would you like it?
+
+[HEADER 002D02A4]
+Would I ever! I'm not carrying the money though.
+
+[HEADER 002D02A5]
+If you go and find Duane, he'll pay you for it.
+
+[HEADER 002D02A6]
+If he gives you any trouble, just tell him that I want it.
+
+[HEADER 002D027E]
+What does this mean to you?
+
+[HEADER 002D027F]
+Gosh, is this some sort of psychological test?
+
+[HEADER 002D0280]
+No.
+
+[HEADER 002D0281]
+Oh. Well, in that case it's a red ball.
+
+[HEADER 002D0282]
+I liked her too much to zap her with the buzzer.
+
+[HEADER 002D0283]
+Do you know what this is?
+
+[HEADER 002D0284]
+Lord, no! It looks painful, though.
+
+[HEADER 002D0285]
+It's a sewer key.
+
+[HEADER 002D0286]
+WHO'D want to break into a sewer?
+
+[HEADER 002D0287]
+Have you seen this man before?
+
+[HEADER 002D0288]
+No. A friend of yours?
+
+[HEADER 002D0289]
+No, not really.
+
+[HEADER 002D028A]
+What do you think of this?
+
+[HEADER 002D028B]
+Oh! Looks scientific! It's a blood pressure thing, isn't it?
+
+[HEADER 002D028C]
+Does this red nose mean anything to you?
+
+[HEADER 002D028D]
+Reminds me of my late Uncle Abner.
+
+[HEADER 002D028E]
+Oh! was he was a clown?
+
+[HEADER 002D028F]
+No, he was a drunk.
+
+[HEADER 002D02A7]
+Here's the money Duane gave me for the statuette.
+
+[HEADER 002D02A8]
+Only fifty dollars? Oh, I hope you don't feel cheated?
+
+[HEADER 002D02A9]
+Uh, no, no. I just hope you're happy with it.
+
+[HEADER 002D02AA]
+What do you make of this greasepaint-stained tissue?
+
+[HEADER 002D02AB]
+Oh, it's greasepaint! I thought somebody had gaudy taste in make-up.
+
+[HEADER 002D02AC]
+Look what that kebab seller was basting the meat with!
+
+[HEADER 002D02AD]
+Oh, my God! That's a brush for, you know? The commode?
+
+[HEADER 002D02AE]
+I'm afraid so.
+
+[HEADER 002D02AF]
+Thank Heavens I didn't eat anything there. Oh, that's just too horrible!
+
+[HEADER 002D02B0]
+Does this matchbook mean anything to you?
+
+[HEADER 002D02B1]
+You're a philuminist?
+
+[HEADER 002D02B2]
+Don't they have secret handshakes?
+
+[HEADER 002D02B3]
+Oh, George! Now you're teasing!
+
+[HEADER 002D02B4]
+Have you ever heard of anybody calling himself `Moerlin'?
+
+[HEADER 002D02B5]
+Merlin?
+
+[HEADER 002D02B6]
+No, `Mooerlin', `Mooerlin'. There's an `o' in there.
+
+[HEADER 002D02B7]
+Moo Lin?
+
+[HEADER 002D02B8]
+You haven't, have you?
+
+[HEADER 002D02B9]
+No, darling. No Moo Lins.
+
+[HEADER 002D02BA]
+What do you think of this toilet chain?
+
+[HEADER 002D02BB]
+My, but you're a strange one, George.
+
+[HEADER 002D02BC]
+I've got the keys to a toilet here.
+
+[HEADER 002D02BD]
+With my digestion, you'd better keep them handy!
+
+[HEADER 002D02BE]
+Oh, but I'm terrible!
+
+[HEADER 002D02BF]
+Look! A washroom towel!
+
+[HEADER 002D02C0]
+Oh, George. You poor, poor thing. You've had a touch of the sun.
+
+[HEADER 002D02C1]
+No! I'm fine. Really.
+
+[HEADER 002D02C2]
+I've got some plaster of Paris.
+
+[HEADER 002D02C3]
+That's nice, dear.
+
+[HEADER 002D02C4]
+What do you think of this chalice?
+
+[HEADER 002D02C5]
+Now that's really pretty!
+
+[HEADER 002D027C]
+I've got to go now, Pearl.
+
+[HEADER 002D027D]
+It's been a pleasure, George! Don't be a stranger!
+
+[HEADER 002D0025]
+Suddenly I realized the horrific truth.
+
+[HEADER 002D0026]
+The guy was basting the kebabs with the toilet brush.
+
+[HEADER 002D0024]
+The stall holder's face wasn't a great ad for running a kebab stand.
+
+[HEADER 002D0051]
+What do you make of this, Sir?
+
+[HEADER 002D0045]
+Filthy! Bad!
+
+[HEADER 002D0046]
+Okay, okay! I'm going!
+
+[HEADER 002D0052]
+You buy kebab! You buy kebab! Yum! Most good!
+
+[HEADER 002D0053]
+I'd value your opinion on this, Sir.
+
+[HEADER 002D0054]
+La! You buy kebab? Na'am?
+
+[HEADER 002D0055]
+Does this mean anything to you?
+
+[HEADER 002D0056]
+No! No! You buy kebab!
+
+[HEADER 002D0057]
+What do you think of this?
+
+[HEADER 002D0058]
+Buy kebab? Kam tureed?
+
+[HEADER 002D0059]
+What do you make of this?
+
+[HEADER 002D005A]
+Buy kebab! Most good!
+
+[HEADER 002D0044]
+Hello again, Sir.
+
+[HEADER 002D0043]
+Hi, what's your name, Sir?
+
+[HEADER 002D0049]
+Hello! Hello! You buy kebab? Most good!
+
+[HEADER 002D0048]
+Hello! Kebab? Mmmm! Yes!
+
+[HEADER 002D004B]
+Um. 'Il 'a'kl kalb?
+
+[HEADER 002D004C]
+Filthy! Bad! Bad!
+
+[HEADER 002D004D]
+I kill you!
+
+[HEADER 002D004E]
+Woah! calm down! I just... Feet, do your thing!
+
+[HEADER 002D004F]
+Well, goodbye. Have a nice day.
+
+[HEADER 002D0050]
+Most good!
+
+[HEADER 002F000A]
+The carpet seller looked craftier than the offspring of a fox and an insurance agent.
+
+[HEADER 002F0018]
+Does this matchbook mean anything to you?
+
+[HEADER 002F0019]
+Ahhh! Give to me! Give to me! Alamut!
+
+[HEADER 002F0014]
+Does this mean anything to you?
+
+[HEADER 002F0015]
+Yes, yes. Carpets, yes?
+
+[HEADER 002F0016]
+What do you think of this?
+
+[HEADER 002F0017]
+Lovely carpets? Yes!
+
+[HEADER 002F000F]
+Hallo, Sir! Lovely carpets!
+
+[HEADER 002F000E]
+Murhuba! Hallo, Sir!
+
+[HEADER 002F0012]
+'Il 'a'kl kalb.
+
+[HEADER 002F0013]
+Ha! Ha! You speak Nejo, yes?
+
+[HEADER 002F0011]
+Maa as-salaama!
+
+[HEADER 00310033]
+Many beneficent greetings, my most fortunate possible friend.
+
+[HEADER 00310034]
+Huh? Do I know you, mister?
+
+[HEADER 00310035]
+No! No! And again I say No!
+
+[HEADER 00310036]
+But my friend, do you not see our mutual good fortune in this meeting?
+
+[HEADER 00310037]
+How frank do you want me to be?
+
+[HEADER 00310038]
+You are a traveller, yes?
+
+[HEADER 00310039]
+Boy, you must be the world's greatest detective.
+
+[HEADER 0031003A]
+No, I am told that is Sherlock Holmes of the big forehead and slipper full of shag.
+
+[HEADER 0031003B]
+I, as contrast, am world's greatest luxury taxi driver!
+
+[HEADER 0031003C]
+I can see where this is going.
+
+[HEADER 0031003D]
+I am Ultar, taxi driver and luxury guide per excellent, yes!
+
+[HEADER 0031003E]
+This I HAD to hear.
+
+[HEADER 0031003F]
+Where does your heart desire to go?
+
+[HEADER 00310040]
+Simply mention the name to your obedient servant and we shall fly there, swift as the eagle!
+
+[HEADER 00310041]
+Oh. Well, I don't really want to leave Marib yet but I'm sure that if I do you'll be the first to know.
+
+[HEADER 00310042]
+Is good! You know where you want to go, you come to Ultar!
+
+[HEADER 00310043]
+Thanks. See you around, Ultar.
+
+[HEADER 00310044]
+Be having a pleasant day full of shining experiences and happiness, my friend.
+
+[HEADER 002D002C]
+Embarrassed as I am to admit it...
+
+[HEADER 002D002D]
+...you can spot an American tourist a mile off.
+
+[HEADER 002D002E]
+I don't know. Even though he was obviously a countryman of mine...
+
+[HEADER 002D002F]
+...there was something about the guy that gave me a weird feeling.
+
+[HEADER 002D005B]
+Hi! I was wondering whether you could help me?
+
+[HEADER 002D005F]
+Why sure, son! Always got time for a fellow American.
+
+[HEADER 002D0060]
+The name's Henderson. Duane Henderson.
+
+[HEADER 002D0061]
+Pleased to meet you, Mr. Henderson.
+
+[HEADER 002D0062]
+Hell, boy! I'm not in the office. Call me Duane!
+
+[HEADER 002D0063]
+Oh, okay. Duane. My name's George Stobbart.
+
+[HEADER 002D005C]
+Hi there, Duane!
+
+[HEADER 002D0064]
+Hi there, George! How can I help you, young fella?.
+
+[HEADER 002D0065]
+You're a long way from home, Duane.
+
+[HEADER 002D0066]
+Could say the same about you, George.
+
+[HEADER 002D0067]
+Me? I'm just sightseeing. That's all.
+
+[HEADER 002D0068]
+Without a camera? Kinda lax to come all this way...
+
+[HEADER 002D0069]
+...and not take pictures.
+
+[HEADER 002D006A]
+Mind if I take a picture of you, George?
+
+[HEADER 002D006B]
+What? Why?
+
+[HEADER 002D006C]
+Ow! You could've warned me!
+
+[HEADER 002D006D]
+You don't mind, do you, George?
+
+[HEADER 002D006E]
+The folks back home will be real interested.
+
+[HEADER 002D006F]
+What exactly do you do, Duane?
+
+[HEADER 002D0070]
+Didn't I say? Oh, I run a greeting card company.
+
+[HEADER 002D0071]
+Yup, we're based in Cleveland, Ohio.
+
+[HEADER 002D0072]
+Cleveland? Pearl said you're in Akron.
+
+[HEADER 002D0073]
+What was that?
+
+[HEADER 002D0074]
+Uh, nothing. Just thinking out loud.
+
+[HEADER 002D0075]
+Pearl writes the poems for 'em.
+
+[HEADER 002D0076]
+You ougha ask her to recite some.
+
+[HEADER 002D007E]
+Where is your wife, Duane?
+
+[HEADER 002D007F]
+Pearl? Oh, she's around. Looking for bargains.
+
+[HEADER 002D008B]
+How long have you been married, Duane?
+
+[HEADER 002D008C]
+Hell, must be thirty years now.
+
+[HEADER 002D0098]
+I saw a medieval picture of a woman...
+
+[HEADER 002D0099]
+...royalty or nobility, something like that...
+
+[HEADER 002D009A]
+...she was looking in a mirror...
+
+[HEADER 002D009B]
+...but the reflection was of a man with three faces.
+
+[HEADER 002D009C]
+What do you think of that?
+
+[HEADER 002D009D]
+I think you should be in therapy.
+
+[HEADER 002D008D]
+Do you think bulls have any significance around here?
+
+[HEADER 002D008E]
+Weird question, George.
+
+[HEADER 002D008F]
+No, I don't think they have.
+
+[HEADER 002D009E]
+Do you mind if I ask you an odd question?
+
+[HEADER 002D009F]
+Okay, but I might not answer it.
+
+[HEADER 002D00A0]
+Do you know anything about the Templars?
+
+[HEADER 002D00A1]
+The Knights Templar?
+
+[HEADER 002D00A2]
+Yep.
+
+[HEADER 002D00A3]
+Nope. Nothing at all.
+
+[HEADER 002D00A4]
+Well, you knew they were an order of knights!
+
+[HEADER 002D00A5]
+What I know and what I say are two different things, boy.
+
+[HEADER 002D00A6]
+I haven't lasted as long as I have in this business without knowing that.
+
+[HEADER 002D00A7]
+`In this business'?
+
+[HEADER 002D00A8]
+Sure.
+
+[HEADER 002D00A9]
+The greetings card business.
+
+[HEADER 002D00AA]
+Oh, puhleeese!
+
+[HEADER 002D0090]
+Does the image of a knight holding a crystal ball mean anything to you?
+
+[HEADER 002D0091]
+Hell, no! What would a knight want with a hunk o' glass?
+
+[HEADER 002D0092]
+I don't know. That's the prob...
+
+[HEADER 002D0093]
+What's wrong, boy?
+
+[HEADER 002D0094]
+It's not a crystal ball...
+
+[HEADER 002D0095]
+It all came together in my head.
+
+[HEADER 002D0096]
+What the conspirators had mentioned losing, the strange perspective of the manuscript...
+
+[HEADER 002D0097]
+...it's a lens!
+
+[HEADER 002D00B1]
+Have you talked to Nejo?
+
+[HEADER 002D00B2]
+Nejo? He's the youngster on that junk stand, right?
+
+[HEADER 002D00B3]
+Yeah, we've met him. He's a smart kid.
+
+[HEADER 002D00B4]
+Speaks four languages and he's never had a day's formal education.
+
+[HEADER 002D00B5]
+He should go far. Kept trying to peddle garbage on us, though.
+
+[HEADER 002D00B6]
+You're not going to find much worthwhile around here.
+
+[HEADER 002D00B7]
+I know that and YOU know that...
+
+[HEADER 002D00B8]
+but try telling Pearl. She reckons there's antiquities in them thar stands.
+
+[HEADER 002D00AF]
+Have you had any dealings with the kebab seller?
+
+[HEADER 002D00B0]
+Absolutely not. Pearl's already had one attack of Montezuma's Revenge.
+
+[HEADER 002D00B9]
+Have you met Ultar?
+
+[HEADER 002D00BA]
+Oh, `most luxurious, air-conditioned taxi ride, mister!'
+
+[HEADER 002D00BB]
+Yeah, the cabbie.
+
+[HEADER 002D00BC]
+Tried to pull a bunko on us. Take us on a wildgoose chase off into nowhere.
+
+[HEADER 002D00BD]
+Have you ever heard of a hill called the Bull's Head?
+
+[HEADER 002D00BE]
+Can't say as I have. Where's that?
+
+[HEADER 002D00BF]
+I don't know. I'm trying to find out.
+
+[HEADER 002D00C0]
+Bull's Head, huh? I must remember that. Sounds scenic.
+
+[HEADER 002D00D1]
+Have you seen this man before?
+
+[HEADER 002D00D2]
+Maybe. Where did you get it?
+
+[HEADER 002D00D3]
+I just picked it up somewhere.
+
+[HEADER 002D00D4]
+Sure, I'm always picking up photos of complete strangers and then asking around.
+
+[HEADER 002D00D5]
+Ow! Dammit!
+
+[HEADER 002D00D6]
+There, I've got another picture of a complete stranger.
+
+[HEADER 002D00D7]
+Maybe I'll ask around about this one.
+
+[HEADER 002D00E5]
+What do you think of this?
+
+[HEADER 002D00E1]
+Hmmm, looks like the kind of thing Pearl might be interested in.
+
+[HEADER 002D00E2]
+Not old enough, though.
+
+[HEADER 002D00E6]
+Good Gravy! Looks old.
+
+[HEADER 002D00E7]
+Yeah. I had to turn this town upside down.
+
+[HEADER 002D00E8]
+Boy, your luck's better than ours. Looks Roman.
+
+[HEADER 002D00E9]
+I wouldn't know.
+
+[HEADER 002D00EA]
+What they'll say back home! How much do you want, George?
+
+[HEADER 002D00EB]
+Oh, I couldn't, it's the find of a lifetime. I mean...
+
+[HEADER 002D00EC]
+Fifty bucks. Take it. Or leave it.
+
+[HEADER 002D00ED]
+I'll take it. Here you go.
+
+[HEADER 002D00EE]
+And here YOU go...
+
+[HEADER 002D00EF]
+Thanks for the money, Duane. This'll come in real handy.
+
+[HEADER 002D00F0]
+I ought to be thanking you for finding this Roman statuette.
+
+[HEADER 002D00C4]
+What do you think of this?
+
+[HEADER 002D00C5]
+It's a ball. Big deal...
+
+[HEADER 002D00C6]
+Shake hands, Duane!
+
+[HEADER 002D00C7]
+Why?
+
+[HEADER 002D00C8]
+Just being friendly.
+
+[HEADER 002D00C9]
+Let's just be friendly by keeping our hands to ourselves, yeah?
+
+[HEADER 002D00CA]
+What do you make of this?
+
+[HEADER 002D00CB]
+A manhole lifting key. So?
+
+[HEADER 002D00CC]
+Hey, how come you recognize it?
+
+[HEADER 002D00CD]
+Hey, how come you're carrying it?
+
+[HEADER 002D00CE]
+Yeah, well. Let's just drop the subject, shall we?
+
+[HEADER 002D00DA]
+Does this matchbook mean anything to you?
+
+[HEADER 002D00DB]
+Nothing. Nothing at all.
+
+[HEADER 002D00DC]
+What do you think of this?
+
+[HEADER 002D00DD]
+A blood pressure gauge. Why in blue blazes are you carrying that?
+
+[HEADER 002D00DE]
+I'm carrying it for a friend?
+
+[HEADER 002D00DF]
+Recognise this?
+
+[HEADER 002D00E0]
+A clown's red nose.
+
+[HEADER 002D00E3]
+Do you know the name `Moerlin'?
+
+[HEADER 002D00E4]
+Nope.
+
+[HEADER 002D00F1]
+What do you think of this greasepaint-stained tissue?
+
+[HEADER 002D00F2]
+You've been hanging around with actors?
+
+[HEADER 002D00F3]
+I've got a toilet brush!
+
+[HEADER 002D00F4]
+What do you want me to do? Dance around with joy?
+
+[HEADER 002D00F5]
+What does this toilet chain mean to you?
+
+[HEADER 002D00F6]
+It means that somewhere, somebody can't flush the toilet.
+
+[HEADER 002D00F7]
+I've got the keys to a toilet here.
+
+[HEADER 002D00F8]
+Executive washroom?
+
+[HEADER 002D00F9]
+Not exactly.
+
+[HEADER 002D00FA]
+Here I have a washroom towel.
+
+[HEADER 002D00FB]
+Yes?
+
+[HEADER 002D00FC]
+No, that's it. `Here I have a washroom towel'.
+
+[HEADER 002D00FD]
+Oh, I was expecting a magic trick or something.
+
+[HEADER 002D00FE]
+Look, I've got some plaster of Paris.
+
+[HEADER 002D00FF]
+Yeah? I've got a picture of me shaking hands with George Bush.
+
+[HEADER 002D0100]
+Course, that was back in '76.
+
+[HEADER 002D0101]
+What do you make of this chalice?
+
+[HEADER 002D0102]
+That looks old. Is it for sale?
+
+[HEADER 002D0103]
+Sorry.
+
+[HEADER 002D00C2]
+Okay. Well, I'll see you around, Duane.
+
+[HEADER 002D00C3]
+Count on it, George.
+
+[HEADER 0031000C]
+I don't know why but I felt like I could trust this guy.
+
+[HEADER 00310045]
+Hello again, Ultar.
+
+[HEADER 0031004A]
+Praise be to Allah! I am blessed with your bountiful presence once more!
+
+[HEADER 00310064]
+Do you know anything about the Templars?
+
+[HEADER 00310065]
+Of course!
+
+[HEADER 00310066]
+Yes? What can you tell me?
+
+[HEADER 00310067]
+Great she-bop band of the sixties!
+
+[HEADER 00310068]
+Uh-no, that's not really...
+
+[HEADER 00310069]
+`Who put the 'Bop' in the 'bop-shebop-du-whop'?'
+
+[HEADER 0031006A]
+Yeah. Eternal questions.
+
+[HEADER 00310057]
+This place is certainly hard to find.
+
+[HEADER 00310058]
+Oh, yes! It is most exclusive! The membership can be no more than, hmm...
+
+[HEADER 00310059]
+Kind Sir, what would you guess the population of the village to be?
+
+[HEADER 0031005A]
+Gee, I don't know. A couple of thousand?
+
+[HEADER 0031005B]
+Then I would estimate the membership to be no more than a couple of thousand.
+
+[HEADER 0031005C]
+What do you make of that boy in the market? Nejo?
+
+[HEADER 0031005D]
+Nejo? Ha, Ayub's boy. Is too big for sandals.
+
+[HEADER 0031005E]
+I speak splendid English and he laugh! He say, `Ultar, you big ox! You split infinitive!'
+
+[HEADER 0031005F]
+I say, `I split your head if you stay still long enough.'
+
+[HEADER 00310060]
+Ha, ha, ha, ha!
+
+[HEADER 00310061]
+Ho, ho, ho, ho!
+
+[HEADER 00310062]
+Pretty funny, yes?
+
+[HEADER 00310063]
+Hilarious. You should be on cable.
+
+[HEADER 0031006B]
+What do you know about the kebab seller?
+
+[HEADER 0031006C]
+A most miserable man. Ultar say, `Cheery up, matey mate! It might never happen!'
+
+[HEADER 0031006D]
+And he say, `Shut up, Ultar!'
+
+[HEADER 0031006E]
+Fancy that.
+
+[HEADER 0031006F]
+Not at all. Arto has face like the drizzle that falls on the midweek afternoon.
+
+[HEADER 00310070]
+Whatever that is.
+
+[HEADER 00310071]
+Have you met the American couple?
+
+[HEADER 00310072]
+Have Ultar met them? HAVE Ultar met them? Yes, Ultar have met them.
+
+[HEADER 00310073]
+And?
+
+[HEADER 00310074]
+They most ungenerous. Ultar offer to show them wonders of countryside.
+
+[HEADER 00310075]
+They say, `Is there anything ancient?' Ultar say, `Yes, of course! Nature is ancient.'
+
+[HEADER 00310076]
+They say, `No, anything ancient made by men?' and Ultar say, `Have you seen taxi? Fan belt older than Ozymandias!
+
+[HEADER 00310077]
+But they gone.
+
+[HEADER 00310078]
+Could you tell me what that sign means?
+
+[HEADER 00310079]
+It say, `Door stay shut until brush come back. Signed, the management.'
+
+[HEADER 0031007A]
+Oh. What does that mean?
+
+[HEADER 0031007B]
+Manager buy lovely new toilet brush...
+
+[HEADER 0031007C]
+...leaves it by washbasin for ten minutes.
+
+[HEADER 0031007D]
+Come back, it been stealen! Stolen.
+
+[HEADER 0031007E]
+Not even out of wrapper.
+
+[HEADER 0031007F]
+He damn cross! Lock toilet up and say, `Nobody use fine, pristine toilet until brush given back.'
+
+[HEADER 00310080]
+We say, `What we do 'til then, eh?'
+
+[HEADER 00310081]
+He say, `Cross legs and use the superior willpower.'
+
+[HEADER 00310082]
+And that's what you've been doing?
+
+[HEADER 00310083]
+No. Ultar use bucket.
+
+[HEADER 0031004C]
+What does `'Il 'a'kl kalb' mean?
+
+[HEADER 0031004E]
+Who teach you that?
+
+[HEADER 0031004F]
+Nejo told me to say it to Arto.
+
+[HEADER 00310050]
+And Arto come after you with big knife, yes?
+
+[HEADER 00310051]
+Yeah! How did you know?
+
+[HEADER 00310052]
+I know Arto. You tell him in bad Arabic that his kebabs made from dog meat.
+
+[HEADER 00310053]
+I said he was using dog food? No wonder he went crazy!
+
+[HEADER 00310054]
+No. Ultar not mean meat for dog
+
+[HEADER 00310055]
+Ultar mean meat of dog.
+
+[HEADER 00310056]
+Oh.
+
+[HEADER 0031004D]
+Not sure, mister. Your accent is difficult.
+
+[HEADER 003100A5]
+About Bull's Head Hill.
+
+[HEADER 003100A6]
+Are you desirous of seeing this most splendid place?
+
+[HEADER 003100A7]
+Well, maybe.
+
+[HEADER 003100A8]
+A terrific bargain, only fifty of your yankee bucks.
+
+[HEADER 003100A9]
+Fifty, huh?
+
+[HEADER 003100AD]
+Okay, it's a deal. Here's the cash.
+
+[HEADER 003100AE]
+Ah! Most splendid! As you say, `The Cash Price Moolah is Correct'!
+
+[HEADER 003100AF]
+Mister, we make with haste!
+
+[HEADER 003100B0]
+Where exactly is your taxi? The only vehicle I've seen around here is a ageing army surplus truck.
+
+[HEADER 003100B1]
+Yes?
+
+[HEADER 003100B2]
+Oh. Okay, I'll be along in a minute.
+
+[HEADER 0031000F]
+It didn't seem right to take off with the toilet keys so I left them on the bar.
+
+[HEADER 003100A3]
+No, I think I'll be hanging around the village for a while yet.
+
+[HEADER 003100A4]
+As you desire, oh mister. Rest assured, however, that Ultar is ready to transport you to Bull's Head as quick as a lickety split, yes!
+
+[HEADER 003100AA]
+Well, I still don't have any cash on me. American or otherwise.
+
+[HEADER 003100AB]
+Ah! Unfortune most extreme.
+
+[HEADER 003100AC]
+The delights of the Bull's Head hill then must wait, I fear.
+
+[HEADER 00310086]
+What can you tell me about this Bull's Head Hill?
+
+[HEADER 00310087]
+Is most magnificent! Lovely views! Worth visiting, yes, by indeedity!
+
+[HEADER 00310088]
+How do I get there? No, let me guess.
+
+[HEADER 00310089]
+You need fine luxury guide to take you there in air-conditioned taxi!
+
+[HEADER 0031008A]
+`Woe is me. Where can I find such a guide?'
+
+[HEADER 0031008B]
+And Ultar is most luxurious guide for, most literally, some way! In any direction!
+
+[HEADER 0031008C]
+Gee willikers. Lucky old me.
+
+[HEADER 0031008D]
+Are you desirous of my pleasant and luxuriant service?
+
+[HEADER 0031008E]
+Okay. All right. Let's go.
+
+[HEADER 0031008F]
+First, I regret, the formalities. A trip to the Bull's Head, hmmmm. Fifty yankee dollars, please!
+
+[HEADER 00310090]
+Fifty bucks? I don't have fifty bucks!
+
+[HEADER 00310091]
+Oh, most unhappy event! Ultar then sorry but he cannot take you on ride of lifetime.
+
+[HEADER 00310092]
+Hold on, Ultar. Is there nothing I could barter with you?
+
+[HEADER 00310093]
+Were that it was so, beloved friend. But my taxi needs gas and its muffler needs the muffler doctor. Trading for these things is not possible.
+
+[HEADER 00310094]
+My heart weeps for the injustice but it's bucks or zip, oh unfortunate American.
+
+[HEADER 003100D5]
+Have you seen this man before?
+
+[HEADER 003100D6]
+Oh, most certainly! Was here only yesterday!
+
+[HEADER 003100D7]
+Here? Yesterday? My God, he's close.
+
+[HEADER 003100D8]
+Yes, he was asking lot of questions, just like you.
+
+[HEADER 003100D9]
+What did he ask about?
+
+[HEADER 003100DA]
+He ask about American called Stobbie...
+
+[HEADER 003100DB]
+Stobbart?
+
+[HEADER 003100DC]
+Yes! Stobbart! You know him?
+
+[HEADER 003100DD]
+The killer knew my name.
+
+[HEADER 003100DE]
+What else did he ask about?
+
+[HEADER 003100DF]
+He ask about German man called Klobner.
+
+[HEADER 003100E0]
+I tried to remember the name of the man the conspiracy had lost in Syria...
+
+[HEADER 003100E1]
+Was his name Klausner?
+
+[HEADER 003100E2]
+Sure! That is what Ultar said! Klausner!
+
+[HEADER 003100E3]
+I told this man in the picture Klausner wanted to go up to Bull's Head,...
+
+[HEADER 003100E4]
+Hold on, he wanted to go where?
+
+[HEADER 003100E5]
+Bull's Head...
+
+[HEADER 003100E6]
+...big hill, ten mile out of town, maybe sixty.
+
+[HEADER 003100E7]
+When was that?
+
+[HEADER 003100E8]
+Oh, maybe a week ago.
+
+[HEADER 003100FE]
+Look, Ultar. Fifty dollars, US.
+
+[HEADER 003100FF]
+A splendid sum.
+
+[HEADER 0031011F]
+Look I've got the toilet brush back!
+
+[HEADER 00310120]
+Hmmm, you man of action, all rightey.
+
+[HEADER 00310121]
+Don't just wave at me. Give to manager.
+
+[HEADER 00310124]
+Look, I've got the keys to the toilet!
+
+[HEADER 00310125]
+Is this `Life Goal' thing I read in GQ?
+
+[HEADER 00310126]
+Look what I've got! The towel from the toilet!
+
+[HEADER 00310127]
+What you want with towel?
+
+[HEADER 00310128]
+Well, I don't know yet, do I?
+
+[HEADER 00310129]
+You sure a funny bod. Run around, collect things.
+
+[HEADER 003100C6]
+What do you think of this ball?
+
+[HEADER 003100C7]
+Is most splendid, mister.
+
+[HEADER 003100CA]
+Shake my hand, Ultar!
+
+[HEADER 003100CB]
+Ha, ha! Remind me of thing that happen month ago, maybe six.
+
+[HEADER 003100CC]
+Man come up to Ultar, say `Shake hands, Ultar!'
+
+[HEADER 003100CD]
+But man have electrical buzz thing in his hand. Ha, ha!
+
+[HEADER 003100CE]
+How we laughed!
+
+[HEADER 003100CF]
+Then I broke his arms.
+
+[HEADER 003100D0]
+I didn't think electrocuting the big Syrian was a good idea
+
+[HEADER 003100D1]
+This is a key for lifting manhole covers.
+
+[HEADER 003100D2]
+You carry some strange stuff with you, mister.
+
+[HEADER 003100EB]
+What do you think of this?
+
+[HEADER 003100EC]
+Is gadget.
+
+[HEADER 003100ED]
+It's a blood pressure gauge.
+
+[HEADER 003100EE]
+Blood pressure gauge. Is what Ultar said!
+
+[HEADER 003100F1]
+Look at this.
+
+[HEADER 003100F2]
+Is a red ball with a hole in it.
+
+[HEADER 003100F3]
+No, it's a clown's nose.
+
+[HEADER 003100F4]
+Does clown know you have his nose?
+
+[HEADER 003100F5]
+I really hope not.
+
+[HEADER 003100F6]
+Unfortunately, it seems so.
+
+[HEADER 003100F7]
+Why unfortunate?
+
+[HEADER 003100F8]
+This clown kills people.
+
+[HEADER 003100F9]
+Ah, `Alternative Comedy'.
+
+[HEADER 003100FA]
+Ha, statuette is broken! Not worth much.
+
+[HEADER 003100FC]
+Ha, statuette is broken and dirty! Not worth much.
+
+[HEADER 00310115]
+What does this greasepaint-stained tissue mean to you?
+
+[HEADER 00310116]
+Nothing. Why? What does greasepaint-stained tissue mean to you?
+
+[HEADER 00310122]
+What does this toilet chain mean to you?
+
+[HEADER 00310123]
+You got brush back so you could steal chain? You sure strange cookie, mister. Yes?
+
+[HEADER 0031012D]
+What do think of this plaster?
+
+[HEADER 0031012E]
+Not much there!
+
+[HEADER 0031012F]
+Not enough to make tasteful garden gnome, for an example.
+
+[HEADER 00310130]
+How about a really small garden gnome?
+
+[HEADER 00310131]
+Ultar not think so.
+
+[HEADER 003100C2]
+See you around, Ultar.
+
+[HEADER 003100C5]
+May good fortune follow you, mister.
+
+[HEADER 0031000D]
+The club manager's bonhomie seemed forced. Looking at the place, I could understand that.
+
+[HEADER 0031002C]
+Here's your brush, Sir. It wasn't easy getting it back.
+
+[HEADER 0031002D]
+The manager took the brush from me, gave me the toilet keys as my reward and stomped off.
+
+[HEADER 0031002E]
+What was all that about?
+
+[HEADER 0031002F]
+Manager, he say, `Bah! Look at state of this!...
+
+[HEADER 00310030]
+...Need much cleaning in detergent before go around MY U-bend!'
+
+[HEADER 00310031]
+He said all that?
+
+[HEADER 00310032]
+Body language account for much, you know! Oh, yes indeedy!
+
+[HEADER 00310017]
+Hi, nice club you've got here.
+
+[HEADER 00310018]
+I was wondering if you could help me?
+
+[HEADER 0031001A]
+What? I mean, I beg your pardon?
+
+[HEADER 0031001B]
+I'm sorry but I don't understand.
+
+[HEADER 0031001C]
+No surprise there, all righty. He say sorry...
+
+[HEADER 0031001D]
+...but he not speak English.
+
+[HEADER 0031001E]
+Uh, but, he didn't say anything.
+
+[HEADER 00310022]
+He not have tongue!
+
+[HEADER 00310023]
+No tongue? What happened?
+
+[HEADER 00310024]
+It was bet.
+
+[HEADER 00310025]
+And he lost.
+
+[HEADER 00310026]
+He won! You should see other chappie. Oh yes!
+
+[HEADER 00310027]
+There wasn't much point in trying to launch an in-depth conversation...
+
+[HEADER 00310028]
+...when I couldn't speak Arabic and he couldn't speak, period.
+
+[HEADER 00310011]
+I knew the door was locked. I'd need the key to get in there.
+
+[HEADER 00310007]
+By staring hard at the notice and squinting, I discovered I couldn't understand a word of it.
+
+[HEADER 00310012]
+Damn! The door's locked.
+
+[HEADER 00310013]
+Uh, I'm sorry? Did you say something?
+
+[HEADER 00310014]
+He say, `You not to go in toilet! Read sign, matey!'
+
+[HEADER 00310015]
+`Matey?'
+
+[HEADER 00310016]
+It lose something in translation.
+
+[HEADER 002D0000]
+The fall hadn't done the statuette much good. It had lost its arms and gotten pretty chipped.
+
+[HEADER 002D003F]
+Ultar was standing around at a loose end.
+
+[HEADER 002D0040]
+I had a feeling that something was wrong. Again.
+
+[HEADER 002D02C8]
+Hello again, Ultar.
+
+[HEADER 002D02C9]
+Is most splendid and adventurous client!
+
+[HEADER 002D02FD]
+That's your taxi?
+
+[HEADER 002D02FE]
+Oh, yes! Most assuredly! Most entirely splendid taxi in all Marib!
+
+[HEADER 002D02FF]
+Looks like an old army truck to me.
+
+[HEADER 002D0300]
+Bah! You Americans with your checkie board cabs and your Judd Hirschs!
+
+[HEADER 002D0301]
+You have lost sight of what a taxi should truly be!
+
+[HEADER 002D0302]
+About four tons, by the look of it.
+
+[HEADER 002D0303]
+There! You have hit the nail in the nutshell!
+
+[HEADER 002D0304]
+Okay already. Let's go.
+
+[HEADER 002D0305]
+Regrettably not, most esteemed fare. There is a minor problem of a tiny nature.
+
+[HEADER 002D0306]
+The fan belt has taken it upon itself to break.
+
+[HEADER 002D0307]
+So what are you going to do?
+
+[HEADER 002D0308]
+What can I do? I must wait for a ride to the garage for a replacement.
+
+[HEADER 002D0309]
+How long is that going to take?
+
+[HEADER 002D030A]
+One day. Maybe six.
+
+[HEADER 002D030B]
+I can't wait that long! We've got to get moving!
+
+[HEADER 002D030C]
+But how, my friend?
+
+[HEADER 002D030D]
+I'll think of something.
+
+[HEADER 002D0353]
+What does this toilet chain mean to you?
+
+[HEADER 002D0354]
+You got brush back so you could steal chain? You sure strange cookie, mister. Yes?
+
+[HEADER 002D0365]
+Is this any use to you?
+
+[HEADER 002D0366]
+My friend! The very thing, yes!
+
+[HEADER 002D0367]
+Ultar took the towel from me, cut it in two lengthways and gave me half back.
+
+[HEADER 002D0368]
+With his half he did the kind of fan belt replacement that is normally done with stockings.
+
+[HEADER 002D0369]
+Now. If I knot the ends together, so! Serviceable, yes! Very serviceable indeed!
+
+[HEADER 002D036A]
+Stockings might work on a Bentley but on a truck, the coarse towelling did the job nicely.
+
+[HEADER 002D036B]
+Come along, my friend! You want to see the Bull's Head, yes?
+
+[HEADER 002D0310]
+Bye for now, Ultar.
+
+[HEADER 002D0311]
+May good fortune follow you, mister.
+

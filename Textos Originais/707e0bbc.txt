@@ -1,0 +1,1065 @@
+[HEADER 00004A38]
+The guard in the basement won't let me into the excavation.
+
+[HEADER 00004A42]
+You need his keys. The washroom door is also locked.
+
+[HEADER 00004A4C]
+Ask the guard if you can get his keys. Now what if the key to the excavation was on the same ring as the key to the washroom?
+
+[HEADER 00004A56]
+I have the guard's keys, but he won't let me past.
+
+[HEADER 00004A60]
+You need to get hold of that site entrance key. Replacing the keys might do the trick.
+
+[HEADER 00004A6A]
+Head into the bathroom and see what you can find.
+
+[HEADER 00004A74]
+Push the key into the soap to make an impression.
+
+[HEADER 00004A7E]
+Use the plaster in the soap, then add water from the sink, then use the hand drier to dry it. One fake key.
+
+[HEADER 00004A88]
+This key won't fool the guard. It's the wrong colour.
+
+[HEADER 00004A92]
+You need to find some paint. Who just had paint?
+
+[HEADER 00004A9C]
+Head up and try and dip the key in the paint bucket.
+
+[HEADER 00004AA6]
+Return downstairs, and use the phone on the wall, and talk to Nico.
+
+[HEADER 00004AB0]
+Head up and tell the painter he's needed on the phone. Now you can dip the key in the bucket of paint.
+
+[HEADER 00004AC4]
+This plaster key may look real, but it doesn't feel real.
+
+[HEADER 00004ACE]
+Imagine if the guard couldn't feel things with his fingers...
+
+[HEADER 00004AD8]
+Check the thermostat on the wall, then talk to the guard about it.
+
+[HEADER 00004AE2]
+Turn the thermostat right down, until the guard puts his gloves on.
+
+[HEADER 00004AEC]
+Get the keys back from the guard and combine his keys with your fake key to swap them. Then give the keys to the guard.
+
+[HEADER 00004AF6]
+Well, I have the key, but the guard's still in the way of the door.
+
+[HEADER 00004B00]
+How did you distract someone last time?
+
+[HEADER 00004B0A]
+Give Nico another call.
+
+[HEADER 00004B14]
+Once the guard is distracted, head back down.
+
+[HEADER 00004B1E]
+Finally I'm in the Baphomet site. There's a mosaic on the floor, but I can't make sense of it.
+
+[HEADER 00004B28]
+You need to reflect on this matter.
+
+[HEADER 00004B32]
+What do you have that's shiny like a mirror?
+
+[HEADER 00004B3C]
+Use the chalice on the mosaic.
+
+[HEADER 0028000D]
+The guard was telling the painter there was a call for him...
+
+[HEADER 0028000E]
+...and the painter wasn't believing a word of it.
+
+[HEADER 0028000B]
+The painter didn't seem to regard the painting as too important.
+
+[HEADER 0028000C]
+Not as important as his cigarette break, anyhow.
+
+[HEADER 00280015]
+Hi, it's me again.
+
+[HEADER 00280018]
+What now?
+
+[HEADER 00280014]
+Excuse me, could you help me?
+
+[HEADER 00280016]
+What is it?
+
+[HEADER 00280017]
+I've got a few questions.
+
+[HEADER 0028002E]
+What does the word `Templar' suggest to you?
+
+[HEADER 0028002F]
+Templar? Uh...
+
+[HEADER 00280030]
+Nothing?
+
+[HEADER 00280031]
+Nothing.
+
+[HEADER 0028001A]
+You're doing a fine job.
+
+[HEADER 0028001B]
+Merci. I have my professional pride.
+
+[HEADER 0028001C]
+I don't think I've ever seen a Gauloise smoked so stylishly.
+
+[HEADER 0028001D]
+It's a natural talent.
+
+[HEADER 0028001E]
+I'm being sarcastic.
+
+[HEADER 0028001F]
+I'm being indifferent.
+
+[HEADER 00280020]
+You're very good at that as well.
+
+[HEADER 00280021]
+Merci. Vive l'indifference!
+
+[HEADER 00280022]
+So what are you doing here?
+
+[HEADER 00280023]
+I am having my break.
+
+[HEADER 00280024]
+Yeah, I mean when you finish your break.
+
+[HEADER 00280025]
+When I finish my break? An interesting concept, m'sieur.
+
+[HEADER 00280026]
+You'll probably need to think about it.
+
+[HEADER 00280027]
+I could have another cigarette while I consider.
+
+[HEADER 00280028]
+Per'aps tomorrow, too.
+
+[HEADER 00280029]
+Okay, let me put things differently. What were you hired to do here?
+
+[HEADER 0028002A]
+I was hired to keep the archaeological dig in the basement of this building clear of debris...
+
+[HEADER 0028002B]
+...and to touch up damage to the doorframes with my little pot of paint.
+
+[HEADER 0028002C]
+It's a very responsible job.
+
+[HEADER 0028002D]
+Unfortunately, I'm not a very responsible person.
+
+[HEADER 00280032]
+So what do you know about the excavation?
+
+[HEADER 00280033]
+I know they won't let me in to do my job.
+
+[HEADER 00280034]
+I would complain to my union but, alas...
+
+[HEADER 00280035]
+...you couldn't be bothered to join.
+
+[HEADER 00280036]
+Right. Tell you what, though,...
+
+[HEADER 00280037]
+...I'm surprised at the sort of people interested in this excavation!
+
+[HEADER 00280038]
+What's unusual about the visitors to the excavation?
+
+[HEADER 00280039]
+None of them look like archaeologists to me.
+
+[HEADER 0028003A]
+Do you know what an archaeologist looks like?
+
+[HEADER 0028003B]
+Three piece suits, crocodile hide attaché cases, Rolex Oysters...
+
+[HEADER 0028003C]
+But no archaeologist dresses like that!
+
+[HEADER 0028003D]
+Quite right, m'sieur. Quite right.
+
+[HEADER 0028003E]
+So who are they?
+
+[HEADER 0028003F]
+Who cares as long as they pay me?
+
+[HEADER 00280040]
+You've got a 'phone call.
+
+[HEADER 00280041]
+For me? Are you certain?
+
+[HEADER 00280042]
+It's a woman. She sounded hot!
+
+[HEADER 00280043]
+What women? You must be mistaken, m'sieur.
+
+[HEADER 00280044]
+Well, she asked for `that hunk of man with the nicotine fingers and his ass hanging out of his pants'.
+
+[HEADER 00280045]
+Certainly sounds like me.
+
+[HEADER 00280046]
+Stand back. It wouldn't do to keep the lady from her hunk.
+
+[HEADER 00280055]
+I was pretty sure the Shake 'n Shock had shot its bolt in Syria.
+
+[HEADER 00280056]
+I've got a sewer key.
+
+[HEADER 00280057]
+I used to work in the sewers.
+
+[HEADER 00280058]
+Oh? What happened?
+
+[HEADER 00280059]
+I had a cigarette break in a pocket of methane.
+
+[HEADER 0028005A]
+A manhole cover landed on the other side of the Seine and I was sacked.
+
+[HEADER 00280077]
+Have you ever seen a lens like this before?
+
+[HEADER 00280078]
+Only in my sister's pince-nez.
+
+[HEADER 00280079]
+They're as thick as the portholes in a submarine.
+
+[HEADER 0028007A]
+If she looks up suddenly, she breaks her nose.
+
+[HEADER 0028007B]
+You're joking!
+
+[HEADER 0028007C]
+Of course I'm joking. I don't have a sister.
+
+[HEADER 00280073]
+Has a guy calling himself Moerlin been nosing around?
+
+[HEADER 00280074]
+Was he wearing a tee-shirt with `My name is Moerlin' on it?
+
+[HEADER 00280075]
+I doubt it.
+
+[HEADER 00280076]
+Then how the hell am I supposed to know his name just by looking at him, huh?
+
+[HEADER 0028006D]
+Have you ever seen anything like this?
+
+[HEADER 0028006E]
+Yes. It's a communion chalice.
+
+[HEADER 0028006F]
+I know, you know. I used to be an altar boy.
+
+[HEADER 00280070]
+You?
+
+[HEADER 00280071]
+Yes, me. What's so funny about that?
+
+[HEADER 00280072]
+Uh, nothing.
+
+[HEADER 0028005B]
+Have you seen this man before?
+
+[HEADER 0028005C]
+Yeah. He asked me a lot of questions, just like you.
+
+[HEADER 0028005F]
+I have a red nose.
+
+[HEADER 00280060]
+Imagine.
+
+[HEADER 00280061]
+A greasy tissue. Don't get it too close to my cigarette, m'sieur...
+
+[HEADER 00280062]
+...or there'll be a conflagration.
+
+[HEADER 0028005D]
+I've got a blood pressure gizmo.
+
+[HEADER 0028005E]
+How exciting for you.
+
+[HEADER 00280063]
+I have some plaster of Paris.
+
+[HEADER 00280064]
+Amazing.
+
+[HEADER 00280065]
+I made this key out of plaster.
+
+[HEADER 00280066]
+How thrilling. How clever. How pointless.
+
+[HEADER 00280067]
+I made this key out of plaster and paint.
+
+[HEADER 00280068]
+Convincing, isn't it?
+
+[HEADER 00280069]
+Hmmm. That shade of paint seems ... familiar.
+
+[HEADER 0028006A]
+Not that I care.
+
+[HEADER 0028006B]
+Would you be interested in soap?
+
+[HEADER 0028006C]
+Not at this exact moment, no.
+
+[HEADER 00280053]
+Be seeing you.
+
+[HEADER 00280054]
+Au revoir, m'sieur.
+
+[HEADER 00280002]
+Hmmm. Gunmetal paint. Interesting.
+
+[HEADER 00280003]
+The painter had a pot of gunmetal gray primer hanging from the barrier.
+
+[HEADER 00280011]
+Ey! M'sieur! Get away from my paint pot!
+
+[HEADER 00280012]
+Okay...
+
+[HEADER 00280013]
+I should think so. Meddling with a man's paint pot! Pah!
+
+[HEADER 00280004]
+What would I need a whole pot of paint for?
+
+[HEADER 00280005]
+There was a dumpster full of debris from the excavation, I guessed.
+
+[HEADER 00280000]
+A well-used wheelbarrow was sitting by the rubble filled dumpster.
+
+[HEADER 00280010]
+Hey, you! Get away from my dumpster!
+
+[HEADER 00280006]
+The archway was topped by a fancy balustrade.
+
+[HEADER 00280007]
+Oh, darn. I'd left my grappling hook at home.
+
+[HEADER 00280008]
+No way could I get up there!
+
+[HEADER 00290019]
+The doorway was full of assorted old tea chests, cardboard boxes and so on, all empty and all uninteresting.
+
+[HEADER 0029001A]
+The doorway led to an old utility closet that had lost its door.
+
+[HEADER 0029001B]
+There was nothing interesting in there.
+
+[HEADER 0029000E]
+Yup, that was definitely debris.
+
+[HEADER 0029000D]
+A dumpster with some debris in it.
+
+[HEADER 0029000F]
+I couldn't see any use for a collection of dirt and half bricks.
+
+[HEADER 00290006]
+A thermostat was mounted over a radiator.
+
+[HEADER 00290009]
+I'd turned the thermostat all the way down. It was getting pretty chilly.
+
+[HEADER 00290007]
+The radiator was pumping out heat as the thermostat was cranked right over to full.
+
+[HEADER 00290008]
+No wonder it was warm in here even with the door open to the chill of Fall.
+
+[HEADER 0029000A]
+I turned the heating off.
+
+[HEADER 0000184C]
+As I'd hoped, the guard put his gloves on.
+
+[HEADER 0029000C]
+I couldn't imagine what I'd achieve by turning the dial.
+
+[HEADER 00290029]
+Hey! M'sieur!
+
+[HEADER 0029002A]
+Don't go with my keys!
+
+[HEADER 00290012]
+There was a closed door with `Toilet' scratched into the cheap veneer.
+
+[HEADER 00290013]
+The door was locked.
+
+[HEADER 00290028]
+That door's locked, m'sieur.
+
+[HEADER 00290014]
+That guard had been put here to guard something.
+
+[HEADER 00290015]
+My guess was that the excavation was behind that door.
+
+[HEADER 00290016]
+I didn't think that the guard would just let me waltz past. Besides...
+
+[HEADER 00290017]
+...I had a hunch that door was locked.
+
+[HEADER 00290018]
+I couldn't get to the door while the guard was there.
+
+[HEADER 00290010]
+A guard stood by a door I guessed led to the excavation.
+
+[HEADER 00290011]
+He looked pretty pompous. Well - not so much pretty, just pompous.
+
+[HEADER 0029002F]
+Hi, again.
+
+[HEADER 00290031]
+What is it?
+
+[HEADER 0029002E]
+Hi? Excuse me?
+
+[HEADER 00290030]
+Oui?
+
+[HEADER 0029004A]
+What do you know about the Knights Templar?
+
+[HEADER 0029004B]
+There was a long pause during which the guard said nothing. Then he said...
+
+[HEADER 0029004C]
+Nothing.
+
+[HEADER 0029004D]
+Nothing at all?
+
+[HEADER 0029004E]
+Is this a test?
+
+[HEADER 0029004F]
+What? Like a history pop test?
+
+[HEADER 00290050]
+No. Like a ...test.
+
+[HEADER 00290051]
+Okay, yes. It's a test.
+
+[HEADER 00290052]
+Then I know absolutely nothing about the Templars.
+
+[HEADER 00290053]
+The guard was being amazingly evasive. It was going to take more than goodwill to get past him.
+
+[HEADER 00290033]
+So, what exactly are you doing here?
+
+[HEADER 00290034]
+I'm guarding. You expect to find me shearing sheep?
+
+[HEADER 00290035]
+Take it easy! I just didn't realise you were a guard.
+
+[HEADER 00290036]
+I'd like to know what you're guarding, please?
+
+[HEADER 00290037]
+That's a secret.
+
+[HEADER 00290038]
+It wouldn't happen to be an archaeological site, would it?
+
+[HEADER 00290039]
+Are you asking me or telling me?
+
+[HEADER 0029003A]
+I'm telling you.
+
+[HEADER 0029003B]
+Then why ask?
+
+[HEADER 0029003C]
+I had a feeling that this was no normal hole in the ground.
+
+[HEADER 00290046]
+I need to use the, uh... toilet. Again.
+
+[HEADER 00290047]
+Again? Already?
+
+[HEADER 00290048]
+I have this problem. How technical do you want me to get?
+
+[HEADER 00290049]
+Never mind. Here's the key.
+
+[HEADER 00290043]
+I'd like to use the washroom but the door's locked.
+
+[HEADER 00290044]
+Oh, that's no problem. You can have the key.
+
+[HEADER 00290045]
+Thanks!
+
+[HEADER 0029003D]
+Boy, it sure is hot in here!
+
+[HEADER 0029003E]
+I have to have the door open to allow the workmen access so, why not?
+
+[HEADER 0029003F]
+I turned the heat up.
+
+[HEADER 00290040]
+You could wrap up warm.
+
+[HEADER 00290041]
+I have my gloves if it gets cold but why bother when it's warm anyway?
+
+[HEADER 00290056]
+I held my breath and hoped that he wouldn't notice the substitution.
+
+[HEADER 00290057]
+Here's the keys. Thanks.
+
+[HEADER 00290058]
+Merci, m'sieur.
+
+[HEADER 00290059]
+I couldn't give him the keys.
+
+[HEADER 0029005A]
+The false key looked pretty convincing but it felt exactly like what it was - painted plaster!
+
+[HEADER 0029005B]
+He was bound to detect it.
+
+[HEADER 0029005C]
+Here's the keys. Thanks.
+
+[HEADER 0029005D]
+Merci, m'sieur.
+
+[HEADER 00290067]
+Have you seen this man before?
+
+[HEADER 00290068]
+Oh!
+
+[HEADER 00290069]
+You have?
+
+[HEADER 0029006A]
+Uh... non.
+
+[HEADER 0029006B]
+The conspiracy knew that the lens existed.
+
+[HEADER 0029006C]
+I figured it wouldn't be smart to show too many people that I had it.
+
+[HEADER 0029006D]
+I've got a red nose, here.
+
+[HEADER 0029006E]
+Oh.
+
+[HEADER 00290071]
+Look, a tissue stained with greasepaint.
+
+[HEADER 00290072]
+Ah, just what I've always wanted!
+
+[HEADER 00290073]
+If you give me that, you can enter through the door!
+
+[HEADER 00290074]
+Really?
+
+[HEADER 00290075]
+Of course not. What would I want with an old tissue?
+
+[HEADER 00290076]
+This here's a blood pressure gauge.
+
+[HEADER 00290077]
+Ah! Don't talk to me about blood pressure!
+
+[HEADER 00290078]
+My doctor said to...
+
+[HEADER 00290079]
+Okay, I won't talk to you about blood pressure.
+
+[HEADER 0029007A]
+I've got...
+
+[HEADER 0029007B]
+I thought better of showing him the chalice.
+
+[HEADER 0029007C]
+He might be on the conspiracy's payroll and I didn't want to risk it.
+
+[HEADER 0029007D]
+Oui? You have...?
+
+[HEADER 0029007E]
+...a sudden urge to sing. Care to join me?
+
+[HEADER 0029007F]
+Non. No singing in here.
+
+[HEADER 00290080]
+After the amount of trouble I'd been through to get that key...
+
+[HEADER 00290081]
+...I wasn't about to share with the guard how clever I'd been.
+
+[HEADER 00290065]
+This gadget is a sewer key.
+
+[HEADER 00290066]
+So it is.
+
+[HEADER 00290061]
+Do you recognise this name?
+
+[HEADER 00290062]
+Moerlin? Non.
+
+[HEADER 0029005F]
+I got this plaster from Ireland.
+
+[HEADER 00290060]
+Not an exciting souvenir.
+
+[HEADER 00290054]
+Talk to you later.
+
+[HEADER 00290055]
+Au revoir, m'sieur.
+
+[HEADER 002B0015]
+Oh boy, dirty soap. How do they do that?
+
+[HEADER 00001843]
+I didn't need to use the soap again.
+
+[HEADER 002B0016]
+The taps were rusty. Oh, boy.
+
+[HEADER 002B0018]
+I figured washing my hands with that soap in that sink would just get my hands dirtier than when I'd started.
+
+[HEADER 002B0019]
+That was a smart way to get a key made out of water.
+
+[HEADER 002B001A]
+Now all I needed was a nitrogen bath to freeze it in and I'd have a usable key.
+
+[HEADER 00200000]
+Several minutes later...
+
+[HEADER 002B001B]
+Well, it had taken a while but I had made myself a completely unconvincing plaster key.
+
+[HEADER 002B001C]
+Way too fragile to use in a lock. I'd have to substitute it for the real one.
+
+[HEADER 002B001D]
+Trouble was, it looked like plaster and not metal.
+
+[HEADER 002B001E]
+Then again, that plaster statue in Syria hadn't looked like stone until I'd been a bit `artful' with it.
+
+[HEADER 002B001F]
+Maybe I could improve the key as well.
+
+[HEADER 002B0017]
+The cold tap's washer looked to have failed. It was just dribbling down the sink.
+
+[HEADER 002B0020]
+On the wall was an automatic hand drier.
+
+[HEADER 002B0021]
+I wasn't about to wash my hands in this place so I didn't need to dry them.
+
+[HEADER 002B000B]
+Being in a charming comfort station like this made me think fondly of the toilet in Syria.
+
+[HEADER 002B000C]
+That place was kept in pretty good order.
+
+[HEADER 002B000D]
+At least, it had been until I vandalised it. Still, it was all for a good cause.
+
+[HEADER 002B000A]
+I didn't need to get near to tell the toilet needed cleaning.
+
+[HEADER 002B0003]
+There was a big, old boiler used for heating the building.
+
+[HEADER 002B0004]
+The thing felt really hot. Big demands seemed to be being made on it.
+
+[HEADER 002B0005]
+A huge pile of coal lay in the corner to fuel the boiler.
+
+[HEADER 002B0006]
+Real high tech stuff.
+
+[HEADER 002B0007]
+I didn't want any coal.
+
+[HEADER 00290003]
+I knew she'd lose her patience if I didn't get the painter soon.
+
+[HEADER 00290002]
+Nico was still waiting on the phone.
+
+[HEADER 00290000]
+There was a telephone on the far wall.
+
+[HEADER 0029002B]
+Do you mind if I use the phone?
+
+[HEADER 0029002C]
+Be my guest. I'm paid to guard this door.
+
+[HEADER 0029002D]
+The 'phone can look after itself.
+
+[HEADER 00290082]
+Hi? Nico?
+
+[HEADER 00290083]
+George! What have you discovered?
+
+[HEADER 00290084]
+Nothing yet.
+
+[HEADER 00290085]
+Nothing? Is something wrong?
+
+[HEADER 00290086]
+No.
+
+[HEADER 00290087]
+George, why are you calling me?
+
+[HEADER 00290088]
+Oh, no reason. Just wanted to hear your voice.
+
+[HEADER 00290089]
+Did you? Well, this is my voice saying don't bother me, I'm busy!
+
+[HEADER 0029008A]
+Oh.
+
+[HEADER 002900A2]
+Hello, Nico. It's me.
+
+[HEADER 002900A3]
+What do you want?
+
+[HEADER 002900A4]
+Some ideas.
+
+[HEADER 002900A5]
+You're the man on the spot, George.
+
+[HEADER 002900A6]
+I can't hold your hand all of the time. Au revoir.
+
+[HEADER 0029008B]
+Collard.
+
+[HEADER 00290091]
+Hi, George! What's happening?
+
+[HEADER 00290092]
+I'm at the excavation but they won't let me in.
+
+[HEADER 00290093]
+Damn! We need to know what's in there!
+
+[HEADER 00290094]
+Don't worry, I've got a scheme. I'm going to need your help though.
+
+[HEADER 00290095]
+Okay, what do you want me to do?
+
+[HEADER 00290096]
+I want you to keep somebody on the 'phone for a while.
+
+[HEADER 00290097]
+Who?
+
+[HEADER 00290098]
+A painter. I need to get at his pot.
+
+[HEADER 00290099]
+Oh, okay.
+
+[HEADER 0029009A]
+Stay on the line, I'll go and get him.
+
+[HEADER 0029009B]
+Hi, Nico! It's me again!
+
+[HEADER 0029009C]
+I'd guessed. What do you want this time?
+
+[HEADER 0029009D]
+What did you say to the painter?
+
+[HEADER 0029009E]
+I shan't repeat it, George.
+
+[HEADER 0029009F]
+Look, I need to get the guard out of the way.
+
+[HEADER 002900A0]
+Could you call back and ask him to get the painter again?
+
+[HEADER 002900A1]
+Okay, I'll call back soon.
+
+[HEADER 00290001]
+I figured I'd best not bother Nico again until I'd got a good reason.
+
+[HEADER 0029001D]
+Well, m'sieur! What a strange woman!
+
+[HEADER 0029001E]
+She was all over me and then, suddenly - nothing but abuse!
+
+[HEADER 0029001F]
+Really?
+
+[HEADER 00290020]
+Oui - abuse! Ah, well. I have a cigarette to finish.
+
+[HEADER 00290021]
+And, m'sieur, if she calls again... I'm not available.
+
+[HEADER 0028007D]
+This looked like a good place to watch things develop...
+
+[HEADER 0028007E]
+Hey, you! It's the 'phone.
+
+[HEADER 0028007F]
+Yeah?
+
+[HEADER 00280080]
+Who is it?
+
+[HEADER 00280081]
+How should I know? What am I, your social secretary?
+
+[HEADER 00280082]
+It's not a chick, is it?
+
+[HEADER 00280083]
+Yes, it's a woman. Are you going to answer it?
+
+[HEADER 00280084]
+Does she have a warm, sensual voice like molten chocolate?
+
+[HEADER 00280085]
+Yes, yes. She has a really sexy voice. Now get a move on!
+
+[HEADER 00280086]
+I'm not talking to her.
+
+[HEADER 00280087]
+I can see that! You're wasting time talking to me!
+
+[HEADER 00280088]
+Non, you don't understand. I refuse to talk to her.
+
+[HEADER 00280089]
+You refuse? You REFUSE? I'm wasting valuable time...
+
+[HEADER 0028008A]
+Don't make me laugh! Your time, valuable? You just stand around all day!
+
+[HEADER 0028008B]
+I have a highly responsible job!
+
+[HEADER 0028008C]
+Pah!
+
+[HEADER 0028008D]
+Don't `Pah!' me, you elephantine oaf! My job is important!
+
+[HEADER 0028008E]
+Impossible. They would've hired somebody competent in that case...
+
+[HEADER 0028008F]
+Meaning what?
+
+[HEADER 00280090]
+Instead of which they hired a dismal rent-a-cop like you...
+
+[HEADER 00280091]
+...all epaulettes and no brains.
+
+[HEADER 00280092]
+Why, you...
+
+[HEADER 00280093]
+This looked set to carry on for some time. It was too good an opportunity to miss.
+
+[HEADER 0028000F]
+It looked like he had enough problems without me interfering.
+
+[HEADER 002A0010]
+Some planks used to make the catwalk were leaning against the wall.
+
+[HEADER 002A0011]
+I couldn't see anything useful to do with the planks.
+
+[HEADER 002A0000]
+Oh, great. More dead people.
+
+[HEADER 002A0003]
+No, thanks. I think I'm carrying enough junk.
+
+[HEADER 002A0007]
+There was no doubt about it...
+
+[HEADER 002A0008]
+...it was the same sort of idol I'd seen in Syria.
+
+[HEADER 002A0009]
+Baphomet. The Templars had certainly been through here.
+
+[HEADER 002A0004]
+Now there's a familiar face...
+
+[HEADER 002A000A]
+In the middle of the floor was a weird mosaic...
+
+[HEADER 002A000B]
+...all swirling and distorted.
+
+[HEADER 002A000E]
+And there it was, decoded by the curves of the chalice...
+
+[HEADER 002A000F]
+... the image of a church.
+
+[HEADER 002A000C]
+Close up, the pattern didn't make any sort of sense.
+
+[HEADER 002A000D]
+It fanned out around an axis point, a kind of focus to one side.
+
+[HEADER 0000183A]
+Perhaps I could make a copy of the key...
+
+[HEADER 0000183B]
+The key had made a clear imprint in the soap.
+
+[HEADER 0000183C]
+I'd already created the right impression.
+
+[HEADER 0000183D]
+I knew keeping that plaster was a good idea.
+
+[HEADER 0000183E]
+With the plaster in the imprint I was on the right lines.
+
+[HEADER 0000183F]
+I couldn't do that...
+
+[HEADER 00001838]
+The key's imprint was now filled with wet plaster.
+
+[HEADER 00000027]
+I had filled the key's imprint in the soap with dry plaster.
+
+[HEADER 00000026]
+The bar of soap had the imprint of a key in it.
+
+[HEADER 00001839]
+I didn't want to carry a bar of dirty soap around with me.
+
+[HEADER 00001840]
+You can't make a cast without wetting the plaster...
+
+[HEADER 00001841]
+...but wet plaster alone does not make a cast.
+
+[HEADER 00001842]
+I used the dryer to speed up the process...
+

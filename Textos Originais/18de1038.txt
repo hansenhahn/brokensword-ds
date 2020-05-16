@@ -1,0 +1,3078 @@
+[HEADER 00002A76]
+George has survived the explosion. What should I do now?
+
+[HEADER 00002A80]
+Search the debris for clues.
+
+[HEADER 00002A8A]
+There's a newspaper blown against a lamppost outside the café. Pick it up and read all the articles.
+
+[HEADER 00002A94]
+How do I follow the clown?
+
+[HEADER 00002A9E]
+In the alleyway you will find a manhole cover - to lift it, you'll need the right tool for the job.
+
+[HEADER 00002AA8]
+There's a workman around the corner - there may be something useful in his toolbox.
+
+[HEADER 00002AB2]
+He'll need distracting. What do you have that might interest him?
+
+[HEADER 00002ABC]
+Give the workman the newspaper - the tip will have him racing off.
+
+[HEADER 00002AC6]
+The gentleman with whiskers won't take me seriously.
+
+[HEADER 00002AD0]
+You need to give him the impression you're worth talking to.
+
+[HEADER 00002ADA]
+Show him the inspector's card. Now talk to him about the material, and then the jacket.
+
+[HEADER 00002ADC]
+I've got a lot of information - I just wish I'd asked Nico for her phone number!
+
+[HEADER 00002ADE]
+Maybe she gave her phone number to the police?
+
+[HEADER 00002AE0]
+Go talk to the policeman guarding the café - he will give you her number.
+
+[HEADER 00002AE4]
+I know about the killer's suit - what about Nico?
+
+[HEADER 00002AEE]
+Nico may be impressed by your detective work - you should try phoning her.
+
+[HEADER 00002EE0]
+You will find a phone next to the workman's tent.
+
+[HEADER 00002EEA]
+How do I get into the café?
+
+[HEADER 00002EF4]
+Try chatting to the workman after he stops you walking into the café - flatter him.
+
+[HEADER 00002EFE]
+Sneak through the door while he's preening himself.
+
+[HEADER 00002F08]
+I'm sure there's something I'm supposed to find in the café.
+
+[HEADER 00002F12]
+You need to reflect on the crime for a bit.
+
+[HEADER 00002F1C]
+Move the mirror and see what you can see.
+
+[HEADER 00002F26]
+Look at the mirror and you'll see an item wedged behind some pipes. Now you've seen it, you can walk to it and pick it up.
+
+[HEADER 00002F30]
+I can't leave the area. What else should I do?
+
+[HEADER 00002F3A]
+That bag you found. What's inside?
+
+[HEADER 00002F44]
+Examine the contents, and decrypt the note.
+
+[HEADER 00002F46]
+I'm having difficultly decrypting this note.
+
+[HEADER 00002F48]
+Who was the note addressed to?
+
+[HEADER 00002F4A]
+The first word is 'Plantard'. The word Pierre appears several times - notice with other words start with the letter 'P'.
+
+[HEADER 00010008]
+The leading article referred to the visit of a Nobel prize winner from some unpronounceable Eastern European State.
+
+[HEADER 00010007]
+Wrapped around the lamp post was a newspaper.
+
+[HEADER 00030000]
+The pretty young waitress was unconscious.
+
+[HEADER 00030001]
+The waitress was clearly suffering from shock...
+
+[HEADER 00030035]
+Hey, wake up!
+
+[HEADER 00030034]
+She didn't respond. If I wanted another cappuccino, I'd have to serve myself.
+
+[HEADER 0003000A]
+Oh, my head. Never again!
+
+[HEADER 0003000B]
+How much vodka did I drink? No, don't tell me!
+
+[HEADER 0003000C]
+What is your name, cheri?
+
+[HEADER 0003000D]
+George Stobbart, ma'am!
+
+[HEADER 0003000E]
+Oh... American?
+
+[HEADER 0003000F]
+She asked the question quite innocently, but I could sense her reserve.
+
+[HEADER 00030010]
+It was something which seemed to afflict all Europeans...
+
+[HEADER 00030011]
+You look like you could use a little help...
+
+[HEADER 00030012]
+I could use a little drink!
+
+[HEADER 00030013]
+I feel sick, dizzy, and bruised - and I don't even remember the party!
+
+[HEADER 00030014]
+Just relax and take it easy. You've been knocked out...
+
+[HEADER 00030015]
+You don't say! What happened?
+
+[HEADER 00030016]
+There's been an explosion. You should try not to move.
+
+[HEADER 00030017]
+Are you a doctor?
+
+[HEADER 00030018]
+Yes, I am. I studied under Doctor Benton.
+
+[HEADER 00030019]
+Who is he?
+
+[HEADER 0003001A]
+Only one of the most brilliant medical minds on this planet.
+
+[HEADER 0003001B]
+He taught me everything I know about medicine.
+
+[HEADER 0003001C]
+No, but I used to play hospitals when I was a kid...
+
+[HEADER 0003001D]
+Can you remember anything at all?
+
+[HEADER 0003001E]
+Non. I need a drink. Pour me a brandy.
+
+[HEADER 0003001F]
+Is that straight, or with ice?
+
+[HEADER 00030020]
+Just give me the bottle with a teat on it.
+
+[HEADER 00030021]
+I guess a little drop won't hurt.
+
+[HEADER 00030022]
+Ah! That's better.
+
+[HEADER 00030023]
+She knocked back the brandy as if it was water.
+
+[HEADER 00030024]
+I was glad I wasn't picking up the check!
+
+[HEADER 00030025]
+You could be in shock. No alcohol.
+
+[HEADER 00030026]
+Okay - you're the doctor.
+
+[HEADER 00030027]
+What about the old man - is he dead?
+
+[HEADER 00030029]
+Yes, he is.
+
+[HEADER 0003002A]
+Ah, mon Dieu!
+
+[HEADER 0003002B]
+I've never seen a real live corpse before, except for grande-maman.
+
+[HEADER 0003002C]
+That was different - she was family.
+
+[HEADER 0003002D]
+Has he... gone stiff?
+
+[HEADER 0003002E]
+I shouldn't think so. He's only been dead a few minutes.
+
+[HEADER 00030031]
+I don't know. I haven't looked at him yet.
+
+[HEADER 0003002F]
+Of course not.
+
+[HEADER 00030030]
+I didn't want an hysterical French girl on my hands - at least, not right now...
+
+[HEADER 00030038]
+Do you remember what happened when the clown entered?
+
+[HEADER 00030039]
+I remember that horrible tune he played all right!
+
+[HEADER 0003003A]
+It was like a funeral dirge!
+
+[HEADER 0003003B]
+I'd never liked accordion music, either.
+
+[HEADER 0003003C]
+Did the clown speak to the old man?
+
+[HEADER 0003003D]
+No - he just laughed at him.
+
+[HEADER 0003003E]
+Then he grabbed the old man's briefcase and ran out the door.
+
+[HEADER 0003003F]
+Did the old man try to stop the clown?
+
+[HEADER 00030040]
+Oh, he didn't have a chance.
+
+[HEADER 00030041]
+The clown dropped his accordion and ran out of the door.
+
+[HEADER 00030042]
+That's it. That's all I can remember.
+
+[HEADER 00030047]
+Did you know the old man?
+
+[HEADER 00030048]
+No, m'sieur, I never saw him before.
+
+[HEADER 00030049]
+How did the old man behave?
+
+[HEADER 0003004A]
+Well... agitated. He kept looking about him - at the door, at his watch...
+
+[HEADER 0003004B]
+As if he was waiting for someone?
+
+[HEADER 0003004C]
+Yes, I suppose so. He was worried about something, that's for sure.
+
+[HEADER 0003004D]
+If you ask me, he was having an affair.
+
+[HEADER 0003004E]
+He had that look about him... like a guilty husband.
+
+[HEADER 00030043]
+Did you see what the old man had in his briefcase?
+
+[HEADER 00030044]
+No. He didn't open it.
+
+[HEADER 00030045]
+What did the old man do when the clown snatched his briefcase?
+
+[HEADER 00030046]
+Nothing. He just sat there, like he was frozen.
+
+[HEADER 00030051]
+Did this newspaper belong to the old gentleman?
+
+[HEADER 00030052]
+I don't know.
+
+[HEADER 00030053]
+Someone has scribbled a note on it.
+
+[HEADER 00030054]
+It reads: `Salah-eh-Dinn, thirteen forty-five.'
+
+[HEADER 00030055]
+Does that mean anything to you?
+
+[HEADER 00030056]
+Non, m'sieur, nothing.
+
+[HEADER 0003004F]
+Stay here, ma'moiselle.
+
+[HEADER 00030050]
+I'm going to look around for evidence...
+
+[HEADER 0002000D]
+It was an iron cover concealing the entrance to a drain or sewer...
+
+[HEADER 00020011]
+I lifted the cover to reveal what smelt like the entrance to a sewer.
+
+[HEADER 00020010]
+The cover was too heavy and awkward to lift with my bare hands.
+
+[HEADER 00040004]
+It was a battered metal toolbox.
+
+[HEADER 00040011]
+Hé, stop that! Get away from there!
+
+[HEADER 00040012]
+What d'you think you're doing?
+
+[HEADER 00040013]
+I was... admiring your toolbox.
+
+[HEADER 00040014]
+Ah, oui? Had a good look, have you?
+
+[HEADER 00040015]
+I'm warning you - if you touch it I'll crack your nut!
+
+[HEADER 00040016]
+Okay! I get your point...
+
+[HEADER 00040006]
+I'd found just what I wanted - a tool for lifting manhole covers.
+
+[HEADER 00040005]
+I found a T-shaped tool in the box. I didn't know what it was, but it looked useful...
+
+[HEADER 00060001]
+It was a shiny red plastic ball, sat incongruously on the slippery, green-slimed floor.
+
+[HEADER 00060002]
+As I picked up the plastic ball, I realized it was intended to be worn.
+
+[HEADER 00060003]
+It was the clown's red nose.
+
+[HEADER 00040000]
+The muscular workman wore a morose expression like a silent warning to leave him to get on with his job...
+
+[HEADER 0004002C]
+Hey, you!
+
+[HEADER 0004002E]
+I thought you'd been arrested?
+
+[HEADER 0004002F]
+No. It was a misunderstanding.
+
+[HEADER 00040030]
+When he pulled that gun - cah! - I thought that was it.
+
+[HEADER 00040031]
+Those automatics pack quite a punch, you know.
+
+[HEADER 00040032]
+He made a mistake. He thought I was a terrorist.
+
+[HEADER 00040033]
+You? A terrorist? Ha!
+
+[HEADER 00040034]
+He was only doing his duty, I guess.
+
+[HEADER 0004002D]
+Hi! Can you spare a few minutes?
+
+[HEADER 00040035]
+What do you want now?
+
+[HEADER 00040036]
+Did you see a clown come by this way?
+
+[HEADER 00040037]
+A clown? Like in a circus?
+
+[HEADER 00040038]
+Yeah. With make-up and a big red nose.
+
+[HEADER 00040039]
+Ho! Those guys are funny, aren't they?
+
+[HEADER 0004003A]
+Not in my experience.
+
+[HEADER 0004003B]
+I love the circus - especially the horses.
+
+[HEADER 0004003F]
+You haven't answered my question.
+
+[HEADER 00040040]
+Have you seen a clown?
+
+[HEADER 00040041]
+You think I've got time to watch everyone who passes by?
+
+[HEADER 00040042]
+Some of us have to work for a living.
+
+[HEADER 00040043]
+Look, I know you're busy, but surely you'd have noticed a clown?
+
+[HEADER 00040044]
+I told you already, I didn't see a thing!
+
+[HEADER 00040045]
+He was wearing multicoloured baggy trousers and make-up!
+
+[HEADER 00040046]
+He'd be a poor sort of clown if he didn't...
+
+[HEADER 00040047]
+Listen - I have to find that clown. He's a killer.
+
+[HEADER 0004004A]
+Say, who are you anyhow? A cop?
+
+[HEADER 0004004B]
+No, of course not. Do I look like a cop?
+
+[HEADER 0004004C]
+Non, but you act like one, sticking your nose in where it's not wanted...
+
+[HEADER 0004004E]
+How do you know this guy's a killer? Did you see him in action?
+
+[HEADER 0004004F]
+Didn't you hear the explosion? The café was blown up!
+
+[HEADER 00040050]
+I wondered what that bang was...! Any bodies?
+
+[HEADER 00040051]
+Yeah. An old man was killed.
+
+[HEADER 00040052]
+Merde! I didn't think it was that serious. What about the waitress?
+
+[HEADER 00040053]
+Oh, she's fine.
+
+[HEADER 00040054]
+Thank the saints!
+
+[HEADER 00040048]
+Why would I want to help the cops?
+
+[HEADER 00040049]
+Community spirit. Together we can combat crime and stuff.
+
+[HEADER 0004005A]
+Did you see an old guy with a briefcase?
+
+[HEADER 0004005B]
+Oui. Silly old coot! D'you know what he said to me?
+
+[HEADER 0004005C]
+"Work fascinates me," he says. "I could watch it all day."
+
+[HEADER 0004005D]
+Quelle bitte! I could have knocked his block off!
+
+[HEADER 0004005E]
+Did you recognize the old man?
+
+[HEADER 0004005F]
+Non. Should I have done? Was he a celebrity?
+
+[HEADER 00040060]
+No, but I guess he is now.
+
+[HEADER 00040063]
+Was he the one who died in the café?
+
+[HEADER 00040064]
+Yeah.
+
+[HEADER 00040065]
+That's too bad.
+
+[HEADER 00040066]
+Now I wish I hadn't called him what I did.
+
+[HEADER 00040067]
+If only I could turn back the clock! If only I'd been more tolerant!
+
+[HEADER 00040068]
+Regret and remorse are strange emotions...
+
+[HEADER 00040069]
+They really bring out the hammiest actors in people.
+
+[HEADER 00040061]
+His name was Plantard.
+
+[HEADER 00040062]
+Was? He's dead, then?
+
+[HEADER 0004006A]
+What's in the toolbox?
+
+[HEADER 0004006B]
+What's in the toolbox! As if you didn't know!
+
+[HEADER 0004006C]
+What's the big deal about tools, anyhow?
+
+[HEADER 0004006D]
+They're cool. Tools are Civilization!
+
+[HEADER 0004006E]
+You don't say?
+
+[HEADER 0004006F]
+That's right. Tools are what distinguish us from other animals.
+
+[HEADER 00040070]
+Who are you calling an animal? I've met your sort before!
+
+[HEADER 00040071]
+Looking down your nose at me because I'm working class, huh?
+
+[HEADER 00040072]
+I've a good mind to knock your block off!
+
+[HEADER 00040073]
+What kind of tools d'you keep in your box?
+
+[HEADER 00040074]
+Hein? You really ARE interested in tools?
+
+[HEADER 00040075]
+Sure! Like I said - tools are...
+
+[HEADER 00040076]
+Yeah - civilization - so you keep saying.
+
+[HEADER 00040077]
+So - are you going to show them to me?
+
+[HEADER 00040078]
+Am I... why, you...!
+
+[HEADER 00040079]
+Aw, c'mon! Just a little peek?
+
+[HEADER 0004007A]
+I've got work to do. Find someone else to bother.
+
+[HEADER 0004007B]
+Do you have a tool for lifting manhole covers?
+
+[HEADER 0004007C]
+As it happens, I do.
+
+[HEADER 0004007D]
+Cool! Lend it to me - just for a few minutes!
+
+[HEADER 0004007E]
+Non.
+
+[HEADER 0004007F]
+Aw, c'mon...
+
+[HEADER 00040080]
+Non! Get your own.
+
+[HEADER 00040081]
+Let me explain what I'm going to do with your manhole-lifting tool...
+
+[HEADER 00040082]
+Let me explain what I'm going to do with my pick.
+
+[HEADER 00040083]
+Oh - hey! Forget it. I'll come back when you're in a better mood.
+
+[HEADER 00040084]
+It doesn't get any better than this!
+
+[HEADER 000400A9]
+Take a look at this...
+
+[HEADER 000400AA]
+You told me you weren't a cop!
+
+[HEADER 000400AC]
+Don't shout about it. I'm working under cover.
+
+[HEADER 000400AD]
+Who are you looking for?
+
+[HEADER 000400AE]
+That's confidential.
+
+[HEADER 000400AB]
+Aie! You're a cop?
+
+[HEADER 00040087]
+Would you like to read my newspaper?
+
+[HEADER 00040088]
+I haven't got time to read that! Can't you see I'm busy?
+
+[HEADER 00040089]
+You could read it on your lunch break...
+
+[HEADER 0004008A]
+Ten minutes is all I get, and if my boss had his way, I wouldn't get that!
+
+[HEADER 0004008B]
+He'd have me on a drip so I didn't have to stop to eat!
+
+[HEADER 0004008C]
+Oh, take the newspaper and quit complaining.
+
+[HEADER 0004008D]
+Pah! Look at this! Damned bleeding-heart liberals!
+
+[HEADER 0004008E]
+Tchah! Save the dolphins? Catch them and eat them, I say!
+
+[HEADER 0004008F]
+All that fuss over a bunch of fish!
+
+[HEADER 00040090]
+Now that's more like it! Look at the size of those!
+
+[HEADER 00040091]
+Like champagne bottle corks, non?
+
+[HEADER 00040092]
+AH! What's this? Salah-eh Dinn - running in the Prix de l'Arc de Triomphe!
+
+[HEADER 00040093]
+It's a race horse?
+
+[HEADER 00040094]
+A horse? A legend! Bucephalus reborn, mon ami!
+
+[HEADER 00040095]
+Like a streak of lightning, she is!
+
+[HEADER 00040096]
+Do me a favor won't you? Keep an eye on my hole...
+
+[HEADER 00040097]
+I'm off to put some money on that nag!
+
+[HEADER 00040098]
+What about your toolbox?
+
+[HEADER 00040099]
+Stuff it! Help yourself!
+
+[HEADER 0004009A]
+Does this matchbook mean anything to you?
+
+[HEADER 0004009B]
+No, it doesn't.
+
+[HEADER 0004009C]
+Does the name Moerlin mean anything to you?
+
+[HEADER 0004009D]
+No, nothing.
+
+[HEADER 0004009E]
+What do you make of this clown's nose?
+
+[HEADER 0004009F]
+It would be more amusing if you were wearing it.
+
+[HEADER 000400A0]
+Do you recognize the man in this photograph?
+
+[HEADER 000400A1]
+No, I don't.
+
+[HEADER 000400A2]
+Do you recognize this tissue?
+
+[HEADER 000400A3]
+Certainly not!
+
+[HEADER 000400A4]
+I borrowed this tool from you while you were gone...
+
+[HEADER 000400A5]
+Keep it! I can afford to buy a new set now.
+
+[HEADER 000400A6]
+Would you like to shake hands with me?
+
+[HEADER 000400A7]
+No, I wouldn't.
+
+[HEADER 000400A8]
+One of the real pleasures of being rich is not having to be polite.
+
+[HEADER 00040085]
+I gotta go.
+
+[HEADER 00040086]
+Don't let me keep you...
+
+[HEADER 00010009]
+That was the only news story: the rest was rumour, gossip and sensationalism.
+
+[HEADER 0001000A]
+Then I noticed the writing at the foot of the page...
+
+[HEADER 0001000B]
+It read: `Salah-eh Dinn, thirteen forty-five.'
+
+[HEADER 000400B1]
+Freeze! Hold it right there!
+
+[HEADER 000400B2]
+Woah - don't shoot! I'm innocent! I'm an American!
+
+[HEADER 000400B3]
+Can't make up your mind, huh?
+
+[HEADER 000400B4]
+I demand to see the American Consul!
+
+[HEADER 000400B5]
+Drop your weapons and get down on the ground!
+
+[HEADER 000400B6]
+Put that thing away, Sergeant Moue.
+
+[HEADER 000400B7]
+I apologize, m'sieur, but I cannot permit you to leave.
+
+[HEADER 000400B8]
+Am I under arrest?
+
+[HEADER 000400B9]
+Ah, non! I would simply like to ask you some questions.
+
+[HEADER 000400BA]
+En avant - to the café! Marche!
+
+[HEADER 00030059]
+What a mess! This bombing is an outrage, is it not?
+
+[HEADER 0003005A]
+Stop that, m'sieur!
+
+[HEADER 0003005C]
+Has it occurred to you that he may be dead, Moue...?
+
+[HEADER 0003005D]
+Oui, m'sieur, but I prefer to look on the bright side...
+
+[HEADER 0003005E]
+Besides, I recall a case where the killer escaped by feigning death!
+
+[HEADER 0003005F]
+However, in this case the man is quite dead.
+
+[HEADER 00030069]
+Examine the girl, and take her statement... if you can.
+
+[HEADER 0003006F]
+Et maintenant, to business!
+
+[HEADER 00030070]
+Your name, please?
+
+[HEADER 00030071]
+George Stobbart. I'm from California.
+
+[HEADER 00030072]
+And what brings you to Paris, m'sieur Stobbart?
+
+[HEADER 00030073]
+Travel. I'm touring Europe.
+
+[HEADER 00030074]
+You chose well. The city is most beautiful at this time of year, non?
+
+[HEADER 00030075]
+Uh... yeah, I guess so - apart from the bomb blasts!
+
+[HEADER 00030076]
+Were you in the vicinity of the café at the time of the explosion?
+
+[HEADER 00030077]
+Yeah. I was sitting out on the sidewalk.
+
+[HEADER 00030078]
+I was lucky I wasn't killed!
+
+[HEADER 00030079]
+The Inspector passed over my remark with no reaction...
+
+[HEADER 0003007A]
+Did you see the deceased enter the café?
+
+[HEADER 0003007B]
+Yes, I did.
+
+[HEADER 0003007C]
+Was he alone?
+
+[HEADER 0003007D]
+Uh... yeah.
+
+[HEADER 0003007E]
+And did he say anything to you?
+
+[HEADER 0003007F]
+No. He was more interested in the waitress.
+
+[HEADER 00030080]
+No.
+
+[HEADER 00030081]
+Did you see anyone else in the café?
+
+[HEADER 00030087]
+I'm sorry, Inspector, I didn't.
+
+[HEADER 00030088]
+It never ceases to amaze me how unobservant the public can be!
+
+[HEADER 00030082]
+Yeah, there was a guy dressed as a clown.
+
+[HEADER 00030083]
+He was carrying an accordion.
+
+[HEADER 00030084]
+An accordion?
+
+[HEADER 00030085]
+Bon. The picture is forming in my mind...
+
+[HEADER 00030086]
+And it is not a pretty one!
+
+[HEADER 00030089]
+Is the girl all right, Moue?
+
+[HEADER 0003008A]
+She'll live...
+
+[HEADER 0003008B]
+If she survives the hangover.
+
+[HEADER 00030095]
+She says the American claimed to be a doctor.
+
+[HEADER 00030096]
+He forced her to drink the brandy...
+
+[HEADER 00030097]
+I can explain everything!
+
+[HEADER 00030098]
+Can you, m'sieur?
+
+[HEADER 00030099]
+Almost everything.
+
+[HEADER 000300A0]
+She doesn't remember seeing a clown, m'sieur.
+
+[HEADER 000300A1]
+That's odd, don't you think, m'sieur?
+
+[HEADER 000300A2]
+Who am I to believe, I wonder?
+
+[HEADER 0003008C]
+She says the killer was disguised as a clown.
+
+[HEADER 0003008D]
+A circus clown? Did you see him, m'sieur?
+
+[HEADER 0003008E]
+Oh, yeah! Now you come to mention it, there WAS a clown.
+
+[HEADER 0003008F]
+I didn't think much of it at the time. After all, this is Paris...
+
+[HEADER 00030090]
+I see you come well armoured with preconception.
+
+[HEADER 00030091]
+Let us hope that your sheath does not turn out to be your shroud.
+
+[HEADER 0003009B]
+Oui? You did not tell me you were a doctor, m'sieur.
+
+[HEADER 0003009C]
+Uh, no. That's right. I didn't think it was relevant.
+
+[HEADER 0003009A]
+She confirms the doctor's statement.
+
+[HEADER 0003009D]
+She confirms the American's statement.
+
+[HEADER 0003009E]
+A clown with an accordion, no doubt an elaborate and eccentric disguise.
+
+[HEADER 0003009F]
+Very well.
+
+[HEADER 000300A3]
+Eh bien. I have heard enough.
+
+[HEADER 000300A4]
+What do you mean?
+
+[HEADER 000300A5]
+I am satisfied that you know nothing. You may leave.
+
+[HEADER 000300A7]
+Enjoy your vacation, Doctor Stobbart...
+
+[HEADER 000300A6]
+I hope this little incident does not spoil the rest of your vacation...
+
+[HEADER 000300A8]
+What about my personal safety? Can't you at least give me some advice?
+
+[HEADER 000300A9]
+What can I say? Stay alert, and look out for suspicious characters...
+
+[HEADER 000300AA]
+And don't cross the road until the little man shows green.
+
+[HEADER 000300AB]
+Great advice.
+
+[HEADER 000300AC]
+I honestly believe you are in no danger, m'sieur.
+
+[HEADER 000300AD]
+Should you remember anything of importance, please contact me.
+
+[HEADER 000300AE]
+My card...
+
+[HEADER 000300AF]
+Thanks.
+
+[HEADER 000300B0]
+That is all. You may go.
+
+[HEADER 000300B1]
+There's not much to go on, m'sieur...
+
+[HEADER 000300B2]
+On the surface, no. But what lurks inside the subconscious?
+
+[HEADER 000300B3]
+If the door can only be opened...
+
+[HEADER 000300B4]
+Are you serious, m'sieur? I thought your interest in psychic detection was purely academic...
+
+[HEADER 000300B5]
+Academic? You are about to witness a scientific breakthrough!
+
+[HEADER 000300B6]
+The practical application of years of study!
+
+[HEADER 000300B7]
+I'd feel more comfortable if you'd suggested we rough her up a bit!
+
+[HEADER 00030002]
+It was the body of the old man.
+
+[HEADER 00030003]
+It was hard to believe I'd seen him alive only minutes before...
+
+[HEADER 00030007]
+I checked his pockets. Nothing.
+
+[HEADER 00030004]
+The sight of the dead guy's staring eyes turned my knees to jelly...
+
+[HEADER 00030005]
+I tried not to meet his stare as I searched the dead man's pockets.
+
+[HEADER 00030006]
+No wallet, no papers, no credit cards. The guy's past was a blank page.
+
+[HEADER 00030008]
+A mysteriously undamaged bottle of spirits stood on the bar.
+
+[HEADER 00030009]
+I needed a stiff drink, but I hated the taste of brandy.
+
+[HEADER 00010004]
+The Sergeant was a scrawny man in his fifties who resembled a constipated chicken.
+
+[HEADER 00910001]
+Excuse me, sergeant...
+
+[HEADER 00910011]
+What do you want now?
+
+[HEADER 00910002]
+Sergeant Moue?
+
+[HEADER 0091000C]
+Ah! Monsieur Stobbart, n'est-ce pas?
+
+[HEADER 0091000D]
+That's correct. You remember me!
+
+[HEADER 0091000E]
+The retention of such data is part of my duty as a gendarme.
+
+[HEADER 0091000F]
+That is how crime is fought; through attention to detail, not intuition.
+
+[HEADER 00910010]
+Yeah, sure.
+
+[HEADER 00910060]
+What is Rosso doing with that girl?
+
+[HEADER 00910061]
+He is `giving her the once over' as you Americans say.
+
+[HEADER 00910063]
+Once he gets his teeth into a case, nothing will shake him off.
+
+[HEADER 00910012]
+Did you notice the young woman who was here earlier?
+
+[HEADER 00910013]
+The girl with the camera? Yes, m'sieur.
+
+[HEADER 00910014]
+She works for one of the newspapers.
+
+[HEADER 00910015]
+Did you see where she went?
+
+[HEADER 00910016]
+She has gone home to develop her snapshots.
+
+[HEADER 00910017]
+She took one of me, you know.
+
+[HEADER 00910018]
+She said mine was the kind of face that makes great pictures!
+
+[HEADER 00910019]
+She did?
+
+[HEADER 0091001A]
+Ouais! I have great depth of character, that's what she told me.
+
+[HEADER 0091001B]
+Did she leave her address?
+
+[HEADER 0091001C]
+No, m'sieur. But I have her telephone number...
+
+[HEADER 0091001D]
+Fifty, forty-eight, twenty-six, seventeen.
+
+[HEADER 0091001E]
+Thanks.
+
+[HEADER 0091001F]
+She said to call her in a few days when the photographs are ready.
+
+[HEADER 00910020]
+I thought I'd take the best shot of me and use it for personalized Christmas cards!
+
+[HEADER 00910021]
+Great idea, sergeant. I'm sure your family and friends will be astounded.
+
+[HEADER 00910022]
+I was one of the last people to see the victim alive, sergeant.
+
+[HEADER 00910023]
+Does that worry you?
+
+[HEADER 00910024]
+Yes, it does. I feel I kinda... owe it to him, to find his killer.
+
+[HEADER 00910025]
+That is best left to the authorities, m'sieur.
+
+[HEADER 00910026]
+Did he speak to you, tell you anything?
+
+[HEADER 00910027]
+No. He just grinned and nodded.
+
+[HEADER 00910028]
+Don't let it trouble you, m'sieur. Go home and try to forget.
+
+[HEADER 00910029]
+I know the identity of the dead guy! His name was Plantard.
+
+[HEADER 0091002A]
+Is that so? You knew him, did you?
+
+[HEADER 0091002B]
+No - but...
+
+[HEADER 0091002C]
+We'll know everything there is to know about him, soon enough.
+
+[HEADER 0091002D]
+I'm trying to be helpful here!
+
+[HEADER 0091002E]
+The best way you can help us is to go home, m'sieur.
+
+[HEADER 0091002F]
+I have a confession to make, Sergeant.
+
+[HEADER 00910030]
+I really did see the clown.
+
+[HEADER 00910031]
+He ran into the alley across the street.
+
+[HEADER 00910032]
+Why did you not tell this to Inspecteur Rosso?
+
+[HEADER 00910033]
+I didn't want to sound foolish...
+
+[HEADER 00910034]
+And you did not want to become involved, no?
+
+[HEADER 00910035]
+Do not worry. It is of no consequence.
+
+[HEADER 00910036]
+I will inform m'sieur l'Inspecteur when he has finished with the girl.
+
+[HEADER 00910037]
+Did you follow him?
+
+[HEADER 00910038]
+I lost him. I figure he went under ground.
+
+[HEADER 00910039]
+Do you know how many kilometres of sewers there are beneath this great city?
+
+[HEADER 0091003A]
+It's not a question I've lost sleep over...
+
+[HEADER 0091003B]
+I have no doubt that Inspecteur Rosso will organize a proper search.
+
+[HEADER 00910040]
+I've tracked down the clown's movements, sergeant!
+
+[HEADER 00910041]
+Is that so, m'sieur?
+
+[HEADER 00910042]
+Yeah. There's a man down the street who saw him crawling out of the sewer!
+
+[HEADER 00910043]
+Dressed as a clown?
+
+[HEADER 00910044]
+No - he'd changed into ordinary clothes by then.
+
+[HEADER 00910045]
+So how did he know it was the clown?
+
+[HEADER 00910046]
+He didn't, but all the clues add up.
+
+[HEADER 00910047]
+Little children can add up, but I wouldn't let them manage my bank account...
+
+[HEADER 009100B3]
+Did I show you this newspaper...?
+
+[HEADER 009100B4]
+Yes, m'sieur.
+
+[HEADER 009100A7]
+I found this in the street, Sergeant.
+
+[HEADER 009100A8]
+That, m'sieur, is a newspaper, no?
+
+[HEADER 009100A9]
+There's a note written on it - `Salah-eh Dinn, thirteen forty five.'
+
+[HEADER 009100AE]
+Ah - ha!
+
+[HEADER 009100AF]
+That's stumped you, hasn't it?
+
+[HEADER 009100B0]
+I have never been stumped - as you put it - in my life, m'sieur.
+
+[HEADER 009100B1]
+It is the name assumed by the clown, no?
+
+[HEADER 009100B2]
+Salah-eh Dinn the clown...? I don't think so.
+
+[HEADER 009100BD]
+Are you sure you don't want this false nose?
+
+[HEADER 009100BE]
+Don't try my patience, m'sieur.
+
+[HEADER 009100B5]
+I found this red nose in the sewer.
+
+[HEADER 009100B6]
+What were you doing down there?
+
+[HEADER 009100B7]
+Fishing for clues. That's where the clown went.
+
+[HEADER 009100B8]
+You still insist you saw a clown, m'sieur?
+
+[HEADER 009100B9]
+Of course - and this novelty nose proves it!
+
+[HEADER 009100BA]
+It will take more than a plastic proboscis to convince Inspecteur Rosso!
+
+[HEADER 009100BB]
+You don't want this as evidence, then?
+
+[HEADER 009100BC]
+Certainly not, m'sieur!
+
+[HEADER 009100EA]
+Did I show you this material, Sergeant?
+
+[HEADER 009100EB]
+Yes, m'sieur. It is horrible.
+
+[HEADER 009100E3]
+I believe this material came from the clown's clothing.
+
+[HEADER 009100E4]
+If you are right, m'sieur, then the clown must be an Englishman.
+
+[HEADER 009100E5]
+How do you figure that?
+
+[HEADER 009100E6]
+Only the English would wear a suit made from material like that.
+
+[HEADER 009100E7]
+Don't you like the English?
+
+[HEADER 009100E8]
+It is not so much a question of liking, rather one of taste.
+
+[HEADER 009100E9]
+They have none.
+
+[HEADER 009100C6]
+I've got Inspector Rosso's address card...
+
+[HEADER 009100C7]
+Yes, m'sieur. You showed me before...
+
+[HEADER 009100BF]
+Look, sergeant - the Inspector gave me his card...
+
+[HEADER 009100C0]
+Yes, m'sieur.
+
+[HEADER 009100C1]
+He wants you to advise him if you have any information concerning this case.
+
+[HEADER 009100C2]
+I'd be glad to talk with him, but I don't want him working his psycho weirdness on me.
+
+[HEADER 009100C3]
+Ah, no, m'sieur. You are confusing the science of parapsychology with witchcraft.
+
+[HEADER 009100C4]
+Oh, yeah? What's the difference?
+
+[HEADER 009100C5]
+We don't do sacrifices.
+
+[HEADER 009100D8]
+Did I show you my tool, Sergeant?
+
+[HEADER 009100D9]
+Yes, m'sieur - unfortunately you did.
+
+[HEADER 009100CD]
+What do you suppose this tool is used for, Sergeant Moue?
+
+[HEADER 009100CE]
+It looks like something an obstetrician would use, m'sieur...
+
+[HEADER 009100CF]
+It was with tools like this that the clown made his escape!
+
+[HEADER 009100D0]
+I don't understand...
+
+[HEADER 009100D1]
+He opened up the hole and disappeared into the bowels of the earth!
+
+[HEADER 009100D2]
+If you say so, m'sieur.
+
+[HEADER 009100D3]
+I don't think so. I found it in that workman's toolbox.
+
+[HEADER 009100D4]
+Found it? I hope you did not steal it, m'sieur!
+
+[HEADER 009100D5]
+Do I look like a common thief?
+
+[HEADER 009100D6]
+He asked me to look after his hole, and his belongings.
+
+[HEADER 009100D7]
+You certainly know how to enjoy your vacation to the fullest, m'sieur.
+
+[HEADER 009100EC]
+Do you recognize this dirty tissue?
+
+[HEADER 009100F2]
+I told you - no, m'sieur.
+
+[HEADER 009100ED]
+No, m'sieur, I do not.
+
+[HEADER 009100EE]
+I found it in the sewer...
+
+[HEADER 009100EF]
+Perhaps It would be better if you put it back there...
+
+[HEADER 009100F0]
+No way! This could be an important clue.
+
+[HEADER 009100F1]
+If you say so, m'sieur.
+
+[HEADER 00910091]
+See you later, sergeant.
+
+[HEADER 00010005]
+The girl presented a confident but sullen mask to the world, an expression more suited to the face of a delinquent youth.
+
+[HEADER 0081002E]
+Excuse me, mademoiselle.
+
+[HEADER 008101D8]
+Hi! My name's George Stobbart...
+
+[HEADER 008101D9]
+Oh. An American, by the sound of it.
+
+[HEADER 008101DA]
+Yeah. That's right. On vacation in Paris.
+
+[HEADER 008101DB]
+Some vacation, huh?
+
+[HEADER 008101DC]
+You were here when the bomb went off?
+
+[HEADER 008101DD]
+Sure was! Sat right out front of the café!
+
+[HEADER 008101DE]
+Did you notice a middle-aged man, maybe sixty, with a hat and overcoat?
+
+[HEADER 008101DF]
+I couldn't believe it. She hadn't even asked how I was feeling...
+
+[HEADER 008101E0]
+Yeah. He went inside, just before the bomb exploded.
+
+[HEADER 008101E1]
+You weren't... related to him were you?
+
+[HEADER 008101E2]
+Oh, no - nothing like that.
+
+[HEADER 008101E3]
+I'm Nicole Collard, from 'La Liberté'.
+
+[HEADER 008101E4]
+What is that - some kind of nightclub?
+
+[HEADER 008101E5]
+Ah, no - it's a newspaper.
+
+[HEADER 008101E6]
+You're a reporter?
+
+[HEADER 008101E7]
+I'm a freelance photo-journalist.
+
+[HEADER 008101E8]
+Say - you could interview me about the bombing!
+
+[HEADER 008101E9]
+An eye-witness account...
+
+[HEADER 008101EA]
+`Minutes after the outrage that shook the whole of Paris...'
+
+[HEADER 008101EB]
+You know - real life drama, human interest - that kind of stuff.
+
+[HEADER 008101EC]
+I'll just stick to the facts, thank you.
+
+[HEADER 008101ED]
+Did you see who planted the bomb?
+
+[HEADER 008101EE]
+I know it sounds crazy, but he was dressed like a clown!
+
+[HEADER 008101EF]
+A clown? It's him again...
+
+[HEADER 0081002F]
+Hey, Nico!
+
+[HEADER 008101F0]
+What is it?
+
+[HEADER 00810246]
+Have you met the clown before?
+
+[HEADER 00810247]
+It's... a long story.
+
+[HEADER 00810248]
+I have plenty of time.
+
+[HEADER 00810249]
+I don't.
+
+[HEADER 0081024A]
+Why won't you tell me about this clown?
+
+[HEADER 0081024B]
+Why do you want to get involved?
+
+[HEADER 0081024C]
+Because he almost killed me! Isn't that reason enough?
+
+[HEADER 0081024D]
+I guess so. Listen...
+
+[HEADER 0081024E]
+I'll give you my phone number.
+
+[HEADER 0081024F]
+You help me with my story, and I'll let you in on what I know.
+
+[HEADER 00810250]
+And let's get one thing straight right now...
+
+[HEADER 00810251]
+This is strictly business.
+
+[HEADER 00810252]
+Okay. It's a deal.
+
+[HEADER 00810253]
+I have to go develop these pictures. À bientôt, m'sieur...
+
+[HEADER 00810254]
+Fine. I'll, uh... see you soon.
+
+[HEADER 00810237]
+Who was the guy you were supposed to meet?
+
+[HEADER 00810238]
+His name was Plantard. I didn't know him, but he called me last night.
+
+[HEADER 00810239]
+He said he had a story which would interest me.
+
+[HEADER 0081023A]
+He asked me to meet him at the café.
+
+[HEADER 0081023B]
+I guess I'll never know what he wanted to tell me...
+
+[HEADER 0081023C]
+Not unless you have Rosso's gift for psychic interrogation.
+
+[HEADER 0081023D]
+How did Plantard get your name?
+
+[HEADER 0081023E]
+Through the newspaper - La Liberté.
+
+[HEADER 0081023F]
+I'd written an article linking two unsolved murders, one in Italy, the other in Japan.
+
+[HEADER 00810240]
+The cases were remarkably similar...
+
+[HEADER 00810241]
+...a wealthy victim, no apparent motive, and a costumed killer.
+
+[HEADER 00810242]
+Plantard said he could supply me with more information.
+
+[HEADER 00810243]
+Somehow, the clown must have known about our appointment!
+
+[HEADER 0081020C]
+You speak very good English for a French girl...
+
+[HEADER 0081020D]
+Thanks. You speak very good English for an American.
+
+[HEADER 008101F9]
+Do you know a police officer called Rosso?
+
+[HEADER 008101FA]
+Rosso? Our paths have a knack of crossing.
+
+[HEADER 008101FB]
+If I didn't know better I'd say it was deliberate.
+
+[HEADER 008101FC]
+Have you seen Rosso? Is he here?
+
+[HEADER 008101FD]
+He's inside, attempting to question a witness with his psychic powers!
+
+[HEADER 008101FE]
+What? That guy is weird!
+
+[HEADER 008101FF]
+Yeah.
+
+[HEADER 00810200]
+Rosso didn't blink when I told him about the clown.
+
+[HEADER 00810201]
+It's as if he already knew...
+
+[HEADER 00810202]
+That's typical of a cold fish like Rosso.
+
+[HEADER 00810203]
+I've seen cheeseburgers with more spunk.
+
+[HEADER 0081034E]
+Look - the Inspector gave me his card.
+
+[HEADER 00810352]
+I didn't know his first name was Augustin! It suits him, I must say.
+
+[HEADER 0081034F]
+Rosso!
+
+[HEADER 00810350]
+You know him?
+
+[HEADER 00810351]
+Oh, yes. We've met.
+
+[HEADER 008102F7]
+I found this newspaper outside the café.
+
+[HEADER 008102F8]
+That's not a newspaper - it's a gossip rag!
+
+[HEADER 008102F9]
+It may have belonged to Plantard.
+
+[HEADER 008102FA]
+So - he had a taste for sensationalist smut with a right-wing bias?
+
+[HEADER 008102FB]
+That doesn't tell us much.
+
+[HEADER 008102FC]
+There's something written in it...
+
+[HEADER 008102FD]
+`Salah-eh-Dinn, thirteen forty-five.'
+
+[HEADER 008102FE]
+Sounds like a betting tip  - the name of a horse and the time of the race.
+
+[HEADER 008102FF]
+What do you think?
+
+[HEADER 00810300]
+That's what I thought, but the name of the meeting isn't given.
+
+[HEADER 00810301]
+Well, so what? I'm not in the least bit interested in horse racing, are you?
+
+[HEADER 00810302]
+No, but it could be a clue to the killer's next move.
+
+[HEADER 00810303]
+Do you think his next victim will be the jockey, or the horse?
+
+[HEADER 00810304]
+She looked at me with a playful twinkle in her eye.
+
+[HEADER 00810305]
+Okay - it's a long shot.
+
+[HEADER 00810306]
+I don't think it is. That's too obvious.
+
+[HEADER 00810307]
+I wouldn't mind betting this is a coded message.
+
+[HEADER 00810308]
+It's a romantic notion, but I don't think so...
+
+[HEADER 00810336]
+Have you any idea what this tool is intended for?
+
+[HEADER 00810337]
+No, I haven't.
+
+[HEADER 008102F4]
+See you again, I hope.
+
+[HEADER 008102F6]
+Later, George.
+
+[HEADER 00070005]
+It was a soggy, crumpled paper tissue.
+
+[HEADER 00070006]
+I scooped up the sodden tissue. It was cold and greasy like breakfast leftovers.
+
+[HEADER 00070004]
+It was a small scrap of cloth, caught on the rusting spike.
+
+[HEADER 00070003]
+I took hold of the scrap of material and unsnagged it from the spike.
+
+[HEADER 00920000]
+Hi there!
+
+[HEADER 00920001]
+Hold it right there, you... you... sewer-rat!
+
+[HEADER 00920002]
+I knew you'd come back, and now I've got you!
+
+[HEADER 00920003]
+What are you talking about?
+
+[HEADER 00920004]
+You're trespassing! Come out of there immediately!
+
+[HEADER 00920005]
+That's what I'm trying to do...
+
+[HEADER 00920006]
+Give me your hand!
+
+[HEADER 00920007]
+You won't catch me with tricks like that!
+
+[HEADER 00920008]
+Keep your distance, m'sieur!
+
+[HEADER 00920009]
+Okay, okay!
+
+[HEADER 0092000A]
+Now, what were you looking for?
+
+[HEADER 0092000B]
+Terrorists.
+
+[HEADER 0092000C]
+The meanest, nastiest, dirtiest bunch of guys you ever saw!
+
+[HEADER 0092000D]
+Ah...! Englishmen, without a doubt. The filthy dogs!
+
+[HEADER 0092000E]
+The day they opened that tunnel was a bad day for France, I'll tell you.
+
+[HEADER 0092000F]
+If I still had the full use of my faculties, I'd march right over there and tell them so!
+
+[HEADER 00920010]
+Well, whoever they are, they blew up the café.
+
+[HEADER 0092001A]
+What!? The café? Blown up!?
+
+[HEADER 0092001B]
+Mon dieu! That's awful.
+
+[HEADER 0092001C]
+The guy who did it was a calculating, cold-blooded killer.
+
+[HEADER 0092001D]
+He was disguised as a clown.
+
+[HEADER 0092001E]
+I followed him into the sewer, and I think he came this way...
+
+[HEADER 00920011]
+I was looking for a clown.
+
+[HEADER 00920012]
+Ridiculous! Do you really expect me to believe that?
+
+[HEADER 00920013]
+He planted a bomb in the café and blew it up.
+
+[HEADER 0092001F]
+And you say the person responsible was dressed as a clown?
+
+[HEADER 00920020]
+That's right. He blew up the café, escaped into the sewer, changed his clothes, and came up here!
+
+[HEADER 00920014]
+A telephone. I need to make an urgent call.
+
+[HEADER 00920015]
+There is no telephone here.
+
+[HEADER 00920016]
+I want to know what you were doing in the sewer.
+
+[HEADER 00920017]
+Didn't you hear the explosion?
+
+[HEADER 00920018]
+In the sewer? A deadly cocktail of combustible gases and chemicals, most likely.
+
+[HEADER 00920019]
+No - at the café. A deadly cocktail of accordion music and villainy, most definitely.
+
+[HEADER 00920021]
+Did you say `accordion music'?
+
+[HEADER 00920022]
+Yeah. That fiend had no mercy.
+
+[HEADER 00920023]
+He was disguised as a clown.
+
+[HEADER 00920024]
+By the time the bomb went off he'd run to the sewer and made his escape.
+
+[HEADER 00920025]
+Mon dieu!
+
+[HEADER 00920026]
+Then the man I chased - do you think that man and the clown are...
+
+[HEADER 00920027]
+...one and the same?
+
+[HEADER 00920028]
+Well, yes - it had crossed my mind.
+
+[HEADER 00920029]
+That still doesn't explain what you were doing down the sewer...
+
+[HEADER 0092002A]
+For all I know you are in league with him!
+
+[HEADER 0092002B]
+Oh, no. I'm just a tourist.
+
+[HEADER 0092002C]
+Most tourists are content with the Eiffel Tower, the Louvre or the Pigalle...
+
+[HEADER 0092002D]
+I didn't realize my waste pipes were such an attraction!
+
+[HEADER 00920089]
+Tell me about the man you apprehended...
+
+[HEADER 0092008A]
+Oh, he was a mean one, m'sieur.
+
+[HEADER 0092008D]
+He grabbed me in an arm lock, his face suddenly next to mine.
+
+[HEADER 0092008E]
+His grip was like iron, but he didn't know what he was up against...!
+
+[HEADER 0092008F]
+Oh, no. He made a big mistake when he took on one of the Desert Hyenas!
+
+[HEADER 00920090]
+Yes, yes. I get the picture.
+
+[HEADER 00920091]
+What is there to tell? He was a typical criminal type, just like you!
+
+[HEADER 00920051]
+Do you know the waitress at the café?
+
+[HEADER 00920052]
+You can't suspect her, surely?
+
+[HEADER 00920053]
+Just answer the question, please.
+
+[HEADER 00920054]
+Yes - I know her. Quite well, you could say.
+
+[HEADER 00920055]
+She came to work at the café, oh... six, seven months ago.
+
+[HEADER 00920057]
+I look forward all week to the relief she gives me when she visits.
+
+[HEADER 00920058]
+Really? So you'd miss her if she wasn't there?
+
+[HEADER 00920059]
+Mais oui! Who else would I find to cut my toenails?
+
+[HEADER 0092005A]
+She isn't hurt, is she?
+
+[HEADER 0092005B]
+No, she's fine.
+
+[HEADER 0092005C]
+Thank heavens!
+
+[HEADER 0092005D]
+A poor girl like her isn't safe with the likes of you roaming the streets!
+
+[HEADER 0092005E]
+Can't you understand? I'm not a gangster - I'm an American tourist!
+
+[HEADER 0092005F]
+Pah! That's what you say...
+
+[HEADER 00920060]
+Does the name Plantard mean anything to you?
+
+[HEADER 00920061]
+No, it doesn't.
+
+[HEADER 00920064]
+No, it doesn't. Who is he?
+
+[HEADER 00920065]
+The man who was killed in the café.
+
+[HEADER 00920066]
+I'm going to find the guy responsible.
+
+[HEADER 00920067]
+I'll find him. Even if it means following him down every sewer in every city in Europe!
+
+[HEADER 00920068]
+Bravo!
+
+[HEADER 00920069]
+You'll need some sensible boots.
+
+[HEADER 0092006A]
+You won't get far in those stupid sneakers.
+
+[HEADER 00920049]
+Was the guy you saw carrying a briefcase?
+
+[HEADER 0092004A]
+Why, yes - he was! Clutched in his arms like a baby.
+
+[HEADER 0092004B]
+That belonged to his victim.
+
+[HEADER 0092004C]
+What do you think was in it? Drugs? Stolen jewels?
+
+[HEADER 0092004D]
+I don't know, but the killer thought it was worth a man's life.
+
+[HEADER 0092004E]
+Nothing is worth that, m'sieur.
+
+[HEADER 0092004F]
+I didn't notice.
+
+[HEADER 00920050]
+Now, are you going to leave, or do I have to call the police?
+
+[HEADER 0092006B]
+Now - about the jacket you found... Do you have it here?
+
+[HEADER 0092006C]
+No, m'sieur. One of the sleeves was badly torn, so I sent it for repair.
+
+[HEADER 0092006D]
+A pity, because otherwise it was a fine piece of quality tailoring.
+
+[HEADER 0092006E]
+It had the tailor's name inside, on the label.
+
+[HEADER 0092006F]
+Where did you send the jacket?
+
+[HEADER 00920070]
+I gave it to an itinerant Romany seamstress.
+
+[HEADER 00920071]
+Just my luck.
+
+[HEADER 00920072]
+Was there anything in the jacket pockets?
+
+[HEADER 00920073]
+Not a sou!
+
+[HEADER 00920074]
+You know what I think?
+
+[HEADER 00920077]
+Do tell me...
+
+[HEADER 00920078]
+He changed out of the clown suit and cunningly disguised himself as an ordinary person!
+
+[HEADER 00920079]
+Looks like I'm up against a mastermind...
+
+[HEADER 0092007A]
+What was the name on the label?
+
+[HEADER 0092007B]
+It was a foreign name... Todryk, I think.
+
+[HEADER 0092007C]
+Did you get the address?
+
+[HEADER 0092007D]
+There wasn't one, m'sieur: only a telephone number.
+
+[HEADER 0092007F]
+Well, I don't expect you to remember a phone number you've only seen once!
+
+[HEADER 00920080]
+Seventy-four, ninety-eight, zero, eight, fifty-nine.
+
+[HEADER 00920081]
+You're kidding. That's his phone number?
+
+[HEADER 00920082]
+Yes, that's it. A little trick with numbers that I learned in the desert.
+
+[HEADER 00920083]
+I was taught the technique by a Tuareg shaman.
+
+[HEADER 00920084]
+That's incredible!
+
+[HEADER 00920085]
+It comes in handy at the supermarket check out...
+
+[HEADER 00920086]
+Do I get a reward?
+
+[HEADER 00920087]
+Honesty, m'sieur, is its own reward.
+
+[HEADER 00920088]
+Then I'm glad I don't rely on honesty to pay the bills!
+
+[HEADER 009200C4]
+Does this piece of material mean anything to you?
+
+[HEADER 009200C5]
+That is the same cloth as the jacket I found.
+
+[HEADER 009200C6]
+I'd recognize that pattern anywhere.
+
+[HEADER 009200C9]
+Do you recognize this material?
+
+[HEADER 009200CA]
+I'm not telling you anything!
+
+[HEADER 00920097]
+Take a look at this false nose...
+
+[HEADER 00920098]
+That looks like a clown's nose to me!
+
+[HEADER 00920099]
+Precisely. He must have dropped it in his panic.
+
+[HEADER 0092009A]
+Unless he wanted you to find it...
+
+[HEADER 0092009B]
+Why would he want to do that?
+
+[HEADER 0092009C]
+To put you off the scent!
+
+[HEADER 0092009D]
+I've never seen it before in my life.
+
+[HEADER 009200EB]
+What does this tissue mean to you?
+
+[HEADER 009200EC]
+Nothing, m'sieur. It's... disgusting.
+
+[HEADER 009200ED]
+What on earth possessed you to show it to me?
+
+[HEADER 009200EE]
+Some-one has emptied their nostrils into it!
+
+[HEADER 009200D4]
+Perhaps you'd like to take a look at my card...?
+
+[HEADER 009200D5]
+What's this...?
+
+[HEADER 009200D6]
+Inspecteur Augustin Rosso! What does that say - hominoid division?
+
+[HEADER 009200D7]
+Homicide. The ink has smudged.
+
+[HEADER 009200D8]
+Then you are not a tourist?
+
+[HEADER 009200D9]
+Okay - I'm not. I lied to you, and I'm sorry.
+
+[HEADER 009200DA]
+Don't apologise, m'sieur!
+
+[HEADER 009200E1]
+You know, I had a feeling there was something different about you.
+
+[HEADER 009200E2]
+It is your posture, your... poise!
+
+[HEADER 009200E3]
+Oh, yes - there's no mistaking the bearing of a disciplined man, and I should know.
+
+[HEADER 009200E4]
+I was in the army, you know.
+
+[HEADER 009200E5]
+When I was your age I was fighting for my life - in the African desert!
+
+[HEADER 009200E6]
+How can I help you, Inspecteur...?
+
+[HEADER 009200A0]
+What do you think of my ball?
+
+[HEADER 009200A1]
+Pah! I'm a little too old for games, m'sieur.
+
+[HEADER 009200A2]
+Do you recognise the man in this photograph?
+
+[HEADER 009200A3]
+Yes, I do! It's that villain I told you about!
+
+[HEADER 009200A4]
+What does this powder mean to you?
+
+[HEADER 009200A5]
+Nothing, m'sieur.
+
+[HEADER 009200A6]
+Does this gem mean anything to you?
+
+[HEADER 009200A7]
+Ah-ha! Is it real? It must be worth a small fortune!
+
+[HEADER 009200A8]
+A very large fortune, I'd say. Do you know anything about it?
+
+[HEADER 009200A9]
+Non, m'sieur.
+
+[HEADER 009200AA]
+You stole it, I suppose?
+
+[HEADER 009200AB]
+I am not a crook!
+
+[HEADER 009200AC]
+Does the name Moerlin or Grüber Electronics mean anything to you?
+
+[HEADER 009200AD]
+Non, m'sieur.
+
+[HEADER 009200AF]
+This is what I used to open the manhole cover...
+
+[HEADER 009200B8]
+Did I show you my tool?
+
+[HEADER 009200B9]
+Oui, m'sieur.
+
+[HEADER 009200BA]
+Just like mine, except that it is much smaller...
+
+[HEADER 009200B0]
+I have one just the same as that, m'sieur. I will fetch it if you like!
+
+[HEADER 009200B1]
+No, don't bother.
+
+[HEADER 009200B2]
+Oh, it's no bother, m'sieur...
+
+[HEADER 009200B3]
+Nah - forget it.
+
+[HEADER 009200B4]
+Just trying to be helpful, m'sieur!
+
+[HEADER 009200B6]
+Just as I thought! You were up to no good down those sewers, weren't you?
+
+[HEADER 009200B7]
+One slip and I would have been up to my neck...
+
+[HEADER 009200C1]
+Do you recognize this matchbook?
+
+[HEADER 009200C2]
+I can't say I do, m'sieur.
+
+[HEADER 009200CF]
+Shake my hand. Go on - shake it.
+
+[HEADER 009200D0]
+You're joking, aren't you?
+
+[HEADER 009200D1]
+Nothing personal, but you've been mucking about down the sewer...
+
+[HEADER 009200CD]
+Does this medical apparatus mean anything to you?
+
+[HEADER 009200CE]
+Of course. It's a device for measuring blood pressure.
+
+[HEADER 0092002E]
+Hi there. Remember me?
+
+[HEADER 0092002F]
+Mais oui, Inspecteur. Have you found him?
+
+[HEADER 00920030]
+Who?
+
+[HEADER 00920031]
+The man in the sewer of course!
+
+[HEADER 00920032]
+I'm - uh... sifting through the evidence.
+
+[HEADER 00920033]
+Pouah! Rather you than me, m'sieur!
+
+[HEADER 0092003D]
+So, when you're not exploring sewers, what do you do?
+
+[HEADER 0092003E]
+I take a lot of showers.
+
+[HEADER 0092003F]
+Oh, very good, m'sieur. A policeman with a sense of humour!
+
+[HEADER 00920092]
+I have to be going...
+
+[HEADER 00920093]
+Thanks to your help, the citizens of Paris can sleep a little easier tonight.
+
+[HEADER 00920094]
+Vraiment? I was only doing my duty, m'sieur...
+
+[HEADER 00920095]
+Good luck, Inspecteur! I hope you catch that killer soon!
+
+[HEADER 00001E20]
+So the clown had escaped into the sewer...
+
+[HEADER 00001E21]
+...come up into the courtyard...
+
+[HEADER 00001E22]
+...and then slipped back into the street here.
+
+[HEADER 00001E23]
+It wasn't much.  But it was more than the cops had got.
+
+[HEADER 00020009]
+It was a battered old trash can...
+
+[HEADER 0002000C]
+I'd had it with sticking my nose into French trash cans...
+
+[HEADER 0002000B]
+It smelled like someone had dumped a truckload of fish in a locker room on a hot summer afternoon.
+
+[HEADER 00020005]
+The drainpipe hung limp and useless.
+
+[HEADER 00020004]
+The drainpipe looked as if it would bear my weight...
+
+[HEADER 00020008]
+I decided I'd had enough of messing with that drainpipe.
+
+[HEADER 00020006]
+I took a deep breath and prepared to climb the drainpipe...
+
+[HEADER 00020007]
+I guess the clown hadn't escaped over the rooftops.
+
+[HEADER 00000A8C]
+As I picked my self up, I was really angry. One minute I'm on vacation...
+
+[HEADER 00000A8E]
+... next minute some clown's blown me up. I knew right away what I was going to do.
+
+[HEADER 00000A90]
+I was going to find that clown - and bring him to justice.  Because Justice matters.
+
+[HEADER 00000A92]
+Justice is up there with Liberty.  And Equality.  And er... Fraternity.
+
+[HEADER 00000A93]
+After all, that was why I'd studied law, wasn't it?
+
+[HEADER 00000AC8]
+Well, that and the money of course...
+
+[HEADER 00000A78]
+I'd only been in Paris for a week...
+
+[HEADER 00000A7A]
+... but already I'd fallen in love with the city.
+
+[HEADER 00000A7C]
+My latest discovery was a little café - la Chandelle Verte.
+
+[HEADER 00000A7E]
+I was pretty sure the waitress...
+
+[HEADER 00000A80]
+... was taking a shine to me. That old Stobbart charm I guess.
+
+[HEADER 00000A82]
+Little did I know my reverie was about to be so rudely interrupted...
+
+[HEADER 00040001]
+It was a huge and weighty looking engineers' telephone.
+
+[HEADER 005A00A5]
+Hmm...
+
+[HEADER 005A00A8]
+Bonjour - Collard?
+
+[HEADER 005A00A9]
+Oh, hi. It's George Stobbart. The American at the café...
+
+[HEADER 005A00AA]
+I saw you, taking photographs.
+
+[HEADER 005A00AB]
+How did you get my number?
+
+[HEADER 005A00AC]
+The gendarme gave it me.
+
+[HEADER 005A0003]
+Hello, Nicole Collard.
+
+[HEADER 005A0004]
+Hello? It's George.
+
+[HEADER 005A00B5]
+Ah, oui!
+
+[HEADER 005A00B6]
+Uh... you said to call if I could help...
+
+[HEADER 005A00B7]
+Have you any news for me?
+
+[HEADER 005A0005]
+Oh, hi.
+
+[HEADER 005A00BC]
+You bet! I met a witness who spoke to the clown...
+
+[HEADER 005A00BD]
+...and I know where the killer gets his suits.
+
+[HEADER 005A00BE]
+No kidding? Hey, I'm impressed.
+
+[HEADER 005A00BF]
+You are? Well, it wasn't easy...
+
+[HEADER 005A00C5]
+I found the clown's escape route... I think.
+
+[HEADER 005A00C6]
+You think?
+
+[HEADER 005A00C7]
+He ran into a blind alley and took to the sewers.
+
+[HEADER 005A00C8]
+Very apt - but then what?
+
+[HEADER 005A00C9]
+I don't know. Maybe I could come see you?
+
+[HEADER 005A00CA]
+I really am very busy...
+
+[HEADER 005A00CB]
+Oh. Okay. I'll keep searching.
+
+[HEADER 005A00CC]
+Good. Be sure to let me know if you find anything.
+
+[HEADER 005A00CD]
+You can count on it.
+
+[HEADER 005A00CE]
+See you...
+
+[HEADER 005A00CF]
+Well, I haven't had a lot of luck...
+
+[HEADER 005A00D0]
+You've found nothing?
+
+[HEADER 005A00D1]
+Uh... no.
+
+[HEADER 005A00D2]
+Look - I'm very busy right now.
+
+[HEADER 005A00D3]
+Call me if you have any news, okay?
+
+[HEADER 005A00D4]
+Oh... yeah, I guess.
+
+[HEADER 005A00D5]
+Adieu, m'sieur.
+
+[HEADER 005A00D6]
+See you...
+
+[HEADER 005A00D7]
+Hello? Who is this?
+
+[HEADER 005A00DC]
+Hi! My name's George Stobbart. You don't know me.
+
+[HEADER 005A00DD]
+Correct, Mister Stobbart, I don't. What can I do for you?
+
+[HEADER 005A00DE]
+I'm trying to trace one of your customers.
+
+[HEADER 005A00DF]
+Could I maybe come over and talk to you?
+
+[HEADER 005A00E0]
+NO! No, that's not possible.
+
+[HEADER 005A00E1]
+Okay, forget it. Listen, all I want is a name.
+
+[HEADER 005A00E2]
+What are you talking about? Who are you working for?
+
+[HEADER 005A00E3]
+I guess you might say I'm acting in the interests of Truth and Justice.
+
+[HEADER 005A00E4]
+Ah, thank God! I thought you were the police...
+
+[HEADER 005A00E5]
+There are innocent lives at stake, mister Todryk - lives that you could save.
+
+[HEADER 005A00E6]
+You're collecting for charity, yes?
+
+[HEADER 005A00E7]
+No, I'm not. All I want from you is information.
+
+[HEADER 005A00E8]
+Go on, I'm listening...
+
+[HEADER 005A00DA]
+Mister Todryk?
+
+[HEADER 005A00DB]
+Oh, it's you again. What now?
+
+[HEADER 005A00E9]
+What do you know about the clown who bombed the Café de la Chandelle Verte?
+
+[HEADER 005A00EA]
+I don't have no idea what you're talking about.
+
+[HEADER 005A00EB]
+You're cool, Todryk, but I think you know more than you're saying.
+
+[HEADER 005A00EC]
+I don't know who you be, but sure I am you don't know what you're talking about!
+
+[HEADER 005A00EE]
+Oh, this is ridiculous. Quit playing games with me, Todryk.
+
+[HEADER 005A00EF]
+I tell you I know nothing about no clown.
+
+[HEADER 005A00F0]
+Did you know that one of your customers was a part-time clown?
+
+[HEADER 005A00F1]
+If a guy feels happy with a funny nose and custard down his pants, what's the problem?
+
+[HEADER 005A00F2]
+Do you know a guy called Plantard?
+
+[HEADER 005A00F3]
+No. I never heard of him.
+
+[HEADER 005A00F4]
+Shall I tell you what happened to Plantard?
+
+[HEADER 005A00F5]
+How he was killed in cold blood?
+
+[HEADER 005A00F6]
+I told you - I never heard of Plantard.
+
+[HEADER 005A00F7]
+I expect Plantard's a family man, don't you?
+
+[HEADER 005A00F8]
+In their little apartment, Madame Plantard is cooking the supper...
+
+[HEADER 005A00F9]
+Listening for the familiar sound of her husband's key in the door.
+
+[HEADER 005A00FA]
+Junior is waiting for his daddy to come home from work.
+
+[HEADER 005A00FB]
+He can't wait to show him the merit marks he earned in school today.
+
+[HEADER 005A00FC]
+Only tonight... Monsieur Plantard won't be coming home.
+
+[HEADER 005A00FD]
+You forgot the puppy.
+
+[HEADER 005A00FE]
+Huh?
+
+[HEADER 005A00FF]
+The faithful puppy dog, waiting for the sound of his master's voice...?
+
+[HEADER 005A0100]
+Maybe they don't have a dog. What do you think?
+
+[HEADER 005A0101]
+I don't know Plantard, I never heard of Plantard.
+
+[HEADER 005A0102]
+None of this has anything to do with me!
+
+[HEADER 005A010A]
+The man I'm looking for is called Khan.
+
+[HEADER 005A010B]
+He bought a suit from you - remember?
+
+[HEADER 005A010C]
+Mister Khan...
+
+[HEADER 005A010D]
+Yes - I remember him.
+
+[HEADER 005A010E]
+Yes. I delivered the suit to his hotel.
+
+[HEADER 005A010F]
+The Hôtel Ubu. I don't remember the room number.
+
+[HEADER 005A0110]
+It was upstairs - the second room on the right hand side of the corridor.
+
+[HEADER 005A0111]
+Thanks, Todryk. That's all I wanted to know.
+
+[HEADER 005A0112]
+Now I've got you, Mister Clown...
+
+[HEADER 005A0103]
+Did you make a suit for a man with a scar on his face?
+
+[HEADER 005A0104]
+A scar in the shape of a crescent moon?
+
+[HEADER 005A0105]
+Maybe... maybe not.
+
+[HEADER 005A0106]
+Tell me where I can find him and I'll leave you alone.
+
+[HEADER 005A0107]
+And if I don't?
+
+[HEADER 005A0108]
+I won't leave you alone.
+
+[HEADER 005A0109]
+I can't tell you anything unless you give me his name.
+
+[HEADER 005A011F]
+Thanks for nothing, Todryk.
+
+[HEADER 00040008]
+Set into the huge gate was a smaller access door.
+
+[HEADER 00040009]
+The door was securely locked.
+
+[HEADER 0001000C]
+The table had been overturned by the explosion.
+
+[HEADER 0001000D]
+I considered straightening the table, but I figured it best not to disturb the evidence.
+
+[HEADER 00010012]
+The blast had blown out the glass leaving a gaping hole.
+
+[HEADER 00010013]
+I examined the jagged glass remaining in the window. It was broken all right.
+
+[HEADER 00001E1F]
+The clown had fled into this alley - but there was no sign of him now.
+
+[HEADER 00001E24]
+I was intrigued by Nico and what she could tell me about the explosion.
+
+[HEADER 00020002]
+It was a plastic crate.
+
+[HEADER 00020003]
+There was nothing of interest...
+
+[HEADER 00001D9B]
+The police had removed the body, but nothing else looked disturbed.
+
+[HEADER 00001D56]
+I am afraid that you can't go in there, Madame.
+
+[HEADER 00001D57]
+Okay, okay...
+
+[HEADER 00001D4C]
+Hey! Where do you think you're going?
+
+[HEADER 00001D4D]
+I wanted to see the crime scene for myself.
+
+[HEADER 00001D4E]
+It's too dangerous.  I am under strict instructions to stop gossip mongers and vandals from getting in.
+
+[HEADER 00001D4F]
+But I'm a journalist.
+
+[HEADER 00001D50]
+Exactly. Didn't you hear what I just said?
+
+[HEADER 00001D51]
+What if I told you I was from the insurance company?
+
+[HEADER 00001D52]
+I'd ask for your ID.
+
+[HEADER 00001D53]
+Ah...
+
+[HEADER 00001D54]
+I told you to keep out of there!
+
+[HEADER 00001D55]
+Okay, okay...
+
+[HEADER 00001D84]
+One thing I'd learned as a journalist - find the weak spot.
+
+[HEADER 00001D85]
+There was more than a hint of hair-spray about this guy.
+
+[HEADER 00001D86]
+And for a workman he was pretty well-turned out.
+
+[HEADER 00001D87]
+A vain man is easy to distract.  So they say.
+
+[HEADER 00001D60]
+The workman looked about as eager and helpful as your average road-digger.
+
+[HEADER 00001D61]
+Hello, could I ask you some questions?
+
+[HEADER 00001D62]
+That depends.  Are you a cop?
+
+[HEADER 00001D63]
+No, I'm a journalist.
+
+[HEADER 00001D64]
+Bit late aren't you? They already took away the body.
+
+[HEADER 00001D65]
+I'm doing a follow-up on the story.
+
+[HEADER 00001D66]
+Hello.
+
+[HEADER 00001D67]
+Yes?
+
+[HEADER 00001D68]
+Have the police finished with the crime scene?
+
+[HEADER 00001D69]
+What does it look like?  I got orders to board up the windows, and that's what I'm doing.
+
+[HEADER 00001D6A]
+So the body's been removed?
+
+[HEADER 00001D6B]
+I certainly hope so or it'll stink to high heaven when they take down these boards.
+
+[HEADER 00001D6C]
+Shouldn't you check?
+
+[HEADER 00001D6D]
+Are you kidding? They don't pay me enough to put up boards, let alone check for dead bodies.
+
+[HEADER 00001D6E]
+Tell me, are you related to the workman I saw digging the hole?
+
+[HEADER 00001D6F]
+Don't talk to me about Flobbage.  Pah!
+
+[HEADER 00001D70]
+Okay...
+
+[HEADER 00001D71]
+He just won a fortune on the horses and he won't give me a cent.
+
+[HEADER 00001D72]
+Well, it's his money...
+
+[HEADER 00001D73]
+When he was broke, he was happy to touch me for a loan.
+
+[HEADER 00001D74]
+"Brothers should look after each other!" he used to say.
+
+[HEADER 00001D75]
+He's changed his tune now he's brassed up.
+
+[HEADER 00001D76]
+You're doing a fine job!
+
+[HEADER 00001D77]
+Damn right I am. You should be writing about me, not that idiot that got blown up.
+
+[HEADER 00001D78]
+The heroes who pick up the pieces when disaster strikes...
+
+[HEADER 00001D79]
+Exactly.
+
+[HEADER 00001D7A]
+Well, give me your best smile and maybe I'll put your picture in the article.
+
+[HEADER 00001D7B]
+Oh! Right! Just give me a minute to do my hair...
+
+[HEADER 00001D7C]
+I need to take some more pictures.
+
+[HEADER 00001D7D]
+Of course. My pleasure.
+
+[HEADER 00000D14]
+Give me a moment.
+
+[HEADER 00001DE2]
+Look at this secret message.
+
+[HEADER 00001DE3]
+Very nice.  But it's not secret now, is it?  It's just a message.
+
+[HEADER 00001D88]
+Have you ever seen anything like this?
+
+[HEADER 00001D89]
+What do you think I am - a plumber?!
+
+[HEADER 00001D8A]
+What do you think of my shell case?
+
+[HEADER 00001D8B]
+Are you in the scrap business?
+
+[HEADER 00001D8C]
+Of course not.
+
+[HEADER 00001D8D]
+Pity.  I've got some rubbish just like that I need to get rid of.
+
+[HEADER 00001D8E]
+Take a look at this...
+
+[HEADER 00001D8F]
+I don't like lacy hankies.  They scratch my nose.
+
+[HEADER 00001D90]
+I can see how that must be a problem for you.
+
+[HEADER 00001D91]
+Do you know how I could get the paint out of this cloth?
+
+[HEADER 00001D92]
+What do you think this is - household tips week?
+
+[HEADER 00001D93]
+Do you know this man?
+
+[HEADER 00001D94]
+He looks like a nasty piece of work.
+
+[HEADER 00001D95]
+I had an uncle who was with the fascists.  But we never talk about him.
+
+[HEADER 00001D96]
+What happened to him?
+
+[HEADER 00001D97]
+How should I know?!  We never talk about him.
+
+[HEADER 00001D98]
+Would you like this hairclip?
+
+[HEADER 00001D99]
+What do you take me for? Some kind of a...
+
+[HEADER 00001D9A]
+...pervert?
+
+[HEADER 00001DF1]
+What do you think of this pouch?
+
+[HEADER 00001DF2]
+Very nice.  Takes me back to my posing days.
+
+[HEADER 00001DF3]
+Posing?
+
+[HEADER 00001DF4]
+Art school.  With a body like mine - I was never out of work.   I can show you if you like.
+
+[HEADER 00001DF5]
+I'd rather not. I've only just eaten.
+
+[HEADER 00001DE4]
+Do you recognise this?
+
+[HEADER 00001DE5]
+It looks like a kids' puzzle piece.
+
+[HEADER 00000D7A]
+Would you like to see this...?
+
+[HEADER 00000D79]
+No.
+
+[HEADER 00001DE6]
+You see this ticket.
+
+[HEADER 00001DE7]
+Are you trying to bribe me?
+
+[HEADER 00001DE8]
+No.
+
+[HEADER 00001DE9]
+I don't blame you of course.  Good looking fella like me.
+
+[HEADER 00001DEA]
+Do you like this colour?
+
+[HEADER 00001DEB]
+It's all right.  But with skin tones like mine, I tend to go for softer, more sophisticated shades.
+
+[HEADER 00001DEC]
+Would you recognise this?
+
+[HEADER 00001DED]
+That is the key to a safe.  A Warriner special if I'm not mistaken.
+
+[HEADER 00001DEE]
+Do you like this carving?
+
+[HEADER 00001DEF]
+Hmph.  It's the kind of thing you pick up for a couple of euros at Les Puces de Saint-Ouen.
+
+[HEADER 00001DF0]
+He wouldn't be interested in a substitution cipher.
+
+[HEADER 00000D7B]
+He wouldn't be interested...
+
+[HEADER 00001D7E]
+Au revoir.
+
+[HEADER 00001CFC]
+Hey!  What about my photos?
+
+[HEADER 00001CFD]
+Oh!  Of course!  How could I forget?
+
+[HEADER 00001CFE]
+Well.  I'm waiting.  Get your camera out.
+
+[HEADER 00001CFF]
+Camera? Oh, I forgot!  It broke!
+
+[HEADER 00001D00]
+Alors!  They should never send a woman to do a man's job!
+
+[HEADER 00001D01]
+Well, this woman had fooled him easily enough...
+
+[HEADER 00001D02]
+...and found evidence the police had missed!
+
+[HEADER 00001D7F]
+Hey - what were you doing in there?!
+
+[HEADER 00001D80]
+Oh, just checking the light for your photo.
+
+[HEADER 00001D81]
+Loading the camera.
+
+[HEADER 00001D82]
+Nothing really.
+
+[HEADER 00001D83]
+Ah, of course.
+
+[HEADER 00001D9E]
+One piece of glass survived - the rest had been smashed to pieces.
+
+[HEADER 00001DA1]
+Oops!  Stupid thing...
+
+[HEADER 00001D9C]
+It was a Brandy bottle.
+
+[HEADER 00001D9D]
+Some journalists drink on the job. Not me.
+
+[HEADER 00001DA8]
+Behind the table were some damaged pipes...
+
+[HEADER 00001DA4]
+Voilà! The police and forensics teams had missed a vital piece of evidence: some kind of pouch.
+
+[HEADER 00001DA5]
+On the pouch was the cross symbol of Carchon's organisation. I was on the right track.
+
+[HEADER 00001DA3]
+I couldn't quite reach far enough to get hold of anything.
+
+[HEADER 00001D06]
+The strange metal artefact I found in Plantard's pouch...
+
+[HEADER 00001D07]
+...had pointed back to the quayside.
+
+[HEADER 00001D0B]
+I wondered what was in Plantard's pouch.
+
+[HEADER 00001D0C]
+I needed to take a closer look at the objects I'd found in Plantard's pouch.
+
+[HEADER 00001D08]
+I needed some direction.
+
+[HEADER 00001D09]
+Some clue to where I should go next...
+
+[HEADER 00001DB0]
+The drainpipe had been pulled from the wall. Some idiot had clearly tried to climb it.
+
+[HEADER 00001DB1]
+The drainpipe was well past its replacement date.
+
+[HEADER 00001DB2]
+The pipes weren't going to help my investigation.
+
+[HEADER 00001DB3]
+From the stench, the hole obviously led down to the sewers.
+
+[HEADER 00001DB4]
+There might have been clues down there.
+
+[HEADER 00001DB5]
+But I was relieved I didn't have a sewer key.
+
+[HEADER 00001D0A]
+I couldn't do anything with that...
+
+[HEADER 00001D9F]
+A panel had been blown away, revealing a gap.
+
+[HEADER 00001DA0]
+From this angle, I could see that something had been lodged in the gap behind the pipes.
+
+[HEADER 00001DA6]
+Plantard's blood was everywhere. Poor guy, never stood a chance.
+
+[HEADER 00001DA7]
+There was nothing of interest beyond some bloody debris.
+
+[HEADER 00001DA9]
+Now I'd seen it in the mirror I could make out something behind the pipes.
+
+[HEADER 00001DB6]
+There was a little workman's tent.
+
+[HEADER 00001DB7]
+There was a toolbox inside the tent.
+
+[HEADER 00001DB8]
+The tent was empty except for a toolbox.
+
+[HEADER 00001DB9]
+As my dear grandmamma used to say - keep your hands off men's tools.
+
+[HEADER 00001DBA]
+It was the kind of ancient phone beloved of French workmen.
+
+[HEADER 00001DBB]
+I was surprised they still used them.
+
+[HEADER 00001DBC]
+I didn't need to call anyone.
+
+[HEADER 00001DBD]
+There was a small door set into the entrance gates.
+
+[HEADER 00001DBE]
+But nothing to say who lived there.
+
+[HEADER 00001DBF]
+The door was locked.
+
+[HEADER 00001E14]
+Apart from a bit in the middle, the mirror had smashed into a thousand pieces. Bad luck for someone.
+
+[HEADER 00001E15]
+The mirror had smashed into a thousand pieces. Bad luck for some.
+
+[HEADER 00001E16]
+Poor guy.
+
+[HEADER 00001E17]
+I hoped the fact that the mirror was already broken meant I'd escape the bad luck.
+
+[HEADER 00001E19]
+He was pretty mashed up.
+
+[HEADER 00001DC4]
+The police had been quick to clear away the wreckage, and arrange for the window to be boarded up.
+
+[HEADER 00001DC5]
+There was nothing I could do.  The workman had everything under control.
+
+[HEADER 00001E1A]
+The big story was about the brutal murder of a French media magnate, shot down in cold blood.
+
+[HEADER 00001E1B]
+The guy oozed confidence - like a regular French statesman.
+
+[HEADER 00001E1C]
+The column was devoted exclusively to rumour, gossip and sensationalism.
+
+[HEADER 00001E1D]
+I noticed the writing at the foot of the page...
+
+[HEADER 00001E1E]
+It read: `Salah-eh Dinn, thirteen forty-five.'
+

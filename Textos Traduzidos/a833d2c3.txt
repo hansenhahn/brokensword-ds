@@ -1,0 +1,1617 @@
+# Broken Sword - Shadow of the Templars (Director's Cut)
+# Versão do Script: 09.11
+[HEADER 0000A028]
+#I need to get that tripod - but how?
+Eu preciso pegar aquele tripé... mas como?
+
+[HEADER 0000A032]
+#If you could hide in the museum, then you might be left alone.
+Se conseguisse esconder-se no museu, talvez você fosse deixado sozinho.
+
+[HEADER 0000A03C]
+#The sarcophagus would provide an excellent hiding place.
+O sarcófago seria um excelente esconderijo.
+
+[HEADER 0000A046]
+#Open the window, and while the attendant is closing it, open the sarcophagus and hide in it. Then wait...
+Abra a janela. Quando o segurança for fechá-la, abra o sarcófago, se esconda nele e, então, espere...
+
+[HEADER 0000A050]
+#I'm back from Syria, in one piece, and need direction.
+Voltei são e salvo da Síria. Agora preciso de uma direção.
+
+[HEADER 0000A05A]
+#Lobineau should have had a chance to check out the manuscript by now.
+Talvez o Lobineau deva dar uma olhada no manuscrito agora.
+
+[HEADER 0000A064]
+#Head to the museum and see what he thought.
+Vá ao museu e veja o que ele acha.
+
+[HEADER 0000A06E]
+#Lobineau said something about a Spanish family, the Vasconcellos. What should I do now?
+Lobineau falou algo sobre uma família espanhola, os de Vasconcellos. O que devo fazer agora?
+
+[HEADER 0000A078]
+#Follow that lead!
+Siga essa pista!
+
+[HEADER 0000A082]
+#Head to the European map. You can now fly to Spain.
+Abra o mapa da Europa. Você pode voar para a Espanha agora.
+
+[HEADER 001C0027]
+#The case was empty.
+A vitrine estava vazia.
+
+[HEADER 001C0028]
+#The glass case was intact, but the tripod had been replaced by a sign reading: `EXHIBIT TEMPORARILY REMOVED'.
+A vitrine estava intacta, mas o tripé havia sido substituído por uma placa com os dizeres: `OBJETO TEMPORARIAMENTE REMOVIDO'.
+
+[HEADER 001C0020]
+#In the case was a spindly tripod, blackened with age and pitted with rust...
+Na vitrine havia um tripé, escurecido e enferrujado pelo tempo...
+
+[HEADER 001C0021]
+#It was identical to the tripod pictured on the manuscript!
+Era idêntico ao tripé desenhado no manuscrito!
+
+[HEADER 001C0022]
+#A notice identified it as fifteenth century, from Western Ireland.
+A placa o identificava como sendo do século XV, do oeste da Irlanda.
+
+[HEADER 001C0023]
+#It had been found in Lochmarne, at the site of a Knights Templar preceptory!
+Ele foi encontrado em Lochmarne, no terreno de um preceptório dos Cavaleiros Templários!
+
+[HEADER 001C003F]
+#Ireland!
+Irlanda!
+
+[HEADER 001C0040]
+#What's that?
+O que foi isso?
+
+[HEADER 001C0041]
+#This tripod was found in Ireland!
+O tripé foi encontrado na Irlanda!
+
+[HEADER 001C0042]
+#I will have to ask you to keep your voice down.
+Terei que pedir que você abaixe o seu tom de voz.
+
+[HEADER 001C0043]
+#I'm sorry. I was excited.
+Me desculpe. Eu estava agitado.
+
+[HEADER 001C0024]
+#The case contained the tripod shown on the manuscript.
+A vitrine expunha o tripé mostrado no manuscrito.
+
+[HEADER 001C0025]
+#As I reached toward the display case a shrill piping filled the air.
+Ao me aproximar da vitrine, o som agudo de um apito tomou conta do local.
+
+[HEADER 001C0026]
+#I froze, then tried to get myself together and act nonchalantly.
+Eu congelei e tentei me recompor e relaxar. 
+
+[HEADER 001C005E]
+Non! m'sieur, non et non!
+
+[HEADER 001C005F]
+#Okay, okay.
+Certo, certo.
+
+[HEADER 001C0064]
+#Hey, now! Non, m'sieur, non!
+Pare agora! Non, m'sieur, non!
+
+[HEADER 001C0065]
+#What's wrong?
+O que foi?
+
+[HEADER 001C0066]
+#You must not handle the exhibits.
+Você não deve tocar no objeto exposto.
+
+[HEADER 001C0067]
+#I'm sorry.
+Me desculpe.
+
+[HEADER 001C0060]
+#Now what did I tell you about touching the exhibits?
+O que eu falei sobre tocar no objeto exposto?
+
+[HEADER 001C0061]
+#Uh... was it: `You can touch all you want so long as your hands are clean'?
+Uh... por acaso foi: `Você pode tocar em tudo desde que suas mãos estejam limpas'?
+
+[HEADER 001C0062]
+#Not quite, m'sieur. It was Do Not Touch. Not ever!
+Negativo, m'sieur. Foi "Não Toque. Nunca!"
+
+[HEADER 001C0063]
+#Oh, yeah - that was it.
+Ah, claro. Isso mesmo.
+
+[HEADER 001C0001]
+#The attendant had an air of self importance and the kind of steely eyes that never seem to blink.
+O segurança tinha um ar de presunção e olhos de aço que pareciam nunca piscar.
+
+[HEADER 001C0068]
+#Pardon me...
+Perdoe-me...
+
+[HEADER 001C0069]
+Oui, m'sieur?
+
+[HEADER 001C006C]
+#Are you Lobineau?
+Você é o Lobineau?
+
+[HEADER 001C006D]
+#Oh, no. Fancy you mistaking me for him!
+Ah, não. Engraçado você me confundir com ele!
+
+[HEADER 001C006E]
+#No, I am the deputy custodian.
+Não, sou o guarda substituto.
+
+[HEADER 001C006F]
+#But Lobineau does work here?
+Mas o Lobineau trabalha aqui?
+
+[HEADER 001C0070]
+#Work? I wouldn't go so far as to call it that...
+Trabalha? Eu não diria ser isso o que ele faz...
+
+[HEADER 001C0071]
+#He studies here most days but, as you can see for yourself not today.
+Ele estuda aqui quase todo dia, mas, como pode ver, hoje não.
+
+[HEADER 001C00C8]
+#Do you recognise this tripod?
+Você reconhece este tripé?
+
+[HEADER 001C00C9]
+Hmm.
+
+[HEADER 001C00CA]
+#It's vaguely familiar...
+É vagamente familiar...
+
+[HEADER 001C00CB]
+#I should think it is.
+Creio que sim.
+
+[HEADER 001C00CC]
+#Very similar to the one which we used to have here at the museum, in fact...
+Na verdade, é bastante similiar com o que tínhamos aqui no museu...
+
+[HEADER 001C00CD]
+#That's what I thought.
+Foi o que eu pensei.
+
+[HEADER 001C00CE]
+#But this is obviously a poor copy.
+Mas esse é claramente uma cópia barata.
+
+[HEADER 001C00CF]
+#Right.
+Certo.
+
+[HEADER 001C00A4]
+#Can you give me any further information about the tripod?
+Você pode me dar mais alguma informação sobre o tripé?
+
+[HEADER 001C00A5]
+#Certainly, m'sieur! It's infamous.
+Certamente, m'sieur! Ele é infame.
+
+[HEADER 001C00A6]
+#That tripod... that belonged to John Dee!
+Esse tripé... pertencia ao John Dee!
+
+[HEADER 001C00A7]
+#What's the importance of John Dee's tripod?
+Qual a importância do tripé de John Dee?
+
+[HEADER 001C00A8]
+#Dee was the most famous escapologist of the sixteenth century - the Houdini of his time.
+Dee foi o mais famoso escapista do século dezesseis. O Houdini de seu tempo.
+
+[HEADER 001C00A9]
+#Don't you mean alchemist? Escapologists use ropes, chains and handcuffs, not tripods.
+Não quer dizer alquimista? Escapistas usam cordas, correntes e algemas, não tripés.
+
+[HEADER 001C00AA]
+#Well, whatever he was, that is the tripod he used in his experiments.
+Bem, seja o que fosse, esse era o tripé que ele usava nos seus experimentos.
+
+[HEADER 001C00AB]
+#What kind of experiments did John Dee perform with his tripod?
+Que tipo de experimentos o John Dee realizava com o tripé?
+
+[HEADER 001C00AC]
+#Oh, the usual. Didn't you study chemistry at school?
+Ah, os comuns. Você não estudou Química na escola?
+
+[HEADER 001C00AD]
+#Yeah, but we skipped over thaumatology.
+Sim, mas nós pulamos a taumatologia.
+
+[HEADER 001C00B3]
+#Can I take a closer look at the tripod?
+Posso olhar o tripé mais de perto?
+
+[HEADER 001C00B4]
+#What? Get it out of the case? Ah, non!
+O quê? Tirá-lo de dentro da vitrine? Ah, non!
+
+[HEADER 001C00B5]
+#That tripod is protected by a sophisticated surveillance system.
+O tripé é protegido por um sofisticado sistema de vigilância.
+
+[HEADER 001C00B6]
+#How sophisticated?
+Quanto sofisticado?
+
+[HEADER 001C00B7]
+#A painfully loud alarm bell.
+Uma sineta estridente e barulhenta.
+
+[HEADER 001C00BC]
+#How is the alarm bell triggered?
+Como o alarme é disparado?
+
+[HEADER 001C00BD]
+#By the slightest pressure on, or movement of, any part of the case wherein that tripod is situated.
+Pela mínima pressão, ou movimento, de qualquer parte da vitrine em que o tripé se encontra.
+
+[HEADER 001C00BE]
+#It strikes me that to call your alarm system sophisticated is... well, stretching the truth a little!
+Penso que chamar o sistema de alarme de sofisticado... bem, é fugir um pouco da realidade!
+
+[HEADER 001C00BF]
+#It has never failed yet! The sophistication is in its simplicity.
+Ele nunca falhou até agora! A sofisticação está em sua simplicidade.
+
+[HEADER 001C0094]
+#Do you know anything about the Knights of the Temple?
+Você sabe de algo sobre os Cavaleiros do Templo?
+
+[HEADER 001C0095]
+#No, Sir. Not a sausage.
+Não, senhor. Nada.
+
+[HEADER 001C0096]
+#The sign on the tripod says it was found at a Templar preceptory...
+A placa no tripé diz que ele foi encontrado em um preceptório Templário...
+
+[HEADER 001C0097]
+#It does?
+Foi?
+
+[HEADER 001C0098]
+#Yeah - it doesn't mention John Dee at all.
+Sim, e em nenhum momento menciona John Dee.
+
+[HEADER 001C0099]
+#Most remiss.
+Esqueceram isso.
+
+[HEADER 001C009A]
+#You don't know anything about the tripod, do you?
+Você não sabe nada sobre o tripé, não é?
+
+[HEADER 001C009B]
+#No, I don't. I never had much of a start in life, you see.
+Não. Sabe, eu não tive uma infância das melhores.
+
+[HEADER 001C009C]
+#I owe what little education I gained to my uncle.
+Eu devo esta pequena educação que tive ao meu tio.
+
+[HEADER 001C009D]
+#He was an optician, but he also doubled as the village school teacher.
+Ele era um oculista, mas também trabalhava como professor do vilarejo.
+
+[HEADER 001C009E]
+#He taught me the alphabet - well, nineteen letters of it...
+Ele me ensinou o alfabeto. Bem, dezenove letras dele...
+
+[HEADER 001C009F]
+#The bottom row of the chart was too small even for him to read, so he left them out.
+A última linha do quadro era pequena até mesmo para ele ler, então a deixou de fora.
+
+[HEADER 001C00A0]
+#Why don't you start over and enrol for adult education?
+Por que você não recomeça e se inscreve em um programa de educação pra adultos?
+
+[HEADER 001C00A1]
+#You know, I never thought of that!
+Sabe, eu nunca tinha pensado nisso!
+
+[HEADER 001C00A2]
+#Do you think if I studied hard and did all my homework I could be a Professor of History?
+Você acha que, se eu me empenhar e fizer todos os meus deveres de casa, poderei ser um professor de História?
+
+[HEADER 001C00A3]
+#At your age? Dream on...
+Com a sua idade? Vai sonhando...
+
+[HEADER 001C008B]
+#Do you know anything about medieval manuscripts?
+Você sabe algo sobre manuscritos medievais?
+
+[HEADER 001C008C]
+#Not me, m'sieur. I'm no scholar - though people often mistake me for one.
+Não, m'sieur. Eu não sou uma pessoa estudada, apesar de me confundirem com uma.
+
+[HEADER 001C008D]
+#It's the uniform, I guess. They see the clothes, they're impressed...
+É o uniforme, eu acho. Eles veem as roupas e se impressionam...
+
+[HEADER 001C008E]
+#And they ask you to park their cars?
+E pedem para você estacionar o carro?
+
+[HEADER 001C008F]
+#They ask me to park their... no, no, no!
+Pedem para que eu estacione o... não, não, não!
+
+[HEADER 001C0090]
+#They assume I am an authority on the exhibits in my care.
+Eles presumem que eu seja uma autoridade nas exibições sobre meus cuidados.
+
+[HEADER 001C0091]
+#Whereas, you know next to nothing about history?
+Considerando que você sabe quase nada de História...
+
+[HEADER 001C0092]
+#Of course not! All I'm saying is, I'm no scholar...
+Claro que não! O que estou dizendo é que não sou uma pessoa estudada...
+
+[HEADER 001C0093]
+#Not like M'sieur Lobineau.
+Não como o m'sieur Lobineau.
+
+[HEADER 001C00C2]
+#Does this lens mean anything to you?
+Esta lente significa algo para você?
+
+[HEADER 001C00C3]
+#Not a thing, m'sieur.
+Nada, m'sieur.
+
+[HEADER 001C00C4]
+#Does this white powder mean anything to you?
+Este pó branco significa alguma coisa para você?
+
+[HEADER 001C00C5]
+#No, it doesn't.
+Não, nada.
+
+[HEADER 001C00D2]
+#Do you recognize this red nose?
+Você reconhece este nariz vermelho?
+
+[HEADER 001C00D3]
+#I don't think so.
+Acho que não.
+
+[HEADER 001C00D7]
+#Do you recognize this ID pass?
+Você reconhece este cartão?
+
+[HEADER 001C00D8]
+#No.
+Não.
+
+[HEADER 001C00D9]
+#Have you ever heard of the Club Alamut?
+Você já ouviu falar sobre o Club Alamut?
+
+[HEADER 001C00DA]
+#Oh, no! I don't frequent places like that.
+Ah, não! Eu não frequento lugares assim.
+
+[HEADER 001C00D4]
+#Do you recognize the man in this photograph?
+Você reconhece o homem nesta foto?
+
+[HEADER 001C00D5]
+#No, m'sieur. Is there any reason why I should?
+Não, m'sieur. Há algum motivo para que eu o conhecesse?
+
+[HEADER 001C00D6]
+#I guess not.
+Acho que não.
+
+[HEADER 001C00DB]
+#What does this tool mean to you?
+O que esta ferramenta significa para você?
+
+[HEADER 001C00DC]
+#That belongs in a museum!
+Isso pertence ao museu!
+
+[HEADER 001C00DD]
+#Pardon?
+Perdão?
+
+[HEADER 001C00DE]
+#It's a priceless historical artefact, if I'm not mistaken!
+É um artefato histórico de valor inestimável, se não estou enganado!
+
+[HEADER 001C00DF]
+#No - it's a plain old tool for lifting drain covers.
+Não. É apenas uma velha ferramenta para levantar tampa de bueiros.
+
+[HEADER 001C00E3]
+#What do you make of this tissue?
+O que você entende por este lenço?
+
+[HEADER 001C00E4]
+#It's absolutely disgusting, m'sieur.
+É nojento, m'sieur.
+
+[HEADER 001C00F2]
+#I found this gem at a medieval site in Ireland...
+Eu encontrei esta gema em um vilarejo medieval na Irlanda...
+
+[HEADER 001C00F3]
+#That means nothing to me, m'sieur.
+Isso não significa nada para mim, m'sieur.
+
+[HEADER 001C00F4]
+#How did you manage to get this job?
+Como você conseguiu esse emprego?
+
+[HEADER 001C00F5]
+#I had the right qualifications...
+Eu tinha as qualificações necessárias...
+
+[HEADER 001C00F6]
+#A military manner, squeaky shoes - and an irrational hatred of children.
+Postura de militar, sapatos rangentes e uma aversão irracional por crianças. 
+
+[HEADER 001C00F9]
+#What does this ball mean to you?
+O que esta bola significa para você?
+
+[HEADER 001C00FA]
+#Nothing, m'sieur.
+Nada, m'sieur.
+
+[HEADER 001C00FB]
+#Would you like to shake my hand?
+Gostaria de apertar minha mão?
+
+[HEADER 001C00FC]
+#Not while I'm on duty, m'sieur.
+Não enquanto eu estiver em serviço, m'sieur.
+
+[HEADER 001C00C0]
+#Thanks for your help...
+Obrigado pela sua ajuda...
+
+[HEADER 001C002D]
+#It was an ancient Egyptian sarcophagus, with a beautifully painted effigy of its owner on the lid.
+Era uma antigo sarcófago egípcio, com uma bela efígie do seu dono pintada na tampa.
+
+[HEADER 001C0051]
+#Leave it alone! That closet is over three thousand years old!
+Não toque aí! Esse caixão tem mais de três mil anos!
+
+[HEADER 001C0052]
+#Closet? It's a sarcophagus!
+Caixão? É um sarcófago!
+
+[HEADER 001C004E]
+#Don't even think of climbing in there, m'sieur!
+Nem pense em se meter aí dentro, m'sieur!
+
+[HEADER 001C004F]
+#You'll be suffocated!
+Você seria sufocado!
+
+[HEADER 001C0050]
+#I always wondered how it felt to be a mummy.
+Eu sempre imaginei como seria ser uma múmia.
+
+[HEADER 001C004C]
+#Do you have a fetish about closets, m'sieur?
+Você tem algum fetiche com caixões, m'sieur?
+
+[HEADER 001C004D]
+#I just love the smell of mothballs, I guess.
+Apenas gosto do cheiro de naftalina, eu acho.
+
+[HEADER 001C004A]
+#No, m'sieur!
+Não, m'sieur!
+
+[HEADER 001C004B]
+#Okay!
+Certo!
+
+[HEADER 001C002E]
+#This is ridiculous! I could be here for hours!
+Isto é ridículo! Eu poderia ficar aqui por horas!
+
+[HEADER 001C0045]
+#It's closing time, m'sieur Lobineau.
+É hora de fechar, m'sieur Lobineau.
+
+[HEADER 001C0046]
+#Already? There just aren't enough hours in the day!
+Mas já? Quem me dera se o dia tivesse mais horas!
+
+[HEADER 001C0047]
+#More than enough for me. I can't wait to get home and put my feet up.
+Para mim já é o suficiente. Não vejo a hora de chegar em casa e colocar meus pés para cima.
+
+[HEADER 001C0048]
+#Eh bien... See you tomorrow.
+Eh bien... Até amanhã.
+
+[HEADER 001C0049]
+#Good night, m'sieur.
+Boa noite, m'sieur.
+
+[HEADER 001C0029]
+#The totem pole looked distinctly out of place in the setting of the museum.
+O totem parecia claramente fora de lugar na arrumação do museu.
+
+[HEADER 001C0044]
+#Watch out! You'll have that down on top of us!
+Cuidado! Você vai derrubar isso em cima de nós!
+
+[HEADER 001C000D]
+#A metal rod attached to the wall was connected to the window.
+Uma vareta de metal presa à parede estava conectada à janela.
+
+[HEADER 001C0053]
+#Attention! Please do not open the window, m'sieur!
+Atenção! Por favor, não abra a janela, m'sieur!
+
+[HEADER 001C0054]
+#Don't you think it's kinda stuffy in here...?
+Você não está achando um pouco abafado aqui dentro?
+
+[HEADER 001C0055]
+#Better stuffy than dead.
+Melhor ficar com calor do que morto.
+
+[HEADER 001C0056]
+#What's the problem - fumes from car exhausts?
+Qual o problema? Fumaça dos escapamentos dos carros?
+
+[HEADER 001C0057]
+#Not just that, m'sieur - there's a new burger bar opened up across the street: the Laughing Buffalo.
+Não é apenas isso, m'sieur. Abriram uma nova lanchonete do outro lado da rua, o Boi Que Ri.
+
+[HEADER 001C0058]
+#So what's the problem?
+E qual o problema?
+
+[HEADER 001C0059]
+#They cook their burgers on a charcoal grill, and the fat falls on the open flames.
+Eles cozinham os hambúrgueres numa grelha sobre carvão, e a gordura cai direto no fogo.
+
+[HEADER 001C005A]
+#The amount of organic compound and smoke particles released is astounding!
+A quantidade de compostos orgânicos e partículas de fumaça geradas é impressionante!
+
+[HEADER 001C005B]
+#Since they opened local air pollution has doubled - and it stinks like a funeral pyre!
+Desde que abriram aquele local, a poluição do ar dobrou. Sem falar que cheira como uma pira funerária!
+
+[HEADER 001C005C]
+#That's why I keep the windows closed.
+É por isso que mantenho as janelas fechadas.
+
+[HEADER 001C005D]
+#Don't open that! Remember the burning cattle!
+Não abra! Lembre-se do cheiro de carne queimando!
+
+[HEADER 001D0007]
+#What the...! Who's there?
+Mas o que...! Quem está aí?
+
+[HEADER 001D0008]
+#Let's get outa here!
+Vamos cair fora!
+
+[HEADER 001D0003]
+#Oh, Guido...!
+Ah, Guido...!
+
+[HEADER 001D0004]
+#What's the big idea, you dummy? Shine the light down here!
+Qual o problema, seu pateta? Ponha luz aqui!
+
+[HEADER 001D0005]
+#The mummy! It's... it's come ALIVE!
+A múmia! Ela... ela está VIVA!
+
+[HEADER 001D0006]
+#If that's a mummy, I'm glad I'm an orphan!
+Se isso é uma múmia, então fico feliz por estar vivo!
+
+[HEADER 001D0001]
+#Quit fooling around, you moron!
+Pare de fazer bobagem, seu retardado!
+
+[HEADER 001D0002]
+#Get your ass over here, and bring that flashlight!
+Traga esse rabo até aqui e me passa essa lanterna!
+
+[HEADER 001C0000]
+#He was a thin-faced pallid guy with questionable taste in outlandish clothes. My mother used to dress like that.
+Ele era um cara de rosto fino e pálido com um gosto questionável para roupas. Minha mãe costuma se vestir assim.
+
+[HEADER 001C00FE]
+#I beg your pardon - are you André Lobineau?
+Com licença, você é André Lobineau?
+
+[HEADER 001C00FF]
+#That's me. You want my autograph?
+Sou eu. Quer meu autógrafo?
+
+[HEADER 001C0100]
+#No. I was told you may be able to help me.
+Não. Me disseram que talvez você pudesse me ajudar.
+
+[HEADER 001C0101]
+#Help?
+Ajudar?
+
+[HEADER 001C0102]
+#My name is George Stobbart. I'd like your professional opinion...
+Meu nome é George Stobbart. Eu gostaria de ter sua opinião profissional...
+
+[HEADER 001C0103]
+#Well... okay. Shoot.
+Bem... certo. Manda.
+
+[HEADER 001C0104]
+#Hi, André.
+Oi, André.
+
+[HEADER 001C0105]
+#Hello, Georgie.
+Olá, Georgie.
+
+[HEADER 001C010D]
+#Hey - I visited Nicole's apartment.
+Ei, eu estive no apartamento da Nico.
+
+[HEADER 001C010E]
+#Yeah - she told me you came by.
+Sim, ela me disse que você tinha passado por lá.
+
+[HEADER 001C010F]
+#Whew! Quite a find, Georgie-boy!
+Nossa! Que achado, Georgiezinho!
+
+[HEADER 001C0110]
+#I didn't expect anything quite so... sexy!
+Eu não esperava algo tão... sexy!
+
+[HEADER 001C0111]
+#I hope you're referring to the manuscript?
+Espero que você esteja se referindo ao manuscrito?
+
+[HEADER 001C0112]
+#Mais oui... of course!
+Mais oui... é claro!
+
+[HEADER 001C0113]
+#Where have you been? Nicole said you were away...
+Onde esteve? A Nicole disse que você estava viajando...
+
+[HEADER 001C0114]
+#I just returned from Syria.
+Eu acabei de retornar da Síria.
+
+[HEADER 001C0115]
+#Syria? On the trail of the Templars?
+Síria? Seguindo os passos dos Templários?
+
+[HEADER 001C0116]
+#It's a long story - but I found the Bull's Head.
+É uma longa história, mas encontrei a Cabeça do Touro.
+
+[HEADER 001C0117]
+#It was referred to on the manuscript, remember?
+Havia referências dela no manuscrito, se lembra?
+
+[HEADER 001C0118]
+#Yes. What is it?
+Sim. O que é?
+
+[HEADER 001C0119]
+#A secret cave built into a high cliff face.
+Uma caverna secreta feita no topo de um grande penhasco.
+
+[HEADER 001C011A]
+#In the cave I discovered a map bearing a phrase in Latin...
+Dentro da caverna, descobri um mapa com uma frase em latim...
+
+[HEADER 001C011B]
+In occidenta sita est in ora mundi.
+
+[HEADER 001C011C]
+#The Island of Britain...
+A Ilha da Bretanha...
+
+[HEADER 001C011D]
+#...lies at the edge of the world, to the west.
+... se encontra nos confins do mundo, ao oeste.
+
+[HEADER 001C011E]
+#Strange. That map seems to contain a series of pointers...
+Estranho. Aquele mapa parecia conter uma série de indicações...
+
+[HEADER 001C011F]
+#Like I said, it's a treasure map.
+Como eu disse, é um mapa do tesouro.
+
+[HEADER 001C01E9]
+#Have you ever heard of the Hashshashin?
+Já ouviu falar dos Hashshashin?
+
+[HEADER 001C01EA]
+#Why, yes. It was a radical Muslim sect whose name became synonymous with murder.
+Mas é claro. Era uma seita radical muçulmana, cujo nome tornou-se sinônimo de assassinato.
+
+[HEADER 001C01EB]
+#It was formed in eleventh century Persia, shortly before the Crusades.
+A seita foi formada na Pérsia do século XI, um pouco antes das Cruzadas.
+
+[HEADER 001C01EC]
+#At roughly the same time as the Templars...
+Praticamente no mesmo momento que os Templários...
+
+[HEADER 001C01ED]
+#Yes. They gave a new word to our language: Assassani - the Assassins.
+Sim. Eles introduziram uma nova palavra na nossa língua: Assassini, os Assassinos.
+
+[HEADER 001C01EE]
+#How did the Assassins get their name?
+Como os Assassinos ganharam esse nome?
+
+[HEADER 001C01EF]
+#From the legend surrounding the secrets of their initiation rites...
+Através das lendas que envolviam os segredos dos seus rituais de iniciação...
+
+[HEADER 001C01F0]
+#A young man who sought to join the sect was given hashish until he drifted into dreams.
+Era dado para qualquer jovem, que desejasse unir-se à seita, haxixe até que ele dormisse.
+
+[HEADER 001C01F1]
+#He awoke to find himself in a fabulous garden, with everything he could wish for...
+O jovem então sonhava consigo em um fabuloso jardim, com tudo o que ele pudesse desejar...
+
+[HEADER 001C01F2]
+#The freshest water, the most delicious food, the choicest hash and the most delectable women imaginable.
+A água mais fresca, a comida mais deliciosa e as mulheres mais atraentes imagináveis.
+[HEADER 001C01F3]
+#Cool. Do you have the address?
+Legal. Tem o endereço?
+
+[HEADER 001C01F4]
+#I haven't finished the story. There was a price to pay for this taste of paradise.
+Eu não terminei a história. Havia um preço a pagar por esse gostinho do paraíso.
+
+[HEADER 001C01F5]
+#Wouldn't you just know it?
+#Saberia adivinhar qual é?
+Não brinca?
+
+[HEADER 001C01F6]
+#The young man would wake the next day to find himself back in the real world.
+O jovem acordaria no dia seguinte e se encontraria de volta ao mundo real.
+
+[HEADER 001C01F7]
+#He was told that he'd been given a glimpse of the heaven reserved for holy martyrs.
+Diriam para ele que o que viu era apenas uma amostra do paraíso reservado aos mártires sagrados.
+
+[HEADER 001C01F8]
+#A heaven he would enjoy for eternity - if he was willing to join the Hashshashin.
+Um paraíso que ele iria aproveitar pela eternidade, caso estivesse disposto a se unir aos Hashshashin.
+
+[HEADER 001C01F9]
+#How did the Assassins operate?
+Como os Assassinos operavam?
+
+[HEADER 001C01FA]
+#Well, as I explained, the new recruits would be only too willing to die for the cause.
+Bem, como eu havia explicado, os novos recrutas deveriam apenas querer morrer pela causa.
+
+[HEADER 001C01FB]
+#They'd be instructed in the use of the dagger, poisons and disguise.
+Eles eram instruídos no manejo de adagas, venenos e disfarces.
+
+[HEADER 001C01FC]
+#Then, the Grand Master of the sect would name an enemy of Allah.
+Aí o Grão-Mestre da seita nomearia um inimigo de Alá.
+
+[HEADER 001C01FD]
+#And they'd stop at nothing to eliminate that enemy...
+E eles não parariam por nada até eliminá-lo...
+
+[HEADER 001C01FE]
+#You've got it. They were fearless - and deadly.
+Você entendeu. Eles eram destemidos, e mortais.
+
+[HEADER 001C01FF]
+#Does the cult of the Assassins still exist?
+O culto dos Assassinos ainda existe?
+
+[HEADER 001C0200]
+#Take a look around at the world today. You tell me...
+Dê uma olhada no mundo de hoje. Diga você...
+
+[HEADER 001C01CE]
+#Does the name Montfauçon mean anything to you?
+O nome Montfauçon significa algo para você?
+
+[HEADER 001C01CF]
+#Sure. It was the most grisly spectacle in Paris until the Revolution.
+Claro. Foi o local do espetáculo mais macabro em Paris antes da Revolução.
+
+[HEADER 001C01D0]
+#A public toilet?
+Um banheiro público?
+
+[HEADER 001C01D1]
+#Montfauçon was the place of execution for many thousands.
+Montfauçon foi o local de milhares de execuções.
+
+[HEADER 001C01D2]
+#A dark temple of death, with row upon row of arches, each one framing a grim exhibit...
+Um templo negro da morte, com linhas e mais linhas de arcos, cada um exibindo uma imagem macabra...
+
+[HEADER 001C01D3]
+#Scores of rotting corpses swung on creaking rope while the crows devoured their flesh...
+Diversos corpos queimados balançando no ar enquanto os corvos devoravam suas entranhas...
+
+[HEADER 001C01D4]
+#That explains the image of the hanged man.
+Isso explica a imagem do homem enforcado.
+
+[HEADER 001C01D5]
+#I found a reference to Montfauçon in Ireland, in a village called Lochmarne.
+Eu encontrei uma referência a Montfauçon na Irlanda, em uma vila chamada Lochmarne.
+
+[HEADER 001C01D6]
+#Lochmarne? That's where Peagram was digging!
+Lochmarne? Era onde o Peagram estava escavando!
+
+[HEADER 001C01D7]
+#That's right. He'd left the excavation before I arrived.
+Isso mesmo. Ele abandonou as escavações antes de eu chegar.
+
+[HEADER 001C01DC]
+#Where was the site of Montfauçon?
+Onde ficava Montfauçon?
+
+[HEADER 001C01DD]
+#To the north-east, near the Canal St. Martin, but there's nothing there now.
+Ao nordeste, próximo ao Canal St. Martin. Porém não há mais nada lá agora.
+
+[HEADER 001C01DE]
+#The old gibbet was torn down during the Revolution.
+A velha forca foi desmontada durante a Revolução.
+
+[HEADER 001C01DF]
+#Do you know Peagram well?
+Você conhecia bem o Peagram?
+
+[HEADER 001C01E0]
+#Not really. I met him at a conference.
+Não muito. Eu o conheci em uma conferência.
+
+[HEADER 001C01E1]
+#I would have liked to talk to him in depth, but I didn't have time.
+Queria ter conversado com ele a fundo, mas eu não tive tempo.
+
+[HEADER 001C01E2]
+#When was this?
+Quando foi isso?
+
+[HEADER 001C01E3]
+#Oh, back in the summer... July, I think.
+Ah, lá pelo verão... Julho, eu acho.
+
+[HEADER 001C012E]
+#I'd like your opinion on a medieval manuscript.
+Eu gostaria de ter uma opinião sua sobre um manuscrito medieval.
+
+[HEADER 001C012F]
+#Vraiment? Do you have it with you?
+Vraiment? Você está com ele aí?
+
+[HEADER 001C0130]
+#No. It's too fragile - and besides...
+Não. Ele é muito frágil. Sem falar que...
+
+[HEADER 001C0131]
+#There are certain people who'd stop at nothing to get their hands on it...!
+Há algumas pessoas que fariam de tudo para colocar as mãos nele...!
+
+[HEADER 001C0132]
+#Intriguing. Do you have a copy of the text?
+Intrigante. Você tem uma cópia do texto?
+
+[HEADER 001C0133]
+#There isn't much - only from a few Latin phrases.
+Não tinha muito... apenas algumas frases em latim.
+
+[HEADER 001C0134]
+#I was kind of hoping you'd help decipher the pictures.
+Eu esperava que você pudesse ajudar decifrando as figuras.
+
+[HEADER 001C0135]
+#Without seeing the manuscript? That's a tall order...
+Sem ver o manuscrito? É um pedido complicado...
+
+[HEADER 001C0136]
+#Just tell me one thing - what does the image of two men riding on the same horse suggest to you?
+Apenas me diga uma coisa. O que a imagem de dois homens montado no mesmo cavalo lhe sugere?
+
+[HEADER 001C0137]
+#The Knights Templar.
+Os Cavaleiros Templários.
+
+[HEADER 001C0138]
+#Does the Templar seal appear on this manuscript?
+O selo dos Templários aparece neste manuscrito?
+
+[HEADER 001C0139]
+#I'd love to see that for myself!
+Adoraria vê-lo com meus próprios olhos!
+
+[HEADER 001C013A]
+#What did you make of the manuscript?
+O que você concluiu do manuscrito?
+
+[HEADER 001C013B]
+#It dates from the time of the Crusades.
+Ele data da época das Cruzadas.
+
+[HEADER 001C013C]
+#We guessed that, from the Templar seal.
+Pensamos nisso também, por causa do selo dos Templários.
+
+[HEADER 001C013D]
+#It's a story in pictures, like a modern-day comic book.
+É uma história em imagens, como uma revista em quadrinhos moderna.
+
+[HEADER 001C013E]
+#What story does the manuscript tell?
+Que história o manuscrito conta?
+
+[HEADER 001C013F]
+#I don't know.
+Eu não sei.
+
+[HEADER 001C0140]
+#It was probably produced for the tourist market.
+Provavelmente ele foi feito para os turistas.
+
+[HEADER 001C0141]
+#Tourists!?
+Turistas?!
+
+[HEADER 001C0142]
+#Oh, oui! Pilgrims, in their thousands, on their way to Jerusalem.
+Oh, oui! Peregrinos, aos milhares, a caminho de Jerusalém.
+
+[HEADER 001C0143]
+#The tourist trade is nothing new, you know. It's been around for centuries.
+O comércio para turistas não é nenhuma novidade, sabe. Ele existe há séculos.
+
+[HEADER 001C0144]
+#Ever since Joshua made a packet selling souvenir bricks from the walls of Jericho.
+Desde que Josué fez fortuna vendendo tijolos das muralhas de Jericó como souvenir.
+
+[HEADER 001C0145]
+#Have you deciphered any of the images on the manuscript?
+Você decifrou alguma das imagens no manuscrito?
+
+[HEADER 001C0146]
+#There's very little I can be sure about.
+Há poucas coisas que eu posso ter certeza.
+
+[HEADER 001C0147]
+#The slaying of the bull could be a reference to Mithras.
+O sacrifício do touro pode ser uma referência a Mitras. 
+
+[HEADER 001C0148]
+#Who's he?
+Quem é ele?
+
+[HEADER 001C0149]
+#A Persian God. Almost as popular as Christ at one time...
+Um Deus persa. Quase tão popular quanto Cristo outrora...
+
+[HEADER 001C014A]
+#The only thing I can be sure of is the knight. He's Spanish.
+A única coisa que eu tenho certeza é sobre o cavaleiro. Ele é espanhol.
+
+[HEADER 001C014B]
+#How can you tell that?
+Como você sabe?
+
+[HEADER 001C014C]
+#The writing on the shield, the reference to `Ave Maria'...
+Os escritos no escudo, a referência à `Ave Maria'...
+
+[HEADER 001C014D]
+#No self respecting knight from northern Europe would have borne a coat of arms like that...
+Nenhum cavaleiro do norte da Europa que se desse ao respeito teria criado um brasão como aquele...
+
+[HEADER 001C014E]
+#Can you identify the Knight's coat of arms?
+Você pode identificar o brasão do cavaleiro?
+
+[HEADER 001C014F]
+#I already did, Georgie.
+Eu já fiz isso, Georgie.
+
+[HEADER 001C0150]
+#He's a member of the des Vasconcellos family - from the Costa Calida.
+Ele é um membro da família de Vasconcellos, de Costa Calida.
+
+[HEADER 001C0151]
+#Were they famous?
+Eles eram famosos?
+
+[HEADER 001C0152]
+#No. They're not mentioned after the fifteenth century.
+Não. Não há menção deles desde o século XV.
+
+[HEADER 001C0153]
+#Oh.
+Ah.
+
+[HEADER 001C0154]
+#The spotlight of history moved on. They're probably long dead.
+As atenções da história se moveram. Provavelmente estão mortos a tempos.
+
+[HEADER 001C0184]
+#Can you tell me anything about the Knights Templar?
+Você pode me falar algo sobre os Templários?
+
+[HEADER 001C0185]
+#I sure can, Georgie!
+Claro que sim, Georgie!
+
+[HEADER 001C0186]
+#Soldiers, diplomats, mercenaries, monks, bankers - you name it, the Templars fit the bill.
+Soldados, diplomatas, mercenários, monges, banqueiros; a escolha é sua. Os Templários davam conta do recado.
+
+[HEADER 001C0187]
+#The greatest fighting force in Christendom - the militia of Christ!
+O maior exército da Cristandade. A milícia de Cristo!
+
+[HEADER 001C0188]
+#Jeez!
+Eita!
+
+[HEADER 001C0189]
+#How did the Templars get their name?
+Como os Templários ganharam esse nome?
+
+[HEADER 001C018A]
+#From the building in which they set up their headquarters.
+Por causa da construção em que eles estabeleceram seu quartel-general.
+
+[HEADER 001C018B]
+#The King of Jerusalem gave them part of a mosque on the Temple Mount.
+O Rei de Jerusalém lhes deu parte de uma mesquita no Monte do Templo.
+
+[HEADER 001C018C]
+#It was said to have been the site of the original Temple of Solomon.
+Dizem que lá era o local do verdadeiro Templo de Salomão.
+
+[HEADER 001C018D]
+#The order became known first as the Knights of the Temple, and later the Knights Templar.
+A ordem então passou a ser, inicialmente, chamada de Cavaleiros do Templo, e mais tarde Cavaleiros Templários.
+
+[HEADER 001C018E]
+#You're a mine of information, André.
+Você é um poço de cultura, André.
+
+[HEADER 001C018F]
+#Glad to be of help, Georgie.
+Fico feliz em ajudar, Georgie.
+
+[HEADER 001C0190]
+#How come the Templars became so wealthy?
+Como os Templários ficaram tão abastados?
+
+[HEADER 001C0191]
+#There was a constant stream of new recruits to their ranks, many from noble families.
+Havia um constante fluxo de novos recrutas para suas fileiras, a maioria de famílias nobres.
+
+[HEADER 001C0192]
+#They were required to swear a sacred oath of poverty, chastity and obedience.
+Eles eram obrigados a prestar um sagrado juramento de pobreza, castidade e obediência.
+
+[HEADER 001C0193]
+#So, their money, goods and land were donated to the order.
+Então seus dinheiros, bens e terras eram doados para a ordem.
+
+[HEADER 001C0194]
+#The Templars soon held land in France, Scotland, England, Spain - most of Europe, in fact.
+Os Templários logo possuíram terras na França, Escócia, Inglaterra, Espanha; na verdade, em toda Europa.
+
+[HEADER 001C0195]
+#The Poor Knights of Christ became the wealthiest power in Christendom.
+Os Pobres Cavaleiros de Cristo se tornaram a força mais abastada da Cristandade.
+
+[HEADER 001C0199]
+#Is it true the treasure of the Knights Templar was never found?
+É verdade que o tesouro dos Templários nunca foi encontrado?
+
+[HEADER 001C019A]
+#Ah, who knows? So little knowledge of what really happened remains.
+Ah, quem sabe? Poucas informações do que realmente aconteceu restaram.
+
+[HEADER 001C019B]
+#Or if it does, the truth has never been made public.
+Ou, se foi encontrado, a verdade nunca foi levada a público.
+
+[HEADER 001C019C]
+#What do you mean by that?
+O que quer dizer com isso?
+
+[HEADER 001C019D]
+#The Templars have attained mythological status, like the King Arthur of the Britons.
+Os Templários possuíam uma mitologia envolta deles, algo como o Rei Arthur dos Bretãos.
+
+[HEADER 001C019E]
+#There are people even now who say the Templars still exist.
+Há pessoas que até dizem que os Templários ainda perduram.
+
+[HEADER 001C019F]
+#Do you think that's likely?
+Você acha que isso seja provável?
+
+[HEADER 001C01A0]
+#No, not for a minute.
+Não, nem pour un instant.
+
+[HEADER 001C015A]
+#The manuscript is being looked after by a friend.
+O manuscrito está sendo guardado por um amigo.
+
+[HEADER 001C015B]
+#In Paris?
+Em Paris?
+
+[HEADER 001C015C]
+#Yeah. Not far from here, in fact.
+Sim. Na verdade, não muito longe daqui.
+
+[HEADER 001C015D]
+#Well, just give me the address and I'll come round and take a look!
+Bem, então me dê o endereço que eu apareço por lá e dou uma olhada!
+
+[HEADER 001C015E]
+#I'm not so sure about that.
+Não tenho certeza disso.
+
+[HEADER 001C015F]
+#Maybe I should check with her first...
+Talvez eu deva consultá-la primeiro...
+
+[HEADER 001C0160]
+#A female friend?
+Uma amiga?
+
+[HEADER 001C0161]
+#Yeah. She's a woman.
+É. Ela é uma mulher.
+
+[HEADER 001C0164]
+#This friend who has the manuscript...
+Esta amiga que está com o manuscrito...
+
+[HEADER 001C0165]
+#Ah, oui. The anonymous girl friend.
+Ah, oui. A amiga anônima.
+
+[HEADER 001C0166]
+#She lives at three sixty-one, Rue Jarry.
+Ela mora no três-meia-um, Rue Jarry.
+
+[HEADER 001C0167]
+#Ah! I know it well.
+Ah! Sei onde é.
+
+[HEADER 001C0168]
+#I'll drop by just as soon as I can.
+Aparecerei por lá assim que eu puder.
+
+[HEADER 001C0120]
+#I think you ought to know that the tripod is going to be stolen.
+Acho que você tem de saber que aquele tripé será roubado.
+
+[HEADER 001C0121]
+#The Lochmarne tripod? No!
+O tripé de Lochmarne? Não!
+
+[HEADER 001C0122]
+#It's true. I can give you a description of the thieves...
+É verdade. Eu posso lhe dar uma descrição dos ladrões...
+
+[HEADER 001C0123]
+#Before the supposed event has taken place?
+Antes que o suposto evento aconteça?
+
+[HEADER 001C0124]
+#I heard them planning the raid.
+Eu ouvi eles planejando o roubo.
+
+[HEADER 001C0125]
+#They're wasting their time.
+Eles estão perdendo seu tempo.
+
+[HEADER 001C0126]
+#The tripod is protected by a state of the art alarm system...
+O tripé é protegido por um dos mais sofisticados sistemas de alarme...
+
+[HEADER 001C0127]
+#Well, don't say I didn't warn you.
+Bem, não diga que eu não avisei.
+
+[HEADER 001C0128]
+#Why don't you loan the tripod to me, for safe-keeping?
+Por que você não deixa o tripé comigo, por segurança?
+
+[HEADER 001C0129]
+#Because I'd never see it again.
+Porque eu nunca mais o veria de novo.
+
+[HEADER 001C012A]
+#Don't you trust me?
+Não confia em mim?
+
+[HEADER 001C012B]
+#It's not a question of trust, George.
+Não é uma questão de confiança, George.
+
+[HEADER 001C012C]
+#That tripod is hundreds of years old, and extremely fragile.
+Aquele tripé tem centenas de anos e é extremamente frágil.
+
+[HEADER 001C012D]
+#I get your point.
+Já entendi.
+
+[HEADER 001C016F]
+#While I was in Syria, I discovered a strange, pagan statue.
+Enquanto eu estava na Síria, descobri uma estranha estátua pagã.
+
+[HEADER 001C0170]
+#It was like a head with three bearded faces. Horrible!
+Era algo como uma cabeça com três faces barbudas. Horrível!
+
+[HEADER 001C0171]
+#That sounds as if it could be Baphomet - the idol described by the Templars!
+Soa como se fosse Baphomet, o ídolo descrito pelos Templários!
+
+[HEADER 001C0172]
+#The Poor Knights of Christ had an idol that looked like that?
+Os Pobres Cavaleiros de Cristo tinham um ídolo que se parecia com isso?
+
+[HEADER 001C0173]
+#Allegedly. The description of the idol came from the evidence extracted by the Inquisition.
+Supostamente. A descrição do ídolo surgiu através de uma evidência obtida pela Inquisição.
+
+[HEADER 001C0174]
+#Mind you, not one statue or idol was ever found on Templar property.
+Devo lembrar que nenhuma estátua ou ídolo foi encontrado em propriedade Templária.
+
+[HEADER 001C0175]
+#Until now, that is...
+Ou melhor, até agora...
+
+[HEADER 001C0176]
+#Just last month, a statue of Baphomet was unearthed - right here in Paris!
+Mês passado, uma estátua de Baphomet foi descoberta, bem aqui em Paris!
+
+[HEADER 001C0177]
+#Where?
+Onde?
+
+[HEADER 001C0178]
+#At the Institut Hermétique de Nerval.
+No Institut Hermétique de Nerval.
+
+[HEADER 001C017B]
+#The statue is beneath the foundations.
+A estátua estava debaixo das fundações.
+
+[HEADER 001C017C]
+#It was discovered by some workmen while renovating the building.
+Ela foi descoberta por um operário durante as reformas do prédio.
+
+[HEADER 001C017D]
+#Can you tell me any more about the statue of Baphomet?
+Você pode me falar mais sobre a estátua de Baphomet?
+
+[HEADER 001C017E]
+#It's a fearful image, even now... a bearded head.
+É uma imagem horripilante, até mesmo para os dias atuais... uma cabeça barbuda.
+
+[HEADER 001C017F]
+#The base of the statue is carved with Templar symbols.
+A base da estátua é esculpida com símbolos Templários.
+
+[HEADER 001C0180]
+#One of the workmen noticed a curious stain at the base.
+Um dos operários notou uma curiosa mancha na base.
+
+[HEADER 001C0181]
+#He claimed it looked like blood.
+Ele alegou que parecia com sangue.
+
+[HEADER 001C0182]
+#Blood?
+Sangue?
+
+[HEADER 001C0183]
+#That's right.
+Isso mesmo.
+
+[HEADER 001C0205]
+#What do you make of this tool?
+O que você acha desta ferramenta?
+
+[HEADER 001C0206]
+#Interesting. Where did you get it?
+Interessante. Onde a conseguiu?
+
+[HEADER 001C0207]
+#From a dig in Paris.
+Numa escavação em Paris.
+
+[HEADER 001C0208]
+#Vraiment? I didn't realize there were any excavations in progress in the City...
+Vraiment? Eu não sabia que havia escavações em progresso na cidade...
+
+[HEADER 001C0209]
+#Did I show you this tool?
+Eu já lhe mostrei essa ferramenta?
+
+[HEADER 001C020A]
+#Yes, you did - though I can't imagine why...
+Sim, apesar de eu não entender o por quê...
+
+[HEADER 001C020B]
+#Take a look at this nose, Lobineau.
+Dê uma olhada neste nariz, Lobineau.
+
+[HEADER 001C020C]
+#It really doesn't interest me, George.
+Eu realmente não tenho interesse nisso, George.
+
+[HEADER 001C020D]
+#Does the guy in this photograph look familiar to you?
+O homem nesta foto lhe parece familiar?
+
+[HEADER 001C020E]
+#No.
+Não.
+
+[HEADER 001C020F]
+#What do you make of this?
+O que você entende por isto?
+
+[HEADER 001C0210]
+#It's the biggest gemstone I've ever seen!
+É a maior gema que eu já vi em toda a minha vida!
+
+[HEADER 001C0211]
+#Where did you get it?
+Onde encontrou?
+
+[HEADER 001C0212]
+#From Professor Peagram's messenger boy.
+Com o mensageiro do Professor Peagram.
+
+[HEADER 001C0213]
+Peagram! Professor Nigel Peagram?
+
+[HEADER 001C0214]
+#He's in Ireland, investigating a Templar site, isn't he?
+Ele está na Irlanda, investigando uma terreno Templário, não é?
+
+[HEADER 001C0215]
+#He was - until he disappeared.
+Estava... até desaparecer.
+
+[HEADER 001C0216]
+#Did Peagram find this on his dig?
+O Peagram encontrou isso durante as escavações?
+
+[HEADER 001C0217]
+#Yeah. The site where this was found was a Templar castle.
+Sim. Foi encontrada dentro de um castelo Templário.
+
+[HEADER 001C0218]
+#Do you think it could be part of the Templar treasure?
+Você acha que ela pode ser parte do tesouro dos Templários?
+
+[HEADER 001C0219]
+#Oh, I shouldn't think so.
+Ah, creio que não.
+
+[HEADER 001C021A]
+#You're not one of those crazies who think the Templars still exist, are you?
+Você não é mais um daqueles malucos que acreditam que os Templários ainda existam, não é?
+
+[HEADER 001C021B]
+#Uh... well - I try to keep an open mind on the matter.
+Uh... bem, tento ter uma mente aberta sobre o assunto.
+
+[HEADER 001C021C]
+#Did I show you this gem?
+Eu já lhe mostrei esta gema?
+
+[HEADER 001C021D]
+#Yes, you did.
+Sim.
+
+[HEADER 001C021E]
+#What do you make of this ID card?
+O que você entende por este crachá?
+
+[HEADER 001C021F]
+#Nothing.
+Nada.
+
+[HEADER 001C0220]
+#What do you make of this cup, André?
+O que você entende por este copo, André?
+
+[HEADER 001C0221]
+#It's a fourteenth century communion vessel - Spanish probably.
+É uma taça de comunhão do século XIV. Provavelmente espanhola.
+
+[HEADER 001C0223]
+#Does this matchbook mean anything to you?
+Esta caixa de fosfóros significa alguma coisa para você?
+
+[HEADER 001C0224]
+#Alamut is the name of the place where the Hashshashin were based!
+Alamut é o nome do local onde os Hashshashin estabeleceram-se!
+
+[HEADER 001C0225]
+#Where is it?
+Onde fica isso?
+
+[HEADER 001C0226]
+#Somewhere in what used to be called Persia.
+Em algum lugar que costumava se chamar de Pérsia.
+
+[HEADER 001C0227]
+#I'm not too hot on modern geography, I'm afraid.
+Receio não ser tão bom com geografia moderna.
+
+[HEADER 001C0228]
+#The most recent map I have shows America as an English colony.
+O mapa mais recente que possuo mostra os Estados Unidos como colônia inglesa.
+
+[HEADER 001C0229]
+#Are you sure you don't know where Alamut is?
+Tem certeza de que não sabe onde fica Alamut?
+
+[HEADER 001C022A]
+#Positive.
+Positivo.
+
+[HEADER 001C022B]
+#Do you recognize this white powder, André?
+Você reconhece este pó branco, André?
+
+[HEADER 001C022C]
+#No.
+Não.
+
+[HEADER 001C022D]
+#I'd like to shake you by the hand, André...
+Eu gostaria de apertar sua mão, André...
+
+[HEADER 001C022E]
+#Not now, Georgie.
+Agora não, Georgie.
+
+[HEADER 001C022F]
+#What does this tissue mean to you?
+O que este lenço significa para você?
+
+[HEADER 001C0230]
+#Nothing!
+Nada!
+
+[HEADER 001C0231]
+#What does this ball mean to you?
+O que esta bola significa para você?
+
+[HEADER 001C0232]
+#It's a juggling ball! I love juggling!
+É uma bola de malabarista! Eu adoro malabaristas!
+
+[HEADER 001C0201]
+#Thanks for your help, André...
+Obrigado pela ajuda, André...
+
+[HEADER 001C0202]
+#You're welcome...
+De nada...
+
+[HEADER 001C0031]
+#You've left it very late, m'sieur!
+Você está indo muito tarde, m'sieur!
+
+[HEADER 001C0032]
+#Late? For what?
+Tarde? Para quê?
+
+[HEADER 001C0033]
+#Anything. I'm closing the museum soon.
+Nada. Vou fechar o museu em breve.
+
+[HEADER 001C0034]
+#You wouldn't like to get locked in, I can tell you. Not in this gallery.
+Você não iria gostar de ficar trancado aqui. Não nesta galeria.
+
+[HEADER 001C0035]
+#Why not?
+Por que não?
+
+[HEADER 001C0036]
+#It is haunted, m'sieur.
+Ela é assombrada, m'sieur.
+
+[HEADER 001C0037]
+#You don't believe in ghosts, surely?
+Você não acredita em fantasmas, certo?
+
+[HEADER 001C0038]
+#Oh, yes I do! Seven years ago a lad managed to hide in here.
+Ah, mas eu sim! Sete anos atrás um jovem conseguiu se esconder aqui.
+
+[HEADER 001C0039]
+#He'd made a bet with his friends, I suppose.
+Ele tinha feito uma aposta com os amigos, suponho.
+
+[HEADER 001C003A]
+#When I found him in the morning he was cold as ice and stiff as a board.
+Quando eu o encontrei pela manhã, ele estava frio como gelo e duro como madeira.
+
+[HEADER 001C003B]
+#What was the cause of death?
+Qual foi a causa da morte?
+
+[HEADER 001C003C]
+#They said it was a brain tumour.
+Disseram que havia sido um tumor cerebral.
+
+[HEADER 001C003D]
+#But on his face was a look of stark, desperate terror such as I've never seen before!
+Mas no seu rosto havia um olhar de completo desespero e terror que eu nunca tinha visto antes!
+
+[HEADER 001C003E]
+#Scary!
+Assustador!
+

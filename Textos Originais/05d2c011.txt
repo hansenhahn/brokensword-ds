@@ -1,0 +1,3258 @@
+[HEADER 00003020]
+Sean Fitzgerald is hiding something - but I can't figure out exactly what.
+
+[HEADER 0000302A]
+Try checking out his story with Liam Maguire.
+
+[HEADER 00003034]
+Each time Fitzgerald tells you something, check whether Maguire's version is the same. If not, challenge Fitzgerald until he panics and runs out.
+
+[HEADER 00003022]
+The gem fell into the cellar. How can I get down there?
+
+[HEADER 00003023]
+Maybe the grate opens from the other side.
+
+[HEADER 00003024]
+You need to persuade the barman to let you down.
+
+[HEADER 00003025]
+Pull the switch by the grate, then order a pint.
+
+[HEADER 00003036]
+The old poacher has some wire - but he's very protective of it.
+
+[HEADER 00003037]
+Ask the poacher about his wire.
+
+[HEADER 00003038]
+Occasionally the poacher puts the wire down.
+
+[HEADER 0000303A]
+Wait for the poacher to have one of his sneezing fits and then grab his piece of wire.
+
+[HEADER 00003069]
+The barman wants my help with the washer.
+
+[HEADER 0000306A]
+Something's wrong with the wiring. You need... some wire.
+
+[HEADER 0000306B]
+The fuse has probably blown. Replace the fuse in the plug with the wire. Now you can get access to the cellar.
+
+[HEADER 0000303E]
+The hay doesn't reach high enough!
+
+[HEADER 00003040]
+Climbing this wall is going to need more than hay.
+
+[HEADER 00003042]
+What do you have that could make a handy step?
+
+[HEADER 00003044]
+Put the lifting tool into the hole in the wall.
+
+[HEADER 00003048]
+This goat keeps knocking me over!
+
+[HEADER 00003052]
+If the goat's tether was to become ensnared...
+
+[HEADER 0000305C]
+What object could be used to trap the goat's tether?
+
+[HEADER 00003066]
+Pull the plough across to entangle the goat.
+
+[HEADER 00003070]
+I need some way to open this panel.
+
+[HEADER 0000307A]
+Having knocked the statue over, pick it back up - you will see there are some holes in the sand. Maybe those holes are the key to this problem.
+
+[HEADER 00003084]
+The holes - not sure what use they are.
+
+[HEADER 0000308E]
+You need to make a cast of the holes.
+
+[HEADER 00003098]
+Have you found the plaster of Paris on the right? Sprinkle it into the holes.
+
+[HEADER 000030A2]
+The plaster is in the holes, but I need some water.
+
+[HEADER 000030AC]
+There was a sink in the pub cellar, wasn't there?
+
+[HEADER 000030B6]
+You'll need something that can soak up water.
+
+[HEADER 000030C0]
+On the bar is a towel - grab that.
+
+[HEADER 000030CA]
+Soak the towel in water, then get back before it dries, and wring it out over the plaster.
+
+[HEADER 0014000F]
+It was a beer-stained piece of towelling.
+
+[HEADER 0014000D]
+The young red-haired guy was plainly nervous about something...
+
+[HEADER 001403EB]
+My name's George.
+
+[HEADER 001403EC]
+Pleased to meet you, mister.
+
+[HEADER 001403EF]
+My name's Fitzgerald.
+
+[HEADER 001403E7]
+Mister Fitzgerald?
+
+[HEADER 001403F3]
+What can you tell me about the castle?
+
+[HEADER 001403F4]
+There's nothing there, just an old ruin.
+
+[HEADER 001403F5]
+How old?
+
+[HEADER 001403F6]
+I really couldn't tell you.
+
+[HEADER 001403F7]
+Have you ever explored the castle yourself?
+
+[HEADER 001403F8]
+I used to play there sometimes, when I was a kid.
+
+[HEADER 001403F9]
+Then one of the littlun's fell off the wall, broke his head and died...
+
+[HEADER 001403FA]
+We didn't go there any more.
+
+[HEADER 001403FB]
+You haven't been up there recently?
+
+[HEADER 001403FC]
+No.
+
+[HEADER 00140406]
+Do you know Professor Peagram?
+
+[HEADER 00140407]
+He's the archaeologist, isn't he?
+
+[HEADER 00140408]
+That's right.
+
+[HEADER 0014040C]
+So where did Peagram go?
+
+[HEADER 0014040D]
+I don't know, I swear it.
+
+[HEADER 0014040E]
+He came to see me, early this morning. Said he was leaving.
+
+[HEADER 0014040F]
+He asked me to give this package to a guy called Marquet.
+
+[HEADER 00140410]
+Did you work at Professor Peagram's dig?
+
+[HEADER 00140411]
+Ha-ha! What gave you that idea?
+
+[HEADER 0014041B]
+Doyle told me you definitely worked at the dig.
+
+[HEADER 0014041C]
+He's seen you there. You might as well admit it.
+
+[HEADER 00140416]
+Maguire says he SAW you working at the dig...
+
+[HEADER 00140417]
+What's more, he saw you talking with Peagram.
+
+[HEADER 0014041A]
+I knew this would happen. I knew I'd get caught...
+
+[HEADER 001403DB]
+I need to talk to Professor Peagram, if he's still alive.
+
+[HEADER 001403DC]
+What do you mean? Is he in danger?
+
+[HEADER 001403DD]
+Yeah - you too, if I'm right.
+
+[HEADER 001403DE]
+You're not from the Social Security?
+
+[HEADER 001403DF]
+Hell, no. What makes you think that?
+
+[HEADER 001403E0]
+Well, I was claiming benefit at the same time I was working for Peagram.
+
+[HEADER 001403E1]
+I'm not in a position to make judgement, Sean.
+
+[HEADER 001403E2]
+That's between you and your conscience.
+
+[HEADER 001403E3]
+All I want is to talk to Peagram about the gem.
+
+[HEADER 001403E4]
+But he's not here!
+
+[HEADER 001403E5]
+I know that, but he left that package with you, didn't he?
+
+[HEADER 00140426]
+Show me what's in the package, Sean...
+
+[HEADER 00140427]
+I... I can't do that.
+
+[HEADER 00140428]
+Why not?
+
+[HEADER 00140429]
+I promised the Professor.
+
+[HEADER 0014042A]
+So what? You didn't have any qualms about your benefit scam...
+
+[HEADER 0014042B]
+...so where's the harm in taking a peek inside Peagram's package?
+
+[HEADER 0014042C]
+You don't know these people! I can't! I don't dare!
+
+[HEADER 0014042D]
+This is your last chance to show me the package, Fitzgerald.
+
+[HEADER 0014042E]
+I've been patient with you, but now it's time to kick ass.
+
+[HEADER 0014042F]
+But he'll kill me!
+
+[HEADER 00140430]
+Who will?
+
+[HEADER 00140431]
+The man from Paris - Jacques Marquet.
+
+[HEADER 00140432]
+Peagram told me if I gave him the package, unopened, I'd hear no more about it.
+
+[HEADER 00140433]
+But if I double crossed Marquet, I'd be dead.
+
+[HEADER 00140434]
+I'll deal with Jacques Marquet.
+
+[HEADER 00140435]
+Give the package to me.
+
+[HEADER 00140436]
+No! Why should I trust you?
+
+[HEADER 00140437]
+I don't know who to trust any more!
+
+[HEADER 00140438]
+I wish I'd never even HEARD of the Lochmarne gem!
+
+[HEADER 00140287]
+Hey! I just seen a big red...
+
+[HEADER 00140288]
+Get out of here, Maguire!
+
+[HEADER 00140289]
+Come back when you're old enough!
+
+[HEADER 0014028A]
+What's the lad howling about?
+
+[HEADER 0014028B]
+A big red sports car!
+
+[HEADER 0014028C]
+Sean Fitzgerald's been runned over!
+
+[HEADER 0014028D]
+Get OUT!
+
+[HEADER 0014028E]
+Noisy little tyke.
+
+[HEADER 0014028F]
+Maybe you should send out some medicinal brandy, Michael...
+
+[HEADER 00140290]
+Oh, yes! And who's going to pay for it?
+
+[HEADER 00140291]
+Not me!
+
+[HEADER 00140292]
+Me too, neither!
+
+[HEADER 00140423]
+Can I get you another drink?
+
+[HEADER 00140424]
+Oh - no, thank you! I shouldn't be drinking at all.
+
+[HEADER 00140425]
+I'm on tablets for my nerves. More than a pint and I'll pass out!
+
+[HEADER 0014043E]
+What does this red nose suggest to you?
+
+[HEADER 0014043F]
+Blood!
+
+[HEADER 00140440]
+Why is that?
+
+[HEADER 00140441]
+I used to bleed a lot when I was a kid.
+
+[HEADER 00140442]
+Every time there was a playground scrap I'd end up with a bloody nose.
+
+[HEADER 00140443]
+I wouldn't have minded, but I wasn't even involved in the scraps.
+
+[HEADER 00140447]
+Nothing.
+
+[HEADER 00140448]
+Do you recognize the man in this photograph?
+
+[HEADER 0014044B]
+No, I'm sure I don't know him.
+
+[HEADER 0014044E]
+Check out this pass...
+
+[HEADER 00140451]
+Thomas Moerlin... No, never heard of him.
+
+[HEADER 0014044C]
+What do you suppose this wire is used for?
+
+[HEADER 0014044D]
+How should I know?
+
+[HEADER 0014043B]
+Ever seen this towel before?
+
+[HEADER 0014043C]
+Doesn't it belong on the bar...?
+
+[HEADER 0014043D]
+Very observant, Fitzgerald.
+
+[HEADER 00140452]
+What do you think this tool is used for?
+
+[HEADER 00140453]
+Uh... something to do with horses?
+
+[HEADER 00140454]
+Wrong. It's for opening manhole covers.
+
+[HEADER 00140455]
+Oh. Really? Well, you learn something every day.
+
+[HEADER 00140458]
+Did I show you this tool?
+
+[HEADER 00140459]
+Yes, you did.
+
+[HEADER 0014045A]
+Does this matchbook mean anything to you?
+
+[HEADER 0014045B]
+No.
+
+[HEADER 0014045C]
+Shake my hand.
+
+[HEADER 0014045D]
+It's a trick, isn't it?
+
+[HEADER 0014045E]
+Dammit, you're right. I can't seem to fool anyone...
+
+[HEADER 0014045F]
+What does this tissue suggest to you?
+
+[HEADER 00140460]
+Nothing...
+
+[HEADER 0014043A]
+See you later...
+
+[HEADER 00140009]
+The guy sat in the corner as if he was a permanent fixture.
+
+[HEADER 0014000A]
+I'd been taught not to judge people by their appearance or their clothes or the length of their hair...
+
+[HEADER 0014000B]
+Nobody ever said anything about runny noses.
+
+[HEADER 0014035C]
+Hi there, old timer!
+
+[HEADER 0014035E]
+What?
+
+[HEADER 0014035F]
+Nasty cold you've got there!
+
+[HEADER 00140360]
+As soon as the words left my lips I regretted them.
+
+[HEADER 00140361]
+Is there such a thing as a cold which isn't nasty?
+
+[HEADER 00140362]
+I put the question to Father Mahoney.
+
+[HEADER 00140363]
+Father, says I, why were we born to suffer snot?
+
+[HEADER 00140364]
+What did he say?
+
+[HEADER 00140365]
+He said it's my reward for being out all night like a sinner.
+
+[HEADER 00140366]
+Pious prig.
+
+[HEADER 00140367]
+Anyway - this is no ordinary cold - 'tis the Hay Fever.
+
+[HEADER 00140368]
+Pollinosis?
+
+[HEADER 00140369]
+Thank you. You're not a policeman, are you?
+
+[HEADER 0014036A]
+Excuse me?
+
+[HEADER 0014036B]
+Police. No - I'd know it if you were...
+
+[HEADER 0014035D]
+Hello, again...
+
+[HEADER 001403C5]
+Here - this wire belongs to you.
+
+[HEADER 001403C6]
+Oh, no. Never saw it before, no.
+
+[HEADER 0014039E]
+What's that you're making?
+
+[HEADER 0014039F]
+It's a necklace, me buko.
+
+[HEADER 001403A0]
+Oh, sure. Made out of steel wire?
+
+[HEADER 001403A1]
+Heh-heh! That's right - a necklace for my pretty one!
+
+[HEADER 001403A2]
+When my little lover feels it round her slender neck she'll be mine, all mine!
+
+[HEADER 001403A3]
+HEH-HEH-HEH-HEH!
+
+[HEADER 001403A4]
+If I was a woman I wouldn't think much of a wire necklace...
+
+[HEADER 001403A5]
+It's not made for a woman!
+
+[HEADER 001403A6]
+I've got my sights on tastier dishes than women!
+
+[HEADER 001403A7]
+Flesh as smooth and tender as a maiden's!
+
+[HEADER 001403A8]
+Bones as soft and white as a new-born babe's!
+
+[HEADER 001403A9]
+Rabbit, lad. That's what gets my juices flowin'!
+
+[HEADER 001403AA]
+HEH-HEH-HEH-HEH!
+
+[HEADER 001403AB]
+Ah, so you're making snares to trap rabbits.
+
+[HEADER 001403AC]
+That's right. Do you have a problem with that?
+
+[HEADER 001403AD]
+Damned right I do! Isn't it painful?
+
+[HEADER 001403AE]
+Only if I get my fingers caught.
+
+[HEADER 001403AF]
+I'm talking about the rabbits! Do they feel much pain?
+
+[HEADER 001403B0]
+You bet!
+
+[HEADER 001403B1]
+HEH-HEH-HEH-HEH!
+
+[HEADER 0014036D]
+Can I buy you a beer?
+
+[HEADER 0014036E]
+Very kind, I'm sure, but I don't drink the stuff Leary sells.
+
+[HEADER 0014036F]
+What's wrong with it?
+
+[HEADER 00140370]
+I've seen what it can do.
+
+[HEADER 00140377]
+Can you tell me how to get into the castle?
+
+[HEADER 00140378]
+Don't even think about it, me buko. Lochmarne castle... is haunted!
+
+[HEADER 00140379]
+That's what the kid outside told me, but I don't believe it!
+
+[HEADER 0014037A]
+Then you're a fool.
+
+[HEADER 0014037B]
+Ghosts don't bother me. I still want to visit the castle.
+
+[HEADER 0014037C]
+You can't. It's not open to the public.
+
+[HEADER 0014037D]
+There's no-one around to stop me, is there?
+
+[HEADER 0014037E]
+That's right. Nothing human, anyhow...
+
+[HEADER 00140390]
+Have you ever seen the ghost?
+
+[HEADER 00140391]
+To be sure - with me very own eyes!
+
+[HEADER 00140392]
+Can you describe the ghost?
+
+[HEADER 00140393]
+It was horrible! A wee stunted beast  - long beak, straggly, flappy wings...
+
+[HEADER 00140394]
+Are you sure it wasn't a wild animal - a rabbit or a... skunk, or something?
+
+[HEADER 00140395]
+Skunk? In Lochmarne? That'll be the day...
+
+[HEADER 00140396]
+No, that was a ghost to be sure.
+
+[HEADER 00140397]
+I think I know what you saw on the castle wall...
+
+[HEADER 00140398]
+I know what I saw.
+
+[HEADER 00140399]
+I don't think so. It was the kid, Maguire.
+
+[HEADER 0014039A]
+What?!
+
+[HEADER 0014039B]
+He was up on the wall last Tuesday night.
+
+[HEADER 0014039C]
+He thought YOU were the Phantom of Lochmarne!
+
+[HEADER 0014039D]
+Oh.
+
+[HEADER 0014037F]
+Do you know Peagram, the archaeologist?
+
+[HEADER 00140380]
+That's the scrawny fella who was pokin' around at the castle, isn't it?
+
+[HEADER 00140381]
+No, I don't know him.
+
+[HEADER 00140384]
+I'm looking for Sean Fitzgerald... have you seen him?
+
+[HEADER 00140385]
+Never heard o' him!
+
+[HEADER 00140386]
+Don't you come from 'round here?.
+
+[HEADER 00140387]
+None o' your business. I didn't ask where you come from, did I?
+
+[HEADER 00140388]
+I'm from California.
+
+[HEADER 00140389]
+That's your problem.
+
+[HEADER 0014038A]
+Did you ever see Fitzgerald at Peagram's dig?
+
+[HEADER 0014038B]
+I never heard of either of 'em.
+
+[HEADER 001403B3]
+What do you think of this flashlight?
+
+[HEADER 001403B4]
+Very useful.
+
+[HEADER 001403B5]
+That could be very handy in the dark.
+
+[HEADER 001403B6]
+How much do you want for it?
+
+[HEADER 001403B7]
+It's not for sale. It belongs to Leary.
+
+[HEADER 001403B8]
+Did I show you this flashlight?
+
+[HEADER 001403B9]
+Yes, you did.
+
+[HEADER 001403BA]
+Could you use this towel?
+
+[HEADER 001403BB]
+I could, but it wouldn't be much use for anything else!
+
+[HEADER 001403BC]
+What does this red nose mean to you?
+
+[HEADER 001403C0]
+Nothin'.
+
+[HEADER 001403C1]
+Do you recognize the man in this photograph?
+
+[HEADER 001403C4]
+I can't tell without my glasses.
+
+[HEADER 001403C7]
+What does this gem mean to you?
+
+[HEADER 001403C8]
+Well, well - would you look at that. Pretty.
+
+[HEADER 001403C9]
+Do you recognize it?
+
+[HEADER 001403CA]
+No.
+
+[HEADER 001403CB]
+Take a look at this ID card...
+
+[HEADER 001403CF]
+I don't know anythin' about it.
+
+[HEADER 001403D0]
+Can you identify this tool?
+
+[HEADER 001403D1]
+No.
+
+[HEADER 001403D2]
+What does this matchbook mean to you?
+
+[HEADER 001403D3]
+Nothing. Go away and stop bothering me.
+
+[HEADER 001403D4]
+What do you make of this white powder...?
+
+[HEADER 001403D5]
+Arrrgh!
+
+[HEADER 001403D6]
+Hay fever!
+
+[HEADER 001403D7]
+Hey! Would you like to shake my, unh... No, on second thought, forget it.
+
+[HEADER 001403D8]
+You could make use of this tissue...
+
+[HEADER 001403D9]
+Never use 'em. Those things are unhygienic.
+
+[HEADER 001403B2]
+See you later...
+
+[HEADER 00130006]
+The plastic cover had been smashed and broken away, revealing a switch.
+
+[HEADER 00130005]
+It was a featureless plastic box, firmly attached to the wall of the building.
+
+[HEADER 00130008]
+I tugged at the plastic cover, but it didn't move.
+
+[HEADER 00130009]
+I pushed the switch down, but in doing so it snapped off in my hand.
+
+[HEADER 0013000A]
+It was impossible to return the switch to its original position.
+
+[HEADER 00130003]
+The lad was doing his best to express his adolescent aggression.
+
+[HEADER 00130004]
+His effort was somewhat diminished by the fringe of milk on his lightly feathered upper lip.
+
+[HEADER 0013002A]
+Hi there!
+
+[HEADER 0013002C]
+What?
+
+[HEADER 0013002D]
+What's your name, kid?
+
+[HEADER 0013002E]
+Who are you callin' kid? Who the hell are you?
+
+[HEADER 0013002F]
+I'm George Stobbart, and I'm with the good guys.
+
+[HEADER 00130030]
+You're a head case, mister!
+
+[HEADER 00130031]
+A few sandwiches short of a picnic!!
+
+[HEADER 00130032]
+Rosso's the name - Murder's my game.
+
+[HEADER 00130033]
+You a detective?
+
+[HEADER 00130034]
+Let's just say I'm here to find the truth.
+
+[HEADER 00130035]
+Cool! Just like on the telly!
+
+[HEADER 00130036]
+Cut the crap and tell me your name.
+
+[HEADER 00130037]
+Liam Maguire.
+
+[HEADER 00130038]
+What are you doing hanging around the bar, Maguire?
+
+[HEADER 00130039]
+I'm on the run. From me dad.
+
+[HEADER 0013003A]
+Why? Did you do something bad?
+
+[HEADER 0013003B]
+I ain't done nothin', boss!
+
+[HEADER 0013003C]
+You can tell me, kid. Is it your dad?
+
+[HEADER 0013003D]
+Oh, Sir - he drinks! Every last penny - down his evil throat.
+
+[HEADER 0013003E]
+An' there's me poor old mother - bed-ridden an' dyin' o' presumption.
+
+[HEADER 0013003F]
+I tried to buy her medicine; chopped firewood for Father Mahoney 'til me fingers bled.
+
+[HEADER 00130040]
+The old skinflint cheated me too, but I took the pennies he gave me back home.
+
+[HEADER 00130041]
+Look ma! says I, See what your darlin' son has earnt with his own sweat an' blood!
+
+[HEADER 00130042]
+When suddenly me dad appears an' grabs the loot.
+
+[HEADER 00130043]
+I'm off to Dublin, heavy drinkin', says he. Watch out till I get back!
+
+[HEADER 00130044]
+That's why I runned away.
+
+[HEADER 00130045]
+Something in the grin on his face told me he wasn't being strictly truthful.
+
+[HEADER 00130046]
+Compared to him, Huckleberry Finn was a candidate for altar boy of the year.
+
+[HEADER 0013002B]
+Hey, Maguire!
+
+[HEADER 00130084]
+Do you know a man called Peagram?
+
+[HEADER 00130085]
+Can you describe him like on the telly in the cop shows?
+
+[HEADER 00130086]
+He's an English archaeologist.
+
+[HEADER 00130087]
+I know the man you mean if he's the one.
+
+[HEADER 00130088]
+Can you tell me where I'd find Peagram?
+
+[HEADER 00130089]
+No, I can't cos' he's not here now, but if I sees him I'll ask him.
+
+[HEADER 0013008A]
+Do you know what Peagram was doing in the castle?
+
+[HEADER 0013008B]
+Diggin' for buried treasure! Jewels an' gold an' skeletons, like in the films.
+
+[HEADER 00130092]
+Do you know anything about Peagram's dig?
+
+[HEADER 00130093]
+He wouldn't let me anywhere near it!
+
+[HEADER 00130094]
+I offered t'help, but he chased me off!
+
+[HEADER 00130095]
+I didn't want t'see his smelly old hole anyhow.
+
+[HEADER 00130096]
+Did anyone from the village work at the dig?
+
+[HEADER 00130097]
+Peagram brought some students and bums with him.
+
+[HEADER 00130098]
+He reckoned no-one in Lochmarne would know what t' look for.
+
+[HEADER 00130099]
+The only local guy who worked for him was Sean Fitzgerald.
+
+[HEADER 0013009A]
+Fitzgerald says he's never been anywhere near the dig!
+
+[HEADER 0013009B]
+He's havin' you on, mister!
+
+[HEADER 0013009C]
+What does this Fitzgerald guy look like?
+
+[HEADER 0013009D]
+Big head, big ears, an' face irons.
+
+[HEADER 0013009E]
+What?
+
+[HEADER 0013009F]
+Y'know - speccy-tacles. Glasses. He's blind as a bat without 'em.
+
+[HEADER 001300A0]
+Are you sure Fitzgerald worked at the dig?
+
+[HEADER 001300A1]
+Oh, yes - it was him all right. Would I tell a lie?
+
+[HEADER 001300A2]
+Well, he denies it.
+
+[HEADER 001300A3]
+I saw them together only last night!
+
+[HEADER 001300A4]
+I wish you'd told me that sooner! What were they doing?
+
+[HEADER 001300A5]
+Peagram gave Fitzy a box. He didn't look too happy about it.
+
+[HEADER 001300A6]
+I knew it! But how am I going to persuade him to part with it?
+
+[HEADER 001300A7]
+Break his fingers!
+
+[HEADER 001300A8]
+Nah, I couldn't do that.
+
+[HEADER 001300A9]
+I could.
+
+[HEADER 001300AA]
+Thanks for the offer, kid, but I'll try a more subtle approach.
+
+[HEADER 001300AB]
+Chinese burns?
+
+[HEADER 00130071]
+What can you tell me about the castle, Maguire?
+
+[HEADER 00130072]
+What do you want to know?
+
+[HEADER 00130073]
+Well... can I get inside?
+
+[HEADER 00130074]
+No - it's locked up.
+
+[HEADER 00130075]
+Does anyone live there?
+
+[HEADER 00130076]
+No.
+
+[HEADER 00130077]
+Only...
+
+[HEADER 00130078]
+What?
+
+[HEADER 00130079]
+Oh, nothin'...
+
+[HEADER 0013007A]
+You know something about the castle you're not telling, don't you?
+
+[HEADER 0013007B]
+No...
+
+[HEADER 0013007C]
+What is it you're covering up? Is it something you're scared of?
+
+[HEADER 0013007D]
+I ain't scared of nothin'.
+
+[HEADER 0013007E]
+I'll give you one last chance to tell me about the castle...
+
+[HEADER 0013007F]
+Oh, yeah? An' what if I don't?
+
+[HEADER 00130080]
+Then I'm taking you back to school.
+
+[HEADER 00130081]
+Oh.
+
+[HEADER 00130082]
+There's a ghost.
+
+[HEADER 00130083]
+It's called the Phantom o' Lochmarne!
+
+[HEADER 00130049]
+You're not telling me you believe in ghosts, are you?
+
+[HEADER 0013004A]
+Mister, I seen it with me very own eyes!
+
+[HEADER 0013004B]
+Last Tuesday night I went up to see what that dig was about.
+
+[HEADER 0013004C]
+I just reached the top o' the wall when I hears this awful noise!
+
+[HEADER 0013004D]
+What sort of noise?
+
+[HEADER 0013004E]
+A horrible snufflin' and snortin' - like O'Brien's pig, only wurst.
+
+[HEADER 0013004F]
+It was comin' from inside the castle!
+
+[HEADER 00130050]
+Did you find out what was making the noise in the castle?
+
+[HEADER 00130051]
+No fear! I just sat dere on the wall like Humpy Dumpy.
+
+[HEADER 00130052]
+The moon was cracked an' greasy like an old dinner plate.
+
+[HEADER 00130053]
+The yard was full o'shadows that could be hidin' anyting.
+
+[HEADER 00130054]
+I would've gone home, but me legs had lost their stuffin'!
+
+[HEADER 00130055]
+Did you get to see the ghost?
+
+[HEADER 00130056]
+Indeed I did, and a fearsome sight it is too...!
+
+[HEADER 00130057]
+I sat on me arse, waited while the moon went down, den out it comes from the shadows...
+
+[HEADER 00130058]
+All gray an' tattered an' hunched over like an old bent willow.
+
+[HEADER 00130059]
+Then I hears this splutterin' an' splashin' an' a horrible laughter in the dark.
+
+[HEADER 0013005A]
+I was so scared - why, I fell off the bloody wall!
+
+[HEADER 0013005F]
+I'm sure there's a rational explanation for what you saw at the castle.
+
+[HEADER 00130060]
+There is - the bloody place is haunted.
+
+[HEADER 00130065]
+Have you seen a guy dressed as a clown?
+
+[HEADER 00130066]
+Here in Lochmarne? They all dress like clowns.
+
+[HEADER 00130067]
+The man I'm looking for is a dangerous psychotic.
+
+[HEADER 00130068]
+Jaysus! It's just like that film I saw...
+
+[HEADER 00130069]
+There's dis clown, see - an' he's after this kid who saw him kill a guy.
+
+[HEADER 0013006A]
+He tries to warn the sheriff, only no-one believes him.
+
+[HEADER 0013006B]
+Then while he's in the tub the clown cuts him up with a chain-saw...
+
+[HEADER 0013006C]
+My God! That doesn't sound suitable for a kid like you!
+
+[HEADER 0013006D]
+Who are you callin' a kid? I'm twenty-five!
+
+[HEADER 0013006E]
+Yea right! You're not a day over fourteen!
+
+[HEADER 0013006F]
+Oh, no - it's twenty-five dat I am. Married, with a car and three kids.
+
+[HEADER 00130070]
+Ten kids, if you count the wife's...
+
+[HEADER 001300B8]
+Did this Pixie have a scar on his cheek?
+
+[HEADER 001300B9]
+I coudn't see. He was wearin' a stupid mask.
+
+[HEADER 001300BA]
+Are you a special agent?
+
+[HEADER 001300BB]
+Sorry to disappoint you, kid, but I'm not.
+
+[HEADER 001300BC]
+I'm just an ordinary guy caught up in a whirlpool of intrigue.
+
+[HEADER 001300BD]
+And you're drunk.
+
+[HEADER 001300BE]
+Not so.
+
+[HEADER 001300BF]
+Y'are! You've bin drinkin' mucky beer in the boozer!
+
+[HEADER 001300C0]
+Only a few glasses...
+
+[HEADER 001300B6]
+Did Fitzgerald drop anything when he was hit?
+
+[HEADER 001300B7]
+I didn't see. It all happened so fast!
+
+[HEADER 00001E32]
+Maybe the package fell somewhere out of sight...
+
+[HEADER 001300C1]
+Did you get the registration of the car that hit Fitzgerald?
+
+[HEADER 001300C2]
+Ah, no - there were too many numbers to remember.
+
+[HEADER 001300C3]
+But it had a sticker - with a fish on it.
+
+[HEADER 001300C4]
+A whale? That's not going to help me trace it!
+
+[HEADER 001300C5]
+There must be more cars with save the whale stickers than there are whales in the ocean!
+
+[HEADER 001300C6]
+That was no whale, mister. It was more like a trout!
+
+[HEADER 001300C7]
+I had a feeling he was making fun of me, but I wasn't about to take the bait.
+
+[HEADER 001300CA]
+What do you think of my flashlight?
+
+[HEADER 001300CB]
+It's a torch. That's what we call it on this side of the Atlantic.
+
+[HEADER 001300CC]
+What do you make of this, kid?
+
+[HEADER 001300CD]
+Hey - that's one of Leary's towels! He'll skin you alive!
+
+[HEADER 001300CE]
+That old windbag doesn't scare me. Anyhow - I'm only borrowing it.
+
+[HEADER 001300CF]
+You're pretty cool, mister - for an old guy.
+
+[HEADER 001300D0]
+Have you ever seen anyone wearing one of these?
+
+[HEADER 001300D1]
+Sure! Rudolph the Red-Nosed Reindeer!
+
+[HEADER 001300D2]
+It's a clown's nose. I was almost killed by the guy who wore it.
+
+[HEADER 001300D3]
+That belongs t' the killer clown you're lookin' for!
+
+[HEADER 001300D4]
+That's right.
+
+[HEADER 001300D5]
+Can I have it?
+
+[HEADER 001300D6]
+Sorry - I'm keeping this as evidence.
+
+[HEADER 001300D7]
+You should have told the cops.
+
+[HEADER 001300D8]
+I did. They weren't interested.
+
+[HEADER 001300D9]
+You should run tests on that, mister.
+
+[HEADER 001300DA]
+You could identify the murderer withe a sample of his snot.
+
+[HEADER 001300DB]
+Yeuch! I don't think so.
+
+[HEADER 001300DC]
+No.
+
+[HEADER 001300DD]
+Have you ever seen this man before?
+
+[HEADER 001300DE]
+What a slimy character! No - I never seed him.
+
+[HEADER 001300DF]
+What do you think this wire could be used for?
+
+[HEADER 001300E0]
+Stealin' cars!
+
+[HEADER 001300E1]
+There's only one problem...
+
+[HEADER 001300E2]
+The local policeman?
+
+[HEADER 001300E3]
+No - nobody in Lochmarne has got a car.
+
+[HEADER 001300E4]
+Want a closer look at the gem, Maguire?
+
+[HEADER 001300E6]
+You'd better hide that, mister.
+
+[HEADER 001300E7]
+What if the pixie comes back? You'll be in trouble then!
+
+[HEADER 001300E8]
+I don't believe in pixis. Underneath that costume is a psychotic killer.
+
+[HEADER 001300E9]
+Smart!
+
+[HEADER 001300E5]
+No, I don't. Jewels is for girls.
+
+[HEADER 001300EC]
+Ever heard of Thomas Moerlin? Or the Grüber Electronics Corporation?
+
+[HEADER 001300ED]
+No.
+
+[HEADER 001300EE]
+What do you think this tool is used for?
+
+[HEADER 001300EF]
+Liftin' drains.
+
+[HEADER 001300F0]
+Dead right! How did you know that?
+
+[HEADER 001300F1]
+Work experience course at school.
+
+[HEADER 001300F2]
+They gives me a choice o' goin' down the drains or up the chimney.
+
+[HEADER 001300F3]
+You're kidding!
+
+[HEADER 001300F8]
+I told you - liftin' drains.
+
+[HEADER 001300F9]
+Do you recognize this matchbook, Maguire?
+
+[HEADER 001300FA]
+No, Sir. I never seed it before in me life.
+
+[HEADER 001300FB]
+Do you know what this white powder is?
+
+[HEADER 001300FC]
+No.
+
+[HEADER 001300FD]
+Give me your hand...
+
+[HEADER 001300FE]
+Get lost!
+
+[HEADER 001300FF]
+Aw, c'mon. I just want to show you a little trick...
+
+[HEADER 00130100]
+No way, mister. I don't do tricks.
+
+[HEADER 00130101]
+Father Mahoney told me I'd burn in hell if I did.
+
+[HEADER 00130102]
+I just want to shake your hand, that's all.
+
+[HEADER 00130107]
+No way!
+
+[HEADER 00130108]
+What does this tissue mean to you?
+
+[HEADER 00130109]
+Nothin'.
+
+[HEADER 001300C8]
+See you later, kid...
+
+[HEADER 001300C9]
+Okay, mister.
+
+[HEADER 00140028]
+It was a short piece of wire, twisted into a rough circle.
+
+[HEADER 00140029]
+As I stared at the circle of wire, the old man snatched it away and put it in his coat.
+
+[HEADER 0014002B]
+As soon as the old guy looked away I grabbed his piece of wire.
+
+[HEADER 0014002A]
+Almost as if he'd sensed my intentions, the old derelict snatched the wire from the table.
+
+[HEADER 00140353]
+Will you leave it alone, man?
+
+[HEADER 00140354]
+Look, I know how it seems, but my curiosity got the better of me.
+
+[HEADER 00140356]
+Keep your hands to yourself, mister!
+
+[HEADER 00140357]
+Hey, I only wanted to...
+
+[HEADER 00140358]
+Can't! Hands off!
+
+[HEADER 00140359]
+Oh no you don't!
+
+[HEADER 0014035A]
+Okay! I'm sorry!
+
+[HEADER 00140352]
+Leave it!
+
+[HEADER 00140293]
+Hello, there! My name's George Stobbart.
+
+[HEADER 00140295]
+Pleased to meet you I'm sure. I'm O'Brien. Can I help you?
+
+[HEADER 00140294]
+Excuse me, mister O'Brien...
+
+[HEADER 00140297]
+Hello, there. What now?
+
+[HEADER 0014029C]
+What can you tell me about the castle, Mr O'Brien?
+
+[HEADER 0014029F]
+It's a fine sight now, isn't it?
+
+[HEADER 001402A0]
+Dates back to the tenth century, you know.
+
+[HEADER 001402A1]
+Most of the existing building was added much later, of course.
+
+[HEADER 001402A2]
+Are the ruins open to the public?
+
+[HEADER 001402A3]
+Oh, no - it's much too dangerous.
+
+[HEADER 001402A4]
+Anyway there's nothing of interest remaining.
+
+[HEADER 001402B3]
+How can I get into the castle?
+
+[HEADER 001402B6]
+Listen, it's closed, locked, barred and bolted.
+
+[HEADER 001402B7]
+The castle is as impenetrable as the walls of Troy.
+
+[HEADER 001402B8]
+So I can't get in, then?
+
+[HEADER 001402B9]
+My, you're bright for a journalist!
+
+[HEADER 001402B4]
+Those walls were built specifically to stop people getting in, Mr Stobbart.
+
+[HEADER 001402B5]
+But I dare say you'll find a way, if you've the will...
+
+[HEADER 001402A8]
+Can you tell me about the tripod which was found at the castle?
+
+[HEADER 001402A9]
+Now there's a bone of contention and controversy.
+
+[HEADER 001402AA]
+It was dug up by an Englishman of the archaeological persuasion.
+
+[HEADER 001402AD]
+Who was this Englishman?
+
+[HEADER 001402AE]
+Professor Peagram. The same man who dug up the gem...
+
+[HEADER 001402D3]
+Do you know where I can find Peagram?
+
+[HEADER 001402D4]
+You're too late to meet that fella.
+
+[HEADER 001402D5]
+Is he dead?
+
+[HEADER 001402D6]
+Not that - but he's gone from the village.
+
+[HEADER 001402D7]
+A sore point with our esteemed host, I might add!
+
+[HEADER 001402DC]
+Do you know where Peagram has gone?
+
+[HEADER 001402DF]
+I'm sorry but I don't.
+
+[HEADER 001402E0]
+He upped anchor in the dark and shipped out before the dawn.
+
+[HEADER 001402E1]
+Why did he do that?
+
+[HEADER 001402E2]
+Who knows? A guilty conscience, or a secret assignation...
+
+[HEADER 001402E3]
+Whatever the reason he'll not be missed in Lochmarne.
+
+[HEADER 001402E4]
+Maybe now the fuss about the gem has died down we can get back to normal.
+
+[HEADER 001402E5]
+Why has Peagram's departure upset the landlord?
+
+[HEADER 001402E9]
+Well, why don't you ask him yourself, mister Ace-reporter?
+
+[HEADER 001402E6]
+He's lost a paying guest, that's why.
+
+[HEADER 001402E7]
+More than that - there's the question of an unsettled bill.
+
+[HEADER 001402E8]
+Poor Michael's seen red over the business, and I don't blame him.
+
+[HEADER 001402EA]
+Can you tell me more about the landlord?
+
+[HEADER 001402EB]
+Mick Leary? He's what you call a would-be sophisticate.
+
+[HEADER 001402EC]
+The trouble is, his idea of sophistication extends as far as putting paper in the lavatory.
+
+[HEADER 001402ED]
+I never worked out why he did dat.. It's much too dark in dere to read.
+
+[HEADER 001402EE]
+That's true. Have you ever run your hand over the back of the door?
+
+[HEADER 001402EF]
+The graffiti is written in Braille.
+
+[HEADER 001402C1]
+What can you tell me about the gem which Peagram found?
+
+[HEADER 001402C2]
+Now there is a gem which should never have been taken.
+
+[HEADER 001402C3]
+A man would have to be full of greed to covet that stone.
+
+[HEADER 001402C4]
+What's your interest in the jewel? You're not a reporter, are you?
+
+[HEADER 001402C5]
+Yes, that's right.
+
+[HEADER 001402C6]
+Another bloody news hound...! Well, you're wasting your time here, boy.
+
+[HEADER 001402C7]
+You'll find the people of Lochmarne are a tight-lipped and cautious lot.
+
+[HEADER 001402C8]
+Why? Have you got something to hide?
+
+[HEADER 001402C9]
+It's just that we don't like to wash our dirty laundry in public.
+
+[HEADER 001402CA]
+Oh, no.
+
+[HEADER 001402CB]
+Thank the lord for that.
+
+[HEADER 00140308]
+I have a suspicion that Fitzgerald might have been given something by Peagram...
+
+[HEADER 00140309]
+I thought he acted strangely!
+
+[HEADER 0014030A]
+I'm talking about the gem. It was something he said...
+
+[HEADER 0014030B]
+Were you not speaking to him when he ran out of the bar?
+
+[HEADER 0014030C]
+I only asked him about the gem...
+
+[HEADER 0014030D]
+Fitzgerald has troubles enough already.
+
+[HEADER 0014030E]
+He's a nervous, unstable man at the best of times.
+
+[HEADER 0014030F]
+The last thing he needs is to be harassed by a hack newsboy!
+
+[HEADER 00140310]
+Yeah, sure - just talking, that's all...
+
+[HEADER 001402FB]
+Don't you think we should go help Fitzgerald?
+
+[HEADER 00140304]
+I don't wish to comment on it - not in front of a hack like you.
+
+[HEADER 00140305]
+God knows how you'll twist the tale of the poor lad's mishap!
+
+[HEADER 00140306]
+What happened to him? What's he twisted?
+
+[HEADER 00140307]
+Hush, Pat! This devil will steal the words out of your gob while they're still steaming!
+
+[HEADER 001402FC]
+If he's been hit by a car, he could be injured...
+
+[HEADER 001402FD]
+It's high time there was stiffer legislation against careless motorists.
+
+[HEADER 001402FE]
+What we need is a by-pass around d' village.
+
+[HEADER 001402FF]
+One o' dem ring roads - like d' M-twenty-five!
+
+[HEADER 001402F1]
+Do you know Sean Fitzgerald?
+
+[HEADER 001402F9]
+I'm not telling you anything, mister.
+
+[HEADER 001402FA]
+You can dig up your own dirt!
+
+[HEADER 001402F2]
+Yes, I do.
+
+[HEADER 001402F3]
+What do you want with him?
+
+[HEADER 001402F4]
+I want to talk to him about working at the dig.
+
+[HEADER 001402F5]
+What makes you think he did?
+
+[HEADER 001402F6]
+The boy outside told me.
+
+[HEADER 001402F7]
+I can't imagine anyone employing Sean Fitzgerald on a dig.
+
+[HEADER 001402F8]
+He wouldn't know a post hole from his elbow!
+
+[HEADER 001402BA]
+Have you heard of the Phantom?
+
+[HEADER 001402BB]
+More than that - I've seen it!
+
+[HEADER 001402BC]
+And let me tell you - it's a dreadful spectacle!
+
+[HEADER 001402BD]
+So it's not just a local legend?
+
+[HEADER 001402BE]
+There really IS a Phantom of Lochmarne?
+
+[HEADER 001402BF]
+Oh, no.
+
+[HEADER 001402C0]
+I was talking about the Phantom of the Opera.
+
+[HEADER 00140312]
+Have you ever heard of the Knights Templar?
+
+[HEADER 00140313]
+I most certainly have! A remarkable institution.
+
+[HEADER 00140315]
+Did you know they were the originators of our system of credit?
+
+[HEADER 00140316]
+Their financial empire stretched from the Atlantic to the Caspian Sea.
+
+[HEADER 00140317]
+With bases in so many countries they had to establish new methods of fiscal transferral.
+
+[HEADER 00140318]
+So the Knights Templar were nothing but a bunch of bankers!
+
+[HEADER 00140319]
+I don't get it. Are you sayin' dese Templar guys invented bank charges?
+
+[HEADER 0014031A]
+In a manner of speaking, I suppose they did.
+
+[HEADER 0014031B]
+What a dirty trick! Didn't anyone try to stop dem?
+
+[HEADER 0014031C]
+Oh, yes. They were arrested, and many were burnt at the stake!
+
+[HEADER 0014031D]
+Good! Dey bloody well deserved it if dey were anythin' like MY bank manager!
+
+[HEADER 00140321]
+Does this towel mean anything to you?
+
+[HEADER 00140322]
+Sure - it's one of Leary's towels. Are you planning on stealing it?
+
+[HEADER 00140323]
+Just borrowing it, if you must know.
+
+[HEADER 00140324]
+Did I show you this towel?
+
+[HEADER 00140325]
+Yes, you did.
+
+[HEADER 00140326]
+Does this red nose suggest anything to you?
+
+[HEADER 0014032B]
+No, it doesn't.
+
+[HEADER 0014032C]
+Do you recognize the man in this photograph?
+
+[HEADER 0014032D]
+No. I've never seen him before.
+
+[HEADER 0014032E]
+What do you make of this piece of wire?
+
+[HEADER 0014032F]
+It looks ordinary enough to me...
+
+[HEADER 00140330]
+Do you recognize this gem?
+
+[HEADER 00140331]
+Ah, that's a beautiful stone. Is it the one which Peagram found?
+
+[HEADER 00140332]
+Yeah - and the reason why both he and Fitzgerald have disappeared.
+
+[HEADER 00140333]
+Then it's only a matter of time before you vanish too.
+
+[HEADER 00140334]
+Yes, you've already shown me that.
+
+[HEADER 00140335]
+What can you tell me about this ID pass?
+
+[HEADER 00140336]
+Grüber Electronics? I've never heard of it.
+
+[HEADER 00140337]
+Does this tool mean anything to you?
+
+[HEADER 00140338]
+I'd say it was for lifting manhole covers.
+
+[HEADER 0014033C]
+Does this matchbook mean anything to you?
+
+[HEADER 0014033D]
+The design is Middle Eastern, I'd say.
+
+[HEADER 0014033E]
+What do you make of this white powder?
+
+[HEADER 0014033F]
+Could it be bicarborunderate of soda?
+
+[HEADER 00140340]
+I'd like to shake you by the hand, Mr O'Brien...
+
+[HEADER 00140344]
+Oh, no, you don't!
+
+[HEADER 00140345]
+What do you make of this tissue?
+
+[HEADER 00140347]
+I'd guess that muck on it is greasepaint.
+
+[HEADER 0014034B]
+What do you think of this flashlight?
+
+[HEADER 0014034C]
+It's not a very practical piece of equipment, is it?
+
+[HEADER 0014034D]
+It's not switched on.
+
+[HEADER 0014034E]
+I'm referring to the lack of a bracket.
+
+[HEADER 0014034F]
+How would you be fixing that to your bicycle?
+
+[HEADER 00140350]
+I don't have a bicycle.
+
+[HEADER 00140351]
+I've told you already.
+
+[HEADER 0014031F]
+Goodbye for now...
+
+[HEADER 00140320]
+Good riddance to you!
+
+[HEADER 00140000]
+There was a vacant look on his cow-like face that said quite clearly 'Nobody Home'.
+
+[HEADER 0014002D]
+Hi! My name's Stobbart - George Stobbart.
+
+[HEADER 0014002F]
+Hello dere, mister. What can I do for you?
+
+[HEADER 0014002E]
+Hey!
+
+[HEADER 00140030]
+Hello dere again, mister.
+
+[HEADER 0014003D]
+Can you tell me anything about the castle on the hill?
+
+[HEADER 0014003E]
+Oh, I don't know much about anyting!
+
+[HEADER 0014003F]
+You should ask Mr. O'Brien here - he does joined-up writing.
+
+[HEADER 00140040]
+Would you be one o' dem history fellas yourself?
+
+[HEADER 00140041]
+That's right! Professor Stobbart, Miskatonic University.
+
+[HEADER 00140042]
+You're an archaeologist? And you're asking us about the castle?
+
+[HEADER 00140043]
+Excuse me, Mister O'Brien! D' gentleman was talkin' t' me!
+
+[HEADER 00140049]
+How come you didn't leave with d' others?
+
+[HEADER 0014004B]
+I didn't know they'd gone!
+
+[HEADER 0014004C]
+Oh, yes. Packed dere spades and shovels and away dey went.
+
+[HEADER 0014004D]
+Seems I missed all the excitement!
+
+[HEADER 0014004E]
+What excitement?
+
+[HEADER 00140052]
+Oh, no. I'm here on vacation.
+
+[HEADER 00140053]
+What's dat?
+
+[HEADER 00140054]
+A vacation, Pat. It's what the Americans call a holiday.
+
+[HEADER 00140055]
+But he's lying to you, anyhow. He told me he's a journalist.
+
+[HEADER 00140056]
+Oh. What's wrong wid dat?
+
+[HEADER 00140057]
+Journalists are mostly scum, Pat.
+
+[HEADER 00140058]
+What? Even Clark Kent? I can't believe it!
+
+[HEADER 00140059]
+Oh, right. In Lochmarne? You come to Lochmarne for a holiday?
+
+[HEADER 0014005A]
+Sure. It's a very pretty place.
+
+[HEADER 0014005B]
+Where d' hell are you from, mister?
+
+[HEADER 0014005C]
+California.
+
+[HEADER 0014005D]
+I know it! Dat's where da prunes come from!
+
+[HEADER 0014005E]
+Ha-ha. Yeah... amongst other things.
+
+[HEADER 0014005F]
+Do you know Professor Peagram?
+
+[HEADER 00140060]
+Do I know him? Do I know d' good Professor himself?
+
+[HEADER 00140061]
+No, I don't.
+
+[HEADER 00140062]
+I mean, I know who he is, but I don't know him to talk to.
+
+[HEADER 00140068]
+Do you know anything about Peagram's excavation?
+
+[HEADER 00140069]
+Only dat he didn't have d' right tools for d' job.
+
+[HEADER 0014006A]
+What he needed was shovels and a J.C.B.!
+
+[HEADER 0014006B]
+Peagram was digging for historical remains, not coal.
+
+[HEADER 0014006C]
+Is dat a fact? What d' hell for?
+
+[HEADER 0014006D]
+It's the science of archaeology, Pat.
+
+[HEADER 0014006E]
+Understanding how people used to live by what they've left behind.
+
+[HEADER 0014006F]
+One day archaeologists might be digging up OUR remains.
+
+[HEADER 00140070]
+Imagine dat, Mister O'Brien! I wonder what dey'll find?
+
+[HEADER 00140071]
+Well, it won't be arrow-heads and beakers.
+
+[HEADER 00140072]
+Fast food cartons and flavored condoms, more likely.
+
+[HEADER 00140073]
+Did anyone from the village work at Peagram's dig?
+
+[HEADER 00140074]
+I tried it meself, but dat high-an'-mighty history man called me incontinent!
+
+[HEADER 00140075]
+What a nerve! Hadn't I dug more holes dan d' rest o' dem put togedder?
+
+[HEADER 0014007E]
+Aren't you going to help Fitzgerald?
+
+[HEADER 0014007F]
+What does he need my help for?
+
+[HEADER 00140080]
+Didn't you hear what Maguire said? He's been hit by a car!
+
+[HEADER 00140081]
+What an idiot! People call me stupid, but I've never done that.
+
+[HEADER 00140082]
+Don't you feel any sympathy for poor Fitzgerald?
+
+[HEADER 00140083]
+He never bothered about me, so why should I?
+
+[HEADER 00140076]
+Do you remember seeing Sean Fitzgerald at the dig?
+
+[HEADER 00140077]
+Hmm... Let me see, now...
+
+[HEADER 00140078]
+I think me brainbox needs a spot o'lubrication.
+
+[HEADER 00140079]
+Do you remember Sean Fitzgerald now?
+
+[HEADER 0014007A]
+I can picture d' scene as if it was only last week.
+
+[HEADER 0014007B]
+Come to think of it, it WAS only last week.
+
+[HEADER 0014007C]
+Fitzgerald was dere all right, him an' a bunch o' students.
+
+[HEADER 0014007D]
+He was speakin' wid the boss man.
+
+[HEADER 00140036]
+Can I buy you a drink?
+
+[HEADER 00140037]
+You most certainly can!
+
+[HEADER 00140038]
+Give me a drink for my friend here.
+
+[HEADER 00140039]
+Who? Doyle? Has he conned you into buying for him?
+
+[HEADER 0014003A]
+Shame on you, Patrick! Same again?
+
+[HEADER 0014003B]
+Just a pint this time, Michael.
+
+[HEADER 0014003C]
+One pint o' brown, comin' up!
+
+[HEADER 001400B0]
+What do you think of this towel?
+
+[HEADER 001400B1]
+Now there's a fine piece of cloth if ever I did see one!
+
+[HEADER 001400B2]
+Such craft must surely come from linen cupboards of the Vatican itself!
+
+[HEADER 001400B5]
+Look at this towel...
+
+[HEADER 001400B6]
+You showed me that before.
+
+[HEADER 001400B7]
+What does this false nose mean to you?
+
+[HEADER 001400B8]
+Ah, now - you're a clown.
+
+[HEADER 001400C8]
+Do you recognize the man in this photograph?
+
+[HEADER 001400C9]
+It's a handsome mug on that fella, to be sure. Is he a film star?
+
+[HEADER 001400D1]
+Do you recognize this gem?
+
+[HEADER 001400D2]
+Saints be praised! It must be worth a fortune!
+
+[HEADER 001400D9]
+Does this security pass mean anything to you?
+
+[HEADER 001400DA]
+Uh... hmmm. Well... no.
+
+[HEADER 001400DB]
+What do you make of this tool?
+
+[HEADER 001400DC]
+It's for lifting manhole covers.
+
+[HEADER 001400DF]
+Do you recognize this matchbook?
+
+[HEADER 001400E0]
+No.
+
+[HEADER 001400E1]
+Do you recognise this white powder?
+
+[HEADER 001400E2]
+No, I don't.
+
+[HEADER 001400E3]
+May I shake your hand...?
+
+[HEADER 001400E4]
+No, you can't.
+
+[HEADER 001400E5]
+How come?
+
+[HEADER 001400E6]
+Because I'll spill my beer if you do.
+
+[HEADER 001400E7]
+Does this tissue mean anything to you?
+
+[HEADER 001400EC]
+No, boss.
+
+[HEADER 001400ED]
+What do you think of this flashlight?
+
+[HEADER 001400EE]
+It's not very bright, is it?
+
+[HEADER 001400EF]
+I could say the same about some of the present company...
+
+[HEADER 001400F0]
+That's true. But don't let him hear you.
+
+[HEADER 001400F1]
+Keep it under your hat, mister.
+
+[HEADER 001400F2]
+That flashlight, like your brain Doyle, is not switched on.
+
+[HEADER 001400F4]
+You showed me before, mister.
+
+[HEADER 001400CF]
+Does this piece of wire mean anything to you?
+
+[HEADER 001400D0]
+Not me, mister.
+
+[HEADER 001400AF]
+'Bye for now...
+
+[HEADER 00160000]
+The farmer's craggy face was set in a mask of aesthetic appreciation.
+
+[HEADER 00160001]
+His feet were set in a pair of manure-caked boots.
+
+[HEADER 0016000D]
+Hi!
+
+[HEADER 0016000E]
+Do you speak English?
+
+[HEADER 0016000F]
+Well now - what if I was to say no?
+
+[HEADER 00160010]
+An implication of cognizance shrouded in denial - a pretty poser of a paradox indeed.
+
+[HEADER 00160011]
+I gave him the look I'd perfected when I was twelve and was going to be the greatest hypnotist of all time.
+
+[HEADER 00160012]
+It was a killer.
+
+[HEADER 00160013]
+Are you attempting to hypnotize me or is it the constipation you're suffering?
+
+[HEADER 00160014]
+I was a little out of practice...
+
+[HEADER 00160015]
+It's me again...
+
+[HEADER 00160016]
+So I see. What now?
+
+[HEADER 00160025]
+What can you tell me about the castle?
+
+[HEADER 00160026]
+Not much, I'm sorry to say. Most of its history is long forgotten.
+
+[HEADER 00160027]
+Ah, but if these old stones could only speak, what stories they'd tell...
+
+[HEADER 00160028]
+Stories to make your toes curl and your blood run cold!
+
+[HEADER 00160029]
+You know, this castle is said to be over six hundred years old!
+
+[HEADER 00160033]
+Did you happen to see a red sports car down on the road?
+
+[HEADER 00160034]
+I caught a glimpse of a flash of red on the hill and heard the racket!
+
+[HEADER 00160035]
+Sure it was an awful noise. A sports car, you say?
+
+[HEADER 00160036]
+A Ferrari, to be exact.
+
+[HEADER 00160037]
+A racing car? And what was it doing here?
+
+[HEADER 00160038]
+The poor fella must have been lost!
+
+[HEADER 00160039]
+The driver of the Ferrari was involved in an accident.
+
+[HEADER 0016003A]
+Is that so?
+
+[HEADER 0016003B]
+Yeah - he knocked somebody down outside the bar.
+
+[HEADER 0016003C]
+What an idiot! How could a thing like that happen?
+
+[HEADER 0016003D]
+He was travelling too fast.
+
+[HEADER 0016003E]
+So fast he ran right under the car?
+
+[HEADER 0016003F]
+I mean the car was travelling too fast.
+
+[HEADER 00160040]
+But you'd have thought the idiot could have heard it coming!
+
+[HEADER 00160048]
+Maybe you know the guy who was hit by the Ferrari?
+
+[HEADER 00160049]
+His name is Sean Fitzgerald.
+
+[HEADER 0016004A]
+Oh, I know him all right.
+
+[HEADER 0016004B]
+That's my nephew - the idiot responsible for the stacking of my hay cart.
+
+[HEADER 0016004C]
+Was he killed by the car?
+
+[HEADER 0016004D]
+Oh, no. But he has been abducted.
+
+[HEADER 0016004E]
+Well, that's a relief now.
+
+[HEADER 0016004F]
+Aren't you going to look for your nephew?
+
+[HEADER 00160050]
+What for? From what you say, it's too late.
+
+[HEADER 00160051]
+You could report the matter to the police.
+
+[HEADER 00160052]
+Better not. Besides, what could they do?
+
+[HEADER 00160053]
+Well, they could mount a search!
+
+[HEADER 00160054]
+They have only the one bicycle between them.
+
+[HEADER 00160055]
+In a question of superior acceleration, I'd put my money on the Ferrari...
+
+[HEADER 00160056]
+I think you ought to know exactly what Sean has gotten himself into...
+
+[HEADER 00160057]
+I'm not sure I want to know!
+
+[HEADER 00160058]
+But you're his uncle, his own flesh and blood!
+
+[HEADER 00160059]
+You're right, but what can I do?
+
+[HEADER 0016005A]
+If I'm not here to guard it, some idiot might try to climb the hay stack!
+
+[HEADER 0016005B]
+What a moral dilemma!
+
+[HEADER 0016005C]
+To stay here and guard this potentially lethal agricultural construction...
+
+[HEADER 0016005D]
+Or to go off in search of the prodigal nephew, the very man responsible for said hazard?
+
+[HEADER 0016005E]
+It'll need some thinkin' about.
+
+[HEADER 0016005F]
+Why, there's no problem.
+
+[HEADER 00160060]
+You're right. Why didn't I think of it before?
+
+[HEADER 00160061]
+We'll demolish the haystack.
+
+[HEADER 00160062]
+You don't have to demolish the haystack to go look for Sean.
+
+[HEADER 00160063]
+I'll stay here in your place and warn anyone who's silly enough to climb it...
+
+[HEADER 00160064]
+Marvelous! I think I should start my enquiries in the bar...
+
+[HEADER 00160065]
+He strode off in the direction of MacDevitts bar, leaving me to contemplate the stack of hay.
+
+[HEADER 0016006A]
+Have you seen Professor Peagram?
+
+[HEADER 0016006B]
+No. He's packed up and gone.
+
+[HEADER 0016006C]
+Do you happen to know where?
+
+[HEADER 0016006D]
+Back in England, I suppose.
+
+[HEADER 00160080]
+Have you any use for this towel?
+
+[HEADER 00160081]
+Whatever gave you that idea? Oh dear, oh dear me, no.
+
+[HEADER 00160082]
+Does this curiously twisted piece of wire mean anything to you?
+
+[HEADER 00160083]
+Oh dear. Now what would you be wanting with a cruel snare like that?
+
+[HEADER 00160084]
+It's not mine! It belongs to the old guy in the bar...
+
+[HEADER 00160085]
+Ah, yes - it would.
+
+[HEADER 00160086]
+Is this wire intended to be used as a snare?
+
+[HEADER 00160087]
+That's right.
+
+[HEADER 00160088]
+This is the gem that Peagram found in the castle...
+
+[HEADER 00160089]
+So that's what all the fuss was about...
+
+[HEADER 0016008A]
+I can't see why, myself. Why men would fight and steal and kill over a little bauble like that.
+
+[HEADER 0016008B]
+It's kinda neat the way it sparkles...
+
+[HEADER 0016008C]
+And that's where it belongs!
+
+[HEADER 0016008D]
+Does this false nose mean anything to you?
+
+[HEADER 0016008E]
+You're a circus clown.
+
+[HEADER 00160094]
+Do you recognize the man in this photograph?
+
+[HEADER 00160095]
+No, but I wouldn't trust him. His eyes are too close together.
+
+[HEADER 0016009A]
+Do you recognize the name on this card?
+
+[HEADER 0016009B]
+I can't read that little writing!
+
+[HEADER 001600A5]
+Does this tool mean anything to you?
+
+[HEADER 001600A6]
+No, it doesn't. Is it used on sheep?
+
+[HEADER 001600A7]
+No, its for lifting the covers off drains.
+
+[HEADER 001600A8]
+Never! How?
+
+[HEADER 001600A9]
+The end of the tool fits into a hole in the cover...
+
+[HEADER 001600AA]
+They'd slip out. Angle's all wrong... You'd never do it.
+
+[HEADER 001600AB]
+I have! I did it in Paris.
+
+[HEADER 001600AC]
+You already showed me that, and I wasn't impressed.
+
+[HEADER 001600AD]
+What do you make of this matchbook?
+
+[HEADER 001600AE]
+Seems ordinary enough to me.
+
+[HEADER 001600AF]
+What do you make of this tissue?
+
+[HEADER 001600B0]
+That's a sorry sight to wave about in public!
+
+[HEADER 001600B6]
+Would you like to shake my hand?
+
+[HEADER 001600B7]
+What is this? I don't do that male bonding stuff!
+
+[HEADER 001600BF]
+What do you think of my flashlight?
+
+[HEADER 001600C0]
+Those electric lamps are useful, but limited in lifespan, in my experience.
+
+[HEADER 001600C1]
+I was given one for my birthday, but it stopped working after a month.
+
+[HEADER 001600C2]
+The battery was probably drained.
+
+[HEADER 001600C3]
+What? Nobody told me! I threw it away!
+
+[HEADER 001600C4]
+Did I show you my flashlight?
+
+[HEADER 001600C5]
+Indeed you did.
+
+[HEADER 0016007F]
+I have to go now.
+
+[HEADER 00140007]
+The white whiskers on the bartender's flushed face were like garlands on a Christmas tree.
+
+[HEADER 00140008]
+The resemblance ended there. The top of his head was too slick and shiny to act as a perch for a Christmas fairy.
+
+[HEADER 00140178]
+Top of the morning to you!
+
+[HEADER 0014017A]
+I beg your pardon?
+
+[HEADER 0014017B]
+That's what you Irish say, isn't it?
+
+[HEADER 0014017C]
+Do you want something or are you just flaunting your xenophobia?
+
+[HEADER 0014017D]
+Unh... I was trying to be sociable.
+
+[HEADER 0014017E]
+Hmph! Is it a room you're after?
+
+[HEADER 00140181]
+That's not a bad idea. Do you have a vacancy?
+
+[HEADER 00140182]
+I could, if you don't mind waiting until the last guest checks out.
+
+[HEADER 00140183]
+No problem. When will that be?
+
+[HEADER 00140184]
+When the undertaker comes to collect him.
+
+[HEADER 0014017F]
+No, thank you. I don't plan to stay too long.
+
+[HEADER 00140180]
+Who does? Most folk take one look at Lochmarne and jump back on the bus.
+
+[HEADER 00140179]
+Excuse me!
+
+[HEADER 00140191]
+Yes, Sir?
+
+[HEADER 0014019F]
+I'll try a glass of beer, please.
+
+[HEADER 001401A0]
+Is this your first pint of 'real ale'?
+
+[HEADER 001401A1]
+Uh, well... I guess so! What's 'real ale', anyhow?
+
+[HEADER 001401A2]
+Beer that's brewed from natural ingredients to traditional methods.
+
+[HEADER 001401A3]
+It shouldn't be kept under pressure, or refrigerated.
+
+[HEADER 001401A4]
+And finally, it should have a good body and distinctive character.
+
+[HEADER 001401A5]
+In other words, it's flat and warm with bits in and it makes you fall over.
+
+[HEADER 001401A6]
+May I have another beer, please?
+
+[HEADER 001401A7]
+Certainly, Sir! Same again?
+
+[HEADER 001401A8]
+Yeah, please. How is this stuff made?
+
+[HEADER 001401A9]
+That's the secret of the master brewers, Sir!
+
+[HEADER 001401AA]
+Each barrel is lovingly manhandled in time-honoured fashion...
+
+[HEADER 001401AB]
+Suspended on skilfully tied ropes of the finest hemp...
+
+[HEADER 001401AC]
+Lowered into the cellar utilising the forces of original gravity.
+
+[HEADER 001401AD]
+Like manna from heaven!
+
+[HEADER 001401AE]
+Hey, how about another drink!
+
+[HEADER 001401AF]
+Same again?
+
+[HEADER 001401B0]
+Hmm,,, Do you serve cocktails?
+
+[HEADER 001401B1]
+I'll serve anyone with manners and money.
+
+[HEADER 001401B2]
+I'm serious. Have you considered turning MacDevitts into a cocktail bar?
+
+[HEADER 001401B3]
+Cocktails are chic, cool, and popular with younger drinkers!
+
+[HEADER 001401B4]
+What? Kids in the bar?! Can you imagine it?
+
+[HEADER 001401B5]
+Pinball, pimples and puke!
+
+[HEADER 001401B6]
+Er right - I get the picture. I'll settle for a glass of stout.
+
+[HEADER 001401B7]
+Gimme another beer, dude!
+
+[HEADER 001401B8]
+Give EVERYONE another beer! Let's PARTY, guys!
+
+[HEADER 001401B9]
+I think you've had enough, don't you?
+
+[HEADER 001401BA]
+Hey, listen - is it supposed to taste the way it does?
+
+[HEADER 001401BB]
+Gopaleen's stout is brewed from the finest chemicals in the world!
+
+[HEADER 001401BC]
+More beer, over here!
+
+[HEADER 001401BE]
+I'm sorry, but the pump appears to be broken!
+
+[HEADER 001401BF]
+I could fix it for you!
+
+[HEADER 001401C0]
+I don't think so. This is a job for a professional electrician.
+
+[HEADER 001401C1]
+Oh well, at least the glass washer is still working...
+
+[HEADER 001401C2]
+It's not my day, is it?
+
+[HEADER 001401D3]
+Have you served any, uh... clowns recently?
+
+[HEADER 001401D4]
+No, you're the first today.
+
+[HEADER 001401F2]
+Do you know a man called Peagram?
+
+[HEADER 001401F3]
+Indeed I do!
+
+[HEADER 001401F4]
+Are you a friend of his, by any chance?
+
+[HEADER 001401FC]
+Oh, no. I'm just trying to track him down.
+
+[HEADER 001401FD]
+Me too! That son of a bitch should be locked away!
+
+[HEADER 001401FE]
+Did Peagram stay here?
+
+[HEADER 001401FF]
+Yes, he did! Six nights - plus breakfast.
+
+[HEADER 0014026F]
+It just so happens I'm an electrician! Check out my credentials..
+
+[HEADER 00140270]
+Well, now, isn't that marvelous?
+
+[HEADER 00140271]
+Here's a house bedevilled with faulty wiring of a wayward nature...
+
+[HEADER 00140272]
+Here's you, an electric man - with a little plastic card t' prove it!
+
+[HEADER 00140273]
+Hmm... I still want to see what you can do before I let you touch my beer pumps...
+
+[HEADER 00140274]
+You can make a start on the glass washer.
+
+[HEADER 00140275]
+When you've finished that will you take a look at the pumps...?
+
+[HEADER 00140276]
+Check out my card...
+
+[HEADER 00140277]
+I've seen it, for heaven's sake!
+
+[HEADER 0014026A]
+Do you recognize the name on this card?
+
+[HEADER 0014026B]
+No - should I?
+
+[HEADER 0014026C]
+Nah. It was a long shot.
+
+[HEADER 0014022F]
+I found your flashlight.
+
+[HEADER 00140230]
+So I see. You'd better keep hold of that until you've fixed the pumps.
+
+[HEADER 00140231]
+Do you recognize this man?
+
+[HEADER 00140232]
+No, I don't. What d'you want with him?
+
+[HEADER 00140233]
+I've got a score to settle...
+
+[HEADER 00140234]
+I don't want any trouble in the bar, mister.
+
+[HEADER 00140235]
+If it's a fight you're looking for, see Father Mahoney.
+
+[HEADER 00140236]
+A priest? A man of the cloth?
+
+[HEADER 00140237]
+Sure, and he teaches the boys how to box at the youth club.
+
+[HEADER 00140238]
+According to Mahoney, it develops character.
+
+[HEADER 00140239]
+Isn't that right, Pat? Didn't he teach you the art of pugilism?
+
+[HEADER 0014023A]
+Doyle!
+
+[HEADER 0014023B]
+Sorry, Michael. I was miles away. What did you say?
+
+[HEADER 0014023C]
+Ah, never mind.
+
+[HEADER 0014023D]
+You already asked me that.
+
+[HEADER 0014023E]
+Does this false nose mean anything to you?
+
+[HEADER 00140246]
+No, it doesn't!
+
+[HEADER 00140247]
+Does this piece of wire mean anything to you?
+
+[HEADER 0014024C]
+No, it doesn't.
+
+[HEADER 0014024D]
+Here's something which might interest you...
+
+[HEADER 00140257]
+It doesn't.
+
+[HEADER 00140258]
+Do you recognize this matchbook?
+
+[HEADER 00140259]
+No, Sir.
+
+[HEADER 0014025A]
+Does this...
+
+[HEADER 0014025F]
+I'm not interested.
+
+[HEADER 00140261]
+Hey, bartender!
+
+[HEADER 00140262]
+Landlord, if y' don't mind.
+
+[HEADER 00140263]
+Sorry. Shake my hand, why don't you...
+
+[HEADER 00140264]
+Now why should I do that? What have you got up your sleeve?
+
+[HEADER 00140265]
+Nothing! C'mon, just shake my hand...
+
+[HEADER 00140266]
+Not just now, mister. I have t' be careful on account o' the health restrictions.
+
+[HEADER 00140267]
+Aw, jeez!
+
+[HEADER 00140268]
+Why won't you shake my hand?
+
+[HEADER 00140269]
+Because I don't know where you've been.
+
+[HEADER 00140278]
+May I borrow this towel?
+
+[HEADER 00140279]
+Sure you can, on one condition...
+
+[HEADER 0014027A]
+What's that?
+
+[HEADER 0014027B]
+You keep it away from old Ron.
+
+[HEADER 0014027C]
+Who's Ron?
+
+[HEADER 0014027D]
+That's him in the corner - with the hygiene problem.
+
+[HEADER 0014027E]
+You can keep it.
+
+[HEADER 0014027F]
+Does this gem mean anything to you?
+
+[HEADER 00140280]
+Phew! What a beauty! I bet you wish that was real, don't you?
+
+[HEADER 00140281]
+Does this tissue mean anything to you?
+
+[HEADER 00140282]
+That's disgusting!
+
+[HEADER 00140283]
+Uh-huh! I found it in the sewers
+
+[HEADER 00140284]
+What's the idea of waving it around in my face?
+
+[HEADER 00140285]
+You're worse than old Ron! Put it away, man!
+
+[HEADER 00140286]
+No, it doesn't.
+
+[HEADER 0014022B]
+Look, I gotta be going...
+
+[HEADER 0014001D]
+It was an electrical plug attached to the glass washer.
+
+[HEADER 00140021]
+I replaced the fuse with the piece of wire.
+
+[HEADER 00140022]
+I knew it was dangerous, but I was desperate enough to disregard everything I knew about standard safety precautions.
+
+[HEADER 0014015A]
+Excuse me, Mr Leary!
+
+[HEADER 0014015B]
+I fixed your glass washer, no problem.
+
+[HEADER 0014015C]
+Bingo, and a blessing to all the saints!
+
+[HEADER 0014015D]
+A free half pint to that man, on the house!
+
+[HEADER 0014015E]
+Now - could you take a look at the beer pumps?
+
+[HEADER 0014015F]
+I guess so, but I'm not making any promises...
+
+[HEADER 00140160]
+If you can't fix them I'll have a riot on my hands!
+
+[HEADER 00140161]
+The pumps are in the cellar, right?
+
+[HEADER 00140162]
+That's right. You'll find a flashlight down there somewhere...
+
+[HEADER 00140020]
+I looked at the plug I'd fixed and felt a glow of pride. All my own work!
+
+[HEADER 0014001E]
+I used all my knowledge of electrical engineering to examine the plug.
+
+[HEADER 0015000E]
+It was the lever which locked the trapdoor.
+
+[HEADER 0015000F]
+I pushed the lever and heard the grating of metal, but nothing appeared to happen...
+
+[HEADER 00150010]
+I pulled the lever and the bolt creaked back into place.
+
+[HEADER 00130015]
+It was a trapdoor in the sidewalk.
+
+[HEADER 00130016]
+The trapdoor gave access to the cellar of the bar.
+
+[HEADER 00130018]
+I lifted the trapdoor and an overpowering smell of stale beer rose from the cellar below.
+
+[HEADER 0013010A]
+I looked down on a stone tiled floor - way too far to jump.
+
+[HEADER 0013010B]
+Excuse me...
+
+[HEADER 0013010C]
+There was an nasty feeling in my guts I usually associated with light opera.
+
+[HEADER 0013010D]
+It was Khan.
+
+[HEADER 0013010E]
+What's the problem?
+
+[HEADER 0013010F]
+Did you see what happened here a few minutes ago?
+
+[HEADER 00130110]
+What was that?
+
+[HEADER 00130111]
+A man was involved in an unfortunate accident.
+
+[HEADER 00130112]
+I didn't see anything.
+
+[HEADER 00130113]
+What about the boy?
+
+[HEADER 00130114]
+He doesn't know anything, either.
+
+[HEADER 00130115]
+The kid... well - you know how it is in these rural communities.
+
+[HEADER 00130116]
+Not enough genes to go round...
+
+[HEADER 00130117]
+I prayed Maguire had the sense to keep his mouth shut.
+
+[HEADER 00130118]
+Was the guy hurt bad?
+
+[HEADER 00130119]
+He's been taken care of, but he thinks he dropped a small parcel.
+
+[HEADER 0013011A]
+You didn't happen to find it, did you?
+
+[HEADER 0013011B]
+If I had, I would have taken it to the police.
+
+[HEADER 0013011C]
+Of course.
+
+[HEADER 0013011D]
+Thank you.
+
+[HEADER 00130019]
+It wasn't nerves that stopped me jumping; it was my damned legs. They wouldn't move.
+
+[HEADER 00130017]
+I tugged at the trapdoor, but it was locked from the inside.
+
+[HEADER 00160007]
+On the back of the cart was a crazily stacked tower of hay bales, leaning precariously against the castle wall.
+
+[HEADER 00170000]
+The stack of hay stopped short of the top of the wall.
+
+[HEADER 00170001]
+Even if I stretched as far as I could, the wall was out of reach.
+
+[HEADER 00170002]
+What I needed was a slice or two of Alice's Wonderland...
+
+[HEADER 00170004]
+The lifting key was rammed tightly into the crack in the wall forming a strong foothold.
+
+[HEADER 00170003]
+There was a narrow crack between two of the stones where the centuries-old mortar had crumbled away.
+
+[HEADER 00170007]
+I inserted the end of the lifting key in the mortarless crack and gave it a firm shove.
+
+[HEADER 00170008]
+It remained lodged in the wall, jutting out to form a step.
+
+[HEADER 00170006]
+I tugged at the lifting key and found they were held quite securely.
+
+[HEADER 00170005]
+I pushed my fingers into the narrow crack. It went back several inches into the rock.
+
+[HEADER 00170009]
+Above my head was a gap in the wall where the massive stones had fallen away.
+
+[HEADER 00150002]
+Now I could see, I spotted Mr Leary's flashlight easily.
+
+[HEADER 00150003]
+Then I noticed a flash of light, something sparkling beneath the open trapdoor...
+
+[HEADER 00150004]
+It was Peagram's gem all right: a large, uncut, blue stone.
+
+[HEADER 00150006]
+I guess I was already under its spell.
+
+[HEADER 0015001A]
+Did you find it?
+
+[HEADER 0015001B]
+What?
+
+[HEADER 0015001C]
+Whatever you was lookin' for.
+
+[HEADER 0015001D]
+Uh... yeah. Listen, Maguire - I want you to keep this to yourself.
+
+[HEADER 0015001E]
+No problemo. Jus' chuck us up a crate o' lager.
+
+[HEADER 0015001F]
+No way. You're not old enough.
+
+[HEADER 00150020]
+We can sell it an' make some cash!
+
+[HEADER 00150021]
+Forget it, kid. I couldn't  betray Mr Leary's trust.
+
+[HEADER 00150022]
+I could, for sure! That ol' misery-guts deserves it!
+
+[HEADER 00150023]
+If you want to do me a favor, keep a look out for that guy in the suit...
+
+[HEADER 00150024]
+Okay, but it'll cost you a packet o' chips!
+
+[HEADER 00150025]
+...and shout if you see that Ferrari!
+
+[HEADER 00150007]
+It was a rusty faucet.
+
+[HEADER 0015000C]
+The slow drip of water barely dampened the towel.
+
+[HEADER 0015000A]
+I held the towel under the faucet and soaked it with water.
+
+[HEADER 00150008]
+The faucet creaked, coughed and spewed out a stream of rusty colored water.
+
+[HEADER 00150009]
+I shut off the faucet as tight as I could, but it kept on dripping.
+
+[HEADER 00180004]
+It was a rusted piece of iron, maybe part of a plough or something.
+
+[HEADER 00180005]
+The rope by which the goat was tethered had become tangled on the old plough share...
+
+[HEADER 00190000]
+Behind the altar was a carved panel, decorated with animals, birds and plants.
+
+[HEADER 00190002]
+I tried in vain to move the panel...
+
+[HEADER 00190014]
+The sack contained a fine white powder.
+
+[HEADER 00190016]
+As I dipped my fingers into the soft white powder I realized what it was.
+
+[HEADER 00190017]
+Plaster of Paris! I'd used it in kindergarten to make casts of animal paw prints.
+
+[HEADER 00190018]
+I reached into the sack, but it was empty.
+
+[HEADER 0019000D]
+The statue was too heavy to lift. It overbalanced into the sand...
+
+[HEADER 0019000E]
+As I swung the stone upright I noticed it had left a pattern of holes in the sand...
+
+[HEADER 0019000F]
+I swung the stone back to its original position.
+
+[HEADER 0019001C]
+The patch of sand where the statue had fallen was covered with a dense sprinkling of plaster.
+
+[HEADER 0019001D]
+My improvised plaster cast was slowly drying out...
+
+[HEADER 0019001B]
+The five fingers on the back of the statue had left their impressions in the fine sand.
+
+[HEADER 0019000A]
+It was a statue which had fallen from its place on the wall.
+
+[HEADER 00190022]
+I sprinkled the plaster on the sand until the holes were filled.
+
+[HEADER 00190025]
+The trickle of water was quickly absorbed by the plaster.
+
+[HEADER 00190024]
+I squeezed every last drop of water out of the towel and watched it draining away in the sand.
+
+[HEADER 00190027]
+I squeezed the towel as hard as I could, but it was barely damp.
+
+[HEADER 00190020]
+I smoothed the plaster level with the sand. It was my first experience of home improvement...
+
+[HEADER 00190012]
+I eased the solid piece of plaster from the sand.
+
+[HEADER 00190013]
+Underneath, it had formed a perfect copy of the statue.
+
+[HEADER 0019001F]
+I placed my fingers in the five impressions left by the fallen stone. It was weird - they fit perfectly...
+
+[HEADER 00190003]
+There was a pattern of five holes arranged on the wall. They'd been drilled there deliberately.
+
+[HEADER 00190005]
+The hardened plaster cast fitted snugly into the five matching sockets. There was a soft thud, then silence...
+
+[HEADER 00190006]
+I placed my fingers and thumb into the holes in the wall. Nothing happened.
+
+[HEADER 00140163]
+Hey! Where do you think you're going?
+
+[HEADER 00140164]
+Excuse me?
+
+[HEADER 00140165]
+No customers behind the bar! Ever!
+
+[HEADER 00140166]
+Get out!
+
+[HEADER 00140167]
+I could try to fix your glass washer.
+
+[HEADER 00140168]
+Oh, no - not unless you're a qualified electrician...
+
+[HEADER 00140003]
+The farmer was drinking and chatting with his pals as if nothing had happened.
+
+[HEADER 001400F5]
+Hello!
+
+[HEADER 001400F7]
+Ah, hello there. Let me introduce you to my pals...
+
+[HEADER 001400F8]
+We've already met.
+
+[HEADER 001400F9]
+What now?
+
+[HEADER 001400FA]
+I want you to know you have my sympathy...
+
+[HEADER 001400FB]
+Oh, it's just terrible! Awful!
+
+[HEADER 001400FC]
+It's the worst news I heard all day.
+
+[HEADER 001400FD]
+It's topped the bad news all right, for this week and the next.
+
+[HEADER 001400FE]
+The whole year...
+
+[HEADER 001400FF]
+It's worse than that - it's the worst disaster in living memory!
+
+[HEADER 00140100]
+Isn't it the biggest calamity in the history of the village?
+
+[HEADER 00140101]
+I would say it's the biggest in the history of Ireland!
+
+[HEADER 00140102]
+The most awesome disaster since mankind paddled out of the primal plop...
+
+[HEADER 00140103]
+There's no beer.
+
+[HEADER 00140105]
+What about Sean? Why aren't you out looking for him?
+
+[HEADER 00140106]
+There's no point in launching an ill-equipped expedition to save the lad.
+
+[HEADER 00140107]
+In a life or death situation, preparation is essential.
+
+[HEADER 00140108]
+That's why I slipped in here.
+
+[HEADER 00140109]
+For a pint.
+
+[HEADER 0014010A]
+Is a glass of beer more important than a man's life!?
+
+[HEADER 0014010B]
+Were you talking to me?
+
+[HEADER 0014010C]
+To all of you! Sean Fitzgerald has met with God-knows-what, and all you can do is drink!
+
+[HEADER 0014010D]
+Sean has gone for a ride in a flash car, that's all.
+
+[HEADER 0014010E]
+Why don't you calm down and join us?
+
+[HEADER 00140112]
+Do you have any use for this towel?
+
+[HEADER 00140113]
+I suppose I could squeeze it out into my glass if I was desperate enough...
+
+[HEADER 00140110]
+Do you know anything about this piece of wire?
+
+[HEADER 00140111]
+It looks like a hand made snare.
+
+[HEADER 00140127]
+So that's what all the fuss was about...
+
+[HEADER 00140128]
+I can't see why, myself. Why men would fight and steal and kill over a little bauble like that.
+
+[HEADER 00140129]
+Well, it's kinda neat the way it sparkles...
+
+[HEADER 00140115]
+You're a circus clown.
+
+[HEADER 00140017]
+It was an electric glass washer. It looked even older than the barman.
+
+[HEADER 00140018]
+I couldn't see anything obviously wrong with the machine. I figured it must be the wiring.
+
+[HEADER 00160002]
+The gates were made of solid, age-blackened wood.
+
+[HEADER 00160004]
+Pushing with all my strength got me nowhere. They didn't budge. I really need to start working out.
+
+[HEADER 0013001D]
+I was tellin' the truth about Fitzy, Mister!
+
+[HEADER 0013001E]
+Okay, okay - calm down. Now, tell me what happened...
+
+[HEADER 0013001F]
+I was standin' here, mindin' me own business,
+
+[HEADER 00130020]
+...when I saw this beautiful red sports car comin' up over the hill.
+
+[HEADER 00130021]
+Wouldja look at dat, says I, an' I goin' over to take a closer look.
+
+[HEADER 00130022]
+Next ting Fitzy comes tearin' out of the pub an' nearly knocks me on me arse!
+
+[HEADER 00130023]
+He was like a chicken without a head - he hadn't a clue where he was goin'.
+
+[HEADER 00130024]
+Anyhow, he tears out in the road. Well, the car just flies at him.
+
+[HEADER 00130025]
+It was too fast for poor ol' Fitzy, an' hit him an awful wallop...
+
+[HEADER 00130026]
+He goes flyin' up on top.
+
+[HEADER 00130027]
+Jaysus, says I - I thought he was a goner.
+
+[HEADER 00130028]
+Next thing the driver hops out and I couldn't believe my eyes...
+
+[HEADER 00130029]
+He was dressed like a bloody pixie!
+
+[HEADER 00001E33]
+I passed the castle on the way into Lochmarne.
+
+[HEADER 00001E34]
+The castle where Peagram's excavation was located.
+
+[HEADER 0019000B]
+Five fingers of stone projected from the back of the carving.
+
+[HEADER 0019000C]
+The statue lay face up in the soft sand.
+
+[HEADER 00190026]
+The trickle of water splashed onto the hardened plaster.
+

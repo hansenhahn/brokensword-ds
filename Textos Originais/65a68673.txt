@@ -1,0 +1,2085 @@
+[HEADER 00003A98]
+I can't find my way to the ward.
+
+[HEADER 00003AA2]
+You need to talk to the receptionist on the front desk - who could you pretend to be?
+
+[HEADER 00003AAC]
+Show her Moerlin's card, and ask about Nurse Grendal.
+
+[HEADER 00003AB6]
+Nurse Grendel won't let me on the ward.
+
+[HEADER 00003AC0]
+You'll need a disguise.
+
+[HEADER 00003ACA]
+There's a cupboard next to the janitor but he won't let you go in. So try distracting him.
+
+[HEADER 00003AD4]
+Unplug Mr Shiny and then nip into the cupboard when the janitor's gone.
+
+[HEADER 00003ADE]
+I'm not a doctor! How do I get through these wards?
+
+[HEADER 00003AE8]
+Head back to the hospital entrance.
+
+[HEADER 00003AF2]
+Speak to the older doctor, and agree to look after his nephew Benoir.
+
+[HEADER 00003AFC]
+I can't operate this blood pressure thing, and the patient won't let me past.
+
+[HEADER 00003B06]
+You need a helping hand from your new friend.
+
+[HEADER 00003B10]
+Give the blood pressure gauge to Benoir, and ask him to treat the patient.
+
+[HEADER 00003B1A]
+Now you can make your way to the private ward on the right.
+
+[HEADER 00200001]
+The woman managed to look over worked and hassled though she didn't appear to be doing anything...
+
+[HEADER 00220089]
+Hi! I'm Doctor Stobbart.
+
+[HEADER 00200005]
+Yes, Sir?
+
+[HEADER 0020003A]
+Oh, it doesn't matter...
+
+[HEADER 00200004]
+Excuse me...
+
+[HEADER 00200006]
+Is this the Hagenmeyer clinic?
+
+[HEADER 00200007]
+That's correct.
+
+[HEADER 00200008]
+I thought I was in a garden centre...
+
+[HEADER 00200009]
+Oh, the plants! They were my idea.
+
+[HEADER 0020000A]
+A little greenery to evoke the spirit of nature!
+
+[HEADER 0020000B]
+How may I help you?
+
+[HEADER 00200017]
+So, do I get to see Marquet before the funeral?
+
+[HEADER 00200018]
+That attitude will get you nowhere!
+
+[HEADER 00200019]
+My instructions were quite clear: no-one gets to see Marquet.
+
+[HEADER 0020001A]
+So, unless you can prove you're a relative or a close acquaintance, you're wasting your time here.
+
+[HEADER 0020000C]
+I'm here to see Jacques Marquet.
+
+[HEADER 0020000D]
+Oh, yes.
+
+[HEADER 0020000E]
+Are you related to our client, Sir?
+
+[HEADER 00200011]
+Yeah - I'm his, uh... long-lost brother.
+
+[HEADER 00200012]
+A brother half his age, with a different name and an American accent?
+
+[HEADER 00200013]
+Yeah. People always say that. I blame mom.
+
+[HEADER 00200014]
+We were separated at an early age after a mix-up in the nursery at the Oakland Shopping Mall.
+
+[HEADER 00200015]
+I've never heard anything so ridiculous in all my life!
+
+[HEADER 00200016]
+I guess not.
+
+[HEADER 0020000F]
+No. I'm conducting a private investigation.
+
+[HEADER 00200010]
+Then I can't help you.
+
+[HEADER 0020006D]
+Look at this ID pass...
+
+[HEADER 0020006E]
+So you're Moerlin?
+
+[HEADER 0020006F]
+Marquet has been asking for you!
+
+[HEADER 00200070]
+For me?
+
+[HEADER 00200071]
+Yes! He was shouting your name when they brought him in here!
+
+[HEADER 00200072]
+Now let me see...
+
+[HEADER 00200073]
+He was on ward B-Twelve, as I recall...
+
+[HEADER 00200074]
+Oh! He's been transferred to...
+
+[HEADER 00200075]
+Oh dear. He's on ward J-Two.
+
+[HEADER 00200076]
+That's...
+
+[HEADER 00200077]
+Nurse Grendel's ward!
+
+[HEADER 00200078]
+Yes, dear - you showed me already.
+
+[HEADER 0020001F]
+Has Marquet been visited by a man in a clown costume?
+
+[HEADER 00200020]
+Oh, no.
+
+[HEADER 00200021]
+You haven't seen a man in disguise?
+
+[HEADER 00200022]
+Well, there's Theodore the Bear. He comes every Thursday, to entertain the children.
+
+[HEADER 00200023]
+Personally, I think he scares them half to death in that crummy old bear suit.
+
+[HEADER 00200024]
+If I was stuck on my back with tubes in every orifice, he's the last person I'd want to see.
+
+[HEADER 0020001B]
+Has Marquet had a visit from a pair of gangsters?
+
+[HEADER 0020001C]
+I should hope not! Can you describe them?
+
+[HEADER 0020001D]
+A thin guy who looks like a weasel, and his friend, the gorilla.
+
+[HEADER 0020001E]
+It sounds as if they escaped from a zoo!
+
+[HEADER 00200025]
+What's so bad about nurse Grendel?
+
+[HEADER 00200026]
+She runs that ward like a South American prison!
+
+[HEADER 00200027]
+Keeping a well disciplined ward isn't a crime, is it?
+
+[HEADER 00200028]
+Well disciplined?
+
+[HEADER 00200029]
+In the discipline and punishment stakes she'd whip the butt off the Marquis de Sade!
+
+[HEADER 0020002A]
+Everything, I mean everything, is done to a strict routine.
+
+[HEADER 0020002B]
+Six o'clock: alarm call.
+
+[HEADER 0020002C]
+Six-ten: bowel movements, and woe betide anyone who doesn't have a result!
+
+[HEADER 0020002D]
+Those patients of hers are like Pavlova's dogs!
+
+[HEADER 0020002E]
+She sounds like a real nightmare...
+
+[HEADER 0020002F]
+And then some!
+
+[HEADER 00200030]
+If nurse Grendel is that bad, how come the authorities tolerate her?
+
+[HEADER 00200031]
+She's like part of the furniture.
+
+[HEADER 00200034]
+I was beginning to get the picture. This woman was jealous, with a big green capital `J'.
+
+[HEADER 00200035]
+How do I find nurse Grendel's ward?
+
+[HEADER 00200036]
+Down the corridor on the left, turn right at the Senior Consultants' washroom...
+
+[HEADER 00200037]
+...and right again at the executive coffee lounge.
+
+[HEADER 00200038]
+Bear left past the Administrators' sauna...
+
+[HEADER 00200039]
+...and turn left at the end. That's J-Two - and good luck!
+
+[HEADER 0020006B]
+Have you seen this man here at the clinic?
+
+[HEADER 0020006C]
+No, Sir, and I never forget a face.
+
+[HEADER 0020003D]
+Does this ball mean anything to you?
+
+[HEADER 0020003E]
+No, dear.
+
+[HEADER 0020003F]
+What does this false nose remind you of?
+
+[HEADER 00200040]
+Ah! It's a clown's nose!
+
+[HEADER 00200043]
+What does this gem suggest to you?
+
+[HEADER 00200044]
+I advise you not to flash that around.
+
+[HEADER 00200046]
+What does this tool suggest to you?
+
+[HEADER 00200047]
+Is it a crack detector?
+
+[HEADER 00200048]
+Huh?
+
+[HEADER 00200049]
+Polar explorers use them to poke about in the snow...
+
+[HEADER 0020004A]
+Oh, no.
+
+[HEADER 00200042]
+Why don't you give me a break and go and play with someone else?
+
+[HEADER 0020004B]
+Have you heard of the Club Alamut?
+
+[HEADER 0020004C]
+No. It sounds romantic, doesn't it?
+
+[HEADER 0020004F]
+Is this plaster any use to you?
+
+[HEADER 00200050]
+I'm allergic to plaster.
+
+[HEADER 00200054]
+I'd like to shake you by the hand...
+
+[HEADER 00200055]
+Don't be fresh, young man.
+
+[HEADER 0020005B]
+Can you think of any use for this greasy tissue?
+
+[HEADER 0020005C]
+I guess you could use it to baste a roast turkey...
+
+[HEADER 0020005D]
+I've got a toilet chain from a bar in Syria...
+
+[HEADER 00200061]
+You sad man.
+
+[HEADER 00200062]
+Do you know anything about this tripod?
+
+[HEADER 00200064]
+It looks like the one which was stolen from the Crune!
+
+[HEADER 00200065]
+What do you make of this?
+
+[HEADER 00200066]
+I know what that is.
+
+[HEADER 00200067]
+It's a contact lens for a myopic cow.
+
+[HEADER 00200068]
+Nurse Grendel will be so pleased you've found it.
+
+[HEADER 00200069]
+Did I show you this lens?
+
+[HEADER 0020006A]
+Yes, you did.
+
+[HEADER 00200051]
+I'd like to return this device...
+
+[HEADER 00200052]
+Not to me you don't.
+
+[HEADER 00200053]
+I don't touch medical equipment, especially if you've used it on sick people.
+
+[HEADER 0020003B]
+Thanks for your help, ma'am
+
+[HEADER 0020003C]
+You're welcome!
+
+[HEADER 00210000]
+As I turned the corner I saw the source of the hellish noise which echoed through the corridors.
+
+[HEADER 00210001]
+It was an industrial polishing machine with an odd-looking guy in tow...
+
+[HEADER 00200002]
+The guy seemed to be practising his air of authority. Today he was working on his withering stare.
+
+[HEADER 0020007D]
+Excuse me, Sir...
+
+[HEADER 0020007E]
+Hi! My name's George Stobbart!
+
+[HEADER 00200080]
+Really.
+
+[HEADER 00200081]
+If you wish to make an appointment, see the receptionist.
+
+[HEADER 0020007F]
+Ah-ha! Just the man...!
+
+[HEADER 00200082]
+You must be the new boy.
+
+[HEADER 00200083]
+Uh... yeah, I must be.
+
+[HEADER 00200084]
+Well, stop wandering about and make yourself useful...
+
+[HEADER 00200085]
+Bunny! Come here, boy.
+
+[HEADER 00200086]
+This is Benoir, my nephew.
+
+[HEADER 00200087]
+Can I trust you to look after him?
+
+[HEADER 0020008C]
+Do your own baby-sitting, gramps.
+
+[HEADER 0020008D]
+Who do you think you are, anyhow?
+
+[HEADER 0020008E]
+I am Felix Hagenmeyer.
+
+[HEADER 0020008F]
+And may I say what an honour it is to meet you in person, Sir.
+
+[HEADER 00200090]
+You're on my Medical Wall of Fame, right up there with Pasteur and Leary!
+
+[HEADER 00200091]
+I look on it as a privilege, no - an honour, to look after your nephew, Sir.
+
+[HEADER 00200092]
+He's fresh out of medical school.
+
+[HEADER 00200093]
+It will open his eyes to see a real doctor on the job...
+
+[HEADER 00200094]
+I'll bet!
+
+[HEADER 00200095]
+Show him around. Let him see some real suffering!
+
+[HEADER 00200096]
+I'm looking for a guy named Jacques Marquet.
+
+[HEADER 00200097]
+In which department does he work?
+
+[HEADER 00200098]
+He doesn't. He's a patient.
+
+[HEADER 00200099]
+I see.
+
+[HEADER 0020009A]
+You do realize there are strict policies regarding visiting hours, don't you?
+
+[HEADER 0020009B]
+Lost him, have you? Don't worry about it.
+
+[HEADER 0020009C]
+He'll turn up. Have you tried physio?
+
+[HEADER 0020009D]
+Whenever I lose a patient that's the first place I check out.
+
+[HEADER 0020009E]
+This is important. I have to talk to Marquet urgently.
+
+[HEADER 0020009F]
+We make no exceptions to the rules.
+
+[HEADER 002000A0]
+It's a matter of life and death!
+
+[HEADER 002000A1]
+The well-oiled running of this hospital is a matter of life and death!
+
+[HEADER 002000A2]
+That's why we have rules.
+
+[HEADER 002000A3]
+I think I ought to warn you that Marquet is not what he seems...
+
+[HEADER 002000A4]
+Explain yourself.
+
+[HEADER 002000A5]
+He's in league with a bunch of guys who want to take over the world.
+
+[HEADER 002000A6]
+Nonsense!
+
+[HEADER 002000A9]
+Besides, Marquet's employers have paid, in advance, for one of our most exclusive private rooms.
+
+[HEADER 002000AA]
+Could you tell me who Marquet's employers are?
+
+[HEADER 002000AB]
+Certainly not!
+
+[HEADER 002000B0]
+Do you recognize this red nose, Sir?
+
+[HEADER 002000B1]
+No, I do not.
+
+[HEADER 002000B2]
+This is a hospital, not a circus ring.
+
+[HEADER 002000B3]
+We minister to the sick in body, not the sick in mind.
+
+[HEADER 002000C0]
+Do you recognize the man in this photograph?
+
+[HEADER 002000C1]
+No, Sir, I do not.
+
+[HEADER 002000AE]
+Would you like this ball?
+
+[HEADER 002000AF]
+Certainly not! The playing of ball games on hospital properties is prohibited.
+
+[HEADER 002000B4]
+Does this old cup mean anything to you?
+
+[HEADER 002000B5]
+What the devil is it?
+
+[HEADER 002000B6]
+It's the communion chalice of the de Vasconcellos.
+
+[HEADER 002000B7]
+There are rules about the use of devotional equipment on hospital property...
+
+[HEADER 002000BE]
+Did I show you this chalice?
+
+[HEADER 002000BF]
+Yes, you did.
+
+[HEADER 002000C5]
+Look at this, doc. It's a genuine Medieval type gemstone.
+
+[HEADER 002000C6]
+Yes, so I see.
+
+[HEADER 002000C7]
+Remarkable.
+
+[HEADER 002000C8]
+I have to take this gem to Marquet.
+
+[HEADER 002000C9]
+He might be able to explain its significance.
+
+[HEADER 002000CA]
+My dear chap, Marquet has other things on his mind right now.
+
+[HEADER 002000CB]
+Like what?
+
+[HEADER 002000CC]
+His catheter, for one.
+
+[HEADER 002000D0]
+Does the name Thomas Moerlin mean anything to you?
+
+[HEADER 002000D1]
+No, it does not.
+
+[HEADER 002000D2]
+Does this tool mean anything to you?
+
+[HEADER 002000D3]
+Sacre bleu! That's exactly what I needed in my last operation!
+
+[HEADER 002000D4]
+It is?
+
+[HEADER 002000D5]
+I had to improvise with a knitting needle and a couple of corks.
+
+[HEADER 002000D6]
+If only you'd been on hand at the time...
+
+[HEADER 002000D7]
+My patient would have given his right arm for it!
+
+[HEADER 002000D8]
+Yes. I really must get one like it myself...
+
+[HEADER 002000D9]
+Have you ever heard of the Club Alamut?
+
+[HEADER 002000DA]
+No, Sir, I have not.
+
+[HEADER 002000DB]
+Does this white powder mean anything to you?
+
+[HEADER 002000DC]
+No, Sir. I do not pretend to know the pharmacist's job.
+
+[HEADER 002000DD]
+Look what Nurse Grendel gave me, Sir.
+
+[HEADER 002000DE]
+Ah, yes. Very good. I'm glad to see you're carrying it with you.
+
+[HEADER 002000E1]
+May I have the honour of shaking you by the hand?
+
+[HEADER 002000E2]
+You may not. I don't encourage physical contact between my staff.
+
+[HEADER 002000E3]
+What do you make of this tissue, Sir?
+
+[HEADER 002000E6]
+If I were you I'd have this sample analyzed.
+
+[HEADER 002000E9]
+Is this chain any use to you?
+
+[HEADER 002000EA]
+No.
+
+[HEADER 002000EB]
+Does this tripod mean anything to you?
+
+[HEADER 002000EC]
+No, it does not.
+
+[HEADER 002000AD]
+Thanks for your help.
+
+[HEADER 00200079]
+Stop! Come here!
+
+[HEADER 0020007A]
+What's the problem, gramps?
+
+[HEADER 0020007B]
+Where do you think you're sloping off to?
+
+[HEADER 0020007C]
+Get back to work immediatement!
+
+[HEADER 001F0002]
+There was no sign of the crew of the ambulance...
+
+[HEADER 001F0003]
+I felt a little guilty as I tried the door - like I was about to rob a grave.
+
+[HEADER 001F0004]
+I gripped the handle with an involuntary tremble in my hand and pulled...
+
+[HEADER 001F0005]
+The door was locked.
+
+[HEADER 00210006]
+The connector in the socket supplied electricity to the polishing machine.
+
+[HEADER 00210007]
+As I tugged the plug out of the socket the polishing machine coughed, spluttered and died.
+
+[HEADER 002100A7]
+Take that, you stubborn tin can!
+
+[HEADER 002100A8]
+Not again! This is not a good day!
+
+[HEADER 002100A9]
+Mr. Shiny! What's wrong, pal?
+
+[HEADER 00210002]
+The door didn't have a sign or label, or any kind of identification.
+
+[HEADER 00210003]
+It was the door to the store cupboard.
+
+[HEADER 002100A4]
+Hey, now - you can't go in there.
+
+[HEADER 002100A0]
+Hey, I asked you not to go in there!
+
+[HEADER 0021009E]
+Hey...!
+
+[HEADER 002100A5]
+How come?
+
+[HEADER 002100A6]
+I'm responsible for the contents of that cupboard.
+
+[HEADER 002100A1]
+I know, but I'm curious.
+
+[HEADER 002100A2]
+Oh, no! I'm responsible for that cupboard and the contents.
+
+[HEADER 002100A3]
+Okay...
+
+[HEADER 0021009F]
+Okay...
+
+[HEADER 00220000]
+The nurse was stunningly beautiful. The guys on this ward sure were lucky to be in her care.
+
+[HEADER 00220012]
+Oui, m'sieur?
+
+[HEADER 00220013]
+Is this ward J-Two?
+
+[HEADER 00220014]
+It is, but you are not supposed to be here!
+
+[HEADER 00220015]
+We have strict rules about visiting hours.
+
+[HEADER 00220016]
+Can't you make an exception? I've come all the way from California!
+
+[HEADER 00220017]
+You must speak to the doctor...
+
+[HEADER 00220018]
+I can't wait that long. What if he snuffs it?
+
+[HEADER 00220019]
+You can't talk like that here! This is a hospital!
+
+[HEADER 0022001A]
+You will have to leave.
+
+[HEADER 0022001B]
+I told you to leave!
+
+[HEADER 00220067]
+You may come back at visiting time, m'sieur.
+
+[HEADER 00220068]
+Thanks. When is that?
+
+[HEADER 00220069]
+The second Tuesday of each month.
+
+[HEADER 0022001C]
+Okay, ma'am - I know when I'm not wanted.
+
+[HEADER 0022002B]
+Good afternoon, docteur.
+
+[HEADER 0022002C]
+Oh, hi. Is this ward J-Two?
+
+[HEADER 0022002D]
+Yes, Sir.
+
+[HEADER 0022002E]
+The patients are ready for your inspection, docteur
+
+[HEADER 0022002F]
+Uh - thank you, nurse.
+
+[HEADER 00220034]
+You'll need this, docteur...
+
+[HEADER 00220035]
+She gave me a long, narrow metal box and a stunning smile...
+
+[HEADER 00220036]
+Thanks.
+
+[HEADER 00220025]
+Could you take a look at the client in bed number three, now?
+
+[HEADER 00220026]
+His name is Eric Sopmarsh.
+
+[HEADER 00220037]
+Pardon me, nurse...
+
+[HEADER 00220038]
+Oui, m'sieur?
+
+[HEADER 00220039]
+Do you have a patient named Marquet on this ward?
+
+[HEADER 0022003A]
+Oui, m'sieur. He is in the private room at the end of the ward.
+
+[HEADER 0022003B]
+He has been placed in strict isolation.
+
+[HEADER 0022003C]
+Why is Marquet in quarantine?
+
+[HEADER 0022003D]
+If you wish to know more, you'll have to speak to Herr Hagenmeyer.
+
+[HEADER 0022003E]
+All I know is that Marquet's room is strictly out of bounds.
+
+[HEADER 00220047]
+Do you know who paid for Marquet's room?
+
+[HEADER 00220048]
+No, of course I don't!
+
+[HEADER 00220049]
+Preferential treatment like that must cost an arm and a leg...
+
+[HEADER 0022004A]
+That's not my concern, m'sieur.
+
+[HEADER 0022004B]
+Is it true that Marquet is suffering from anthrax?
+
+[HEADER 0022004C]
+Keep your voice down, m'sieur!
+
+[HEADER 0022004D]
+Who told you that?
+
+[HEADER 0022004E]
+The cop at the door.
+
+[HEADER 0022004F]
+It's not true. It can't be. Herr Hagenmeyer would have told me!
+
+[HEADER 00220050]
+Evacuate. That's it. No panic. Women and children first...
+
+[HEADER 00220051]
+Has anyone ever told you how cute you are when you go to pieces?
+
+[HEADER 00220052]
+So, what precautions do you intend to take to prevent the spread of anthrax?
+
+[HEADER 00220053]
+My first step will be to burn the bodies.
+
+[HEADER 00220054]
+Burn... the bodies?
+
+[HEADER 00220055]
+It won't be easy, I know, but I can do it!
+
+[HEADER 00220056]
+Just give me a chance, docteur! Let me burn the patients!
+
+[HEADER 00220057]
+I don't think that would be a good idea, Nurse Grendel.
+
+[HEADER 00220058]
+I'm sorry, docteur, but the other staff put me up to this.
+
+[HEADER 00220059]
+It's because you're new, you see. Traditional hospital humour.
+
+[HEADER 0022005A]
+Hilarious. Then Marquet hasn't got anthrax?
+
+[HEADER 0022005B]
+No, Sir.
+
+[HEADER 0022005C]
+Do you have any clowns on the ward?
+
+[HEADER 0022005D]
+Why, yes - we do. A professional clown.
+
+[HEADER 0022005E]
+I'll bet he lightens the place up!
+
+[HEADER 0022005F]
+Hardly. M'sieur Boissy has been in a coma for the last three months.
+
+[HEADER 00220060]
+What's wrong with Boissy?
+
+[HEADER 00220061]
+He was involved in a very nasty accident.
+
+[HEADER 00220062]
+A silly stunt involving a unicycle.
+
+[HEADER 00220063]
+His current condition is due to post-traumatic shock.
+
+[HEADER 00220064]
+It's unlikely he'll ever perform as a clown again...
+
+[HEADER 00220065]
+It's an ill wind that blows nobody any good.
+
+[HEADER 00220085]
+Do you recognise this tissue?
+
+[HEADER 00220086]
+No, I don't! It looks like a chronic health risk to me!
+
+[HEADER 00220087]
+I've been carrying it around for days and I'm okay.
+
+[HEADER 0022007D]
+Do you want this, uh...
+
+[HEADER 0022007E]
+Device for measuring blood pressure?
+
+[HEADER 0022007F]
+Yeah. Do you want it back?
+
+[HEADER 00220080]
+No, thank you.
+
+[HEADER 0022007B]
+What is this device?
+
+[HEADER 0022007C]
+It's for taking the patient's blood pressure, docteur.
+
+[HEADER 0022006F]
+Do you recognize the man in this photograph?
+
+[HEADER 00220070]
+No, I don't.
+
+[HEADER 00220071]
+Does this gem mean anything to you?
+
+[HEADER 00220072]
+It's beautiful, but I've never seen it before.
+
+[HEADER 00220073]
+Do you know Moerlin, of Grüber Electronics?
+
+[HEADER 00220074]
+No, I don't.
+
+[HEADER 00220075]
+Does this tool mean anything to you?
+
+[HEADER 00220076]
+I don't recognize it.
+
+[HEADER 00220077]
+Does this mean anything to you?
+
+[HEADER 00220078]
+The Club Alamut? I've never heard of it.
+
+[HEADER 0022006B]
+Do you recognize this red nose?
+
+[HEADER 0022006C]
+Oh, dear. I don't think he'll be needing that again!
+
+[HEADER 0022006D]
+Who?
+
+[HEADER 0022006E]
+M'sieur Boissy, the comatose clown.
+
+[HEADER 00220079]
+Is this plaster any use to you?
+
+[HEADER 0022007A]
+No, it isn't.
+
+[HEADER 00220081]
+Would you like to shake hands with me?
+
+[HEADER 00220082]
+Well...
+
+[HEADER 00220083]
+Okay, forget it.
+
+[HEADER 00220066]
+Thank you, nurse.
+
+[HEADER 0022006A]
+Au revoir, m'sieur!
+
+[HEADER 0022001D]
+Docteur!
+
+[HEADER 0022001E]
+What is it now, nurse?
+
+[HEADER 0022001F]
+Number two again. He won't tell me what he wants.
+
+[HEADER 00220020]
+He says he'll only talk to a man.
+
+[HEADER 00220021]
+Do I have to? That guy's nuts!
+
+[HEADER 00220022]
+Docteur, I'm surprised at you!
+
+[HEADER 00220023]
+That's no way to talk about our clients!
+
+[HEADER 00220024]
+Okay, okay - I'll see him, but I'm telling you - he's a hypochondriac.
+
+[HEADER 00220027]
+What's his problem?
+
+[HEADER 00220028]
+He's delirious. He just now came out of theatre.
+
+[HEADER 00220029]
+He's recovering from major surgery.
+
+[HEADER 0022002A]
+I'll have him up and about before you can say `Lazarus, get out of your bed and walk'!
+
+[HEADER 00200003]
+The young man's fresh face was full of eagerness and enthusiasm. I figured he was fresh from college.
+
+[HEADER 00830001]
+Hi! My name's George Stobbart.
+
+[HEADER 00830000]
+Hey - Benoir!
+
+[HEADER 00830011]
+Yes, Sir?
+
+[HEADER 00830003]
+So, what's your name, kid?
+
+[HEADER 00830004]
+Benoir. They call me Bunny.
+
+[HEADER 00830005]
+Bunny? Jeez! And you don't mind?
+
+[HEADER 00830006]
+I've gotten used to it.
+
+[HEADER 00830007]
+Okay, Benoir - you're gonna help me.
+
+[HEADER 00830008]
+Anything you say, Sir.
+
+[HEADER 00830009]
+Pleased to meet you, Sir.
+
+[HEADER 0083000A]
+Call me George, if you like.
+
+[HEADER 0083000B]
+Are you sure?
+
+[HEADER 0083000C]
+Yeah. That's my name.
+
+[HEADER 0083000D]
+My name's Benoir - but everyone calls me Bunny.
+
+[HEADER 0083000E]
+Bunny?
+
+[HEADER 0083000F]
+That's right. I used to have this cute habit when I was a kid.
+
+[HEADER 00830010]
+Keep it to yourself, Benoir.
+
+[HEADER 00830027]
+Do you know the nurse on ward J2?
+
+[HEADER 00830028]
+Non, Sir. This is my first day here.
+
+[HEADER 00830029]
+I can't wait to get my hands dirty!
+
+[HEADER 0083002A]
+I was talking about treating my first patient, of course.
+
+[HEADER 0083002B]
+I didn't mean I'd get my hands dirty with the nurse...
+
+[HEADER 0083002C]
+Shut up, Benoir.
+
+[HEADER 0083002D]
+Okay, Sir.
+
+[HEADER 0083002E]
+Do you know anything about a patient named Marquet?
+
+[HEADER 0083002F]
+No, Sir. I don't know much about any of the patients.
+
+[HEADER 00830030]
+I've never met a doctor who admits that he's only human...
+
+[HEADER 00830031]
+I'm only a trainee, Sir. I'm sure I'll get the hang of things.
+
+[HEADER 00830032]
+Do you know anything about anthrax, Bunny?
+
+[HEADER 00830033]
+Not much, Sir. I thought it was virtually wiped out...
+
+[HEADER 00830034]
+Maybe you'd like to put that to a practical test?
+
+[HEADER 00830035]
+Oh, no, Sir. Definitely not, Sir. Most emphatically not, Sir.
+
+[HEADER 00830036]
+I thought so.
+
+[HEADER 00830037]
+Underneath that starched waiter's uniform you're nothing but a worm.
+
+[HEADER 00830038]
+I really must object, Sir.
+
+[HEADER 00830039]
+Why don't you run along to Uncle Felix, huh?
+
+[HEADER 0083003A]
+Tell him you don't mind attending to his patients as long as they're only slightly ill?
+
+[HEADER 0083003B]
+Meanwhile, poor Marquet is up to his neck in some damned cow disease.
+
+[HEADER 0083003C]
+Marquet? He doesn't have anthrax. I heard Uncle Felix discussing his case.
+
+[HEADER 0083003D]
+It was a test, Benoir - and you failed it.
+
+[HEADER 0083003E]
+Now do try to look more like a man who holds people's lives in his hands.
+
+[HEADER 0083003F]
+I'll try, Sir, but I'll warn you - I'm hopeless at acting.
+
+[HEADER 00830025]
+Do you still have that gauge I gave you?
+
+[HEADER 00830026]
+Oh, yes. What do you want me to do with it?
+
+[HEADER 00830014]
+Use it on Nurse Grendel.
+
+[HEADER 00830015]
+Huh?
+
+[HEADER 00830016]
+Go on - she'll enjoy it.
+
+[HEADER 00830017]
+Well, okay...
+
+[HEADER 00830018]
+Docteur Stobbart!
+
+[HEADER 00830019]
+Yeah?
+
+[HEADER 0083001A]
+I would appreciate it if you saved your jokes for the interns' rest room.
+
+[HEADER 0083001B]
+This is a hospital ward, not a cabaret.
+
+[HEADER 0083001C]
+Aw, lighten up!
+
+[HEADER 0083001D]
+I heard that! Any more nonsense and I shall report you to Doctor Hagenmeyer!
+
+[HEADER 0083001E]
+Use it on Eric Sopmarsh.
+
+[HEADER 0083001F]
+Okay...
+
+[HEADER 0083006E]
+Keep it safe until I think of something.
+
+[HEADER 0083006A]
+Here, take this pressure gauge.
+
+[HEADER 0083006B]
+Thank you, Sir.
+
+[HEADER 0083006C]
+What do you want me to do with it?
+
+[HEADER 0083006D]
+Well...
+
+[HEADER 00830059]
+Shake my hand, Benoir.
+
+[HEADER 0083005A]
+I don't think that's a good idea, Sir.
+
+[HEADER 0083005B]
+How come?
+
+[HEADER 0083005C]
+Dermatitis.
+
+[HEADER 0083005D]
+I don't have dermatitis.
+
+[HEADER 0083005E]
+I do.
+
+[HEADER 00830045]
+What do you make of this ball?
+
+[HEADER 00830046]
+Oh perfait! We can have a game in the corridor later.
+
+[HEADER 00830047]
+Maybe not...
+
+[HEADER 00830048]
+Does this false nose mean anything to you?
+
+[HEADER 00830049]
+No, it doesn't.
+
+[HEADER 0083004C]
+Do you recognize the man in this photograph?
+
+[HEADER 0083004D]
+No, monsieur. I've never seen him before.
+
+[HEADER 0083004E]
+Does this gem mean anything to you?
+
+[HEADER 0083004F]
+Not me, Sir.
+
+[HEADER 00830050]
+Have you ever heard of a guy named Moerlin?
+
+[HEADER 00830051]
+No, Sir.
+
+[HEADER 00830052]
+What does this tool suggest to you?
+
+[HEADER 00830053]
+Isn't that used to snap the patient's ribs when exploring the abdomen?
+
+[HEADER 00830055]
+Have you ever heard of the Club Alamut?
+
+[HEADER 00830056]
+No, Sir.
+
+[HEADER 00830057]
+Do you know what this white powder is?
+
+[HEADER 00830058]
+No, Sir.
+
+[HEADER 00830060]
+What does this tissue mean to you?
+
+[HEADER 00830061]
+Is that a nasal discharge, Sir?
+
+[HEADER 00830062]
+No, it's greasepaint.
+
+[HEADER 00830063]
+Do you recognize this tripod?
+
+[HEADER 00830064]
+No, Sir.
+
+[HEADER 00830065]
+Have you any idea what this cup is used for?
+
+[HEADER 00830066]
+Blood letting?
+
+[HEADER 00830041]
+Follow me, Benoir.
+
+[HEADER 00830042]
+I'm right behind you, Sir...
+
+[HEADER 00830043]
+See you later...
+
+[HEADER 00830044]
+Right.
+
+[HEADER 00220001]
+He sat like a statue of a sack of potatoes, but the cop's eyes were as watchful as a hawk's.
+
+[HEADER 00220127]
+Rather you than me, pal!
+
+[HEADER 00220128]
+I'm Doctor Stobbart.
+
+[HEADER 00220129]
+Bonjour, docteur.
+
+[HEADER 0022012A]
+Hello again.
+
+[HEADER 0022012B]
+Bonjour.
+
+[HEADER 00220149]
+I've got some good news for you...
+
+[HEADER 0022014B]
+You'll be pleased to know Marquet hasn't got anthrax.
+
+[HEADER 0022014C]
+I knew that. It was my idea in the first place.
+
+[HEADER 0022013B]
+Have you heard of a guy called Marquet?
+
+[HEADER 0022013C]
+He's in quarantine, doc. Right behind this here door.
+
+[HEADER 0022013D]
+Marquet is just the man I wanted to see.
+
+[HEADER 0022013E]
+I wouldn't go in there if I was you...
+
+[HEADER 0022013F]
+He has anthrax.
+
+[HEADER 00220140]
+I have to visit my patient.
+
+[HEADER 00220141]
+What for?
+
+[HEADER 00220142]
+Routine. I have to check he's still breathing.
+
+[HEADER 00220143]
+What if he's not?
+
+[HEADER 00220144]
+I'll sign the certificate and register his bed as vacant.
+
+[HEADER 00220145]
+That's a cold and distant attitude to death.
+
+[HEADER 00220146]
+I've been institutionalized to the point of godlike aloofness.
+
+[HEADER 00220147]
+The white coat suits you.
+
+[HEADER 00220148]
+Thanks.
+
+[HEADER 0022012C]
+Have you seen any suspicious characters on the ward?
+
+[HEADER 0022012D]
+Yeah - I have.
+
+[HEADER 0022012E]
+A gorilla and a weasel?
+
+[HEADER 0022012F]
+No! This was a tatty old bear.
+
+[HEADER 00220130]
+How was the bear acting suspiciously?
+
+[HEADER 00220131]
+Well... he was wearing a homburg...
+
+[HEADER 00220132]
+Is that against the law?
+
+[HEADER 00220133]
+No, but it's pretty weird for a bear.
+
+[HEADER 00220165]
+What does this tissue suggest to you?
+
+[HEADER 00220166]
+It looks as if it has been used to wipe Satan's bottom.
+
+[HEADER 00220167]
+I hate to say it, but you could be right...
+
+[HEADER 0022015B]
+What do you think this tool is used for?
+
+[HEADER 0022015C]
+Branding mice without bending down.
+
+[HEADER 00220150]
+Do you recognize this red nose?
+
+[HEADER 00220151]
+Don't get cute with me.
+
+[HEADER 00220152]
+Do you recognize the man in this photograph?
+
+[HEADER 00220153]
+No, I've never seen him before.
+
+[HEADER 00220154]
+Do you recognize this gem?
+
+[HEADER 00220155]
+It isn't an emerald, is it?
+
+[HEADER 00220156]
+Uh... yeah, I think so.
+
+[HEADER 00220158]
+Are you Thomas Moerlin of Grüber Electronics?
+
+[HEADER 00220159]
+No.
+
+[HEADER 0022015A]
+Then you won't be needing this...
+
+[HEADER 0022015D]
+Have you ever heard of the Club Alamut?
+
+[HEADER 0022015E]
+No. It sounds Middle-Eastern.
+
+[HEADER 0022015F]
+Can you think of any sensible use for this plaster?
+
+[HEADER 00220160]
+Sensible? No. Puerile? Yes - but you've probably thought of those yourself already.
+
+[HEADER 00220161]
+Would you like to shake hands?
+
+[HEADER 00220162]
+What for?
+
+[HEADER 00220163]
+As a gesture of goodwill...
+
+[HEADER 00220164]
+On reflection, no.
+
+[HEADER 0022014D]
+Catch you later, officer.
+
+[HEADER 0022014E]
+Au revoir, doc.
+
+[HEADER 002200D7]
+Oh, Doctor!
+
+[HEADER 002200DF]
+You haven't taken my blood pressure!
+
+[HEADER 002200CF]
+You haven't finished taking my blood pressure!
+
+[HEADER 002200D0]
+Will you keep quiet? You're disturbing the other patients.
+
+[HEADER 002200D1]
+I'll keep quiet when you've taken my blood pressure properly.
+
+[HEADER 002200D2]
+I have to see Jacques Marquet first...
+
+[HEADER 002200D3]
+How come he gets preferential treatment?
+
+[HEADER 002200D4]
+It's because he's got money, isn't it?
+
+[HEADER 002200D6]
+I'll come back when you've dealt with that chip on your shoulder...
+
+[HEADER 002200D8]
+What now?
+
+[HEADER 002200D9]
+You didn't finish taking my blood pressure!
+
+[HEADER 002200DA]
+Okay - let's try again...
+
+[HEADER 002200DB]
+You don't have the first idea what you're doing, do you?
+
+[HEADER 002200DC]
+I'll come back when you've recovered your manners.
+
+[HEADER 002200DD]
+Doctor!
+
+[HEADER 002200DE]
+What is it?
+
+[HEADER 002200E0]
+It seems fine to me...
+
+[HEADER 002200E1]
+You're not doing it right.
+
+[HEADER 002200E2]
+Of course I am.
+
+[HEADER 002200E3]
+No, you're not. Doctor Monroe never did it like that.
+
+[HEADER 002200E4]
+I can't take a satisfactory reading while you're excited like this.
+
+[HEADER 002200E5]
+I'll come back later...
+
+[HEADER 00220005]
+This guy didn't look sick to me.
+
+[HEADER 00220006]
+He didn't have spots, or stitches, and he certainly didn't have a fever...
+
+[HEADER 002200E6]
+Hello? Anybody home?
+
+[HEADER 002200E7]
+Who are you?
+
+[HEADER 002200E8]
+My name is Doctor Stobbart, and I'm here to steer you down the rocky road to recovery!
+
+[HEADER 002200E9]
+Doctor Monroe said there was no cure for what I've got...
+
+[HEADER 002200EA]
+Your problem is you stayed in bed too long.
+
+[HEADER 002200EB]
+Are you sure you're a qualified doctor?
+
+[HEADER 002200EC]
+You better believe it.
+
+[HEADER 002200ED]
+Hi - it's me again.
+
+[HEADER 002200EE]
+What's your impression of Nurse Grendel?
+
+[HEADER 002200EF]
+She's a very efficient young woman.
+
+[HEADER 002200F0]
+Efficient? You make her sound like a vacuum cleaner!
+
+[HEADER 002200F1]
+I've no complaints.
+
+[HEADER 002200F2]
+The woman in reception described Nurse Grendel as a monster...
+
+[HEADER 002200F3]
+Well, that's simply not true.
+
+[HEADER 002200F4]
+She's quite strict, but that's her job, isn't it?
+
+[HEADER 002200F5]
+You've got to have discipline in a place like this.
+
+[HEADER 002200F6]
+What can you tell me about Marquet?
+
+[HEADER 002200F7]
+He's the man in the private room, isn't he?
+
+[HEADER 002200F8]
+That room was mine before I was tossed out, like a common squatter!
+
+[HEADER 002200F9]
+Do you know what's wrong with Marquet?
+
+[HEADER 002200FA]
+They won't even say what's wrong with me!
+
+[HEADER 002200FB]
+Tell me, doctor - what's your opinion?
+
+[HEADER 002200FC]
+Uh... It's too early to say.
+
+[HEADER 002200FD]
+But I've been here for three months!
+
+[HEADER 002200FF]
+Do you recognize this red nose?
+
+[HEADER 00220100]
+Doesn't that belong to Boissy?
+
+[HEADER 00220101]
+No - I found it in a sewer.
+
+[HEADER 00220102]
+He's a clown, you know.
+
+[HEADER 00220103]
+You wouldn't think so to look at him now, would you?
+
+[HEADER 00220104]
+Do you recognize the man in this photograph?
+
+[HEADER 00220105]
+No, doctor. Who is it?
+
+[HEADER 00220106]
+A cold-blooded killer.
+
+[HEADER 0022010F]
+Does this gem mean anything to you?
+
+[HEADER 00220110]
+No, doctor.
+
+[HEADER 00220113]
+Have you heard of a guy called Moerlin?
+
+[HEADER 00220114]
+No, doctor.
+
+[HEADER 00220115]
+Do you know what this tool is used for?
+
+[HEADER 00220116]
+I'd rather not, doctor.
+
+[HEADER 00220118]
+Have you ever heard of the Club Alamut?
+
+[HEADER 00220119]
+I'm not really a nightclub man, doctor.
+
+[HEADER 0022011B]
+Do you know what this is?
+
+[HEADER 0022011C]
+It looks like plaster.
+
+[HEADER 00220124]
+Have you any idea what this is?
+
+[HEADER 00220125]
+No, doctor. I wouldn't even like to guess.
+
+[HEADER 0022011F]
+I'm going to take your blood pressure...
+
+[HEADER 00220120]
+Why?
+
+[HEADER 00220121]
+I'm a doctor - it's my job.
+
+[HEADER 0023000B]
+Marquet?
+
+[HEADER 0023000C]
+Yes, I'm Marquet. I've been expecting you...
+
+[HEADER 0023000D]
+You have?
+
+[HEADER 0023000E]
+Well, what are you waiting for? Get it over with!
+
+[HEADER 0023000F]
+I just want to know what I should do with the gem.
+
+[HEADER 00230010]
+The Lochmarne gem...?
+
+[HEADER 00230011]
+Yeah. Right here in my pocket.
+
+[HEADER 00230012]
+I thought you were one of the Hashshashin!
+
+[HEADER 00230013]
+Not me.
+
+[HEADER 00230014]
+I never inhaled.
+
+[HEADER 00230015]
+So... you were sent in my place?
+
+[HEADER 00230016]
+Uh... yeah. You could hardly make the trip to Ireland in your condition.
+
+[HEADER 00230017]
+What should I do with the gem?
+
+[HEADER 00230018]
+Deliver it to the Grand Master, quickly!
+
+[HEADER 00230019]
+Tell him that I've found the tripod - right here, in Paris.
+
+[HEADER 0023001A]
+You have it?
+
+[HEADER 0023001B]
+Not yet, but it's being taken care of.
+
+[HEADER 0023001C]
+I've hired a couple of stooges with a flair for petty crime.
+
+[HEADER 0023001D]
+Would that be Flap and Guido, by any chance?
+
+[HEADER 0023001E]
+You know them?
+
+[HEADER 00230025]
+As for Klausner, he's gone off to Syria on a wild-goose chase!
+
+[HEADER 00230026]
+They have geese in Syria?
+
+[HEADER 00230027]
+He has a theory about the location of the...
+
+[HEADER 00230028]
+That's enough excitement for one day, M'sieur Marquet...
+
+[HEADER 00230029]
+What are you doing here?
+
+[HEADER 0023002A]
+Talking to this patient, of course.
+
+[HEADER 0023002B]
+M'sieur Marquet is my patient.
+
+[HEADER 0023002C]
+If Herr Hagenmeyer was to hear that...
+
+[HEADER 0023002D]
+Okay! I'm going.
+
+[HEADER 0023002E]
+I'd learned all I could from Marquet anyhow.
+
+[HEADER 0023002F]
+There you are, Sir! I was just coming to look for you.
+
+[HEADER 00230030]
+I've finished with your pressure gauge.
+
+[HEADER 00230031]
+Thanks, Bunny.
+
+[HEADER 00230032]
+What's that noise? It sounds as if someone's having a cardiac arrest!
+
+[HEADER 00230033]
+It's all right - the doctor is in there with him.
+
+[HEADER 00230034]
+Are you sure he was a doctor?
+
+[HEADER 00230035]
+Oui, m'sieur! He showed me his ID. It was Docteur Braille.
+
+[HEADER 00230036]
+There's no Docteur Braille working here.
+
+[HEADER 00230037]
+He's an impostor!
+
+[HEADER 00230038]
+The door's locked! Help me, officer!
+
+[HEADER 00230039]
+Stand back, messieurs!
+
+[HEADER 00210008]
+It was a classic example of functionalism, like an early Soviet spacecraft.
+
+[HEADER 00210009]
+I almost expected to see a dog or a monkey leap out...
+
+[HEADER 0021000B]
+He looked blissfully happy, for no apparent reason.
+
+[HEADER 0021000C]
+The janitor's face was a mask of sadness and pain, like his best friend had just died...
+
+[HEADER 002100AA]
+Hello!
+
+[HEADER 002100AB]
+What's that?
+
+[HEADER 002100AC]
+I said: Hello!
+
+[HEADER 002100AD]
+Oh - hiya!
+
+[HEADER 002100AE]
+I'd like to talk to you for a minute...
+
+[HEADER 002100AF]
+That's what I thought you said.
+
+[HEADER 002100B0]
+Don't look so down-in-the-mouth!
+
+[HEADER 002100B1]
+No matter how bad things seem, I never let life get on top of me!
+
+[HEADER 002100B2]
+Oh, yeah? What's your secret?
+
+[HEADER 002100B3]
+Why - it's easy! All you have to do is smile - and whistle this little tune...
+
+[HEADER 002100B4]
+You know what? If you start whistling I'll bust you in the teeth.
+
+[HEADER 002100B5]
+It's a deal!
+
+[HEADER 002100B6]
+Oh, hi!
+
+[HEADER 002100B7]
+No whistling, right?
+
+[HEADER 002100B8]
+Right.
+
+[HEADER 002100B9]
+Do you know where I'd find a patient called Marquet?
+
+[HEADER 002100BA]
+No. I'm not allowed on the wards with Mr. Shiny.
+
+[HEADER 002100BB]
+Have you seen any unsavoury characters lurking about in the corridors?
+
+[HEADER 002100BC]
+No, Sir, I haven't, but I've got nothing to worry about.
+
+[HEADER 002100BD]
+What's that, Mr. Shiny? You'd take good care of the rascals? I'll bet you would!
+
+[HEADER 002100BE]
+With a friend like him I've no fear of oppressors!
+
+[HEADER 002100BF]
+It must be a great comfort.
+
+[HEADER 002100C0]
+He is.
+
+[HEADER 002100CF]
+Are you having trouble with Mr. Shiny?
+
+[HEADER 002100D0]
+Yes, I am! I don't know what's got into him today.
+
+[HEADER 002100D1]
+He keeps pullin' his plug.
+
+[HEADER 002100C4]
+How come you got so attached to a polishing machine?
+
+[HEADER 002100C5]
+I asked you not to call him that.
+
+[HEADER 002100C6]
+He's got a name, you know.
+
+[HEADER 002100C7]
+Uh... yeah. Mr. Shiny.
+
+[HEADER 002100C8]
+It's just that...
+
+[HEADER 002100C9]
+You think it's odd, don't you?
+
+[HEADER 002100CB]
+I don't mind. The rest of the staff think I'm twisted.
+
+[HEADER 002100CC]
+I heard them, snorking behind my back when I gave Mr. Shiny his weekly pull-through...
+
+[HEADER 002100C1]
+Would `Mr. Shiny' be your polishing machine, by any chance?
+
+[HEADER 002100C2]
+Please - don't call him that. He's more of a friend than a machine.
+
+[HEADER 002100C3]
+I've had Mr. Shiny for three years, and he's never let me down once!
+
+[HEADER 002100E2]
+What's the problem with nurse Grendel?
+
+[HEADER 002100E3]
+She's uptight and twisted, on account of a broken heart.
+
+[HEADER 002100E4]
+Aw, that's too bad. I thought she was just plain bad-tempered.
+
+[HEADER 002100E5]
+That also. By the way, Sir - I wouldn't stand too close to Mr. Shiny's grease valve.
+
+[HEADER 002100E6]
+If he has an emission it'll take the shine clean off your shoes.
+
+[HEADER 002100E7]
+Say  - nice sneakers!
+
+[HEADER 002100E8]
+Thanks.
+
+[HEADER 002100F2]
+Take a look at this red nose...
+
+[HEADER 002100F3]
+Are you a policeman?.
+
+[HEADER 002100F4]
+No. This is a clown's nose, not a policeman's
+
+[HEADER 00210118]
+Do you recognize this matchbook?
+
+[HEADER 00210119]
+You should never, ever play with matches.
+
+[HEADER 0021011A]
+I know that, but...
+
+[HEADER 0021011B]
+People get hurt when they do.
+
+[HEADER 0021011D]
+They end up in hospital like the burger-lady.
+
+[HEADER 0021011E]
+She was so burned-up they didn't know whether to use bandages or onions.
+
+[HEADER 00210085]
+Do you recognize the man in this photograph?
+
+[HEADER 00210126]
+Who is it?
+
+[HEADER 00210127]
+That's what I'm asking you. Have you seen him before?
+
+[HEADER 00210128]
+How should I know? You haven't told me who he is!
+
+[HEADER 00210129]
+Take a look at the photo.
+
+[HEADER 0021012A]
+Yeah. Okay.
+
+[HEADER 0021012B]
+Now, have you seen him before?
+
+[HEADER 00210039]
+No.
+
+[HEADER 002100FE]
+Would this tool be any use to you?
+
+[HEADER 002100FF]
+No, Sir. Mr. Shiny has no user-serviceable parts.
+
+[HEADER 00210100]
+Whatever that means...
+
+[HEADER 00210101]
+Do you recognize this pass?
+
+[HEADER 00210102]
+No, I don't. Should I?
+
+[HEADER 00210103]
+No, but I wondered if you'd seen a stranger flashing it about...
+
+[HEADER 00210104]
+No, Sir. But if I had, Mr. Shiny would take care of him.
+
+[HEADER 00210105]
+Would you like to shake my hand?
+
+[HEADER 00210106]
+Not until I've washed if you don't mind, Sir.
+
+[HEADER 0021009C]
+What does this tissue suggest to you?
+
+[HEADER 0021010B]
+You have a cold. What you need is vitamin C!
+
+[HEADER 0021010D]
+What do you think of this, Sam?
+
+[HEADER 0021010E]
+Oh, boy!
+
+[HEADER 0021010F]
+What is it?
+
+[HEADER 00210110]
+A priceless gemstone, found in a medieval castle in Ireland.
+
+[HEADER 00210111]
+Get me into Marquet's ward and it's yours.
+
+[HEADER 00210112]
+I don't wear jewellery.
+
+[HEADER 00210113]
+If this gem was yours you'd be able to buy a hundred Mr. Shinys!
+
+[HEADER 00210114]
+Don't be silly!
+
+[HEADER 00210115]
+There's only one Mr. Shiny!
+
+[HEADER 0021011F]
+Do you recognise this powder?
+
+[HEADER 00210120]
+Is that dandruff...?
+
+[HEADER 00210121]
+No way!
+
+[HEADER 00210122]
+It sure looks like dandruff.
+
+[HEADER 00210123]
+It's plaster.
+
+[HEADER 00210124]
+Ugh!
+
+[HEADER 00210077]
+See you later...
+
+[HEADER 002100F1]
+Yeah! Take care, now.
+

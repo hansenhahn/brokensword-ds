@@ -1,0 +1,3382 @@
+# Broken Sword - Shadow of the Templars (Director's Cut)
+# Versão do Script: 09.12
+[HEADER 00004268]
+#I feel like I'm missing something. I need somewhere to go.
+Sinto como se eu estivesse esquecendo algo. Preciso de um lugar para ir.
+
+[HEADER 00004272]
+#Head to the carpet seller.
+Vá até o vendedor de tapetes.
+
+[HEADER 0000427C]
+#The pattern on that rug should look awfully familiar.
+O desenho naquele tapete parece bastante familiar.
+
+[HEADER 00004286]
+#Show the matchbook to the carpet seller.
+Mostre a caixa de fósforos ao vendedor de tapetes.
+
+[HEADER 00004290]
+#Ultar is a talkative fellow - but what should I do next?
+O Ultar é um tagarela, mas o que devo fazer agora?
+
+[HEADER 0000429A]
+#Examine the notice on the toilet door, and talk to Ultar about it.
+Leia o aviso na porta do toalete e depois converse com o Ultar.
+
+[HEADER 000042A4]
+#Check out the kebab seller. See the brush that he is using for his kebabs?
+Verifique o vendedor de kebabs. Vê a escova que ele está usando nos kebabs dele?
+
+[HEADER 000042AE]
+#Talk to Nejo - he seems to be the most clued in. He will give you a phrase to say to the kebab seller.
+Fale com o Nejo. Ele parece ser a pessoa mais bem informada por aqui. Ele lhe dará uma frase para você dizer ao vendedor de kebabs.
+
+[HEADER 000042B8]
+#The kebab seller wasn't very pleased! What do I do now?
+O vendedor de kebabs não ficou muito contente! O que faço agora?
+
+[HEADER 000042BA]
+#That didn't appear to have worked too well. Who's crazy idea was it, again?
+Aquilo não pareceu ter funcionado muito bem. De quem foi essa ideia maluca?
+
+[HEADER 000042BC]
+#Go and talk to Nejo about the toilet brush again...
+Vá falar com o Nejo sobre a escova de privada outra vez...
+
+[HEADER 000042AF]
+#It doesn't feel nice carrying this toilet brush around!
+Não me sinto bem carregando uma escova de privada por aí!
+
+[HEADER 000042B0]
+#Give it back to its rightful owner.
+Devolva-a ao verdadeiro dono.
+
+[HEADER 000042B1]
+#Give the toilet brush back to the club owner.
+Devolva a escova de privada ao dono do clube.
+
+[HEADER 000042BE]
+#I need to find a way out of this place.
+Preciso descobrir uma maneira de deixar este lugar.
+
+[HEADER 000042BF]
+#You need to find a taxi driver.
+Você precisa encontrar um taxista.
+
+[HEADER 000042C0]
+#Show Ultar the photo of Khan.
+Mostre ao Ultar a foto do Khan.
+
+[HEADER 000042C2]
+#I've got into the bathroom, but I still don't have money for a taxi ride.
+Eu entrei no banheiro, mas ainda não tenho dinheiro para uma corrida de táxi.
+
+[HEADER 000042CC]
+#Once again, it's Nejo you need to head to.
+Novamente, é ao Nejo quem você deve recorrer.
+
+[HEADER 000042D6]
+#Try operating the bell.
+Tente tocar a sineta.
+
+[HEADER 000042E0]
+#Try petting the cat.
+Tente acariciar o gato.
+
+[HEADER 000042EA]
+#Try petting the cat and then immediately ringing the bell.
+Tente acariciar o gato e logo em seguida tocar a sineta.
+
+[HEADER 000042F4]
+#What should I do with the statue?
+O que eu faço com a estátua?
+
+[HEADER 000042FE]
+#It looks pretty dull - certainly not an antique.
+Ela parece bastante comum. Certamente não é uma antiguidade.
+
+[HEADER 00004308]
+#Wipe the statue with the greasepaint-covered tissue - it'll transform into a priceless antique.
+Esfregue a estátua com o lenço sujo de maquiagem. Ele irá transformá-la em uma antiguidade inestimável.
+
+[HEADER 00004312]
+#I've got a fake marble statue, but I still need 50 Dollars.
+Consegui uma estátua de mármore falsa, mas ainda preciso de 50 dólares.
+
+[HEADER 0000431C]
+#Pearl, the American lady, loves trinket like that.
+Pearl, a senhora americana, adora bugigangas como essa.
+
+[HEADER 00004326]
+#Sell the fake statue to Duane, Pearl's husband.
+Venda a estátua falsa para o Duane, o marido da Pearl.
+
+[HEADER 00004330]
+#This taxi! Now it's broken down. How can I help to fix it?
+Esse taxi! Agora está quebrado. Como posso ajudar a consertá-lo?
+
+[HEADER 0000433A]
+#You need something like a belt, a long piece of material.
+Você precisa de algo como um cinto, ou um longo pedaço de tecido.
+
+[HEADER 00004344]
+#There was a towel dispenser in the bathroom.
+Há um rolo de toalha em uma caixa no banheiro.
+
+[HEADER 0000434E]
+#You need to remove the towel, but the dispenser is locked. Use the bathroom keys to unlock the dispenser, and grab the towel.
+Você precisa remover a toalha, mas a caixa está trancada. Use as chaves do banheiro para destrancá-la e pegar a toalha.
+
+[HEADER 00004350]
+#Talk to Ultar about the towel.
+Converse com o Ultar sobre a toalha.
+
+[HEADER 0032000B]
+#The mirror was as clean as anything else in there.
+O espelho estava tão limpo quanto qualquer outra coisa aqui.
+
+[HEADER 002D0004]
+#The cat was an ugly brute who looked like he owned the joint.
+O gato era um animal feio que parecia ter saído da prisão.
+
+[HEADER 00320004]
+#The design of the toilet was a little different from what I was used to...
+O estilo da privada era um pouco diferente daqueles que eu estava acostumado...
+
+[HEADER 00320005]
+#...but a toilet chain is a toilet chain all the world over.
+... mas uma corrente de privada era uma corrente de privada em qualquer lugar.
+
+[HEADER 00320006]
+#Oops.
+Ops.
+
+[HEADER 002D0007]
+#It was the sort of bell you see in hotel receptions. Kind of unexpected here.
+Era o tipo de sineta que se vê em recepções de hotel. Um pouco inesperado ver uma dessas aqui.
+
+[HEADER 002D0005]
+#Oh, bad tempered as well as ugly...
+Oh, além de feio, era temperamental...
+
+[HEADER 002D000F]
+#There were some great bargains on the shelf. Providing you ran a junk museum.
+Havia algumas excelentes ofertas na prateleira. Ótimo para iniciar seu próprio museu de velharias.
+
+[HEADER 002D0006]
+#As I didn't see the point of going all the way over there to get scratched, I stayed where I was.
+Como não vi nenhum motivo para ir até lá e ser arranhado, fiquei onde estava.
+
+[HEADER 002D0010]
+#I hadn't come all this way to seek out curios.
+Não vim até aqui para ficar procurando coisas raras.
+
+[HEADER 002D0016]
+#How did this guy make a living selling useless old machine parts in the middle of nowhere?
+Como esse cara consegue sobreviver vendendo peças inúteis de máquinas velhas no meio do nada?
+
+[HEADER 002D0017]
+#He didn't have anything that I needed.
+Ele não tinha nada de que eu precisasse.
+
+[HEADER 002D0013]
+#The stand was hawking ancient machine parts.
+A barraca vendia peças de máquinas antigas.
+
+[HEADER 002D0014]
+#The stand was hawking ancient machine parts that seemed to be from a stripped down printing press.
+A barraca vendia peças de máquinas antigas que pareciam ter saído de uma impressora estragada.
+
+[HEADER 002D0015]
+#I couldn't imagine where they'd come from or who'd want them. .
+Eu não podia imaginar de onde elas vieram, nem quem iria querê-las.
+
+[HEADER 002D0018]
+#The merchant was selling fruit. I decided I might have some later.
+O comerciante estava vendendo frutas. Decidi que compraria algumas depois.
+
+[HEADER 002D0019]
+#The stand was selling some fruit I didn't recognize.
+A barraca vendia algumas frutas que eu não reconhecia.
+
+[HEADER 002D001A]
+#This is what travel is all about. Roam the world and discover strange fruit.
+É disto que se trata uma viagem. Perambular pelo mundo descobrindo frutas estranhas.
+
+[HEADER 002D0041]
+#Marib looked pretty defendable with a high wall all around it.
+Marib parecia bastante segura com uma grande muralha em volta.
+
+[HEADER 002D0042]
+#I figured going out into the countryside was a pretty good way to get lost.
+Percebi que ir visitar o interior do país seria uma bela maneira de se perder.
+
+[HEADER 002D001F]
+#The stand had kebabs dangling from the canopy.
+A barraca tinha kebabs pendurados no toldo.
+
+[HEADER 002D0020]
+#As a marketing device, it lacked something.
+Como artifício para marketing, deixa a desejar.
+
+[HEADER 002D0021]
+#Close up, I could see flies love kebabs.
+Olhando mais de perto, pude ver que as moscas adoram kebabs.
+
+[HEADER 002D001D]
+#It was a kebab stand and an ugly one at that.
+Era uma horrível barraca de kebabs.
+
+[HEADER 002D001E]
+#In the still air, the smell hung around like bad smells do.
+No ar sereno, o cheiro espalhava-se, assim como fazem os fedores.
+
+[HEADER 002F0000]
+#The carpet seller had an impressive collection of wares. If I'd the time and the money I might have bought a couple of rugs.
+O vendedor de tapetes tinha uma coleção impressionante de mercadorias. Se eu tivesse tempo e dinheiro, talvez comprasse alguns tapetes.
+
+[HEADER 002F0002]
+#It must have taken him all morning just to set up his stall. .
+Ele deve ter levado a manhã toda só para armar sua barraca.
+
+[HEADER 00310008]
+#The outside of the ornate spittoon was beautiful. The inside wasn't.
+O exterior da ornada cuspideira era magnífico. O interior nem tanto.
+
+[HEADER 00310009]
+#I hadn't felt a need to spit since I was twelve.
+Eu não sentia uma necessidade de cuspir desde que tinha doze anos.
+
+[HEADER 0031000A]
+#The spittoon was nearly full. What did they sell here? Drinks or expectorants?
+A cuspideira estava quase cheia. O que eles vendiam aqui? Bebidas ou expectorantes?
+
+[HEADER 0031000B]
+#Even if I'd wanted to spit, my mouth was too dry.
+Mesmo se eu quisesse cuspir, minha boca estava muito seca.
+
+[HEADER 00320007]
+#It was a roller towel dispenser.
+Era uma caixa para rolo de toalha.
+
+[HEADER 00320000]
+#The towel sat in the open dispenser like a wad of dirty chewing gum...
+A toalha estava na caixa aberta feito um chumaço de goma de mascar velha...
+
+[HEADER 00320008]
+#The dispenser had opened easily enough.
+A caixa havia sido aberta com relativa facilidade.
+
+[HEADER 00320009]
+#There didn't seem much point in closing the dispenser.
+Não tinha muito sentido em fechar a caixa.
+
+[HEADER 0032000F]
+#And I thought the French had strange toilets.
+E eu que pensei que os franceses tinham banheiros estranhos.
+
+[HEADER 00320010]
+#I hadn't drunk anything since the morning and I didn't need to use it.
+Eu não tinha bebido nada desde manhã, por isso não precisava usá-lo.
+
+[HEADER 002F0004]
+#The carpet in the middle looked familiar, somehow. .
+O tapete no meio parecia, de alguma maneira, familiar.
+
+[HEADER 002F0005]
+#It was the pattern. I'd seen that pattern somewhere recently.
+Era o desenho. Eu já o vi em algum lugar recentemente.
+
+[HEADER 002D0030]
+#The stand was being watched by a young boy, maybe twelve years old.
+A barraca estava sendo cuidada por um jovem garoto, talvez com doze anos.
+
+[HEADER 002D0031]
+#Nejo was still by the stand and still looking bored.
+O Nejo ainda estava perto da barraca, além de ainda parecer entediado.
+
+[HEADER 002D0106]
+#What the heck did you tell me to tell him?
+Que diabos você disse para eu falar para ele?
+
+[HEADER 002D0107]
+#Patience, Sir.
+Paciência, senhor.
+
+[HEADER 002D0108]
+#Patience? PATIENCE! I've been chased by a homicidal kebab seller and you expect me to be PATIENT?
+Paciência? PACIÊNCIA! Acabei de ser perseguido por um vendedor de kebabs homicida e você espera que eu tenha PACIÊNCIA?
+
+[HEADER 002D0109]
+#But consider, Sir, while you were running from the irate Arto...
+Mas considere, senhor, que enquanto você estava fugindo de um irado Arto...
+
+[HEADER 002D010A]
+#...the irate Arto wasn't using the brush.
+... o mesmo não estava usando a escova.
+
+[HEADER 002D010B]
+#Hold on.
+Espera aí.
+
+[HEADER 002D010C]
+#Are you telling me that I've been used as a diversionary tactic?
+Está me dizendo que eu fui usado como objeto de distração?
+
+[HEADER 002D010D]
+#Your brush, Sir.
+Sua escova, senhor.
+
+[HEADER 002D010E]
+#I can't believe that you put me on that kebab seller's death list for a toilet brush.
+Não consigo acreditar que você tenha me colocado na lista negra daquele vendedor de kebabs por uma escova de privada.
+
+[HEADER 002D010F]
+#The ends justify the means, Sir.
+Os fins justificam os meios, senhor.
+
+[HEADER 002D0110]
+#Yeah, but I notice it wasn't your butt that was on the line, though.
+Sim, mas devo lembrar que não era o seu traseiro que estava na reta.
+
+[HEADER 002D0111]
+#`They also serve who only stand and wait', Sir.
+'Também o serve aquele que fica e espera', senhor.
+
+[HEADER 002D0112]
+#Oh, spare me.
+Ah, me poupe.
+
+[HEADER 002D0104]
+#Hey there, young fella! Speakie you the English? Speaka you da Angalaisey? Parlez-vous anglais?
+Ei, você, jovenzinho! 'Cê fala inglês? ¿Tu hablar u inguileis? Parlez-vous anglais?
+
+[HEADER 002D0113]
+#Yes, si and, indeed, oui...
+Sim, si e, é claro, oui...
+
+[HEADER 002D0114]
+#...and rather better than you, by the sound of it.
+... e melhor do que você, pelo seu sotaque.
+
+[HEADER 002D0115]
+#My name is Nejo. Welcome to my grand emporium of quality merchandise!
+Me chamo Nejo. Bem-vindo ao meu grande empório de mercadorias de qualidade!
+
+[HEADER 002D0105]
+#Hi, Nejo!
+Oi, Nejo!
+
+[HEADER 002D0116]
+#Hello again, Sir! And how may I help you this time?
+Olá de novo, senhor! Como posso ser útil desta vez?
+
+[HEADER 002D0143]
+#Does the word `Templar' mean anything to you?
+A palavra 'Templário' significa algo para você?
+
+[HEADER 002D0144]
+#Templar... Templar... Templar...
+Templário... Templário... Templário...
+
+[HEADER 002D0145]
+#Why, yes! Of course!
+Ah, sim! É claro!
+
+[HEADER 002D0146]
+#It does?
+Significa?
+
+[HEADER 002D0147]
+#Yes! A splendid series of books by Mr. Leslie Charteris...
+Sim! Uma esplêndida série de livros de Mr. Leslie Charteris...
+
+[HEADER 002D0148]
+#...featuring the roguish Mr. Simon Templar.
+... estrelando o grande ladrão, Mr. Simon Templar.
+
+[HEADER 002D0149]
+#Great. That's a real help, Nejo. Anything else?
+Ótimo. Isso foi de grande ajuda, Nejo. Mais alguma coisa?
+
+[HEADER 002D014A]
+#`The Saint' television program featuring Mr. Roger Moore of the quizzical eyebrow...
+O programa de televisão 'The Saint', estrelando Mr. Roger Moore das sombrancelhas cômicas...
+
+[HEADER 002D014B]
+#...and a stickman with a halo. Ping!
+... e um homem-palito com uma auréola. Pim!
+
+[HEADER 002D014C]
+#So all `Templar' means to you is Roger Moore?
+Então tudo o que 'Templário' significa para você é Roger Moore?
+
+[HEADER 002D014D]
+#I only watched it for the stickman with the halo. Ping!
+Eu só assistia por causa do homem-palito com a auréola. Pim!
+
+[HEADER 002D014E]
+#He was better animated.
+Ele era muito bem animado.
+
+[HEADER 002D014F]
+#So, I'm correct in saying that the word `Templar' doesn't mean much to you?
+Então estou certo em dizer que a palavra 'Templário' não significa muita coisa para você?
+
+[HEADER 002D0150]
+#Well, there was the order of knights who were wiped out in an inquisition in 1312, I suppose.
+Bem, teve a ordem de cavaleiros que foi destruída pela Inquisição em 1312, eu presumo.
+
+[HEADER 002D0151]
+#That's them! What else do you know?
+São esses! O que mais você sabe?
+
+[HEADER 002D0152]
+#Just how much information do you think there is on a Trivial Pursuit card?
+Quantas informações você acha que há em um cartão de Trivial Pursuit?
+
+[HEADER 002D0153]
+#A what?
+Um o quê?
+
+[HEADER 002D0154]
+#From the Medieval edition. We had it on the stand a couple of years ago.
+Da edição Medieval. Nós tínhamos um na barraca há alguns anos.
+
+[HEADER 002D0155]
+#Ask me what a fewter is. Go on! I know all this stuff!
+Pergunte-me o que é loro. Vamos! Eu sei todas essas coisas!
+
+[HEADER 002D0156]
+#Never mind.
+Esqueça.
+
+[HEADER 002D0157]
+#Okay, forget about the Templars for a minute. What do you know about knights?
+Certo, esqueça sobre os Templários por um minuto. O que você sabe sobre os cavaleiros?
+
+[HEADER 002D0158]
+#Like the Crusaders? They came to the East on an insane and pointless mission.
+Tipo os Cruzados? Eles vieram ao Oriente em uma missão insana e sem sentido.
+
+[HEADER 002D0159]
+#They sacrificed thousands of lives, including their own, for insensate pride.
+Sacrificaram milhares de vidas, inclusives as próprias, por orgulho insensato.
+
+[HEADER 002D015A]
+#How anybody can find them romantic confounds me.
+Não consigo entender como alguém pode achá-los românticos.
+
+[HEADER 002D0118]
+#So this is your stand?
+Então essa é a sua barraca?
+
+[HEADER 002D0119]
+#Oh, yes, Sir!
+Ah, sim, senhor!
+
+[HEADER 002D011A]
+#'Though `stand' does not begin to do it justice...
+Apesar de 'barraca' não ser o apropriado para...
+
+[HEADER 002D011B]
+#...the finest in this bustling metropolis!
+... a melhor loja nesta agitada metrópole!
+
+[HEADER 002D011C]
+#This is a `bustling metropolis'?
+Esta é uma 'agitada metrópole'?
+
+[HEADER 002D011D]
+#Well, not per se. No.
+Bem, não propriamente dito.
+
+[HEADER 002D011E]
+#How much are those books, there on the shelf?
+Quanto são aqueles livros lá na prateleira?
+
+[HEADER 002D011F]
+#Have you any Syrian pounds?
+Você tem libras sírias?
+
+[HEADER 002D0120]
+#I think I might have a couple of Irish Punt.
+Acho que talvez eu tenha algumas libras irlandesas.
+
+[HEADER 002D0121]
+#Then they're too expensive for you, Sir.
+Então eles são muito caros para você, senhor.
+
+[HEADER 002D0122]
+#You speak very good English.
+Você fala muito bem inglês.
+
+[HEADER 002D0123]
+#Thank you, Sir. I learned from tapes that my uncle procured.
+Obrigado, senhor. Aprendi através de fitas que meu tio obtinha.
+
+[HEADER 002D0124]
+#Oh. A language course.
+Ah. Um curso de línguas.
+
+[HEADER 002D0125]
+#No, Sir. `Jeeves and Wooster'.
+Não, senhor. 'Jeeves e Wooster'.
+
+[HEADER 002D0126]
+'Gussie Fink-Nottle! Tia Agatha! What-Ho!'
+
+[HEADER 002D0137]
+#That's not a very friendly cat you got there, Nejo.
+Esse seu gato não é muito amistoso, Nejo.
+
+[HEADER 002D0138]
+#No, Sir, it is a very UNfriendly cat.
+Não, senhor. Ele é um gato muito INamistoso.
+
+[HEADER 002D0139]
+#Why do you keep it?
+Por que você continua com ele?
+
+[HEADER 002D013A]
+#Oh, it's not mine. It just rests where it pleases and today it pleases to rest there.
+Ah, não é meu. Ele apenas dorme onde achar melhor, e hoje preferiu dormir aqui.
+
+[HEADER 002D013B]
+#As Kipling would say, `It is a cat that walks by itself'.
+Como diria Kipling, 'Ele é um gato que anda sozinho'.
+
+[HEADER 002D013C]
+#Fiercely independent.
+Ferozmente independente.
+
+[HEADER 002D013D]
+#And it smells.
+E cheira mal.
+
+[HEADER 002D013E]
+#Is that your father lurking in the back of the stand?
+É o seu pai aquele se escondendo no fundo da barraca?
+
+[HEADER 002D013F]
+#He is indeed. A roaring fellow. Ayub's his name.
+É ele sim. Uma pessoa barulhenta. Ayub é o seu nome.
+
+[HEADER 002D0140]
+#You don't sound like you respect him very much.
+Você não parece respeitá-lo muito.
+
+[HEADER 002D0141]
+#Don't I? Not only do I respect him, I rather like him.
+Não? Não só o respeito-o, como também gosto dele.
+
+[HEADER 002D0142]
+#For all his bluster, we get on very well.
+Com o seu gênio forte, até que nos damos bem.
+
+[HEADER 002D018F]
+#I met an interesting guy earlier, a cab driver.
+Eu conheci um cara interessante mais cedo, um taxista.
+
+[HEADER 002D0190]
+#Ah, that would have to be Ultar.
+Ah, esse deve ser o Ultar.
+
+[HEADER 002D0191]
+#A barbaric sort of chap...
+Um carinha meio bárbaro...
+
+[HEADER 002D0192]
+#Oh, he's not that bad!
+Ah, ele não é tão mal assim!
+
+[HEADER 002D0193]
+#You know how he speaks in pidgin English?
+Você já viu o Ultar enrolando no inglês?
+
+[HEADER 002D0194]
+#That's how he speaks in Arabic, too.
+É daquela maneira que ele fala árabe também.
+
+[HEADER 002D0203]
+#What do you think of that?
+O que acha disto?
+
+[HEADER 002D0204]
+#Remarkable. It seems older. Much older. Quite remarkable.
+Interessante. Parece antigo. Bastante antigo. Muito interessante.
+
+[HEADER 002D0201]
+#May I have this statuette? It is broken, after all?
+Posso ficar com esta estatueta? Afinal, ela está quebrada...
+
+[HEADER 002D0202]
+#Certainly, and when my father deals with that feline for breaking it you can have a Davy Crockett hat as well.
+Certamente, e quando meu pai for acertar as contas com aquele felino por tê-la quebrado, você poderá ficar com um chapéu de Davy Crockett também.
+
+[HEADER 002D01A1]
+#What exactly does `'Il 'a'kl kalb' mean?
+O que quer dizer exatamente `'Il 'a'kl kalb'?
+
+[HEADER 002D01A2]
+#A polite but subtly complimentary greeting.
+Uma educada e sutil saudação.
+
+[HEADER 002D01A3]
+#He won't be able to do enough for you.
+Ele vai ficar sem palavras.
+
+[HEADER 002D01BD]
+#What do you think of this, eh?
+O que você acha disto, hein?
+
+[HEADER 002D01BE]
+#Oh, Sir! What a splendid plaything!
+Nossa, senhor! Que brinquedo fantástico!
+
+[HEADER 002D01BF]
+#One day, when I'm rich, I am going to build...
+Um dia, quando eu for rico, montarei...
+
+[HEADER 002D01C0]
+#...a world renowned collection of brightly colored balls!
+... uma coleção mundialmente renomada de bolas coloridas!
+
+[HEADER 002D01C1]
+#Are you serious?
+Sério?
+
+[HEADER 002D01C2]
+#In deadly earnest. People will come from far and wide to see my...
+Muito sério. As pessoas virão de todos os lugares para ver minha...
+
+[HEADER 002D01C3]
+#Yes?
+Sim?
+
+[HEADER 002D01C4]
+#...collection. The Rockefellers and the Gettys can keep their hordes of so-called fine art.
+... coleção. Os Rockfellers e os Gettys que fiquem com aquilo que chamam de arte.
+
+[HEADER 002D01C5]
+#But answer me this....
+Mas me responda isto...
+
+[HEADER 002D01C6]
+#What good is a Picasso, I ask you, if you cannot bounce it off a wall?
+Eu lhe pergunto: o que tem de bom em um Picasso, se você não pode tirá-lo da parede?
+
+[HEADER 002D01C7]
+#You may have a point.
+É uma boa pergunta.
+
+[HEADER 002D01C8]
+#Sir, for such a marvelous thing, I would gladly help you!
+Senhor, por tão maravilhosa coisa, eu ficaria extremamente feliz em ajudá-lo!
+
+[HEADER 002D01C9]
+#I thought merchants were supposed to be wily and never reveal what they really want?
+Pensei que mercadores como você deveriam ser astutos e nunca revelar o que realmente querem.
+
+[HEADER 002D01CA]
+#`Bah!' I say to mercantile greed! I have the soul of the aesthete and I desire that red bouncy thing  beyond reason!
+'Bah!', eu digo à cobiça mercantil! Tenho a alma de um esteta e desejo mais do que tudo essa coisa vermelha e saltitante!
+
+[HEADER 002D01CB]
+#Do you understand?
+Você entende?
+
+[HEADER 002D01CC]
+#Not really. If I give you the...
+Na verdade, não. Se eu lhe der a...
+
+[HEADER 002D01CD]
+#I've already told you, I'll help you if you give me the ball. What's it to be?
+Eu já lhe disse, vou ajudá-lo se você me der a bola. Como vai ser?
+
+[HEADER 002D0176]
+#All right. Here you go.
+Tudo bem. Tome, é sua.
+
+[HEADER 002D0177]
+#Thank you, Sir!
+Obrigado, senhor!
+
+[HEADER 002D0178]
+#People say bad things about Americans but you're okay in my book!
+As pessoas dizem coisas ruins sobre os americanos, mas, na minha opinião, você é legal!
+
+[HEADER 002D0179]
+#What people? What bad things?
+Que pessoas? Que coisas ruins?
+
+[HEADER 002D017A]
+#Never mind that now. Remember the brush!
+Esqueça isso por enquanto. Lembre-se da escova!
+
+[HEADER 002D017B]
+#Right. Yes, the brush.
+Certo. Sim, a escova.
+
+[HEADER 002D017C]
+#All you have to do with Arto is be polite.
+Tudo o que você tem de fazer é ser educado com o Arto.
+
+[HEADER 002D017D]
+#It lightens his day, makes it all worthwhile for him again.
+Isso ilumina seu dia, faz tudo valer a pena para ele outra vez.
+
+[HEADER 002D017E]
+#How can I be polite to the guy when I can't speak a word of Syrian?
+Como posso ser educado com ele se não sei falar uma só palavra em sírio?
+
+[HEADER 002D017F]
+#Arabic.
+Árabe.
+
+[HEADER 002D0180]
+#That's what I meant.
+Foi o que eu quis dizer.
+
+[HEADER 002D0181]
+#Simply memorize this phrase, `'Il 'a'kl kalb'.
+Simplesmente memorize a frase `'Il 'a'kl kalb'.
+
+[HEADER 002D0182]
+`'Il 'a'kl kalb'?
+
+[HEADER 002D0183]
+#Close enough. Now go over to Arto and deliver these honeyed words even unto his delicate ear.
+Quase isso. Agora vá até o Arto e entregue essas doces palavras ao delicado ouvido dele.
+
+[HEADER 002D0184]
+#He won't be able to do enough for you.
+Ele não saberá o que fazer por você.
+
+[HEADER 002D0185]
+#Really?
+Sério?
+
+[HEADER 002D0186]
+#Really.
+Sério.
+
+[HEADER 002D0187]
+#No, kid. I might need this some other time.
+Não, garoto. Talvez eu precise disto qualquer hora dessas.
+
+[HEADER 002D0188]
+#Yes. Of course you will.
+Sim. É claro que sim.
+
+[HEADER 002D0189]
+#How can a jet-setting man like yourself live without a small red ball in his pocket?
+Como um socialite como você pode viver sem a sua pequena bola vermelha em seu bolso?
+
+[HEADER 002D01B1]
+#Seriously, do you really think this thing's so great?
+Sério, você realmente quer este troço?
+
+[HEADER 002D01B2]
+#Take it away, you tempter.
+Guarde isso. Não me tente.
+
+[HEADER 002D01B3]
+#I'll swap it for something off your stand.
+Vou trocá-la por algo da sua barraca.
+
+[HEADER 002D01B4]
+#Um, due to seasonal financial considerations I'm afraid I cannot.
+Hum, devido ao momento financeiro em que nos encontramos, receio não ser possível.
+
+[HEADER 002D01B5]
+#I thought you wanted this thing?
+Pensei que você quisesse esta coisa!
+
+[HEADER 002D01B6]
+#I do, Sir. The stand doesn't.
+E quero, senhor. A barraca não.
+
+[HEADER 002D01B7]
+#Which in translation meant - `It's not really my stand...
+O que, em outras palavras, quer dizer: 'Não é bem a minha barraca...
+
+[HEADER 002D01B8]
+#...and I'll be in big trouble if I swap anything for something that I want myself.'
+... Eu estaria com grandes problemas se trocasse alguma coisa por outra que eu quisesse.'
+
+[HEADER 002D01B9]
+#Alternatively, is there any service that you require?
+Como alternativa, há algum serviço de que você precise?
+
+[HEADER 002D01BA]
+#Not at the moment but I'll bear it in mind.
+Agora não, mas vou pensar na sua proposta.
+
+[HEADER 002D0195]
+#What do you know about that couple?
+O que você sabe sobre aquele casal?
+
+[HEADER 002D0196]
+#Oh, they're American.
+Ah, eles são americanos.
+
+[HEADER 002D0197]
+#Is that all?
+Só isso?
+
+[HEADER 002D0198]
+#The chap's a little odd. As for the lady...
+O carinha é um pouco estranho. Já a mulher...
+
+[HEADER 002D0199]
+#It's a funny thing but I get the impression she's a lot cleverer than she's letting on.
+Ela é engraçada, mas tenho a impressão de que é muito mais inteligente do que aparenta ser.
+
+[HEADER 002D0162]
+#Look, this is going to sound a bit strange but I need Arto's brush.
+Olha, isto vai parecer um pouco estranho, mas eu preciso da escova do Arto.
+
+[HEADER 002D0163]
+#What? The brush he bastes the kebabs with?
+O quê? A escova com que ele pincela os kebabs?
+
+[HEADER 002D0164]
+#Yes.
+Sim.
+
+[HEADER 002D0165]
+#Let me find some dirty postcards for you instead.
+Deixe-me encontrar alguns cartões postais velhos para você.
+
+[HEADER 002D0166]
+#Nejo, this is serious.
+Nejo, isto é sério.
+
+[HEADER 002D0167]
+#Arto stole that brush he's using from a friend and I want to get it back.
+O Arto roubou aquela escova que está usando de um amigo e eu quero devolvê-la.
+
+[HEADER 002D0168]
+#Perhaps I could help you, old chap. Maybe. Perhaps.
+Quem sabe eu posso ajudá-lo, amigão. Talvez. Quem sabe.
+
+[HEADER 002D0169]
+#Maybe what? Perhaps what?
+Talvez o quê? Quem sabe o quê?
+
+[HEADER 002D016A]
+#I do not wish to seem mercenary, Sir, but I am a merchant and merchants trade...
+Não quero parecer um mercenário, senhor, mas sou um comerciante, e comerciantes trocam...
+
+[HEADER 002D016B]
+#Merchant? This isn't Sears and Roebuck here!
+Comerciante? Aqui não é o 'Sears and Roebuck'!
+
+[HEADER 002D016C]
+#Well, if you're going to be disagreeable...
+Bem, se você vai ser desagradável...
+
+[HEADER 002D016D]
+#No! No, you're right. What would you like?
+Não! Não, você está certo. O que quer?
+
+[HEADER 002D016F]
+#I seem to recall that you have something that might alleviate my boredom.
+Vejo que devo lembrá-lo que você tem algo que talvez alivie meu tédio.
+
+[HEADER 002D0170]
+#A globe of delight!
+Um globo de deleite!
+
+[HEADER 002D0171]
+#A rubicund spheroid of heavenly pleasure!
+Um esferóide rubicundo de satisfação divina!
+
+[HEADER 002D0172]
+#You mean the ball, don't you?
+Você se refere à bola, não é?
+
+[HEADER 002D0173]
+#A tiny spherular form that barely spans my hand yet promises hours of amusement!
+Uma pequena forma esférica que dificilmente deixaria minhas mãos sem prometer horas de diversão!
+
+[HEADER 002D0174]
+#If you mean the ball, why can't you ust say so?
+Se você se refere à bola, por que não diz logo?
+
+[HEADER 002D0175]
+#Can I have the ball back, mister?
+Posso ficar com a bola, senhor?
+
+[HEADER 002D018E]
+#What have you got?
+O que você tem?
+
+[HEADER 002D015B]
+#Who's the guy selling the kebabs?
+Quem é o cara vendendo os kebabs?
+
+[HEADER 002D015C]
+#Oh, that's Arto. A miserable blighter to be sure, Sir.
+Ah, aquele é o Arto. Um cara miserável, para ser sincero, senhor.
+
+[HEADER 002D015D]
+#He doesn't seem very happy.
+Ele não parece muito feliz.
+
+[HEADER 002D015E]
+#He never is. Day in, day out, a face like a wet Wednesday.
+Ele nunca está. Dia vai, dia vem, sempre com aquela cara de quem chupou limão.
+
+[HEADER 002D015F]
+#Whatever one of those is.
+Seja lá o que isso queira dizer.
+
+[HEADER 002D0160]
+#Does he speak any English?
+Ele fala inglês?
+
+[HEADER 002D0161]
+#Not cogently, no.
+Bem forçado. Ele mais enrola.
+
+[HEADER 002D01E1]
+#Here! Shake hands, Nejo!
+Aqui! Aperte minha mão, Nejo!
+
+[HEADER 002D01E2]
+#I'd rather not, Sir.
+Melhor não, senhor.
+
+[HEADER 002D01E6]
+#Hey, I got fifty bucks out of those tourists!
+Ei, eu consegui 50 pratas com aqueles turistas!
+
+[HEADER 002D01E7]
+#Congratulations, Sir!
+Parabéns, senhor!
+
+[HEADER 002D01F4]
+#Look at this! A lifting key as used by Parisian sewer workers.
+Olhe isto! Uma chave de bueiro usada pelos operários nos esgotos parisienses.
+
+[HEADER 002D01F5]
+#Calloo callay, Sir. I must remember this day for posterity. My grandchildren will be fascinated.
+Callo callay, senhor. Devo lembrar este dia para a posteridade. Meus netos ficarão fascinados.
+
+[HEADER 002D01F6]
+#What do you make of this?
+O que você entende por isto?
+
+[HEADER 002D01F7]
+#Well, beyond the obvious, very little. That pattern seems very familiar, though.
+Bem, além do óbvio, pouca coisa, apesar do desenho parecer bastante familiar.
+
+[HEADER 002D01F8]
+#Have you seen this man before?
+Você já viu este homem antes?
+
+[HEADER 002D01F9]
+#No, Sir, I'm glad to say. Cold eyes.
+Fico feliz em dizer que não, senhor. Olhos frios.
+
+[HEADER 002D01FE]
+#What can I do with a blood pressure gauge?
+O que posso fazer com um medidor de pressão sanguínea?
+
+[HEADER 002D01FF]
+#Don't tempt me to tell you, Sir.
+Não me faça responder isso, senhor.
+
+[HEADER 002D0200]
+#Oh. A comedian. No surprise there.
+Ah. Um comediante. Não é nenhuma surpresa.
+
+[HEADER 002D0205]
+#Do you know the name Moerlin?
+Você conhece o nome Moerlin?
+
+[HEADER 002D0206]
+#I'm afraid not, old bean.
+Receio que não, amigão.
+
+[HEADER 002D0207]
+#What do you make of this?
+O que você entende por isto?
+
+[HEADER 002D0208]
+#Hmmm. A man-size double ply tissue stained with Bestheimer's Number twelve, White Pancake greasepaint. Apparently.
+Hmmm. Um lenço grande, de camada dupla, manchado com Bestheimer Número 12, maquiagem branca. Aparentemente.
+
+[HEADER 002D0209]
+#Thanks for getting the brush and risking my life to do it.
+Obrigado por arriscar minha vida para pegar a escova.
+
+[HEADER 002D020A]
+#Anytime. Glad to be of service.
+Não há de que. Fico feliz em ter sido útil.
+
+[HEADER 002D020B]
+#What does this toilet chain mean to you?
+O que esta corrente de privada significa para você?
+
+[HEADER 002D020D]
+#Are you building a bathroom in easy instalments?
+Você está construindo um banheiro em prestações?
+
+[HEADER 002D020E]
+#Do you recognize these keys?
+Você reconhece estas chaves?
+
+[HEADER 002D020F]
+#No.
+Não.
+
+[HEADER 002D0219]
+#This plaster was very useful in Ireland.
+Este gesso foi de grande utilidade na Irlanda.
+
+[HEADER 002D021A]
+#Really. Your fund of traveller's tales never ceases to enthral me.
+Legal. Suas histórias de viajante nunca param de me encantar.
+
+[HEADER 002D021B]
+#What do you think of this?
+O que acha disto?
+
+[HEADER 002D021E]
+#A beautiful artefact.
+Um belo artefato.
+
+[HEADER 002D01AD]
+#So long, Nejo.
+Até mais, Nejo.
+
+[HEADER 002D01AE]
+#Toodle pip, Sir.
+Tchauzinho, senhor.
+
+[HEADER 002D003C]
+#Pearl was actually as close to decency as she could be.
+Pearl se vestia da maneira mais decente que podia.
+
+[HEADER 002D003D]
+#Syria's a pretty conservative country. They don't like women displaying legs and shoulders.
+A Síria é um país bastante conservador. Eles não gostam de mulheres mostrando as pernas e os ombros.
+
+[HEADER 002D003E]
+#I wondered if the respect for local custom was accidental or deliberate.
+Eu queria saber se o respeito aos costumes locais era acidental ou deliberado.
+
+[HEADER 002D003A]
+#It was a guess, but I figured the woman to be an American tourist.
+Era apenas um palpite, mas percebi que a mulher era uma turista americana.
+
+[HEADER 002D003B]
+#Just call me Sherlock.
+Podem me chamar de Sherlock.
+
+[HEADER 002D021F]
+#Hello? I was wondering whether you could help me?
+Olá? Será que você poderia me ajudar?
+
+[HEADER 002D0221]
+#Why, hi there, handsome! What can I do for you?
+Ah, oi, bonitão! O que posso fazer por você?
+
+[HEADER 002D0222]
+#Hi, my name's George. I was just...
+Oi, meu nome é George. Eu só queria...
+
+[HEADER 002D0223]
+#Well, it certainly is delightful to meet you, George.
+Bem, é um enorme prazer conhecê-lo, George.
+
+[HEADER 002D0224]
+#I was...
+Eu queria...
+
+[HEADER 002D0225]
+#My name's Mrs. Henderson but you can call me Pearl, I'm sure.
+Me chamo Sra. Henderson, mas pode me chamar de Pearl.
+
+[HEADER 002D0226]
+#Okay, Pearl. I was...
+Certo, Pearl. Eu queria...
+
+[HEADER 002D0227]
+#So nice to meet a friendly American face so far from home.
+É tão bom encontrar um rosto americano amigável tão longe de casa.
+
+[HEADER 002D0228]
+Pearl?
+
+[HEADER 002D0229]
+#Yes, dear?
+Sim, querido?
+
+[HEADER 002D022A]
+#I was just wondering if you could help me?
+Eu só queria saber se você poderia me ajudar...
+
+[HEADER 002D022B]
+#Why, sure, precious!
+Ah, é claro, amado!
+
+[HEADER 002D0220]
+#Hello again, Pearl!
+Olá outra vez, Pearl!
+
+[HEADER 002D022C]
+#Why, hello, George! It is such a pleasure to see you again.
+Ah, olá, George! É um grande prazer revê-lo.
+
+[HEADER 002D0278]
+#Do you know anything about medieval weaving?
+Você sabe algo sobre tecelagem medieval?
+
+[HEADER 002D0279]
+#I do a little needlework but, gosh!
+Eu costuro um pouco, mas, xi!
+
+[HEADER 002D027A]
+#It's okay. It was a long shot.
+Está tudo bem. Valeu a tentativa.
+
+[HEADER 002D0257]
+#Have you ever heard of a group of knights called the Templars?
+Você já ouviu falar em um grupo de cavaleiros chamados de Templários?
+
+[HEADER 002D0258]
+#Sounds familiar. I remember! Duane had a book...
+Parece familiar. Lembrei! Duane tinha um livro...
+
+[HEADER 002D0259]
+#`The Holy Something and the Holy Something Else', I can't quite recall.
+'O Alguma Coisa Sagrado e o Outra Coisa Sagrado', não lembro muito bem.
+
+[HEADER 002D025A]
+#I read a little of it.
+Eu só o li um pouco.
+
+[HEADER 002D025B]
+#And?
+E?
+
+[HEADER 002D025C]
+#Seemed like a lot of hooey to me.
+Pareceu um monte de bobagens para mim.
+
+[HEADER 002D022E]
+#I've been talking to your husband, Duane.
+Estive falando com o seu marido, Duane.
+
+[HEADER 002D022F]
+#Oh?
+É?
+
+[HEADER 002D0230]
+#Yeah, he tells me that he runs a greeting card company and you write the poems that go in them.
+Sim. Ele me disse que é dono de uma companhia de cartões comemorativos e que você escreve os poemas que vão neles.
+
+[HEADER 002D0231]
+#Oh, yes, indeed! I consider myself the artiste of the family.
+Ah, sim, é verdade! Me considero a artista da família.
+
+[HEADER 002D0232]
+#Tell me, George, would you like to hear one of my poems?
+Diga-me, George, você gostaria de ouvir um de meus poemas?
+
+[HEADER 002D023E]
+#Well, maybe not just for the moment.
+Bem, talvez agora não.
+
+[HEADER 002D023F]
+#Okay, George, but you don't know what you're missing.
+Certo, George, mas não sabe o que está perdendo.
+
+[HEADER 002D0233]
+#Yes, go on then.
+Sim, vá em frente.
+
+[HEADER 002D0234]
+#Okay then, darlin'. Here we go.
+Certo então, querido. Aqui vai.
+
+[HEADER 002D0235]
+#`Our sympathy upon this time,
+'Nossas condolências neste momento,
+
+[HEADER 002D0236]
+#When your heart doth break,'
+Em que seu coração se ressente,'
+
+[HEADER 002D0237]
+#I like the `doth'.
+Gostei do 'ressente'.
+
+[HEADER 002D0238]
+#Classy, isn't it?
+Ficou legal, não?
+
+[HEADER 002D0239]
+#`We know the grief that must entail,
+'Sabemos a melancolia que está sofrendo,
+
+[HEADER 002D023A]
+#When your Schnauzer gets bitten by a snake.'
+Pois seu Schnauzer foi mordido por uma serpente.'
+
+[HEADER 002D023B]
+#Ah, it still touches me. What do you think, George?
+Ah, ainda me toca. O que achou, George?
+
+[HEADER 002D023C]
+#It's...very specific, isn't it?
+É... bem específico, não?
+
+[HEADER 002D023D]
+#You think so? We sell a lot of those, dear.
+Você acha? Nós vendemos um monte desses, querido.
+
+[HEADER 002D0240]
+#So, tell me a little about yourself, Pearl.
+Então, conte-me um pouco sobre você, Pearl.
+
+[HEADER 002D0241]
+#Me? Oh, a gentleman's interest is always so flattering!
+Eu? Ah, o interesse de um cavalheiro é sempre tão lisonjeador!
+
+[HEADER 002D0242]
+#Well, my husband and I run a greetings card company in a cute, little place called Akron in Ohio.
+Bem, eu e meu marido somos donos de uma companhia de cartões comemorativos em uma fofa e pequena cidade chamada Akron, em Ohio.
+
+[HEADER 002D0243]
+#Akron? Cute? Little?
+Akron? Fofa? Pequena?
+
+[HEADER 002D024D]
+#You said that your company is based in Akron...
+Você disse que sua companhia ficava em Akron...
+
+[HEADER 002D024E]
+#...and Duane said it's in Cleveland, no doubt.
+... e, sem dúvida, o Duane disse que fica em Cleveland.
+
+[HEADER 002D024F]
+#Well, yes, he did.
+Bem, sim, ele disse.
+
+[HEADER 002D0250]
+#Duane was in the Marines, in Vietnam, you know?
+O Duane fazia parte dos Marines, no Vietnã, sabia?
+
+[HEADER 002D0251]
+#Anyway, he got a medical discharge.
+Então, ele recebeu uma dispensa médica.
+
+[HEADER 002D0252]
+#Thing is, he gets confused. We moved away from Cleveland five years ago.
+O problema é que ele se confunde. Nós nos mudamos de Cleveland há cinco anos.
+
+[HEADER 002D0253]
+#Oh, I'm sorry! I didn't mean...
+Ah, me desculpe! Eu não tinha a intenção...
+
+[HEADER 002D0254]
+#He also gets a little paranoid. Thinks he's a spy or something.
+Ele também fica um pouco paranoico. Acha que é um espião, ou algo assim.
+
+[HEADER 002D0255]
+#I'm so sorry, Pearl.
+Sinto muitíssimo, Pearl.
+
+[HEADER 002D0256]
+#Don't worry yourself, George. We live with it.
+Não se preocupe, George. Nós vivemos bem, apesar disso.
+
+[HEADER 002D024A]
+#I met your husband earlier.
+Conheci seu marido mais cedo.
+
+[HEADER 002D024B]
+#He's an interesting man.
+Ele é um homem interessante.
+
+[HEADER 002D024C]
+#That's why I married him.
+Foi por isso que me casei com ele.
+
+[HEADER 002D0247]
+#Is your husband around, Pearl?
+Seu marido está por aqui, Pearl?
+
+[HEADER 002D0249]
+#Well, as a matter of fact, yes, he is. Sorry to disappoint you.
+Bem, na verdade, sim, está. Desculpe desapontá-lo.
+
+[HEADER 002D0263]
+#Have you talked to the boy on the bric-a-brac stand?
+Você já conversou com o garoto na barraca de bricabraques?
+
+[HEADER 002D0264]
+#Oh, you've met him! His name's Nejo, you know.
+Ah, você o conheceu! Seu nome é Nejo, sabe.
+
+[HEADER 002D0265]
+#Oh, he's just so cute I could die! I'd love to bundle him up and take him back to Ohio!
+Oh, ele é fofo de morrer! Eu adoraria embrulhá-lo e levar para Ohio!
+
+[HEADER 002D0266]
+#He might not thank you.
+Talvez ele não te agradeça.
+
+[HEADER 002D0267]
+#I'm looking for something ancient, you know? Something to impress the folks back home.
+Estou procurando por algo antigo, sabe? Algo para impressionar o pessoal na volta para casa.
+
+[HEADER 002D0268]
+#The poor boy was trying his best but...
+O pobre garoto estava fazendo seu melhor, mas...
+
+[HEADER 002D0269]
+#...we still haven't found anything.
+... ainda não encontramos nada.
+
+[HEADER 002D026A]
+#Have you met the taxi man, Ultar?
+Você conheceu o taxista, Ultar?
+
+[HEADER 002D026B]
+#Heavens, yes! What a big man! Very muscular!
+Céus, sim! Que homenzão! Supermusculoso!
+
+[HEADER 002D026C]
+#But you didn't go for a ride.
+Mas você não foi dar uma volta com ele.
+
+[HEADER 002D026D]
+#Why, George! You are absolutely the most...!
+Ah, George! Você é de fato o mais...!
+
+[HEADER 002D026E]
+#Oh. You mean a taxi ride.
+Ah, você quer dizer uma volta de táxi.
+
+[HEADER 002D026F]
+#No, Duane wasn't interested so it didn't happen.
+Não, o Duane não estava interessado.
+
+[HEADER 002D0261]
+#Have you had anything from the kebab stand?
+Você comprou algo na barraca de kebabs?
+
+[HEADER 002D0262]
+#Heavens, no! With my digestion?
+Céus, não! Com a minha digestão?
+
+[HEADER 002D0274]
+#Have you ever heard of a hill called the Bull's Head?
+Você já ouviu falar em uma colina chamada de Cabeça do Touro?
+
+[HEADER 002D0275]
+#No. No, I haven't. Is it nearby?
+Não. Fica aqui perto?
+
+[HEADER 002D0276]
+#I'm not sure.
+Não tenho certeza.
+
+[HEADER 002D0277]
+#Sounds awful romantic. `The Bull's Head Hill'.
+Parece bastante romântico. 'A Colina Cabeça do Touro'.
+
+[HEADER 002D0270]
+#Do you know what 'Il 'a'kl kalb' means?
+Você sabe o que 'Il 'a'kl kalb' significa?
+
+[HEADER 002D0272]
+#My, sounds romantic!
+Nossa, parece romântico!
+
+[HEADER 002D0273]
+#Yeah, I don't think it is though.
+É, apesar de eu achar que não seja.
+
+[HEADER 002D0290]
+#Are you interested in antiquities?
+Você está interessada em antiguidades?
+
+[HEADER 002D0291]
+#Am I! What have you got there, George?
+Estou! O que tem aí, George?
+
+[HEADER 002D0292]
+#How about this fine statuette?
+Que tal esta bela estatueta?
+
+[HEADER 002D0293]
+#Oh, George. That'd be ideal except, I don't know...
+Ah, George. Seria perfeito, exceto, eu não sei...
+
+[HEADER 002D0294]
+#It looks new, George.
+Ela parece nova, George.
+
+[HEADER 002D0295]
+#You wouldn't be trying to make a fool out of me, would you, George?
+Você não tentaria me passar para trás, tentaria, George?
+
+[HEADER 002D0296]
+#Good God, no, Pearl! Nothing could be further from my mind!
+Minha Nossa, não, Pearl! Como pode pensar nunca coisa dessas?
+
+[HEADER 002D0297]
+#What do you think of this fine piece of ancient statuary?
+O que acha desta bela peça de estatuária antiga?
+
+[HEADER 002D0298]
+#Oh, my! That's just what I've been looking for!
+Nossa! Era justamente isso o que eu estava procurando!
+
+[HEADER 002D0299]
+#Just one thing, though.
+Só tem uma coisa.
+
+[HEADER 002D029A]
+#Oh?
+Hm?
+
+[HEADER 002D029B]
+#It looks awful similar to that modern one you showed me.
+Ela parece muito com aquela estatueta moderna que você me mostrou.
+
+[HEADER 002D029C]
+#Ah, well. That's because, you see, that's because...
+Ah, bem. É porque, veja bem, é porque...
+
+[HEADER 002D029D]
+#That's because...
+É porque...
+
+[HEADER 002D029E]
+#That's because the first one I showed you was a modern copy of this one!
+É porque a primeira que eu lhe mostrei era uma cópia moderna desta aqui!
+
+[HEADER 002D029F]
+#And... and I sought out the artist who'd done the copy and bought the original!
+E... eu fui atrás do artista que fez a cópia e comprei a original!
+
+[HEADER 002D02A0]
+#Yeah, that's it. Yeah.
+Sim, é isso! É.
+
+[HEADER 002D02A1]
+#Oh, George! How can you ever forgive me?
+Ah, George! Você poderá me perdoar um dia?
+
+[HEADER 002D02A2]
+#There's nothing to forgive, believe me!
+Não há nada para ser perdoado, acredite!
+
+[HEADER 002D02A3]
+#Would you like it?
+Você vai querer?
+
+[HEADER 002D02A4]
+#Would I ever! I'm not carrying the money though.
+Mas é claro! Só que não estou levando dinheiro.
+
+[HEADER 002D02A5]
+#If you go and find Duane, he'll pay you for it.
+Vá atrás do Duane, e ele o pagará por ela.
+
+[HEADER 002D02A6]
+#If he gives you any trouble, just tell him that I want it.
+Se ele criar algum caso, apenas diga-lhe que eu quero ela.
+
+[HEADER 002D027E]
+#What does this mean to you?
+O que isto significa para você?
+
+[HEADER 002D027F]
+#Gosh, is this some sort of psychological test?
+Nossa, é algum tipo de teste psicológico?
+
+[HEADER 002D0280]
+#No.
+Não.
+
+[HEADER 002D0281]
+#Oh. Well, in that case it's a red ball.
+Ah. Bem, neste caso, é uma bola vermelha.
+
+[HEADER 002D0282]
+#I liked her too much to zap her with the buzzer.
+Eu gostava muito dela para dar um choque nela.
+
+[HEADER 002D0283]
+#Do you know what this is?
+Você sabe o que é isto?
+
+[HEADER 002D0284]
+#Lord, no! It looks painful, though.
+Deus, não! Mas parece doloroso.
+
+[HEADER 002D0285]
+#It's a sewer key.
+É uma chave de bueiro.
+
+[HEADER 002D0286]
+#WHO'D want to break into a sewer?
+QUEM iria arrombar um bueiro?
+
+[HEADER 002D0287]
+#Have you seen this man before?
+Você já viu este homem antes?
+
+[HEADER 002D0288]
+#No. A friend of yours?
+Não. Um amigo seu?
+
+[HEADER 002D0289]
+#No, not really.
+Na verdade, não.
+
+[HEADER 002D028A]
+#What do you think of this?
+O que acha que seja isto?
+
+[HEADER 002D028B]
+#Oh! Looks scientific! It's a blood pressure thing, isn't it?
+Ah! Parece científico! É uma coisa de pressão sanguínea, certo?
+
+[HEADER 002D028C]
+#Does this red nose mean anything to you?
+Este nariz vermelho significa algo para você?
+
+[HEADER 002D028D]
+#Reminds me of my late Uncle Abner.
+Me lembra o meu falecido Tio Abner.
+
+[HEADER 002D028E]
+#Oh! was he was a clown?
+Oh! Ele era um palhaço?
+
+[HEADER 002D028F]
+#No, he was a drunk.
+Não, ele era um bêbado.
+
+[HEADER 002D02A7]
+#Here's the money Duane gave me for the statuette.
+Aqui está o dinheiro que o Duane me deu pela estatueta.
+
+[HEADER 002D02A8]
+#Only fifty dollars? Oh, I hope you don't feel cheated?
+Só 50 dólares? Oh, espero que você não se sinta enganado...
+
+[HEADER 002D02A9]
+#Uh, no, no. I just hope you're happy with it.
+Uh, não, não. Só espero que fiquem felizes com ela.
+
+[HEADER 002D02AA]
+#What do you make of this greasepaint-stained tissue?
+O que você acha deste lenço sujo de maquiagem de teatro?
+
+[HEADER 002D02AB]
+#Oh, it's greasepaint! I thought somebody had gaudy taste in make-up.
+Ah, é maquiagem de teatro! Pensei que alguém não soubesse se produzir.
+
+[HEADER 002D02AC]
+#Look what that kebab seller was basting the meat with!
+Olhe com o que aquele vendedor de kebabs estava pincelando a carne!
+
+[HEADER 002D02AD]
+#Oh, my God! That's a brush for, you know? The commode?
+Ah, meu Deus! Isso é uma escova de... você sabe, latrina?!
+
+[HEADER 002D02AE]
+#I'm afraid so.
+Receio que sim.
+
+[HEADER 002D02AF]
+#Thank Heavens I didn't eat anything there. Oh, that's just too horrible!
+Graças a Deus eu não comi nada lá. Ah, isso é tão horrível!
+
+[HEADER 002D02B0]
+#Does this matchbook mean anything to you?
+Esta caixa de fósforos significa algo para você?
+
+[HEADER 002D02B1]
+#You're a philuminist?
+Você é um filumenista?
+
+[HEADER 002D02B2]
+#Don't they have secret handshakes?
+Eles não têm apertos de mão secretos?
+
+[HEADER 002D02B3]
+#Oh, George! Now you're teasing!
+Ah, George! Não fale besteira!
+
+[HEADER 002D02B4]
+#Have you ever heard of anybody calling himself `Moerlin'?
+Você já ouviu falar de alguém chamado 'Moerlin'?
+
+[HEADER 002D02B5]
+Merlin?
+
+[HEADER 002D02B6]
+#No, `Mooerlin', `Mooerlin'. There's an `o' in there.
+Não, 'Mooerlin', 'Mooerlin'. Há um 'o' na palavra.
+
+[HEADER 002D02B7]
+Moo Lin?
+
+[HEADER 002D02B8]
+#You haven't, have you?
+Não ouviu, não é?
+
+[HEADER 002D02B9]
+#No, darling. No Moo Lins.
+Não, querido. Nenhum Moo Lins.
+
+[HEADER 002D02BA]
+#What do you think of this toilet chain?
+O que acha desta corrente de privada?
+
+[HEADER 002D02BB]
+#My, but you're a strange one, George.
+Nossa, como você é estranho, George.
+
+[HEADER 002D02BC]
+#I've got the keys to a toilet here.
+Eu peguei as chaves para um toalete aqui perto.
+
+[HEADER 002D02BD]
+#With my digestion, you'd better keep them handy!
+Com a minha digestão, é melhor tê-las em mão!
+
+[HEADER 002D02BE]
+#Oh, but I'm terrible!
+Ah, eu sou terrível!
+
+[HEADER 002D02BF]
+#Look! A washroom towel!
+Olha! Uma toalha de banheiro!
+
+[HEADER 002D02C0]
+#Oh, George. You poor, poor thing. You've had a touch of the sun.
+Oh, George. Pobrezinho. Você tomou muito sol.
+
+[HEADER 002D02C1]
+#No! I'm fine. Really.
+Não! Estou bem. Sério.
+
+[HEADER 002D02C2]
+#I've got some plaster of Paris.
+Eu tenho um pouco de gesso de Paris.
+
+[HEADER 002D02C3]
+#That's nice, dear.
+Muito bom, querido.
+
+[HEADER 002D02C4]
+#What do you think of this chalice?
+O que você acha deste cálice?
+
+[HEADER 002D02C5]
+#Now that's really pretty!
+Que ele é muito bonito!
+
+[HEADER 002D027C]
+#I've got to go now, Pearl.
+Tenho que ir agora, Pearl.
+
+[HEADER 002D027D]
+#It's been a pleasure, George! Don't be a stranger!
+Foi um prazer, George! Volte sempre!
+
+[HEADER 002D0025]
+#Suddenly I realized the horrific truth.
+De repente, compreendi a horrenda verdade.
+
+[HEADER 002D0026]
+#The guy was basting the kebabs with the toilet brush.
+O homem estava pincelando os kebabs com a escova de privada.
+
+[HEADER 002D0024]
+#The stall holder's face wasn't a great ad for running a kebab stand.
+O rosto do camelô não era um grande chamariz para a barraca de kebabs.
+
+[HEADER 002D0051]
+#What do you make of this, Sir?
+O que acha que seja isto, senhor?
+
+[HEADER 002D0045]
+#Filthy! Bad!
+Imundo! Mal!
+
+[HEADER 002D0046]
+#Okay, okay! I'm going!
+Certo, certo! Estou indo!
+
+[HEADER 002D0052]
+#You buy kebab! You buy kebab! Yum! Most good!
+Comprar kebab! Comprar kebab! Hmm! Ser Bom!
+
+[HEADER 002D0053]
+#I'd value your opinion on this, Sir.
+Eu apreciaria ter sua opinião sobre isto, senhor.
+
+[HEADER 002D0054]
+#La! You buy kebab? Na'am?
+La! Comprar kebab? Na'am?
+
+[HEADER 002D0055]
+#Does this mean anything to you?
+Isto significa algo para você?
+
+[HEADER 002D0056]
+#No! No! You buy kebab!
+Não! Não! Comprar kebab!
+
+[HEADER 002D0057]
+#What do you think of this?
+O que acha disto?
+
+[HEADER 002D0058]
+#Árabe: Kam tureed? -> How much/many (you) want?  (http://arabic.tripod.com/Interrogation4.htm)
+#Buy kebab? Kam tureed?
+Comprar kebab? Kam tureed?
+
+[HEADER 002D0059]
+#What do you make of this?
+O que você entende por isto?
+
+[HEADER 002D005A]
+#Buy kebab! Most good!
+Comprar kebab! Ser bom!
+
+[HEADER 002D0044]
+#Hello again, Sir.
+Olá outra vez, senhor.
+
+[HEADER 002D0043]
+#Hi, what's your name, Sir?
+Oi, qual o seu nome, senhor?
+
+[HEADER 002D0049]
+#Hello! Hello! You buy kebab? Most good!
+Olá! Olá! Comprar kebab? Ser bom!
+
+[HEADER 002D0048]
+#Hello! Kebab? Mmmm! Yes!
+Olá! Kebab? Hmmm! Sim!
+
+[HEADER 002D004B]
+#Um. 'Il 'a'kl kalb?
+Hum. 'Il 'a'kl kalb?
+
+[HEADER 002D004C]
+#Filthy! Bad! Bad!
+Imundo! Mal! Mal!
+
+[HEADER 002D004D]
+#I kill you!
+Eu matar você!
+
+[HEADER 002D004E]
+#Woah! calm down! I just... Feet, do your thing!
+Opa! Acalme-se! Eu apenas... Pés, é com vocês agora!
+
+[HEADER 002D004F]
+#Well, goodbye. Have a nice day.
+Bem, adeus. Tenha um bom dia.
+
+[HEADER 002D0050]
+#Most good!
+Ser bom!
+
+[HEADER 002F000A]
+#The carpet seller looked craftier than the offspring of a fox and an insurance agent.
+O vendedor de tapetes parecia ser mais esperto do que a prole de uma raposa e um corretor de seguros.
+
+[HEADER 002F0018]
+#Does this matchbook mean anything to you?
+Esta caixa de fósforos significa algo para você?
+
+[HEADER 002F0019]
+#Ahhh! Give to me! Give to me! Alamut!
+Ahhh! Me dá! Me dá! Alamut!
+
+[HEADER 002F0014]
+#Does this mean anything to you?
+Isto significa algo para você?
+
+[HEADER 002F0015]
+#Yes, yes. Carpets, yes?
+Sim, sim. Tapetes, sim?
+
+[HEADER 002F0016]
+#What do you think of this?
+O que acha que seja isto?
+
+[HEADER 002F0017]
+#Lovely carpets? Yes!
+Adoráveis tapetes? Sim!
+
+[HEADER 002F000F]
+#Hallo, Sir! Lovely carpets!
+Olá, senhor! Adoráveis tapetes!
+
+[HEADER 002F000E]
+#Árabe: Murhuba -> Hello
+#Murhuba! Hallo, Sir!
+Murhuba! Olá, senhor!
+
+[HEADER 002F0012]
+'Il 'a'kl kalb.
+
+[HEADER 002F0013]
+#Ha! Ha! You speak Nejo, yes?
+Ha! Ha! Você falar o Nejo, sim?
+
+[HEADER 002F0011]
+Maa as-salaama!
+
+[HEADER 00310033]
+#Many beneficent greetings, my most fortunate possible friend.
+Minhas mais felizes saudações, meu mais possível amigo afortunado.
+
+[HEADER 00310034]
+#Huh? Do I know you, mister?
+Hã? Eu conheço o senhor?
+
+[HEADER 00310035]
+#No! No! And again I say No!
+Não! Não! E digo outro não!
+
+[HEADER 00310036]
+#But my friend, do you not see our mutual good fortune in this meeting?
+Mas, meu amigo, não vê boa sorte que rodeia este nosso encontro?
+
+[HEADER 00310037]
+#How frank do you want me to be?
+O quão franco você quer que eu seja?
+
+[HEADER 00310038]
+#You are a traveller, yes?
+Você é um viajante, certo?
+
+[HEADER 00310039]
+#Boy, you must be the world's greatest detective.
+Cara, você deve ser o melhor detetive do mundo.
+
+[HEADER 0031003A]
+#No, I am told that is Sherlock Holmes of the big forehead and slipper full of shag.
+Não, me disseram que é Sherlock Holmes, da testa grande e dos chinelos cheios de tabaco.
+
+[HEADER 0031003B]
+#I, as contrast, am world's greatest luxury taxi driver!
+Eu, ao contrário, sou o melhor taxista de luxo de mundo!
+
+[HEADER 0031003C]
+#I can see where this is going.
+Posso ver onde isso vai chegar.
+
+[HEADER 0031003D]
+#I am Ultar, taxi driver and luxury guide per excellent, yes!
+Sou Ultar, taxista e guia de luxo por excelência, sim!
+
+[HEADER 0031003E]
+#This I HAD to hear.
+Isso eu TINHA que ouvir.
+
+[HEADER 0031003F]
+#Where does your heart desire to go?
+Aonde seu coração deseja ir?
+
+[HEADER 00310040]
+#Simply mention the name to your obedient servant and we shall fly there, swift as the eagle!
+Apenas cite nome a seu obediente servo e sairemos voando por aí, rápidos como uma águia!
+
+[HEADER 00310041]
+#Oh. Well, I don't really want to leave Marib yet but I'm sure that if I do you'll be the first to know.
+Ah. Bem, ainda não quero deixar Marib, mas saiba que quando eu fizer isso, você será o primeiro a saber.
+
+[HEADER 00310042]
+#Is good! You know where you want to go, you come to Ultar!
+Ser bom! Você saber aonde quer ir, você vir falar com o Ultar!
+
+[HEADER 00310043]
+#Thanks. See you around, Ultar.
+Obrigado. Vejo você por aí, Ultar.
+
+[HEADER 00310044]
+#Be having a pleasant day full of shining experiences and happiness, my friend.
+Que ter um agradável dia cheio de felicidade e experiências ilustres, meu amigo.
+
+[HEADER 002D002C]
+#Embarrassed as I am to admit it...
+É vergonhoso ter de admitir isto...
+
+[HEADER 002D002D]
+#...you can spot an American tourist a mile off.
+... mas é possivel reconhecer um turista americano de longe.
+
+[HEADER 002D002E]
+#I don't know. Even though he was obviously a countryman of mine...
+Sei lá... Mesmo que ele obviamente fosse um compatriota meu...
+
+[HEADER 002D002F]
+#...there was something about the guy that gave me a weird feeling.
+...havia algo sobre o homem que me deixava com uma pulga atrás da orelha.
+
+[HEADER 002D005B]
+#Hi! I was wondering whether you could help me?
+Oi! Será que você poderia me ajudar?
+
+[HEADER 002D005F]
+#Why sure, son! Always got time for a fellow American.
+Ora, é claro, filho! Sempre tenho tempo para um compatriota.
+
+[HEADER 002D0060]
+#The name's Henderson. Duane Henderson.
+Me chamo Henderson. Duane Henderson.
+
+[HEADER 002D0061]
+#Pleased to meet you, Mr. Henderson.
+Prazer em conhecê-lo, Sr. Henderson.
+
+[HEADER 002D0062]
+#Hell, boy! I'm not in the office. Call me Duane!
+Diabos, garoto! Não estou no escritório. Me chame de Duane!
+
+[HEADER 002D0063]
+#Oh, okay. Duane. My name's George Stobbart.
+Ah, certo. Duane. Me chamo George Stobbart.
+
+[HEADER 002D005C]
+#Hi there, Duane!
+E aí, Duane!
+
+[HEADER 002D0064]
+#Hi there, George! How can I help you, young fella?.
+E aí, George! Como posso ajudá-lo, amigo?
+
+[HEADER 002D0065]
+#You're a long way from home, Duane.
+Você está muito longe de sua terra, Duane.
+
+[HEADER 002D0066]
+#Could say the same about you, George.
+Posso dizer o mesmo de você, George.
+
+[HEADER 002D0067]
+#Me? I'm just sightseeing. That's all.
+Eu? Estou apenas a turismo. Só isso.
+
+[HEADER 002D0068]
+#Without a camera? Kinda lax to come all this way...
+Sem uma câmera? Meio que burrice vir até aqui...
+
+[HEADER 002D0069]
+#...and not take pictures.
+... e não tirar fotos.
+
+[HEADER 002D006A]
+#Mind if I take a picture of you, George?
+Se importa se eu tirar uma foto sua, George?
+
+[HEADER 002D006B]
+#What? Why?
+O quê? Por quê?
+
+[HEADER 002D006C]
+#Ow! You could've warned me!
+Ou! Você podia ter me avisado!
+
+[HEADER 002D006D]
+#You don't mind, do you, George?
+Você não se importa, não é, George?
+
+[HEADER 002D006E]
+#The folks back home will be real interested.
+As pessoas lá de casa vão ficar muito interessadas.
+
+[HEADER 002D006F]
+#What exactly do you do, Duane?
+O que você faz exatamente, Duane?
+
+[HEADER 002D0070]
+#Didn't I say? Oh, I run a greeting card company.
+Eu não disse? Ah, sou dono de uma companhia de cartões comemorativos.
+
+[HEADER 002D0071]
+#Yup, we're based in Cleveland, Ohio.
+Aham, nossa sede fica em Cleveland, Ohio.
+
+[HEADER 002D0072]
+#Cleveland? Pearl said you're in Akron.
+Cleveland? Pearl disse que vocês estão em Akron.
+
+[HEADER 002D0073]
+#What was that?
+O que disse?
+
+[HEADER 002D0074]
+#Uh, nothing. Just thinking out loud.
+Uh, nada. Só pensei alto.
+
+[HEADER 002D0075]
+#Pearl writes the poems for 'em.
+A Pearl escreve os poemas deles.
+
+[HEADER 002D0076]
+#You ougha ask her to recite some.
+Você deveria pedir a ela para recitar alguns.
+
+[HEADER 002D007E]
+#Where is your wife, Duane?
+Onde está sua esposa, Duane?
+
+[HEADER 002D007F]
+#Pearl? Oh, she's around. Looking for bargains.
+Pearl? Ah, ela está por aí, procurando boas ofertas.
+
+[HEADER 002D008B]
+#How long have you been married, Duane?
+Há quanto tempo estão casados, Duane?
+
+[HEADER 002D008C]
+#Hell, must be thirty years now.
+Nossa, deve ter uns 30 anos já.
+
+[HEADER 002D0098]
+#I saw a medieval picture of a woman...
+Eu vi uma pintura medieval de uma mulher...
+
+[HEADER 002D0099]
+#...royalty or nobility, something like that...
+... da realeza, ou nobreza, algo assim...
+
+[HEADER 002D009A]
+#...she was looking in a mirror...
+... Ela estava se olhando num espelho...
+
+[HEADER 002D009B]
+#...but the reflection was of a man with three faces.
+... mas o reflexo era de um homem com três rostos.
+
+[HEADER 002D009C]
+#What do you think of that?
+O que acha que seja?
+
+[HEADER 002D009D]
+#I think you should be in therapy.
+Acho que você deveria fazer terapia.
+
+[HEADER 002D008D]
+#Do you think bulls have any significance around here?
+Você acha que touros têm algum significado por aqui?
+
+[HEADER 002D008E]
+#Weird question, George.
+Pergunta estranha, George.
+
+[HEADER 002D008F]
+#No, I don't think they have.
+Não, não acho que tenham.
+
+[HEADER 002D009E]
+#Do you mind if I ask you an odd question?
+Você se importa se eu fizer uma pergunta estranha?
+
+[HEADER 002D009F]
+#Okay, but I might not answer it.
+Certo, mas talvez eu não a responda.
+
+[HEADER 002D00A0]
+#Do you know anything about the Templars?
+Você sabe algo sobre os Templários?
+
+[HEADER 002D00A1]
+#The Knights Templar?
+Os Cavaleiros Templários?
+
+[HEADER 002D00A2]
+#Yep.
+Isso.
+
+[HEADER 002D00A3]
+#Nope. Nothing at all.
+Não. Nada.
+
+[HEADER 002D00A4]
+#Well, you knew they were an order of knights!
+Bem, você sabia que eles eram uma ordem de cavaleiros!
+
+[HEADER 002D00A5]
+#What I know and what I say are two different things, boy.
+O que sei e o que digo são coisas diferentes, garoto.
+
+[HEADER 002D00A6]
+#I haven't lasted as long as I have in this business without knowing that.
+Eu não estaria há tanto tempo neste negócio se não soubesse disso.
+
+[HEADER 002D00A7]
+#`In this business'?
+'Neste negócio'?
+
+[HEADER 002D00A8]
+#Sure.
+Claro.
+
+[HEADER 002D00A9]
+#The greetings card business.
+O negócio de cartões comemorativos.
+
+[HEADER 002D00AA]
+#Oh, puhleeese!
+Ah, me poupe!
+
+[HEADER 002D0090]
+#Does the image of a knight holding a crystal ball mean anything to you?
+A imagem de um cavaleiro segurando uma bola de cristal significa algo para você?
+
+[HEADER 002D0091]
+#Hell, no! What would a knight want with a hunk o' glass?
+Diabos, não! O que um cavaleiro iria querer c'um naco de vidro?
+
+[HEADER 002D0092]
+#I don't know. That's the prob...
+Não sei. Esse é o prob...
+
+[HEADER 002D0093]
+#What's wrong, boy?
+O que foi, garoto?
+
+[HEADER 002D0094]
+#It's not a crystal ball...
+Não é uma bola de cristal...
+
+[HEADER 002D0095]
+#It all came together in my head.
+Veio tudo à minha mente.
+
+[HEADER 002D0096]
+#What the conspirators had mentioned losing, the strange perspective of the manuscript...
+O que os conspiradores mencionaram terem perdido, a estranha perspectiva do manuscrito...
+
+[HEADER 002D0097]
+#...it's a lens!
+... é uma lente!
+
+[HEADER 002D00B1]
+#Have you talked to Nejo?
+Você já falou com o Nejo?
+
+[HEADER 002D00B2]
+#Nejo? He's the youngster on that junk stand, right?
+Nejo? Ele é o jovenzinho daquela barraca de velharias, certo?
+
+[HEADER 002D00B3]
+#Yeah, we've met him. He's a smart kid.
+É, nós o conhecemos. Ele é um garoto de talento.
+
+[HEADER 002D00B4]
+#Speaks four languages and he's never had a day's formal education.
+Fala quatro línguas, mesmo não tendo uma educação formal de hoje.
+
+[HEADER 002D00B5]
+#He should go far. Kept trying to peddle garbage on us, though.
+Ele vai longe, apesar de ter insistido em nos vender aquelas porcarias.
+
+[HEADER 002D00B6]
+#You're not going to find much worthwhile around here.
+Você não vai encontrar muita coisa que valha a pena por aqui.
+
+[HEADER 002D00B7]
+#I know that and YOU know that...
+Eu sei disso e VOCÊ sabe disso...
+
+[HEADER 002D00B8]
+#Inglês: them thar -> maneira errada de se falar those
+#but try telling Pearl. She reckons there's antiquities in them thar stands.
+Agora tente convencer a Pearl. Ela acha que há antiguidades "enquelas" barracas.
+
+[HEADER 002D00AF]
+#Have you had any dealings with the kebab seller?
+Você fez algum negócio com o vendedor de kebabs?
+
+[HEADER 002D00B0]
+# Montezuma's revenge -> diarréia sofrida por estrangeiros no México.
+#Absolutely not. Pearl's already had one attack of Montezuma's Revenge.
+Claro que não. A Pearl já teve uma vez o ataque da Vingança de Montezuma.
+
+[HEADER 002D00B9]
+#Have you met Ultar?
+Você conheceu o Ultar?
+
+[HEADER 002D00BA]
+#Oh, `most luxurious, air-conditioned taxi ride, mister!'
+Ah, 'a mais luxuosa e fresca corrida de táxi, senhor!'.
+
+[HEADER 002D00BB]
+#Yeah, the cabbie.
+É, o taxista.
+
+[HEADER 002D00BC]
+#Tried to pull a bunko on us. Take us on a wildgoose chase off into nowhere.
+Ele tentou nos passar a perna. Ficou rodando por aí, sem nos levar a lugar algum.
+
+[HEADER 002D00BD]
+#Have you ever heard of a hill called the Bull's Head?
+Você já ouvi falar de uma colina chamada Cabeça do Touro?
+
+[HEADER 002D00BE]
+#Can't say as I have. Where's that?
+Não posso dizer que sim. Onde fica?
+
+[HEADER 002D00BF]
+#I don't know. I'm trying to find out.
+Não sei. Estou tentando descobrir.
+
+[HEADER 002D00C0]
+#Bull's Head, huh? I must remember that. Sounds scenic.
+Cabeça do Touro, é? Tenho que lembrar disso. Parece pitoresco.
+
+[HEADER 002D00D1]
+#Have you seen this man before?
+Você já viu este homem antes?
+
+[HEADER 002D00D2]
+#Maybe. Where did you get it?
+Talvez. Onde a conseguiu?
+
+[HEADER 002D00D3]
+#I just picked it up somewhere.
+Peguei por aí.
+
+[HEADER 002D00D4]
+#Sure, I'm always picking up photos of complete strangers and then asking around.
+Claro, sempre fico pegando fotos de completos estranhos e perguntando por aí.
+
+[HEADER 002D00D5]
+#Ow! Dammit!
+Ou! Droga!
+
+[HEADER 002D00D6]
+#There, I've got another picture of a complete stranger.
+Aqui, peguei outra foto de um completo estranho.
+
+[HEADER 002D00D7]
+#Maybe I'll ask around about this one.
+Talvez eu vá perguntar por aí sobre ela.
+
+[HEADER 002D00E5]
+#What do you think of this?
+O que acha disto?
+
+[HEADER 002D00E1]
+#Hmmm, looks like the kind of thing Pearl might be interested in.
+Hmmm, parece o tipo de coisa que talvez interessaria a Pearl.
+
+[HEADER 002D00E2]
+#Not old enough, though.
+Apesar de não ser muito velho.
+
+[HEADER 002D00E6]
+#Good Gravy! Looks old.
+Meu Deus do Céu! Parece antigo.
+
+[HEADER 002D00E7]
+#Yeah. I had to turn this town upside down.
+É. Eu tive que virar essa cidade de cabeça para baixo para encontrá-la.
+
+[HEADER 002D00E8]
+#Boy, your luck's better than ours. Looks Roman.
+Garoto, sua sorte é maior do que a nossa. Parece romana.
+
+[HEADER 002D00E9]
+#I wouldn't know.
+Eu não saberia.
+
+[HEADER 002D00EA]
+#What they'll say back home! How much do you want, George?
+O que vão dizer lá em casa! Quanto quer por ela, George?
+
+[HEADER 002D00EB]
+#Oh, I couldn't, it's the find of a lifetime. I mean...
+Ah, eu não posso, é o achado de uma vida inteira. Quero dizer...
+
+[HEADER 002D00EC]
+#Fifty bucks. Take it. Or leave it.
+50 Pratas. É pegar ou largar!
+
+[HEADER 002D00ED]
+#I'll take it. Here you go.
+Vou pegar. Fique com isto.
+
+[HEADER 002D00EE]
+#And here YOU go...
+E VOCÊ com isto...
+
+[HEADER 002D00EF]
+#Thanks for the money, Duane. This'll come in real handy.
+Obrigado pelo dinheiro, Duane. Ele veio em boa hora.
+
+[HEADER 002D00F0]
+#I ought to be thanking you for finding this Roman statuette.
+Eu quem deveria estar agradecendo por ter encontrado esta estatueta romana.
+
+[HEADER 002D00C4]
+#What do you think of this?
+O que acha disto, hein?
+
+[HEADER 002D00C5]
+#It's a ball. Big deal...
+Uma bola. Grande coisa...
+
+[HEADER 002D00C6]
+#Shake hands, Duane!
+Aperte minha mão, Duane!
+
+[HEADER 002D00C7]
+#Why?
+Por quê?
+
+[HEADER 002D00C8]
+#Just being friendly.
+Por amizade.
+
+[HEADER 002D00C9]
+#Let's just be friendly by keeping our hands to ourselves, yeah?
+Vamos ser só amigos e deixar cada mão com seu dono, tá?
+
+[HEADER 002D00CA]
+#What do you make of this?
+O que acha que seja isto?
+
+[HEADER 002D00CB]
+#A manhole lifting key. So?
+Uma chave de bueiro. E?
+
+[HEADER 002D00CC]
+#Hey, how come you recognize it?
+Ei, como você reconheceu-a?
+
+[HEADER 002D00CD]
+#Hey, how come you're carrying it?
+Ei, como você está carregando-a?
+
+[HEADER 002D00CE]
+#Yeah, well. Let's just drop the subject, shall we?
+É, bem. Vamos esquecer isso aí, pode ser?
+
+[HEADER 002D00DA]
+#Does this matchbook mean anything to you?
+Esta caixa de fósforos significa algo para você?
+
+[HEADER 002D00DB]
+#Nothing. Nothing at all.
+Não. Nada.
+
+[HEADER 002D00DC]
+#What do you think of this?
+O que acha que seja isto?
+
+[HEADER 002D00DD]
+#A blood pressure gauge. Why in blue blazes are you carrying that?
+Um medidor de pressão sanguínea. Por que diabos carrega um com você?
+
+[HEADER 002D00DE]
+#I'm carrying it for a friend?
+Estou carregando para um amigo?
+
+[HEADER 002D00DF]
+#Recognise this?
+Reconhece isto?
+
+[HEADER 002D00E0]
+#A clown's red nose.
+Um nariz vermelho de palhaço.
+
+[HEADER 002D00E3]
+#Do you know the name `Moerlin'?
+Conhece o nome 'Moerlin'?
+
+[HEADER 002D00E4]
+#Nope.
+Não.
+
+[HEADER 002D00F1]
+#What do you think of this greasepaint-stained tissue?
+O que entende por este lenço engordurado com maquiagem?
+
+[HEADER 002D00F2]
+#You've been hanging around with actors?
+Você tem vadiado por aí com atores?
+
+[HEADER 002D00F3]
+#I've got a toilet brush!
+Eu peguei uma escova de privada!
+
+[HEADER 002D00F4]
+#What do you want me to do? Dance around with joy?
+O que quer que eu faça? Dançar em volta dela todo alegre?
+
+[HEADER 002D00F5]
+#What does this toilet chain mean to you?
+O que esta corrente de privada significa para você?
+
+[HEADER 002D00F6]
+#It means that somewhere, somebody can't flush the toilet.
+Significa que, em algum lugar, alguém não pode dar a descarga.
+
+[HEADER 002D00F7]
+#I've got the keys to a toilet here.
+Eu peguei a chave de um banheiro aqui perto.
+
+[HEADER 002D00F8]
+#Executive washroom?
+Banheiro executivo?
+
+[HEADER 002D00F9]
+#Not exactly.
+Não exatamente.
+
+[HEADER 002D00FA]
+#Here I have a washroom towel.
+Aqui, tenho uma toalha de banheiro.
+
+[HEADER 002D00FB]
+#Yes?
+Sim?
+
+[HEADER 002D00FC]
+#No, that's it. `Here I have a washroom towel'.
+Não, é só isso. 'Aqui, tenho uma toalha de banheiro'.
+
+[HEADER 002D00FD]
+#Oh, I was expecting a magic trick or something.
+Ah, eu estava esperando um truque de mágica ou algo assim.
+
+[HEADER 002D00FE]
+#Look, I've got some plaster of Paris.
+Olhe, eu peguei um pouco de gesso de Paris.
+
+[HEADER 002D00FF]
+#Yeah? I've got a picture of me shaking hands with George Bush.
+É? Eu tenho uma foto minha apertando a mão do George Bush.
+
+[HEADER 002D0100]
+#Course, that was back in '76.
+Claro, isso foi em 76.
+
+[HEADER 002D0101]
+#What do you make of this chalice?
+O que você acha deste cálice?
+
+[HEADER 002D0102]
+#That looks old. Is it for sale?
+Parace antigo. Está a venda?
+
+[HEADER 002D0103]
+#Sorry.
+Sinto muito.
+
+[HEADER 002D00C2]
+#Okay. Well, I'll see you around, Duane.
+Certo. Bem, vejo você por aí, Duane.
+
+[HEADER 002D00C3]
+#Count on it, George.
+Conte com isso, George.
+
+[HEADER 0031000C]
+#I don't know why but I felt like I could trust this guy.
+Não sei por que, mas eu sentia que podia confiar nesse cara.
+
+[HEADER 00310045]
+#Hello again, Ultar.
+Olá outra vez, Ultar.
+
+[HEADER 0031004A]
+#Praise be to Allah! I am blessed with your bountiful presence once more!
+Louvado ser Alá! Ultar foi abençoado com sua benfazeja presença outra vez!
+
+[HEADER 00310064]
+#Do you know anything about the Templars?
+Você sabe alguma coisa sobre os Templários?
+
+[HEADER 00310065]
+#Of course!
+É claro!
+
+[HEADER 00310066]
+#Yes? What can you tell me?
+Sim? O que pode me contar?
+
+[HEADER 00310067]
+#Great she-bop band of the sixties!
+Grande banda she-bop dos anos 60!
+
+[HEADER 00310068]
+#Uh-no, that's not really...
+Uh, não, não é bem...
+
+[HEADER 00310069]
+`Who put the 'Bop' in the 'bop-shebop-du-whop'?'
+
+[HEADER 0031006A]
+#Yeah. Eternal questions.
+É. A eterna pergunta.
+
+[HEADER 00310057]
+#This place is certainly hard to find.
+Este local está muito bem escondido, não?
+
+[HEADER 00310058]
+#Oh, yes! It is most exclusive! The membership can be no more than, hmm...
+Ah, sim! É clube mais exclusivo! Quadro social não ter mais que, hmmm...
+
+[HEADER 00310059]
+#Kind Sir, what would you guess the population of the village to be?
+Bom senhor, quantas pessoas você acha que morar em vilarejo?
+
+[HEADER 0031005A]
+#Gee, I don't know. A couple of thousand?
+Putz, sei lá. Umas mil pessoas?
+
+[HEADER 0031005B]
+#Then I would estimate the membership to be no more than a couple of thousand.
+Então penso que quadro social não ter mais de que mil pessoas.
+
+[HEADER 0031005C]
+#What do you make of that boy in the market? Nejo?
+O que você acha daquele garoto no mercado, o Nejo?
+
+[HEADER 0031005D]
+#Nejo? Ha, Ayub's boy. Is too big for sandals.
+Nejo? Ha, filho de Ayub. Muito grande para as sandálias.
+
+[HEADER 0031005E]
+#I speak splendid English and he laugh! He say, `Ultar, you big ox! You split infinitive!'
+Ultar fala inglês esplêndido e ele ri! Ele diz: 'Ultar, sua mula assada! Não fale na terceira pessoa!'
+
+[HEADER 0031005F]
+#I say, `I split your head if you stay still long enough.'
+Ultar diz: 'Ultar vai te mostrar com quantas pessoas se faz um assado de garoto.'
+
+[HEADER 00310060]
+Ha, ha, ha, ha!
+
+[HEADER 00310061]
+Ho, ho, ho, ho!
+
+[HEADER 00310062]
+#Pretty funny, yes?
+Muito engraçado, sim?
+
+[HEADER 00310063]
+#Hilarious. You should be on cable.
+Hilariante. Você devia estar na TV.
+
+[HEADER 0031006B]
+#What do you know about the kebab seller?
+O que você sabe sobre o vendedor de kebabs?
+
+[HEADER 0031006C]
+#A most miserable man. Ultar say, `Cheery up, matey mate! It might never happen!'
+Um homem muito miserável. Ultar diz: 'Animê-se, meu moço! Não tem como piorar!'
+
+[HEADER 0031006D]
+#And he say, `Shut up, Ultar!'
+E ele diz: 'Calar boca, Ultar!'
+
+[HEADER 0031006E]
+#Fancy that.
+Imagine só.
+
+[HEADER 0031006F]
+#Not at all. Arto has face like the drizzle that falls on the midweek afternoon.
+Não é tudo. O Arto tem um rosto que se parece com garoa que cai em tarde de quarta-feira.
+
+[HEADER 00310070]
+#Whatever that is.
+Seja lá que for isso.
+
+[HEADER 00310071]
+#Have you met the American couple?
+Você conheceu o casal americano?
+
+[HEADER 00310072]
+#Have Ultar met them? HAVE Ultar met them? Yes, Ultar have met them.
+Se Ultar os conheceu? SE ULTAR OS CONHECEU? Sim, Ultar os conheceu.
+
+[HEADER 00310073]
+#And?
+E?
+
+[HEADER 00310074]
+#They most ungenerous. Ultar offer to show them wonders of countryside.
+Eles não generosos. Ultar ofereceu-se para mostrar maravilhas de interior de país.
+
+[HEADER 00310075]
+#They say, `Is there anything ancient?' Ultar say, `Yes, of course! Nature is ancient.'
+Eles perguntaram: 'Há algo antigo lá?' Ultar respondeu: 'Sim, é claro! Natureza é antiga.'
+
+[HEADER 00310076]
+#They say, `No, anything ancient made by men?' and Ultar say, `Have you seen taxi? Fan belt older than Ozymandias!
+Eles dizem: 'Não, coisas antigas feitas pelo homem.' e Ultar responde: 'Já viu táxi de Ultar? O cinto ser mais velho que Ozymandias!'
+
+[HEADER 00310077]
+#But they gone.
+Mas eles foram embora.
+
+[HEADER 00310078]
+#Could you tell me what that sign means?
+Pode me dizer o que está escrito naquela placa?
+
+[HEADER 00310079]
+#It say, `Door stay shut until brush come back. Signed, the management.'
+Está escrito: 'Porta ficar fechada até escova retornar. Assinado, o gerente.'
+
+[HEADER 0031007A]
+#Oh. What does that mean?
+Ah. O que isso quer dizer?
+
+[HEADER 0031007B]
+#Manager buy lovely new toilet brush...
+O gerente comprou uma nova e adorável escova de privada...
+
+[HEADER 0031007C]
+#...leaves it by washbasin for ten minutes.
+... e deixou em pia por dez minutos.
+
+[HEADER 0031007D]
+#Come back, it been stealen! Stolen.
+Na volta, tinha sido roubada! Roubada.
+
+[HEADER 0031007E]
+#Not even out of wrapper.
+Não tinha nem tirado de embrulho.
+
+[HEADER 0031007F]
+#He damn cross! Lock toilet up and say, `Nobody use fine, pristine toilet until brush given back.'
+Ele ficou furioso! Trancou banheiro e disse: 'Ninguém usar belo toalete imaculado sem escova ser devolvida.'
+
+[HEADER 00310080]
+#We say, `What we do 'til then, eh?'
+Nós dissemos: 'Que faremos enquanto isso, hein?'
+
+[HEADER 00310081]
+#He say, `Cross legs and use the superior willpower.'
+Ele disse: 'Cruzar pernas e usar a força de vontade superior.'
+
+[HEADER 00310082]
+#And that's what you've been doing?
+E é isso que você vem fazendo?
+
+[HEADER 00310083]
+#No. Ultar use bucket.
+Não. Ultar usa balde.
+
+[HEADER 0031004C]
+#What does `'Il 'a'kl kalb' mean?
+O que significa `'Il 'a'kl kalb'?
+
+[HEADER 0031004E]
+#Who teach you that?
+Quem lhe ensinou isso?
+
+[HEADER 0031004F]
+#Nejo told me to say it to Arto.
+Nejo me disse para falar isto ao Arto.
+
+[HEADER 00310050]
+#And Arto come after you with big knife, yes?
+E Arto veio atrás de você com uma grande faca, sim?
+
+[HEADER 00310051]
+#Yeah! How did you know?
+Isso! Como sabia?
+
+[HEADER 00310052]
+#I know Arto. You tell him in bad Arabic that his kebabs made from dog meat.
+Ultar conhece Arto. Você disse a ele, em péssimo árabe, que seus kebabs são feitos de carne de cachorro.
+
+[HEADER 00310053]
+#I said he was using dog food? No wonder he went crazy!
+Eu disse que ele estava fazendo comida para cachorro? Não é pra menos que ele ficou maluco!
+
+[HEADER 00310054]
+#No. Ultar not mean meat for dog.
+Não. Ultar não disse carne para cachorro.
+
+[HEADER 00310055]
+#Ultar mean meat of dog.
+Ultar disse carne de cachorro.
+
+[HEADER 00310056]
+#Oh.
+Ah.
+
+[HEADER 0031004D]
+#Not sure, mister. Your accent is difficult.
+Ultar não tem certeza, senhor. Seu sotaque é ruim.
+
+[HEADER 003100A5]
+#About Bull's Head Hill.
+Sobre a Colina Cabeça do Touro.
+
+[HEADER 003100A6]
+#Are you desirous of seeing this most splendid place?
+Você deseja conhecer esse magnífico lugar?
+
+[HEADER 003100A7]
+#Well, maybe.
+Bem, talvez.
+
+[HEADER 003100A8]
+#A terrific bargain, only fifty of your yankee bucks.
+Uma excelente pechincha, apenas 50 de suas pratas ianques.
+
+[HEADER 003100A9]
+#Fifty, huh?
+50, hein?
+
+[HEADER 003100AD]
+#Okay, it's a deal. Here's the cash.
+Certo, negócio fechado. Aqui está o dinheiro.
+
+[HEADER 003100AE]
+#Ah! Most splendid! As you say, `The Cash Price Moolah is Correct'!
+Ah! Fantástico! Como vocês diriam: 'O Dinheiro, Grana, Tutu é que Conta'!
+
+[HEADER 003100AF]
+#Mister, we make with haste!
+Senhor, temos que nos apressar!
+
+[HEADER 003100B0]
+#Where exactly is your taxi? The only vehicle I've seen around here is a ageing army surplus truck.
+Onde exatamente está seu táxi? O único veículo que vi por aqui foi um antigo caminhão do exército.
+
+[HEADER 003100B1]
+#Yes?
+Sim?
+
+[HEADER 003100B2]
+#Oh. Okay, I'll be along in a minute.
+Ah. Certo, estarei com você em um minuto.
+
+[HEADER 0031000F]
+#It didn't seem right to take off with the toilet keys so I left them on the bar.
+Não achei certo sair com as chaves do banheiro, por isso as deixei no bar.
+
+[HEADER 003100A3]
+#No, I think I'll be hanging around the village for a while yet.
+Não, acho que vou dar mais uma volta pelo vilarejo antes.
+
+[HEADER 003100A4]
+#As you desire, oh mister. Rest assured, however, that Ultar is ready to transport you to Bull's Head as quick as a lickety split, yes!
+Como desejar, oh, senhor. Tenha certeza, contudo, que Ultar está pronto para transportá-lo à Cabeça do Touro mais rápido possível, sim!
+
+[HEADER 003100AA]
+#Well, I still don't have any cash on me. American or otherwise.
+Bem, eu ainda não tenho dinheiro comigo. Nem americano, nem outro qualquer.
+
+[HEADER 003100AB]
+#Ah! Unfortune most extreme.
+Ah! Que extrema infelicidade.
+
+[HEADER 003100AC]
+#The delights of the Bull's Head hill then must wait, I fear.
+Então receio que maravilhas da Colina Cabeça do Touro talvez tenham de esperar.
+
+[HEADER 00310086]
+#What can you tell me about this Bull's Head Hill?
+O que você pode me dizer sobre a Colina Cabeça do Touro?
+
+[HEADER 00310087]
+#Is most magnificent! Lovely views! Worth visiting, yes, by indeedity!
+Ser magnífica! Belas paisagens! Vale visita, sim, sem duvidades!
+
+[HEADER 00310088]
+#How do I get there? No, let me guess.
+Como eu chego lá? Não, deixe-me adivinhar.
+
+[HEADER 00310089]
+#You need fine luxury guide to take you there in air-conditioned taxi!
+Você precisar de guia de luxo para levá-lo lá em seu táxi fresquinho!
+
+[HEADER 0031008A]
+#`Woe is me. Where can I find such a guide?'
+'E agora? Onde poderei encontrar tal guia?'
+
+[HEADER 0031008B]
+#And Ultar is most luxurious guide for, most literally, some way! In any direction!
+Ultar ser mais luxuoso guia para esse serviço! Para qualquer direção!
+
+[HEADER 0031008C]
+#Gee willikers. Lucky old me.
+Incrível. Que sorte a minha.
+
+[HEADER 0031008D]
+#Are you desirous of my pleasant and luxuriant service?
+Você está com desejo de meu confortável e luxuoso serviço?
+
+[HEADER 0031008E]
+#Okay. All right. Let's go.
+Certo. Muito bem. Vamos lá.
+
+[HEADER 0031008F]
+#First, I regret, the formalities. A trip to the Bull's Head, hmmmm. Fifty yankee dollars, please!
+Lamento, mas antes as formalidades. Uma viagem para Cabeça do Touro, hmmm... 50 dólares ianques, por favor!
+
+[HEADER 00310090]
+#Fifty bucks? I don't have fifty bucks!
+50 pratas? Não tenho nem 5 pratas!
+
+[HEADER 00310091]
+#Oh, most unhappy event! Ultar then sorry but he cannot take you on ride of lifetime.
+Oh, que infelicidade! Ultar então sente muito, mas ele não poder levá-lo para passeio inesquecível.
+
+[HEADER 00310092]
+#Hold on, Ultar. Is there nothing I could barter with you?
+Espere aí, Ultar. Não há nada que você queira em troca?
+
+[HEADER 00310093]
+#Were that it was so, beloved friend. But my taxi needs gas and its muffler needs the muffler doctor. Trading for these things is not possible.
+Ser uma boa ideia, caro amigo. Mas táxi de Ultar precisar de combustível e seu amortedecedor de um mecânico. Trocar por essas coisas não ser possível.
+
+[HEADER 00310094]
+#My heart weeps for the injustice but it's bucks or zip, oh unfortunate American.
+O coração de Ultar sofre pela injustiça, mas é pratas ou zero, oh, desafortunado americano.
+
+[HEADER 003100D5]
+#Have you seen this man before?
+Você já viu este homem antes?
+
+[HEADER 003100D6]
+#Oh, most certainly! Was here only yesterday!
+Ah, com muita certeza! Estar aqui ontem mesmo!
+
+[HEADER 003100D7]
+#Here? Yesterday? My God, he's close.
+Aqui? Ontem? Meu Deus, ele está perto.
+
+[HEADER 003100D8]
+#Yes, he was asking lot of questions, just like you.
+Sim, ele estava fazendo muitas perguntas, como você.
+
+[HEADER 003100D9]
+#What did he ask about?
+Sobre o que ele perguntou?
+
+[HEADER 003100DA]
+#He ask about American called Stobbie...
+Ele perguntar sobre um americano chamado Stobbie...
+
+[HEADER 003100DB]
+Stobbart?
+
+[HEADER 003100DC]
+#Yes! Stobbart! You know him?
+Sim! Stobbart! Você o conhece?
+
+[HEADER 003100DD]
+#The killer knew my name.
+O assassino sabia meu nome.
+
+[HEADER 003100DE]
+#What else did he ask about?
+O que mais ele perguntou?
+
+[HEADER 003100DF]
+#He ask about German man called Klobner.
+Ele perguntar sobre alemão chamado Klobner.
+
+[HEADER 003100E0]
+#I tried to remember the name of the man the conspiracy had lost in Syria...
+Tentei lembrar o nome do homem que a conspiração perdeu na Síria...
+
+[HEADER 003100E1]
+#Was his name Klausner?
+O nome não era Klausner?
+
+[HEADER 003100E2]
+#Sure! That is what Ultar said! Klausner!
+Isso! Foi que Ultar disse! Klausner!
+
+[HEADER 003100E3]
+#I told this man in the picture Klausner wanted to go up to Bull's Head,...
+Ultar falou para homem de foto que Klausner queria ir a Cabeça do Touro...
+
+[HEADER 003100E4]
+#Hold on, he wanted to go where?
+Espera aí, ele queria ir aonde?
+
+[HEADER 003100E5]
+#Bull's Head...
+Cabeça de Touro...
+
+[HEADER 003100E6]
+#...big hill, ten mile out of town, maybe sixty.
+... grande colina, a 10 quilômetros de cidade, talvez 60.
+
+[HEADER 003100E7]
+#When was that?
+Quando foi isso?
+
+[HEADER 003100E8]
+#Oh, maybe a week ago.
+Ah, uma semana atrás, Ultar acha.
+
+[HEADER 003100FE]
+#Look, Ultar. Fifty dollars, US.
+Olhe, Ultar. 50 dólares americanos.
+
+[HEADER 003100FF]
+#A splendid sum.
+Uma soma esplêndida.
+
+[HEADER 0031011F]
+#Look I've got the toilet brush back!
+Olhe, eu recuperei a escova de privada!
+
+[HEADER 00310120]
+#Hmmm, you man of action, all rightey.
+Hmmm, você ser homem de ação mesmou. 
+
+[HEADER 00310121]
+#Don't just wave at me. Give to manager.
+Não fique mostrando para Ultar. Devolva a gerente.
+
+[HEADER 00310124]
+#Look, I've got the keys to the toilet!
+Olhe, eu peguei as chaves do toalete!
+
+[HEADER 00310125]
+#Is this `Life Goal' thing I read in GQ?
+Esse ser 'Metas na Vida' que li em GQ?
+
+[HEADER 00310126]
+#Look what I've got! The towel from the toilet!
+Olha o que eu peguei! A toalha do toalete!
+
+[HEADER 00310127]
+#What you want with towel?
+Que você quer com toalha?
+
+[HEADER 00310128]
+#Well, I don't know yet, do I?
+Bem, acho que ainda não sei...
+
+[HEADER 00310129]
+#You sure a funny bod. Run around, collect things.
+Você é um moleque bem engraçado, andando por aí colecionando coisas.
+
+[HEADER 003100C6]
+#What do you think of this ball?
+O que você acha desta bola?
+
+[HEADER 003100C7]
+#Is most splendid, mister.
+Ser esplêndida, senhor.
+
+[HEADER 003100CA]
+#Shake my hand, Ultar!
+Aperte minha mão, Ultar!
+
+[HEADER 003100CB]
+#Ha, ha! Remind me of thing that happen month ago, maybe six.
+Ha, ha! Ultar lembra de uma coisa que acontecer há um mês, talvez seis.
+
+[HEADER 003100CC]
+#Man come up to Ultar, say `Shake hands, Ultar!'
+Um homem veio até Ultar e disse: 'Aperte minha mão, Ultar!'
+
+[HEADER 003100CD]
+#But man have electrical buzz thing in his hand. Ha, ha!
+Mas o homem tinha um aparelhinho de choque em mão. Ha, ha!
+
+[HEADER 003100CE]
+#How we laughed!
+Como nós rimos!
+
+[HEADER 003100CF]
+#Then I broke his arms.
+Então Ultar quebrou braços dele.
+
+[HEADER 003100D0]
+#I didn't think electrocuting the big Syrian was a good idea
+Eu não achava uma boa ideia eletrocutar o grande sírio.
+
+[HEADER 003100D1]
+#This is a key for lifting manhole covers.
+Está é uma chave para levantar tampas de bueiros.
+
+[HEADER 003100D2]
+#You carry some strange stuff with you, mister.
+Você carrega coisas estranhas consigo, senhor.
+
+[HEADER 003100EB]
+#What do you think of this?
+O que acha que seja isto?
+
+[HEADER 003100EC]
+# Gadget não tem tradução para português. Acho que já foi adotado na língua. xD
+# Na dúvida, traduzi para o gadget mais famoso.
+Ser um relógio.
+
+[HEADER 003100ED]
+#It's a blood pressure gauge.
+É um medidor de pressão sanguínea.
+
+[HEADER 003100EE]
+#Blood pressure gauge. Is what Ultar said!
+Medidor de pressão sanguínea. Ser que Ultar disse!
+
+[HEADER 003100F1]
+#Look at this.
+Olhe isto.
+
+[HEADER 003100F2]
+#Is a red ball with a hole in it.
+Ser uma bola vermelha com buraco dentro.
+
+[HEADER 003100F3]
+#No, it's a clown's nose.
+Não, é um nariz de palhaço.
+
+[HEADER 003100F4]
+#Does clown know you have his nose?
+O palhaço sabe que você está com nariz dele?
+
+[HEADER 003100F5]
+#I really hope not.
+Espero muito que não.
+
+[HEADER 003100F6]
+#Unfortunately, it seems so.
+Infelizmente, parece que sim.
+
+[HEADER 003100F7]
+#Why unfortunate?
+Por que infelizmente?
+
+[HEADER 003100F8]
+#This clown kills people.
+Esse palhaço mata pessoas.
+
+[HEADER 003100F9]
+#Ah, `Alternative Comedy'.
+Ah, 'Comédia Alternativa'.
+
+[HEADER 003100FA]
+#Ha, statuette is broken! Not worth much.
+Ha, estatueta está quebrada! Não valer muito.
+
+[HEADER 003100FC]
+#Ha, statuette is broken and dirty! Not worth much.
+Ha, estatueta está quebrada e suja! Não vale muita.
+
+[HEADER 00310115]
+#What does this greasepaint-stained tissue mean to you?
+O que este lenço engordurado com maquiagem significa para você?
+
+[HEADER 00310116]
+#Nothing. Why? What does greasepaint-stained tissue mean to you?
+Nada. Por quê? O que lenço engordurado com maquiagem significa para você?
+
+[HEADER 00310122]
+#What does this toilet chain mean to you?
+O que esta corrente de privada significa para você?
+
+[HEADER 00310123]
+#You got brush back so you could steal chain? You sure strange cookie, mister. Yes?
+Você devolveu escova apenas para roubar corrente? Você não bate bem de ideias, senhor. Sim?
+
+[HEADER 0031012D]
+#What do think of this plaster?
+O que acha deste gesso?
+
+[HEADER 0031012E]
+#Not much there!
+Não haver muito!
+
+[HEADER 0031012F]
+#Not enough to make tasteful garden gnome, for an example.
+Não suficiente para fazer elegante gnomo de jardim, por exemplo.
+
+[HEADER 00310130]
+#How about a really small garden gnome?
+E que tal um gnomo de jardim bem pequeno?
+
+[HEADER 00310131]
+#Ultar not think so.
+Ultar acha que não.
+
+[HEADER 003100C2]
+#See you around, Ultar.
+Vejo você por aí, Ultar.
+
+[HEADER 003100C5]
+#May good fortune follow you, mister.
+Que boa sorte o acompanhar, senhor.
+
+[HEADER 0031000D]
+#The club manager's bonhomie seemed forced. Looking at the place, I could understand that.
+A expressão do gerente do clube parecia forçada. Olhando este lugar, pude entender o porquê.
+
+[HEADER 0031002C]
+#Here's your brush, Sir. It wasn't easy getting it back.
+Aqui está sua escova, senhor. Não foi fácil pegá-la de volta.
+
+[HEADER 0031002D]
+#The manager took the brush from me, gave me the toilet keys as my reward and stomped off.
+O gerente tirou a escova das minhas mãos, me deu as chaves do banheiro como recompensa e foi embora.
+
+[HEADER 0031002E]
+#What was all that about?
+O que foi tudo isso?
+
+[HEADER 0031002F]
+#Manager, he say, `Bah! Look at state of this!...
+O gerente disse: 'Bah! Olhe o estado disto!...
+
+[HEADER 00310030]
+# U-bend seria o sifão. MY U-bend... bem, sei lá :P
+#...Need much cleaning in detergent before go around MY U-bend!'
+... Precisar de muito detergente antes de poder ser usado!'
+
+[HEADER 00310031]
+#He said all that?
+Ele disse isso tudo?
+
+[HEADER 00310032]
+#Body language account for much, you know! Oh, yes indeedy!
+Linguagem corporal diz muito! Ah, sim, sem duvidades!
+
+[HEADER 00310017]
+#Hi, nice club you've got here.
+Oi, belo clube você tem aqui.
+
+[HEADER 00310018]
+#I was wondering if you could help me?
+Eu estava pensando se você poderia me ajudar?
+
+[HEADER 0031001A]
+#What? I mean, I beg your pardon?
+O quê? Quero dizer, com licença?
+
+[HEADER 0031001B]
+#I'm sorry but I don't understand.
+Desculpe, mas não entendo.
+
+[HEADER 0031001C]
+#No surprise there, all righty. He say sorry...
+Nenhum surpresa nisso, é clarou. Ele pede desculpa...
+
+[HEADER 0031001D]
+#...but he not speak English.
+... mas não fala inglês.
+
+[HEADER 0031001E]
+#Uh, but, he didn't say anything.
+Uh, mas... ele não disse nada.
+
+[HEADER 00310022]
+#He not have tongue!
+Ele não tem língua!
+
+[HEADER 00310023]
+#No tongue? What happened?
+Sem língua? O que aconteceu?
+
+[HEADER 00310024]
+#It was bet.
+Foi apostada.
+
+[HEADER 00310025]
+#And he lost.
+E ele perdeu.
+
+[HEADER 00310026]
+#He won! You should see other chappie. Oh yes!
+Ele ganhou! Você devia ver os outros manolos. Ah, sim!
+
+[HEADER 00310027]
+#There wasn't much point in trying to launch an in-depth conversation...
+Não havia muito sentido em iniciar uma longa conversa...
+
+[HEADER 00310028]
+#...when I couldn't speak Arabic and he couldn't speak, period.
+... em que eu não conseguia falar árabe e ele nem ao menos podia falar.
+
+[HEADER 00310011]
+#I knew the door was locked. I'd need the key to get in there.
+Eu sabia que a porta estava trancada. Era preciso da chave para entrar aí.
+
+[HEADER 00310007]
+#By staring hard at the notice and squinting, I discovered I couldn't understand a word of it.
+Olhando firme e fixamente o aviso, descobri que eu não conseguia entender uma palavra sequer dele.
+
+[HEADER 00310012]
+#Damn! The door's locked.
+Droga! A porta está trancada.
+
+[HEADER 00310013]
+#Uh, I'm sorry? Did you say something?
+Uh, como é? Ele disse alguma coisa?
+
+[HEADER 00310014]
+#He say, `You not to go in toilet! Read sign, matey!'
+Ele disse: 'Você não entrar no toalete! Ler placa, bicho!'
+
+[HEADER 00310015]
+#`Matey?'
+'Bicho?'
+
+[HEADER 00310016]
+# Não tenho certeza de quem diz isso.
+#It lose something in translation.
+Acho que Ultar traduziu a palavra de maneira errada.
+
+[HEADER 002D0000]
+#The fall hadn't done the statuette much good. It had lost its arms and gotten pretty chipped.
+A queda não tinha feito bem à estatueta. Havia perdido seus braços, além de estar completamente rachada.
+
+[HEADER 002D003F]
+#Ultar was standing around at a loose end.
+Ultar estava parado sem fazer nada.
+
+[HEADER 002D0040]
+#I had a feeling that something was wrong. Again.
+Tive uma sensação de que algo estava errado. De novo.
+
+[HEADER 002D02C8]
+#Hello again, Ultar.
+Olá outra vez, Ultar.
+
+[HEADER 002D02C9]
+#Is most splendid and adventurous client!
+O mais esplêndido e aventureiro cliente!
+
+[HEADER 002D02FD]
+#That's your taxi?
+Esse é o seu táxi?
+
+[HEADER 002D02FE]
+#Oh, yes! Most assuredly! Most entirely splendid taxi in all Marib!
+Ah, sim! Sem duvidade alguma! Mais esplêndido táxi em toda Marib!
+
+[HEADER 002D02FF]
+#Looks like an old army truck to me.
+Parece um velho caminhão do exército para mim.
+
+[HEADER 002D0300]
+#Bah! You Americans with your checkie board cabs and your Judd Hirschs!
+Bah! Vocês, americanos, com seus táxis quadriculados e Judd Hirschs!
+
+[HEADER 002D0301]
+#You have lost sight of what a taxi should truly be!
+Vocês perderam noção de como táxi deve ser!
+
+[HEADER 002D0302]
+#About four tons, by the look of it.
+Com umas quatro toneladas, pelo que parece.
+
+[HEADER 002D0303]
+#There! You have hit the nail in the nutshell!
+Isso! Em poucas palavras, acertou em mosca!
+
+[HEADER 002D0304]
+#Okay already. Let's go.
+Certo então. Podemos ir.
+
+[HEADER 002D0305]
+#Regrettably not, most esteemed fare. There is a minor problem of a tiny nature.
+Lamentavelmente não, estimado passageiro. Há pequeno problema de natureza diminuta.
+
+[HEADER 002D0306]
+#The fan belt has taken it upon itself to break.
+A correia conseguiu se quebrar sozinha.
+
+[HEADER 002D0307]
+#So what are you going to do?
+O que você vai fazer a respeito?
+
+[HEADER 002D0308]
+#What can I do? I must wait for a ride to the garage for a replacement.
+O que Ultar pode fazer? Devemos esperar carona até garagem para troca.
+
+[HEADER 002D0309]
+#How long is that going to take?
+Quanto tempo isso vai levar?
+
+[HEADER 002D030A]
+#One day. Maybe six.
+Um dia. Talvez seis.
+
+[HEADER 002D030B]
+#I can't wait that long! We've got to get moving!
+Não posso esperar tanto tempo! Nós temos que ir logo!
+
+[HEADER 002D030C]
+#But how, my friend?
+Mas como, meu amigo?
+
+[HEADER 002D030D]
+#I'll think of something.
+Vou pensar em alguma coisa.
+
+[HEADER 002D0353]
+#What does this toilet chain mean to you?
+O que esta corrente de privada significa para você?
+
+[HEADER 002D0354]
+#You got brush back so you could steal chain? You sure strange cookie, mister. Yes?
+Você devolveu a escova apenas para roubar a corrente? Você não bate bem de ideias, senhor. Sim?
+
+[HEADER 002D0365]
+#Is this any use to you?
+Você pode usar isto para alguma coisa?
+
+[HEADER 002D0366]
+#My friend! The very thing, yes!
+Meu amigo! Claro que sim!
+
+[HEADER 002D0367]
+#Ultar took the towel from me, cut it in two lengthways and gave me half back.
+Ultar pegou a toalha, cortou em duas e me devolveu a metade.
+
+[HEADER 002D0368]
+#With his half he did the kind of fan belt replacement that is normally done with stockings.
+Com a sua metade, ele fez uma correia de substituição que geralmente é feita com meias compridas.
+
+[HEADER 002D0369]
+#Now. If I knot the ends together, so! Serviceable, yes! Very serviceable indeed!
+Pronto. Se Ultar der um nó nas duas pontas, vai funcionar! Vai funcionar muito bem, sim!
+
+[HEADER 002D036A]
+#Stockings might work on a Bentley but on a truck, the coarse towelling did the job nicely.
+Meias talvez funcionassem em um Bentley, mas no caminhão, a gambiarra com a toalha funcionava perfeitamente.
+
+[HEADER 002D036B]
+#Come along, my friend! You want to see the Bull's Head, yes?
+Vamos logo, meu amigo! Você quer ver a Cabeça do Touro, sim?
+
+[HEADER 002D0310]
+#Bye for now, Ultar.
+Tchau por enquanto, Ultar.
+
+[HEADER 002D0311]
+#May good fortune follow you, mister.
+Que boa sorte o acompanhe, senhor.
+

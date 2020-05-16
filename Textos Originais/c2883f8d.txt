@@ -1,0 +1,2004 @@
+[HEADER 00002F8A]
+I know I need the key, but the clerk won't let me have it.
+
+[HEADER 00002F94]
+Make sure you've gone upstairs and examined the relevant doors - then talk to the clerk about it.
+
+[HEADER 00002F9E]
+You need a distraction. Who's the most distracting person in the room?
+
+[HEADER 00002FA8]
+Ask Lady Piermont for help. If the option isn't available, talk about everything else, then talk to her again.
+
+[HEADER 00002FB2]
+I've searched the pants, but I'm missing something.
+
+[HEADER 00002FBC]
+As you removed the matchbook, you caught a thread.
+
+[HEADER 00002FC6]
+Give that thread a tug.
+
+[HEADER 00002FD0]
+Turn the pants over again, and find the secret pocket that the thread has revealed.
+
+[HEADER 00002FDA]
+I have the pass card, but the clerk still won't let me into the safe.
+
+[HEADER 00002FE4]
+You need the help of a certain lady once more.
+
+[HEADER 00002FEE]
+Talk to Lady Piermont again, and show her the pass card. Watch and enjoy.
+
+[HEADER 00002FF8]
+I can't leave the hotel because those thugs will steal my manuscript.
+
+[HEADER 00003002]
+You need to find a way to get the manuscript out of the hotel, without leaving yourself.
+
+[HEADER 0000300C]
+Do you remember an open window anywhere?
+
+[HEADER 00003016]
+Go into the bedroom, climb on the window ledge, and drop the manuscript into the alley below.
+
+[HEADER 000C0000]
+The guy looked just like a weasel.
+
+[HEADER 000C0069]
+Hey - shorty!
+
+[HEADER 000C006A]
+Excuse me...
+
+[HEADER 000C006C]
+I didn't think much of your trick, little man.
+
+[HEADER 000C006D]
+I don't know what you're looking for, but you picked on the wrong guy.
+
+[HEADER 000C006E]
+Maybe you'll spread the word around the sewers...
+
+[HEADER 000C006F]
+George Stobbart is on the case. That's Stobbart - two b's and two t's.
+
+[HEADER 000C0070]
+It sounded impressive to me, but the weasel didn't seem to share my enthusiasm.
+
+[HEADER 000C0071]
+Still, I figured he'd think twice before gunning me down in the street in cold blood...
+
+[HEADER 000C0072]
+I do not like your tone.
+
+[HEADER 000C0073]
+Oh, yeah? And what are you going to do about it?
+
+[HEADER 000C0074]
+If you do not go away, I will gun you down in cold blood, right here in the street.
+
+[HEADER 000C0075]
+Without thinking twice about it.
+
+[HEADER 000C0076]
+Yes?
+
+[HEADER 000C0077]
+Do you know a man by the name of Khan?
+
+[HEADER 000C0078]
+No, I don't.
+
+[HEADER 000C0079]
+It's very important I get to see him, and...
+
+[HEADER 000C007A]
+I told you - I don't know him.
+
+[HEADER 000C007B]
+I'm looking for a clown.
+
+[HEADER 000C007C]
+Are you trying to be funny?
+
+[HEADER 000C007D]
+No - I really am looking for a clown.
+
+[HEADER 000C007E]
+There are no clowns here except you.
+
+[HEADER 000C007F]
+Have you heard of a guy called Plantard?
+
+[HEADER 000C0080]
+No. That name means nothing to me.
+
+[HEADER 000C0082]
+What does this key mean to you?
+
+[HEADER 000C0083]
+Nothing.
+
+[HEADER 000C0088]
+Do you recognize the guy in this photograph?
+
+[HEADER 000C0089]
+No. I never saw him.
+
+[HEADER 000C008A]
+Do you know a guy called Moerlin?
+
+[HEADER 000C008B]
+No.
+
+[HEADER 000C008E]
+Does this matchbook mean anything to you?
+
+[HEADER 000C008F]
+It is just a matchbook. Why should I recognize it?
+
+[HEADER 000C0092]
+Will you shake my hand?
+
+[HEADER 000C0093]
+Are you joking?  Who knows where it has been...
+
+[HEADER 000C0084]
+What would you give me for this ball?
+
+[HEADER 000C0085]
+Beat it.
+
+[HEADER 000C0086]
+Have you ever seen this clown's nose before?
+
+[HEADER 000C0087]
+No.
+
+[HEADER 000C008C]
+What does this tool suggest to you?
+
+[HEADER 000C008D]
+Hard labour.
+
+[HEADER 000C0090]
+Is this material familiar to you?
+
+[HEADER 000C0091]
+No. It is too horrible.
+
+[HEADER 000C0094]
+What does this tissue mean to you?
+
+[HEADER 000C0095]
+Are you serious?
+
+[HEADER 000C0096]
+Oh, yes. Take a good look at the substance it's smeared with...
+
+[HEADER 000C0097]
+You are sick... very sick.
+
+[HEADER 000C0001]
+The man looked like an amiable bigfoot.
+
+[HEADER 000C0007]
+Excuse me...
+
+[HEADER 000C001D]
+Get lost, creep.
+
+[HEADER 000C000C]
+Oh, yeah? And what if I don't?
+
+[HEADER 000C000D]
+What if I call the cops?
+
+[HEADER 000C000E]
+First, I break your arms, at the elbows and wrists.
+
+[HEADER 000C000F]
+Then, when you recover consciousness, I break your fingers.
+
+[HEADER 000C0010]
+There's just one flaw in your plans, ape man.
+
+[HEADER 000C0011]
+What's that?
+
+[HEADER 000C0012]
+It's broad daylight.
+
+[HEADER 000C0013]
+I don't think even you would assault me on a busy street...!
+
+[HEADER 000C0014]
+Of course, this tranquil square at the end of a cul-de-sac...
+
+[HEADER 000C0015]
+This isolated corner of Paris that hasn't seen a streetsweeper's brush since VE day...
+
+[HEADER 000C0016]
+This would be just about perfect for a mugging.
+
+[HEADER 000C0017]
+Pardon me - I am about to get very lost.
+
+[HEADER 000C0009]
+Yeah?
+
+[HEADER 000C002B]
+Do you happen to know a guy called Khan?
+
+[HEADER 000C002C]
+That ain't nobody I know.
+
+[HEADER 000C001F]
+Have you seen a guy dressed as a clown?
+
+[HEADER 000C0020]
+No, I ain't. Don't tell me I missed him?
+
+[HEADER 000C0021]
+Aw - that's too bad. I love the clowns, don't you?
+
+[HEADER 000C0022]
+I've seen daytime television that was funnier.
+
+[HEADER 000C0023]
+I love it when the little guys get hurt.
+
+[HEADER 000C0024]
+That figures.
+
+[HEADER 000C0025]
+Custard pies, hosepipe down the pants, then - SMACK!
+
+[HEADER 000C0026]
+A plank in the kisser.
+
+[HEADER 000C0028]
+No, I ain't.
+
+[HEADER 000C0027]
+You ever meet a guy called Plantard?
+
+[HEADER 000C0029]
+You missed your chance.
+
+[HEADER 000C002A]
+If you're quick you'll catch him at the coroner's.
+
+[HEADER 000C0036]
+Do you recognize the guy in this photograph?
+
+[HEADER 000C0037]
+Is this a trick question?
+
+[HEADER 000C0038]
+No. I simply asked if you recognized him.
+
+[HEADER 000C0039]
+Okay, then - no, I don't.
+
+[HEADER 000C0040]
+No.
+
+[HEADER 000C003A]
+What does the name Moerlin mean to you?
+
+[HEADER 000C003B]
+Nothing.
+
+[HEADER 000C003C]
+Not even if I say it in an evil, criminally insane kind of way... Moerlin! Thomas Moerlin!
+
+[HEADER 000C003D]
+Nothing at all.
+
+[HEADER 000C003F]
+Does this matchbook mean anything to you?
+
+[HEADER 000C0041]
+Do you recognize the pattern on this material?
+
+[HEADER 000C0042]
+What pattern?
+
+[HEADER 000C0043]
+Shake my hand...
+
+[HEADER 000C0044]
+Nah...
+
+[HEADER 000C0045]
+Aw, rats.
+
+[HEADER 000C0046]
+Do you recognize this tissue? Think carefully, now...
+
+[HEADER 000C0047]
+Ooh... ooh...
+
+[HEADER 000C0048]
+I'm going to have to hurry you...
+
+[HEADER 000C0049]
+Oooh...!
+
+[HEADER 000C004A]
+Time's up, so I'll tell you - it's a used tissue with a liberal dump of Bestheimer's number twelve.
+
+[HEADER 000C004B]
+If you say so...
+
+[HEADER 000C004C]
+You don't recall this tissue, do you?
+
+[HEADER 000C004D]
+No.
+
+[HEADER 000C0030]
+Have you ever seen this key before?
+
+[HEADER 000C0031]
+How should I know?
+
+[HEADER 000C0032]
+Do you recognize this ball?
+
+[HEADER 000C0033]
+No.
+
+[HEADER 000C0034]
+Have you ever seen this clown's nose before?
+
+[HEADER 000C0035]
+No.
+
+[HEADER 000C002E]
+See you later.
+
+[HEADER 000C002F]
+Not if you see me first!
+
+[HEADER 000C004E]
+Just a minute, m'sieur...
+
+[HEADER 000C004F]
+What's your problem?
+
+[HEADER 000C0050]
+No problem - if you cooperate.
+
+[HEADER 000C0051]
+What do you want?
+
+[HEADER 000C0052]
+Just a routine security check. Nothing to worry yourself about...
+
+[HEADER 000C0053]
+Oh. Well, all right.
+
+[HEADER 000C0054]
+Search him, Flap.
+
+[HEADER 000C0055]
+You bet.
+
+[HEADER 000C0057]
+Hey - knock it off! Get off, you big ape!
+
+[HEADER 000C0058]
+Hold it right there!
+
+[HEADER 000C0059]
+Search him again, Flap.
+
+[HEADER 000C005A]
+Is this what you after, Guido?
+
+[HEADER 000C005B]
+Si, that's it.
+
+[HEADER 000C005C]
+I can explain everything! Well, almost everything...
+
+[HEADER 000C005D]
+Too late.
+
+[HEADER 000C005E]
+You're on your way to feed the fishes...
+
+[HEADER 000C005F]
+I'm allergic to fish! I break out in blotches when I eat tuna!
+
+[HEADER 000C0060]
+Let's go.
+
+[HEADER 000C0061]
+Nothing, Guido. Zilch.
+
+[HEADER 000C0062]
+Our apologies, m'sieur.
+
+[HEADER 000C0063]
+What? I ought to report you to the authorities!
+
+[HEADER 000C0064]
+Round here, we are the authorities.
+
+[HEADER 000C0065]
+You want I should break his arms?
+
+[HEADER 000C0066]
+No. Let him go, Flap.
+
+[HEADER 000C0067]
+Nothing, Guido.
+
+[HEADER 000C0068]
+Okay, let him go.
+
+[HEADER 000D0006]
+Hanging from a brass hook was a key and a plastic tag...
+
+[HEADER 000D005C]
+Rats!
+
+[HEADER 000D0010]
+Excusez-moi, m'sieur!
+
+[HEADER 000D0014]
+Hé! Ne touche pas!
+
+[HEADER 000D0011]
+What?
+
+[HEADER 000D0012]
+You were trying to steal that key, non?
+
+[HEADER 000D0013]
+Non way.
+
+[HEADER 000D0015]
+Just looking!
+
+[HEADER 000D0002]
+The woman was obviously English.
+
+[HEADER 000D0003]
+She had all the qualities of Boadicea, Elizabeth the First and Margaret Thatcher rolled into one...
+
+[HEADER 000D0004]
+It wasn't a pretty sight.
+
+[HEADER 000D011D]
+Hi there, ma'am!
+
+[HEADER 000D011E]
+Well hello! What can I do for you?
+
+[HEADER 000D011F]
+I'm looking for a man...
+
+[HEADER 000D0120]
+You disappoint me, my dear.
+
+[HEADER 000D0121]
+For one foolish moment I thought... but never mind.
+
+[HEADER 000D0122]
+Aren't you going to tell me your name?
+
+[HEADER 000D0123]
+George. George Stobbart, ma'am.
+
+[HEADER 000D0124]
+How sweet! I once had a stable boy called George.
+
+[HEADER 000D0125]
+I am Lady Piermont. The common reaction is to kneel and stutter, but it's not obligatory.
+
+[HEADER 000D0126]
+A real Lady? I mean... you're an honest-to-God aristocrat?
+
+[HEADER 000D0127]
+Oh I don't know about that. Few of my ancestors were honest; not even to God.
+
+[HEADER 000D0128]
+I can trace my family back to the Normans... but don't let that intimidate you, George.
+
+[HEADER 000D0129]
+Beneath that impressive pedigree I'm just flesh and blood.
+
+[HEADER 000D012A]
+The blood may be blue, but the flesh is the plump beef of Old England, so to speak...
+
+[HEADER 000D012B]
+You appear distracted, George. Is there any way I can help you?
+
+[HEADER 000D012C]
+Hi, ma'am.
+
+[HEADER 000D012D]
+Hello, George! What can I do for you now?
+
+[HEADER 000D012E]
+Are you here in Paris on vacation?
+
+[HEADER 000D012F]
+No, darling, I'm on holiday.
+
+[HEADER 000D0130]
+I needed to get away after Algy's funeral.
+
+[HEADER 000D0131]
+I didn't realize you were mourning the loss of a loved one.
+
+[HEADER 000D0132]
+I'm not. He was my husband.
+
+[HEADER 000D0133]
+I'm sorry to hear about your husband's death...
+
+[HEADER 000D0134]
+You wouldn't be if you knew him, my dear.
+
+[HEADER 000D0135]
+It gave me the opportunity to take a well-deserved holiday.
+
+[HEADER 000D0136]
+Daphne suggested a change of scenery: Paris, she said.
+
+[HEADER 000D0137]
+A wild romance is just what you need to take your mind off the inquest.
+
+[HEADER 000D0138]
+Well, the closest I came to romance was being wooed by a drunken Breton chef.
+
+[HEADER 000D0139]
+I must say I was disappointed with his coq au vin.
+
+[HEADER 000D013A]
+Not at all what I was expecting.
+
+[HEADER 000D013B]
+I was thinking of cutting my holiday short, packing my bags and heading back for Hemel Hempstead...
+
+[HEADER 000D013C]
+That was... until last night.
+
+[HEADER 000D013D]
+What happened to you last night?
+
+[HEADER 000D013E]
+I was stricken, Mr Stobbart. Cupid's arrow has cleft my bosom!
+
+[HEADER 000D013F]
+He couldn't really miss...
+
+[HEADER 000D0140]
+It was just as I'd always imagined it should be.
+
+[HEADER 000D0141]
+The intimacy of candlelight, romantic music tinkling across the room...
+
+[HEADER 000D0142]
+And then - a stranger's glance!
+
+[HEADER 000D0143]
+Those brooding eyes! That suave manner! Those tight trousers!
+
+[HEADER 000D0144]
+He was the man I'd been waiting for all my life.
+
+[HEADER 000D0145]
+I'm glad he finally turned up after all these years.
+
+[HEADER 000D0146]
+Ah, but it wasn't to be. He was merely toying with my affections!
+
+[HEADER 000D0147]
+And if I ever catch up with him, he's dead.
+
+[HEADER 000D0148]
+Who was the guy who led you on?
+
+[HEADER 000D0149]
+His name is Moerlin.
+
+[HEADER 000D016A]
+I got the key. Thanks for your help, ma'am.
+
+[HEADER 000D01F4]
+This is the key to room twenty-one...
+
+[HEADER 000D01F5]
+That's next to the room taken by that rotten Moerlin, isn't it?
+
+[HEADER 000D01F6]
+Yes, and it's vacant.
+
+[HEADER 000D01F7]
+Really? How convenient...
+
+[HEADER 000D01F9]
+Maybe it was my imagination, but I had an uncomfortable feeling about this situation.
+
+[HEADER 000D01F8]
+Uh... yeah.
+
+[HEADER 000D0164]
+I didn't get the key.
+
+[HEADER 000D0165]
+Well, you really must be quicker.
+
+[HEADER 000D0166]
+Let's give it another try...
+
+[HEADER 000D0167]
+Boy! Check my jewellery hasn't been stolen.
+
+[HEADER 000D0169]
+Oui, Madame.
+
+[HEADER 000D011B]
+Over to you, my dear.
+
+[HEADER 000D0162]
+I really need that key bad...
+
+[HEADER 000D0163]
+I'm not convinced I should help you, darling.
+
+[HEADER 000D014A]
+Would you distract the clerk while I borrow a key?
+
+[HEADER 000D014B]
+Are you asking me to aid you in a criminal act, darling?
+
+[HEADER 000D014C]
+Oh, no! It's the key to an empty room.
+
+[HEADER 000D014D]
+And why, may I ask, do you wish to gain access to an empty room?
+
+[HEADER 000D014E]
+Do you plan to squat?
+
+[HEADER 000D014F]
+No, ma'am.
+
+[HEADER 000D0150]
+Scout's honour?
+
+[HEADER 000D0151]
+I was never in the boy scouts, ma'am.
+
+[HEADER 000D0152]
+You should have been. What were your parents thinking of?
+
+[HEADER 000D0153]
+It's a fine way for a boy to get licked into shape.
+
+[HEADER 000D0157]
+Now, tell me - why do you want to get into that room?
+
+[HEADER 000D0158]
+It's next to the room the killer is using...
+
+[HEADER 000D0159]
+Ah! So you plan to eavesdrop on Moerlin?
+
+[HEADER 000D015A]
+I was hoping there might be a connecting door.
+
+[HEADER 000D015B]
+What killer?
+
+[HEADER 000D015C]
+It's a long story.
+
+[HEADER 000D015E]
+Well! How can I refuse?
+
+[HEADER 000D0111]
+I shouldn't think my feminine charms would be much use in this case...
+
+[HEADER 000D0112]
+But a good dose of English arrogance might do the trick!
+
+[HEADER 000D0113]
+I say, you there! Flunkey!
+
+[HEADER 000D0114]
+Oui, Madame?
+
+[HEADER 000D0115]
+Listen carefully. You do understand English, don't you?
+
+[HEADER 000D0116]
+But of course, Madame!
+
+[HEADER 000D0117]
+Good! I wish to deposit some jewellery for safe-keeping.
+
+[HEADER 000D0118]
+I understand.
+
+[HEADER 000D0119]
+Are you quite certain?
+
+[HEADER 000D011A]
+Bien sûr, Madame!
+
+[HEADER 000D016B]
+Did you know there's a gangster out front?
+
+[HEADER 000D016C]
+What makes you think he's a gangster?
+
+[HEADER 000D016D]
+The Italian suit and the bulge in his pocket.
+
+[HEADER 000D016E]
+I know plenty of men with Italian suits and bulges in their pockets...
+
+[HEADER 000D016F]
+That doesn't necessarily make them gangsters!
+
+[HEADER 000D0170]
+That gangster I told you about - he went through my pockets just now!
+
+[HEADER 000D0171]
+Good heavens! One never knows what to expect in foreign parts.
+
+[HEADER 000D0172]
+Thank you for the warning, young man.
+
+[HEADER 000D0173]
+I shall hide my credit cards in my underwear...
+
+[HEADER 000D0174]
+I'm looking for a murderer.
+
+[HEADER 000D0175]
+Good heavens! You're a private detective?
+
+[HEADER 000D0176]
+That's correct, ma'am.
+
+[HEADER 000D0177]
+What's the term you Americans use...?
+
+[HEADER 000D0178]
+It's on the tip of my tongue...
+
+[HEADER 000D0179]
+I believe what you're thinking of is `dick'.
+
+[HEADER 000D017A]
+Precisely.
+
+[HEADER 000D017B]
+Have you come across a man who calls himself Khan?
+
+[HEADER 000D017C]
+I am familiar with only one person named Khan.
+
+[HEADER 000D017D]
+Genghis Khan - the legendary Mongol barbarian chieftain?
+
+[HEADER 000D017E]
+No, darling - Kevin.
+
+[HEADER 000D017F]
+Kevin Khan? I never heard of him.
+
+[HEADER 000D0180]
+I'd be most surprised if you had, darling. He's a pharmacist in Hemel Hempstead.
+
+[HEADER 000D0181]
+Organizes fund raising for the Rotarians. Lovely man.
+
+[HEADER 000D0182]
+Does he have a scar on his cheek?
+
+[HEADER 000D0183]
+I really wouldn't know, sweetie.
+
+[HEADER 000D0197]
+Has Moerlin returned to the hotel?
+
+[HEADER 000D0198]
+No, he hasn't. Are you going to search his room?
+
+[HEADER 000D0199]
+If I could get in there I would.
+
+[HEADER 000D019A]
+And that's why you want the key?
+
+[HEADER 000D019B]
+Yes, ma'am.
+
+[HEADER 000D0191]
+Are you sure you saw Moerlin putting documents in the safe?
+
+[HEADER 000D0192]
+Yes, darling. Positive.
+
+[HEADER 000D0193]
+I wonder what they were?
+
+[HEADER 000D0194]
+Obviously something of great importance.
+
+[HEADER 000D0195]
+Yeah. I'd sure like to get my hands on whatever it is.
+
+[HEADER 000D0196]
+I'll bet they had something to do with Plantard's briefcase...
+
+[HEADER 000D018A]
+When did you last see Moerlin?
+
+[HEADER 000D018B]
+It was no more than an hour ago...
+
+[HEADER 000D018C]
+He came downstairs and spoke to that clerk chappie.
+
+[HEADER 000D018D]
+Something passed hands - I couldn't see what, exactly.
+
+[HEADER 000D018E]
+A briefcase?
+
+[HEADER 000D018F]
+No - smaller than that. A bundle of papers, perhaps.
+
+[HEADER 000D0190]
+The clerk put it in the hotel safe, and Moerlin went out.
+
+[HEADER 000D0184]
+The man you know as Moerlin is a fake.
+
+[HEADER 000D0185]
+What do you mean, sweetie?
+
+[HEADER 000D0186]
+He's a murderer. He also uses the name `Khan'
+
+[HEADER 000D0187]
+I am shocked, Mister Stobbart. Shaken!
+
+[HEADER 000D0188]
+I took him to be a gentleman, a man of honour...
+
+[HEADER 000D0189]
+Do you know, I'd rather like to assist you in stitching him up!
+
+[HEADER 000D01D6]
+This is what Moerlin was so keen to hide...
+
+[HEADER 000D01D7]
+Really? All that fuss for a sample of wallpaper?
+
+[HEADER 000D01D8]
+It's some kind of manuscript, and it looks to be very old.
+
+[HEADER 000D01D9]
+If I was you, I'd keep it well out of sight until you're clear of this place.
+
+[HEADER 000D01DA]
+That's exactly what I was thinking.
+
+[HEADER 000D01DB]
+I could roll it up and put it down my pants...
+
+[HEADER 000D01DC]
+No, no - that won't do at all.
+
+[HEADER 000D01DD]
+You'd attract far too much attention.
+
+[HEADER 000D01DE]
+Thanks for helping me get the manuscript, Lady Piermont.
+
+[HEADER 000D01DF]
+Anytime, my dear.
+
+[HEADER 000D01BB]
+I found this pass in Moerlin's room...
+
+[HEADER 000D01BC]
+So - that deceitful little man is passing himself off as an electrician, is he?
+
+[HEADER 000D01BD]
+Uh-huh. This guy probably has a million faces...
+
+[HEADER 000D01BE]
+I showed the pass to the clerk, hoping he'd give me Moerlin's papers...
+
+[HEADER 000D01BF]
+...but he wouldn't buy it. He's too scared.
+
+[HEADER 000D01C0]
+I'll give him something to be scared of!
+
+[HEADER 000D01C1]
+Follow me, George!
+
+[HEADER 000D01C2]
+Did you place a package from Moerlin in the hotel safe?
+
+[HEADER 000D01C3]
+I did, Madame.
+
+[HEADER 000D01C4]
+And did my friend here show you Moerlin's identification?
+
+[HEADER 000D01C5]
+Indeed he did, but...
+
+[HEADER 000D01C6]
+What's the problem?
+
+[HEADER 000D01C7]
+He isn't Moerlin.
+
+[HEADER 000D01C8]
+A mere academic detail. Give him the package.
+
+[HEADER 000D01C9]
+But - that is against the law!
+
+[HEADER 000D01CA]
+I happen to be a Justice of the Peace, you silly man.
+
+[HEADER 000D01CB]
+I am the Law!
+
+[HEADER 000D01CC]
+If he tries anything - shoot him, George.
+
+[HEADER 000D01CD]
+My pleasure, Lady Piermont.
+
+[HEADER 000D01CE]
+One moment, please.
+
+[HEADER 000D01CF]
+You know, I haven't enjoyed myself this much since Greenham Common!
+
+[HEADER 000D01D0]
+I don't know what I would have done without you, Lady Piermont.
+
+[HEADER 000D01D1]
+Voila, m'sieur. Le manuscript du Monsieur Moerlin.
+
+[HEADER 000D01D2]
+Thanks.
+
+[HEADER 000D01D3]
+How satisfying. An Anglo-American alliance that actually worked!
+
+[HEADER 000D01D4]
+The clerk had given me a tightly rolled sheet of parchment.
+
+[HEADER 000D01D5]
+I decided not to unroll it until I was safely back in Nico's apartment...
+
+[HEADER 000D01B9]
+Would you like to keep Moerlin's pass as a memento?
+
+[HEADER 000D01BA]
+No, darling. My broken heart is reminder enough...
+
+[HEADER 000D01B0]
+Do you recognize the man in this photograph?
+
+[HEADER 000D01B1]
+My God! It's him. That's Moerlin!
+
+[HEADER 000D01B2]
+She represented everything I loved about the English. The lady was totally deranged.
+
+[HEADER 000D01B3]
+Merlin? You mean King Arthur's wizard?
+
+[HEADER 000D01B4]
+Good heavens, no. M'sieur Moerlin is a fellow guest.
+
+[HEADER 000D01B5]
+He's the man I've been telling you about!
+
+[HEADER 000D01B6]
+That's the man who spurned me!
+
+[HEADER 000D01B7]
+Did I show you this photograph?
+
+[HEADER 000D01B8]
+Yes, darling.
+
+[HEADER 000D01A6]
+Do you know what this is?
+
+[HEADER 000D01A7]
+At a guess, I'd say it was a clown's nose.
+
+[HEADER 000D01A8]
+That's right. It was worn as a disguise by a vicious killer.
+
+[HEADER 000D01A9]
+Ah! Mr Moerlin, perchance?
+
+[HEADER 000D01AA]
+That's him.
+
+[HEADER 000D01AB]
+Good heavens! Are you trying to alarm me?
+
+[HEADER 000D01AC]
+It's true. He uses the name Khan.
+
+[HEADER 000D01AD]
+I've never heard of the man.
+
+[HEADER 000D01AE]
+Did I show you this false nose?
+
+[HEADER 000D01AF]
+Yes, you did.
+
+[HEADER 000D01E0]
+Can you think of any use for this tool, ma'am?
+
+[HEADER 000D01E1]
+I can think of someone I'd like to use it on!
+
+[HEADER 000D01E2]
+I found this matchbook in Moerlin's bedroom...
+
+[HEADER 000D01E3]
+It came from the Club Alamut.
+
+[HEADER 000D01E4]
+It might be useful to find out if that club is in Paris, George.
+
+[HEADER 000D01E8]
+I just couldn't bring myself to use the buzzer on this dear lady...
+
+[HEADER 000D01E9]
+Does the name on this card mean anything to you?
+
+[HEADER 000D01EA]
+Augustin Rosso? No, dear - nothing.
+
+[HEADER 000D01EE]
+Does this tissue mean anything to you?
+
+[HEADER 000D01F2]
+I'm no shrinking violet, but that object makes me feel quite queasy!
+
+[HEADER 000D0005]
+The clerk wore a disdainful expression like he'd been born with it.
+
+[HEADER 000D0017]
+I want some information...
+
+[HEADER 000D0018]
+Who are you - the police?
+
+[HEADER 000D0019]
+I'm conducting a private investigation.
+
+[HEADER 000D001A]
+Ah! I know only too well what you mean.
+
+[HEADER 000D001B]
+That is one of the drawbacks of the catering business.
+
+[HEADER 000D001C]
+When people book into an hotel, they leave their morals at home, non?
+
+[HEADER 000D001D]
+What now, m'sieur?
+
+[HEADER 000D001E]
+I've just been manhandled by a gorilla.
+
+[HEADER 000D001F]
+Yes? I do not see any signs of a gorilla.
+
+[HEADER 000D0020]
+No, not a real gorilla - it was a guy who LOOKED like a gorilla.
+
+[HEADER 000D0021]
+It happened right out front of this building.
+
+[HEADER 000D0022]
+Let me get this quite clear...
+
+[HEADER 000D0023]
+Are you complaining, or bragging?
+
+[HEADER 000D0024]
+I want to know what you're going to do about it!
+
+[HEADER 000D0025]
+The scrawny one has a gun!
+
+[HEADER 000D0026]
+I suggest you contact the police.
+
+[HEADER 000D0027]
+Can't you do anything about them?
+
+[HEADER 000D0028]
+What goes on in the streets of Paris is hardly my responsibility!
+
+[HEADER 000D0029]
+Aren't you concerned that your guests are being intimidated by gangsters?
+
+[HEADER 000D002A]
+No-one else has complained, m'sieur. Did they steal anything from you?
+
+[HEADER 000D002B]
+Well, no. They didn't find what they were looking for.
+
+[HEADER 000D002C]
+What was that?
+
+[HEADER 000D002D]
+I don't know. I don't think they did, either.
+
+[HEADER 000D002E]
+I'm looking for a man who dresses like a clown.
+
+[HEADER 000D002F]
+This is a highly respectable hotel, m'sieur.
+
+[HEADER 000D0030]
+There are no clowns here.
+
+[HEADER 000D0031]
+If you say so.
+
+[HEADER 000D0050]
+Do you know a man named Plantard?
+
+[HEADER 000D0051]
+Non, m'sieur.
+
+[HEADER 000D0032]
+Do you have a guest by the name of Khan?
+
+[HEADER 000D0033]
+Non, m'sieur.
+
+[HEADER 000D0034]
+Perhaps you would care to check the register...?
+
+[HEADER 000D0035]
+I already did.
+
+[HEADER 000D0036]
+Alors - you know I am telling the truth.
+
+[HEADER 000D0037]
+May Saint Armand strike me down if I lie!
+
+[HEADER 00001965]
+The man who calls himself Khan has a scar on his right cheek...
+
+[HEADER 000D0039]
+Vraiment? I tell you I do not know a man named Khan.
+
+[HEADER 000D003A]
+Maybe not, but I'd noticed a change in his expression when I mentioned the scar...
+
+[HEADER 000D004C]
+He's already killed once, twice, maybe as many as three times!
+
+[HEADER 000D004D]
+With your help I just might be able to stop him.
+
+[HEADER 000D004E]
+But what if he finds out I have helped you?
+
+[HEADER 000D004F]
+Non - I cannot do it.
+
+[HEADER 000D0044]
+I insist you give me the key to Moerlin's room.
+
+[HEADER 000D0045]
+I cannot do that, m'sieur.
+
+[HEADER 000D0046]
+This guy Moerlin is a menace.
+
+[HEADER 000D0047]
+So you say, m'sieur.
+
+[HEADER 000D0048]
+He's not only a danger to society, but to your guests as well.
+
+[HEADER 000D0049]
+He has toyed with the affections of Lady Piermont.
+
+[HEADER 000D004A]
+Ciel! Are there no depths to which he will not sink?
+
+[HEADER 000D004B]
+Precisely.
+
+[HEADER 000D003B]
+I believe Khan, the man with the scar, is also known as Moerlin.
+
+[HEADER 000D003C]
+The man who has taken room twenty-two.
+
+[HEADER 000D003D]
+What of it? What do you want?
+
+[HEADER 000D003E]
+Access to his room.
+
+[HEADER 000D003F]
+Do you have a license, m'sieur?
+
+[HEADER 000D0040]
+Huh?
+
+[HEADER 000D0041]
+A private investigator's license?
+
+[HEADER 000D0042]
+Well, not exactly, but I can explain everything...
+
+[HEADER 000D0043]
+I am sorry, but without credentials, I cannot help.
+
+[HEADER 000D0052]
+About the key hanging on the hook over there...
+
+[HEADER 000D0053]
+Oui, m'sieur?
+
+[HEADER 000D0054]
+Which room is it for?
+
+[HEADER 000D0055]
+Number twenty-one.
+
+[HEADER 000D0056]
+Is that room taken?
+
+[HEADER 000D0057]
+Non. The guests checked out this morning.
+
+[HEADER 000D0058]
+I'd like to check in to room twenty-one.
+
+[HEADER 000D0059]
+That is not possible.
+
+[HEADER 000D005A]
+How come? You said it was vacant!
+
+[HEADER 000D005B]
+It is reserved for another guest.
+
+[HEADER 000D005D]
+Non, m'sieur - Dutch.
+
+[HEADER 000D007E]
+Do you recognize this key?
+
+[HEADER 000D007F]
+That is the property of the Hotel Ubu!
+
+[HEADER 000D0080]
+Correct.
+
+[HEADER 000D0081]
+May I ask how it found its way from the little hook to your pocket?
+
+[HEADER 000D0082]
+Would you believe it was put there by a poltergeist?
+
+[HEADER 000D0083]
+Non, m'sieur. The Hotel is regularly serviced by an exorcist.
+
+[HEADER 000D0084]
+If we had a ghost, Father Fécond would have flushed it out.
+
+[HEADER 000D0085]
+I suppose you want the key back...
+
+[HEADER 000D0086]
+Not especialement. The room is vacant.
+
+[HEADER 000D0087]
+Since you are so determined to conduct your little investigation, I won't stop you.
+
+[HEADER 000D0088]
+Are you sure you don't want the key back?
+
+[HEADER 000D0089]
+No - you keep it until you've finished playing detectives.
+
+[HEADER 000D00AD]
+Hey - shake my hand.
+
+[HEADER 000D00AE]
+I'd rather not, m'sieur.
+
+[HEADER 000D00AF]
+I'm still sore from the shock administered by one of the guests.
+
+[HEADER 000D00B0]
+He was secretly concealing an electrical device in the palm of his hand.
+
+[HEADER 000D00B1]
+Practical jokes are so puerile, don't you think?
+
+[HEADER 000D00B2]
+Oh, yeah. Sure.
+
+[HEADER 000D00B3]
+I have already explained why I would rather not.
+
+[HEADER 000D005E]
+I'd like to retrieve something from your safe...
+
+[HEADER 000D005F]
+Ah oui, m'sieur. May I see some form of identification?
+
+[HEADER 000D0060]
+Ah, like what?
+
+[HEADER 000D0061]
+A driving license, perhaps?
+
+[HEADER 000D0062]
+I don't drive.
+
+[HEADER 000D0063]
+Your passport?
+
+[HEADER 000D0064]
+I don't have it with me. I could show you my operation scar...?
+
+[HEADER 000D0065]
+I'm sorry, m'sieur. I must have some form of unique I.D.
+
+[HEADER 000D0066]
+You won't find a more unique I.D. than my scar!
+
+[HEADER 000D0067]
+I'm sorry. I must insist on a more traditional identification.
+
+[HEADER 000D0068]
+Rats!
+
+[HEADER 000D009E]
+Does this pass mean anything to you?
+
+[HEADER 000D009F]
+That is M'sieur Moerlin's property!
+
+[HEADER 000D00A0]
+That's right. Moerlin the murderer.
+
+[HEADER 000D00A1]
+I want to see what he's left in your safe.
+
+[HEADER 000D00A2]
+Impossible! I cannot betray his confidence, no matter what you say he's done.
+
+[HEADER 000D00A3]
+You're making a big mistake.
+
+[HEADER 000D00A4]
+Maybe. I can live with that.
+
+[HEADER 000D00A5]
+A murderer? Are you sure?
+
+[HEADER 000D00A6]
+Positive.
+
+[HEADER 000D00A7]
+Did I show you this pass?
+
+[HEADER 000D00A8]
+Oui, m'sieur.
+
+[HEADER 000D0097]
+Do you recognize the man in this photograph?
+
+[HEADER 000D0098]
+Yes, m'sieur. That man is one of our guests.
+
+[HEADER 000D0099]
+What name?
+
+[HEADER 000D009A]
+I cannot tell you that.
+
+[HEADER 000D009B]
+It's Moerlin, isn't it?
+
+[HEADER 000D009C]
+Alias Khan, the clown.
+
+[HEADER 000D009D]
+I told you - I cannot tell you that.
+
+[HEADER 000D008C]
+Did I show you this photograph?
+
+[HEADER 000D008D]
+Yes, you did, m'sieur.
+
+[HEADER 000D008E]
+Would it make a difference if I told you the guy in the photo was a murderer?
+
+[HEADER 000D008F]
+We are accustomed to catering for celebrities, m'sieur.
+
+[HEADER 000D0090]
+Movie stars, politicians, royalty, sporting personalities - they all stay here.
+
+[HEADER 000D0091]
+Is this Moerlin, room twenty-two?
+
+[HEADER 000D0092]
+I couldn't say. It's a bad likeness.
+
+[HEADER 000D0093]
+This photo was taken by one of Europe's most promising photo-journalists.
+
+[HEADER 000D0094]
+Vraiment? What does he use - a pinhole camera?
+
+[HEADER 000D0095]
+Can you tell me which room the man in the photograph has taken?
+
+[HEADER 000D0096]
+Oh, no, m'sieur! That information is confidential.
+
+[HEADER 000D00AB]
+Does this matchbook mean anything to you?
+
+[HEADER 000D00AC]
+Non, m'sieur.
+
+[HEADER 000D0076]
+Would you like to relax with this ball?
+
+[HEADER 000D0077]
+Don't be ridiculous.
+
+[HEADER 000D0078]
+Would you like this device for measuring blood pressure?
+
+[HEADER 000D0079]
+I can't imagine why I'd want that.
+
+[HEADER 000D007A]
+Do you recognize this tripod?
+
+[HEADER 000D007B]
+Certainly not!
+
+[HEADER 000D007C]
+Do you want this manuscript back?
+
+[HEADER 000D007D]
+After all the fuss it caused? No - you keep it.
+
+[HEADER 000D008A]
+Do you recognize this red nose?
+
+[HEADER 000D008B]
+Non, m'sieur.
+
+[HEADER 000D00A9]
+What do you make of this tool?
+
+[HEADER 000D00AA]
+Stunning, m'sieur! I bet you handle it like a professional...
+
+[HEADER 000D00B4]
+Check out my I.D. card...
+
+[HEADER 000D00B5]
+Your I.D. card, m'sieur? I don't think so.
+
+[HEADER 000D00B6]
+Uh... no. It's Rosso's card.
+
+[HEADER 000D00B7]
+Attempting to impersonate a policeman is a criminal offense, m'sieur.
+
+[HEADER 000D00B8]
+Aw. Forget it.
+
+[HEADER 000D00B9]
+What do you make of this tissue?
+
+[HEADER 000D00BA]
+Do you wish me to dispose of it for you, m'sieur?
+
+[HEADER 000D00BB]
+Hey, no! It could be useful. I'm holding on to this.
+
+[HEADER 000D00BC]
+As you wish, m'sieur.
+
+[HEADER 000D00BD]
+Perhaps you would like a little plastic baggy to keep it in?
+
+[HEADER 000D00BE]
+No. It's fine the way it is.
+
+[HEADER 000D00BF]
+You have shown me that already, m'sieur.
+
+[HEADER 000D0000]
+I recognised the guy.
+
+[HEADER 000D0001]
+It was the Nobel prize winner from the country whose name I couldn't pronounce.
+
+[HEADER 000D00C1]
+Excuse me - didn't I see your picture in the news?
+
+[HEADER 000D00C2]
+You're that Nobel Prize winner, from some unpronounceable Eastern European state?
+
+[HEADER 000D00C3]
+Yes. That is me, in person.
+
+[HEADER 000D00C4]
+I don't want to worry you, but have you had any threats on your life?
+
+[HEADER 000D00C5]
+You know - mysterious phone calls, letters made up of headlines cut from the newspaper...
+
+[HEADER 000D00C6]
+I don't know what you're talking about.
+
+[HEADER 000D00C7]
+Hello again.
+
+[HEADER 000D00C8]
+Have you seen a clown?
+
+[HEADER 000D00C9]
+I beg your pardon?
+
+[HEADER 000D00CA]
+The clown. A guy in funny pants. Have you seen him?
+
+[HEADER 000D00CB]
+My pants are from England.
+
+[HEADER 000D00CC]
+Marks and Spencer.
+
+[HEADER 000D00CD]
+They are a pleasure and a comfort to wear, with much support.
+
+[HEADER 000D00CE]
+I'm real glad to hear that.
+
+[HEADER 000D00CF]
+You know, it's good to know you Nobel Prize winners are human too.
+
+[HEADER 000D00D0]
+In my country the people make do with string and egg cartons.
+
+[HEADER 000D00D1]
+For pants?
+
+[HEADER 000D00D2]
+For everything. Oppression is the mother of ingenuity.
+
+[HEADER 000D00DA]
+Do you know a guy called Plantard?
+
+[HEADER 000D00DB]
+I don't know anybody in Paris.
+
+[HEADER 000D00DC]
+Oh. Well, this guy's dead, anyhow.
+
+[HEADER 000D00DD]
+Why do you ask me about dead men?
+
+[HEADER 000D00DE]
+I have seen enough of death to last me a lifetime.
+
+[HEADER 000D00DF]
+I'm... uh, sure you have.
+
+[HEADER 000D00D3]
+What's your interest in Khan?
+
+[HEADER 000D00D4]
+He is an enemy of my people.
+
+[HEADER 000D00D5]
+You know he's a killer?
+
+[HEADER 000D00D6]
+Of course, amongst other things...
+
+[HEADER 000D00D7]
+Would you help me investigate Khan?
+
+[HEADER 000D00D8]
+That is not possible. My instructions are to observe.
+
+[HEADER 000D00D9]
+I cannot jeopardise my position as an honoured guest of this country's government.
+
+[HEADER 000D00E2]
+Have you any idea what this tool might be used for?
+
+[HEADER 000D00E3]
+I cannot guess...
+
+[HEADER 000D00E4]
+Would it mean anything if I told you it was for lifting drain covers?
+
+[HEADER 000D00E5]
+Such technology fills me with wonder!
+
+[HEADER 000D00E6]
+Do you recognize this tool?
+
+[HEADER 000D00E7]
+Already you have astounded me with your advanced Western prong.
+
+[HEADER 000D00E8]
+Does the name on this matchbook mean anything to you?
+
+[HEADER 000D00E9]
+Indeed it does, for Alamut was the home of the Old Man of the Mountains.
+
+[HEADER 000D00EA]
+You do not know him?
+
+[HEADER 000D00EB]
+No, I don't.
+
+[HEADER 000D00EC]
+Tell me again about Alamut...
+
+[HEADER 000D00ED]
+It is the home of the Old Man of the Mountains.
+
+[HEADER 000D00F0]
+Have you ever seen this old manuscript before?
+
+[HEADER 000D00F1]
+You know what it is, don't you?
+
+[HEADER 000D00F2]
+You are in great danger.
+
+[HEADER 000D00F3]
+Put the manuscript back and leave here.
+
+[HEADER 000D00F4]
+What's going on?
+
+[HEADER 000D00F5]
+I can say no more.
+
+[HEADER 000D00F6]
+Why is this manuscript so important?
+
+[HEADER 000D00F7]
+I cannot say.
+
+[HEADER 000D00FF]
+What does this clown's nose suggest to you?
+
+[HEADER 000D0100]
+In my country, we have no use for clowns.
+
+[HEADER 000D0101]
+I'm glad to hear it.
+
+[HEADER 000D0102]
+They were dealt with most severely in the last cultural cleansing.
+
+[HEADER 000D0103]
+What about the mimes? Did you get them, too?
+
+[HEADER 000D0104]
+All gone. Our streets are mime free.
+
+[HEADER 000D0105]
+It sounds like heaven...
+
+[HEADER 000D0106]
+You don't care for clowns, do you?
+
+[HEADER 000D0107]
+They belong in the circus - like fleas and bearded women.
+
+[HEADER 000D0108]
+Do you recognize this man?
+
+[HEADER 000D0109]
+He calls himself  `Khan'.
+
+[HEADER 000D010A]
+Yes, I know this man.
+
+[HEADER 000D010B]
+Why do you carry his photograph?
+
+[HEADER 000D010C]
+I'm a private detective.
+
+[HEADER 000D010D]
+This is a photo of Khan, right?
+
+[HEADER 000D010E]
+That is just one of the names by which he is known.
+
+[HEADER 000D00EE]
+Does this goo-smeared tissue mean anything to you?
+
+[HEADER 000D00EF]
+No, it doesn't.
+
+[HEADER 000D00F8]
+Do you recognise this key?
+
+[HEADER 000D00F9]
+No, I do not.
+
+[HEADER 000D00FA]
+May I shake you by the hand?
+
+[HEADER 000D00FB]
+I do not shake the hands of Imperialist dogs.
+
+[HEADER 000D00FC]
+That's a real bad attitude problem you've got there.
+
+[HEADER 000D00FD]
+Do you recognize this card?
+
+[HEADER 000D00FE]
+No, I do not.
+
+[HEADER 000D00E0]
+Thanks for your help...
+
+[HEADER 000D00E1]
+Goodbye.
+
+[HEADER 000F0000]
+A small cabinet stood beside the bed.
+
+[HEADER 000F0001]
+The cabinet was empty, but it smelt of onions. No kidding, it really did.
+
+[HEADER 000F0002]
+Telephone.
+
+[HEADER 005A00A6]
+No reply!
+
+[HEADER 005A00A7]
+Maybe she's busy developing her photographs...
+
+[HEADER 000F0003]
+It was a massive mahogany wardrobe...
+
+[HEADER 000F0004]
+There was nothing in the wardrobe apart from a vague lingering smell of camphor.
+
+[HEADER 000E0000]
+The sign on the door read twenty-one.
+
+[HEADER 000E0001]
+Maybe it wasn't the right room, but this was the right key...
+
+[HEADER 000E0004]
+The door was locked...
+
+[HEADER 000E0003]
+If the tailor's description was correct, this was the killer's room.
+
+[HEADER 000E0002]
+The sign on the door read twenty-two.
+
+[HEADER 000E0005]
+It wasn't the right key for the door...
+
+[HEADER 00110000]
+The bed was several times larger than the narrow cot I'd been given at the place I was staying.
+
+[HEADER 00110001]
+The bed was freshly made, and the crisp white sheets told me nothing about the killer's habits....
+
+[HEADER 005A00A5]
+Hmm...
+
+[HEADER 00110002]
+It was the battered leather briefcase I'd seen Plantard carrying just before he died...
+
+[HEADER 00110003]
+I searched the interior of the briefcase but, as I'd half expected, it was empty.
+
+[HEADER 00110004]
+The cabinet had no drawers, just a single door.
+
+[HEADER 00110005]
+The assassin had been too smart to leave incriminating evidence beside his bed...
+
+[HEADER 00110006]
+The door led back into the hall.
+
+[HEADER 0013010D]
+It was Khan.
+
+[HEADER 00110007]
+I had the kind of feeling in my stomach that would usually send me running to the bathroom.
+
+[HEADER 000007D0]
+As Khan opened the wardrobe I was sure I was dead...
+
+[HEADER 000007D1]
+...but he grabbed his pants quickly and didn't even see me.
+
+[HEADER 000007D2]
+I didn't usually spy on men getting changed...
+
+[HEADER 000007D3]
+...but this guy was a killer and I didn't want any surprises.
+
+[HEADER 000007D4]
+He left his chequered pants on the bed!
+
+[HEADER 0011000F]
+The closet was a solid, impressive piece of antique furniture.
+
+[HEADER 00110008]
+The pants were newly laundered and pressed with immaculate creases.
+
+[HEADER 00110009]
+There was nothing in the pockets of the pants.
+
+[HEADER 0011000A]
+The pants matched the jacket which the killer had lost in Paris...
+
+[HEADER 0011000E]
+There was nothing else in the pockets of the killer's pants.
+
+[HEADER 000C0005]
+If the manuscript was what Flap and Guido were after, they were going to be disappointed.
+
+[HEADER 000C0006]
+I couldn't wait to get back to Nico's apartment and check it out...
+
+[HEADER 00001932]
+I couldn't leave the hotel with the manuscript.
+
+[HEADER 00001933]
+It was probably what those thugs were looking for...
+
+[HEADER 00100001]
+I knew this was no way to treat an ancient manuscript.
+
+[HEADER 00100002]
+I couldn't let it fall into the hands of the goons waiting outside, though.
+
+[HEADER 00100000]
+I resisted a childish desire to toss things from a height.
+
+[HEADER 00100004]
+The cobbles of the alleyway looked very distant and very hard.
+
+[HEADER 0000183F]
+I couldn't do that...
+
+[HEADER 000018A3]
+I flipped the pants over...
+
+[HEADER 000018AE]
+I turned the pants over again...
+
+[HEADER 0000189E]
+There was no bulge in the pocket.
+
+[HEADER 0000189C]
+I had that kind of feeling you only get from searching still-warm pants.
+
+[HEADER 0000189D]
+The pocket was empty.
+
+[HEADER 000018A0]
+I wondered if the guy was colour blind...
+
+[HEADER 0000189F]
+There was nothing in the pocket.
+
+[HEADER 000018A1]
+A strip along the side seam of the pants had been unpicked...
+
+[HEADER 000018A2]
+...then sewn back up with strong thread and a special stitch.
+
+[HEADER 000018B1]
+The thread had gone; the seam was now a secret pocket.
+
+[HEADER 000018AF]
+I searched the pocket gingerly and found a pass card.
+
+[HEADER 000018B0]
+It read: `Thomas Moerlin, Grüber Electronics Corporation'.
+
+[HEADER 0000189B]
+There was nothing else in the secret pocket.
+
+[HEADER 000018AA]
+A thread was hanging loose near the pocket.
+
+[HEADER 000018A9]
+It looked like there could be something in this pocket.
+
+[HEADER 000018A6]
+I found an ordinary matchbook. No matches; no clues.
+
+[HEADER 000018A7]
+But as I pulled it from the pocket a strong thread came with it...
+
+[HEADER 000018A8]
+...a thread with a metal tag on the end.
+
+[HEADER 000018A5]
+I tried not think that the assassin's butt had just been in here.
+
+[HEADER 000018A4]
+I found nothing in the pocket.
+
+[HEADER 000018AD]
+A metal tag was attached to the thread that had been tucked in the pocket...
+
+[HEADER 000018AB]
+I pulled on the metal tag and the thread came out of the pants.
+
+[HEADER 000018AC]
+It was like pulling out a rip-cord.
+
+[HEADER 000D000B]
+It was the register of guests staying at the hotel.
+
+[HEADER 000D000C]
+There was no-one registered under the name of Khan...
+
+[HEADER 000D000D]
+If the killer was staying here, he'd used a different pseudonym.
+
+[HEADER 000D000E]
+But the name in the book for room twenty two was Moerlin.
+
